@@ -5,7 +5,7 @@ repo_name: "cv-arxiv-daily"
 show_authors: True
 show_links: True
 show_badge: True
-max_results: 10
+max_results: 500
 
 publish_readme: True
 publish_gitpage: True
@@ -23,6 +23,8 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 # keywords to search
 keywords:
+    "Survey":
+        filters: ["Survey", "Review"] 
     "RES": 
         filters: ["Referring Expression Segmentation", "Referring Image Segmentation"]
     "REC": 
