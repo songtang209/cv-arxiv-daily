@@ -1,6 +1,6 @@
 # TODO: add papers by configuration file
 base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
-user_name: "Vincentqyw"
+user_name: "songtang209"
 repo_name: "cv-arxiv-daily"
 show_authors: True
 show_links: True
@@ -21,19 +21,16 @@ md_gitpage_path: './docs/index.md'
 md_wechat_path: './docs/wechat.md'
 
 # keywords to search
+# keywords to search
 keywords:
-    "SLAM": 
-        filters: ["SLAM", "Visual Odometry"]
-    "SFM":
-        filters: ["SFM", "Structure from Motion"]
-    "Visual Localization":
-        filters: ["Visual Localization","Camera Localization",
-                  "Camera Re-localisation","Loop Closure Detection",
-                  "visual place recognition","image retrieval"]
-    "Keypoint Detection":
-        filters: ["Keypoint Detection", "Feature Descriptor"]
-    "Image Matching":
-        filters: ["Image Matching", "Keypoint Matching", 
-                  "Line Segment Detection", "Local Feature Matching"]
-    "NeRF":
-        filters: ["NeRF"]
+    "RES": 
+        filters: ["Referring Expression Segmentation", "Referring Image Segmentation"]
+    "REC": 
+        filters: ["Referring Expression Comprehension", "Visual Grounding"]
+    "RVOS": 
+        filters: ["Referring Video Object Segmentation", "Referring Video-Object Segmentation"]
+    "3D-RES":
+          filters: ["3D Referring Expression Segmentation"]  
+    "3D-REC":
+          filters: ["3D Referring Expression Comprehension",  "3D Visual Grounding"]  
+
