@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.16
+## Updated on 2024.12.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RES
@@ -25,7 +25,7 @@ layout: default
 |**2024-09-28**|**A Parameter-Efficient Tuning Framework for Language-guided Object Grounding and Robot Grasping**|Houjian Yu et.al.|[2409.19457](http://arxiv.org/abs/2409.19457)|null|
 |**2024-09-25**|**PTQ4RIS: Post-Training Quantization for Referring Image Segmentation**|Xiaoyan Jiang et.al.|[2409.17020](http://arxiv.org/abs/2409.17020)|**[link](https://github.com/gugu511yy/ptq4ris)**|
 |**2024-09-17**|**Robot Manipulation in Salient Vision through Referring Image Segmentation and Geometric Constraints**|Chen Jiang et.al.|[2409.11518](http://arxiv.org/abs/2409.11518)|null|
-|**2024-12-09**|**SAM4MLLM: Enhance Multi-Modal Large Language Model for Referring Expression Segmentation**|Yi-Chia Chen et.al.|[2409.10542](http://arxiv.org/abs/2409.10542)|null|
+|**2024-12-14**|**SAM4MLLM: Enhance Multi-Modal Large Language Model for Referring Expression Segmentation**|Yi-Chia Chen et.al.|[2409.10542](http://arxiv.org/abs/2409.10542)|null|
 |**2024-09-19**|**A Simple Baseline with Single-encoder for Referring Image Segmentation**|Seonghoon Yu et.al.|[2408.15521](http://arxiv.org/abs/2408.15521)|null|
 |**2024-08-14**|**Cross-aware Early Fusion with Stage-divided Vision and Language Transformer Encoders for Referring Image Segmentation**|Yubin Cho et.al.|[2408.07539](http://arxiv.org/abs/2408.07539)|null|
 |**2024-08-07**|**How Well Can Vision Language Models See Image Details?**|Chenhui Gou et.al.|[2408.03940](http://arxiv.org/abs/2408.03940)|null|
@@ -135,7 +135,7 @@ layout: default
 |**2024-12-10**|**TACO: Learning Multi-modal Action Models with Synthetic Chains-of-Thought-and-Action**|Zixian Ma et.al.|[2412.05479](http://arxiv.org/abs/2412.05479)|null|
 |**2024-12-06**|**Expanding Performance Boundaries of Open-Source Multimodal Models with Model, Data, and Test-Time Scaling**|Zhe Chen et.al.|[2412.05271](http://arxiv.org/abs/2412.05271)|**[link](https://github.com/opengvlab/internvl)**|
 |**2024-12-05**|**SeeGround: See and Ground for Zero-Shot Open-Vocabulary 3D Visual Grounding**|Rong Li et.al.|[2412.04383](http://arxiv.org/abs/2412.04383)|null|
-|**2024-12-05**|**M $^{3}$ D: A Multimodal, Multilingual and Multitask Dataset for Grounded Document-level Information Extraction**|Jiang Liu et.al.|[2412.04026](http://arxiv.org/abs/2412.04026)|**[link](https://github.com/solkx/m3d)**|
+|**2024-12-15**|**M $^{3}$ D: A Multimodal, Multilingual and Multitask Dataset for Grounded Document-level Information Extraction**|Jiang Liu et.al.|[2412.04026](http://arxiv.org/abs/2412.04026)|**[link](https://github.com/solkx/m3d)**|
 |**2024-12-01**|**Paint Outside the Box: Synthesizing and Selecting Training Data for Visual Grounding**|Zilin Du et.al.|[2412.00684](http://arxiv.org/abs/2412.00684)|null|
 |**2024-11-27**|**3D Scene Graph Guided Vision-Language Pre-training**|Hao Liu et.al.|[2411.18666](http://arxiv.org/abs/2411.18666)|null|
 |**2024-11-25**|**Interpreting Object-level Foundation Models via Visual Precision Search**|Ruoyu Chen et.al.|[2411.16198](http://arxiv.org/abs/2411.16198)|null|
@@ -175,7 +175,7 @@ layout: default
 |**2024-09-23**|**FineCops-Ref: A new Dataset and Task for Fine-Grained Compositional Referring Expression Comprehension**|Junzhuo Liu et.al.|[2409.14750](http://arxiv.org/abs/2409.14750)|**[link](https://github.com/liujunzhuo/FineCops-Ref)**|
 |**2024-10-06**|**MaPPER: Multimodal Prior-guided Parameter Efficient Tuning for Referring Expression Comprehension**|Ting Liu et.al.|[2409.13609](http://arxiv.org/abs/2409.13609)|**[link](https://github.com/liuting20/mapper)**|
 |**2024-10-15**|**LLM-wrapper: Black-Box Semantic-Aware Adaptation of Vision-Language Models for Referring Expression Comprehension**|Amaia Cardiel et.al.|[2409.11919](http://arxiv.org/abs/2409.11919)|null|
-|**2024-12-09**|**Improving the Efficiency of Visually Augmented Language Models**|Paula Ontalvilla et.al.|[2409.11148](http://arxiv.org/abs/2409.11148)|**[link](https://github.com/paulaonta/blind-valm)**|
+|**2024-12-14**|**Improving the Efficiency of Visually Augmented Language Models**|Paula Ontalvilla et.al.|[2409.11148](http://arxiv.org/abs/2409.11148)|**[link](https://github.com/paulaonta/blind-valm)**|
 |**2024-09-16**|**HiFi-CS: Towards Open Vocabulary Visual Grounding For Robotic Grasping Using Vision-Language Models**|Vineet Bhat et.al.|[2409.10419](http://arxiv.org/abs/2409.10419)|null|
 |**2024-09-12**|**Bayesian Self-Training for Semi-Supervised 3D Segmentation**|Ozan Unal et.al.|[2409.08102](http://arxiv.org/abs/2409.08102)|null|
 |**2024-09-09**|**Improved Visually Prompted Keyword Localisation in Real Low-Resource Settings**|Leanne Nortje et.al.|[2409.06013](http://arxiv.org/abs/2409.06013)|**[link](https://github.com/LeanneNortje/low-resource_VPKL)**|
