@@ -39,4 +39,6 @@ keywords:
           filters: ["3D Referring Expression Segmentation"]  
     "3D-REC":
           filters: ["3D Referring Expression Comprehension",  "3D Visual Grounding"]  
+    "VOS":
+          filters: ["Video Object Segmentation"]  
 
