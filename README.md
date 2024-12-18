@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.17
+## Updated on 2024.12.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -15,6 +15,8 @@
     <li><a href=#3d-res>3D-RES</a></li>
     <li><a href=#3d-rec>3D-REC</a></li>
     <li><a href=#sam-2>SAM 2</a></li>
+    <li><a href=#avl>AVL</a></li>
+    <li><a href=#avs>AVS</a></li>
   </ol>
 </details>
 
@@ -22,6 +24,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-14**|**Grasp What You Want: Embodied Dexterous Grasping System Driven by Your Voice**|Junliang Li et.al.|[2412.10694](http://arxiv.org/abs/2412.10694)|null|
 |**2024-12-03**|**RG-SAN: Rule-Guided Spatial Awareness Network for End-to-End 3D Referring Expression Segmentation**|Changli Wu et.al.|[2412.02402](http://arxiv.org/abs/2412.02402)|**[link](https://github.com/sosppxo/rg-san)**|
 |**2024-11-28**|**MaskRIS: Semantic Distortion-aware Data Augmentation for Referring Image Segmentation**|Minhyun Lee et.al.|[2411.19067](http://arxiv.org/abs/2411.19067)|**[link](https://github.com/naver-ai/maskris)**|
 |**2024-11-22**|**Instance-Aware Generalized Referring Expression Segmentation**|E-Ro Nguyen et.al.|[2411.15087](http://arxiv.org/abs/2411.15087)|null|
@@ -131,19 +134,21 @@
 |**2019-04-06**|**CLEVR-Ref+: Diagnosing Visual Reasoning with Referring Expressions**|Runtao Liu et.al.|[1901.00850](http://arxiv.org/abs/1901.00850)|null|
 |**2017-08-04**|**Recurrent Multimodal Interaction for Referring Image Segmentation**|Chenxi Liu et.al.|[1703.07939](http://arxiv.org/abs/1703.07939)|**[link](https://github.com/chenxi116/TF-phrasecut-public)**|
 
-<p align=right>(<a href=#updated-on-20241217>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241218>back to top</a>)</p>
 
 ## REC
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-16**|**VG-TVP: Multimodal Procedural Planning via Visually Grounded Text-Video Prompting**|Muhammet Furkan Ilaslan et.al.|[2412.11621](http://arxiv.org/abs/2412.11621)|**[link](https://github.com/mfurkanilaslan/vg-tvp)**|
+|**2024-12-16**|**Aligning Visual and Semantic Interpretability through Visually Grounded Concept Bottleneck Models**|Patrick Knab et.al.|[2412.11576](http://arxiv.org/abs/2412.11576)|**[link](https://github.com/kathpra/gcbm)**|
 |**2024-12-13**|**DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding**|Zhiyu Wu et.al.|[2412.10302](http://arxiv.org/abs/2412.10302)|**[link](https://github.com/deepseek-ai/deepseek-vl2)**|
 |**2024-12-13**|**Learning Visually Grounded Domain Ontologies via Embodied Conversation and Explanation**|Jonghyuk Park et.al.|[2412.09770](http://arxiv.org/abs/2412.09770)|**[link](https://github.com/jpstyle/ns-arch-unity)**|
 |**2024-12-11**|**Progressive Multi-granular Alignments for Grounded Reasoning in Large Vision-Language Models**|Quang-Hung Le et.al.|[2412.08125](http://arxiv.org/abs/2412.08125)|null|
 |**2024-12-11**|**Barking Up The Syntactic Tree: Enhancing VLM Training with Syntactic Losses**|Jiayun Luo et.al.|[2412.08110](http://arxiv.org/abs/2412.08110)|null|
 |**2024-12-09**|**3D Spatial Understanding in MLLMs: Disambiguation and Evaluation**|Chun-Peng Chang et.al.|[2412.06613](http://arxiv.org/abs/2412.06613)|null|
 |**2024-12-10**|**TACO: Learning Multi-modal Action Models with Synthetic Chains-of-Thought-and-Action**|Zixian Ma et.al.|[2412.05479](http://arxiv.org/abs/2412.05479)|null|
-|**2024-12-06**|**Expanding Performance Boundaries of Open-Source Multimodal Models with Model, Data, and Test-Time Scaling**|Zhe Chen et.al.|[2412.05271](http://arxiv.org/abs/2412.05271)|**[link](https://github.com/opengvlab/internvl)**|
+|**2024-12-17**|**Expanding Performance Boundaries of Open-Source Multimodal Models with Model, Data, and Test-Time Scaling**|Zhe Chen et.al.|[2412.05271](http://arxiv.org/abs/2412.05271)|**[link](https://github.com/opengvlab/internvl)**|
 |**2024-12-05**|**SeeGround: See and Ground for Zero-Shot Open-Vocabulary 3D Visual Grounding**|Rong Li et.al.|[2412.04383](http://arxiv.org/abs/2412.04383)|null|
 |**2024-12-15**|**M $^{3}$ D: A Multimodal, Multilingual and Multitask Dataset for Grounded Document-level Information Extraction**|Jiang Liu et.al.|[2412.04026](http://arxiv.org/abs/2412.04026)|**[link](https://github.com/solkx/m3d)**|
 |**2024-12-01**|**Paint Outside the Box: Synthesizing and Selecting Training Data for Visual Grounding**|Zilin Du et.al.|[2412.00684](http://arxiv.org/abs/2412.00684)|null|
@@ -291,7 +296,7 @@
 |**2024-03-21**|**VidLA: Video-Language Alignment at Scale**|Mamshad Nayeem Rizve et.al.|[2403.14870](http://arxiv.org/abs/2403.14870)|null|
 |**2024-03-21**|**Lexicon-Level Contrastive Visual-Grounding Improves Language Modeling**|Chengxu Zhuang et.al.|[2403.14551](http://arxiv.org/abs/2403.14551)|null|
 |**2024-03-20**|**Visually Grounded Speech Models have a Mutual Exclusivity Bias**|Leanne Nortje et.al.|[2403.13922](http://arxiv.org/abs/2403.13922)|null|
-|**2024-03-20**|**Learning from Models and Data for Visual Grounding**|Ruozhen He et.al.|[2403.13804](http://arxiv.org/abs/2403.13804)|null|
+|**2024-12-16**|**Learning from Synthetic Data for Visual Grounding**|Ruozhen He et.al.|[2403.13804](http://arxiv.org/abs/2403.13804)|null|
 |**2024-04-05**|**WaterVG: Waterway Visual Grounding based on Text-Guided Vision and mmWave Radar**|Runwei Guan et.al.|[2403.12686](http://arxiv.org/abs/2403.12686)|null|
 |**2024-07-23**|**DetToolChain: A New Prompting Paradigm to Unleash Detection Ability of MLLM**|Yixuan Wu et.al.|[2403.12488](http://arxiv.org/abs/2403.12488)|**[link](https://github.com/yixuan730/DetToolChain)**|
 |**2024-10-27**|**Veagle: Advancements in Multimodal Representation Learning**|Rajat Chawla et.al.|[2403.08773](http://arxiv.org/abs/2403.08773)|**[link](https://github.com/superagi/veagle)**|
@@ -639,8 +644,212 @@
 |**2021-09-13**|**Learning Zero-Shot Multifaceted Visually Grounded Word Embeddings via Multi-Task Training**|Hassan Shahmohammadi et.al.|[2104.07500](http://arxiv.org/abs/2104.07500)|**[link](https://github.com/Hazel1994/Visually_Grounded_Word_Embeddings)**|
 |**2021-04-09**|**Look Before You Leap: Learning Landmark Features for One-Stage Visual Grounding**|Binbin Huang et.al.|[2104.04386](http://arxiv.org/abs/2104.04386)|**[link](https://github.com/svip-lab/LBYLNet)**|
 |**2021-04-05**|**Cyclic Co-Learning of Sounding Object Visual Grounding and Sound Separation**|Yapeng Tian et.al.|[2104.02026](http://arxiv.org/abs/2104.02026)|**[link](https://github.com/YapengTian/CCOL-CVPR21)**|
+|**2021-03-25**|**Visual Grounding Strategies for Text-Only Natural Language Processing**|Damien Sileo et.al.|[2103.13942](http://arxiv.org/abs/2103.13942)|null|
+|**2021-03-24**|**Relation-aware Instance Refinement for Weakly Supervised Visual Grounding**|Yongfei Liu et.al.|[2103.12989](http://arxiv.org/abs/2103.12989)|**[link](https://github.com/youngfly11/ReIR-WeaklyGrounding.pytorch)**|
+|**2021-03-24**|**Scene-Intuitive Agent for Remote Embodied Visual Grounding**|Xiangru Lin et.al.|[2103.12944](http://arxiv.org/abs/2103.12944)|null|
+|**2021-03-23**|**Co-Grounding Networks with Semantic Attention for Referring Expression Comprehension in Videos**|Sijie Song et.al.|[2103.12346](http://arxiv.org/abs/2103.12346)|null|
+|**2021-03-18**|**Decoupled Spatial Temporal Graphs for Generic Visual Grounding**|Qianyu Feng et.al.|[2103.10191](http://arxiv.org/abs/2103.10191)|null|
+|**2021-03-31**|**Few-Shot Visual Grounding for Natural Human-Robot Interaction**|Giorgos Tziafas et.al.|[2103.09720](http://arxiv.org/abs/2103.09720)|null|
+|**2021-03-17**|**Refer-it-in-RGBD: A Bottom-up Approach for 3D Visual Grounding in RGBD Images**|Haolin Liu et.al.|[2103.07894](http://arxiv.org/abs/2103.07894)|null|
+|**2021-04-14**|**OCID-Ref: A 3D Robotic Dataset with Embodied Language for Clutter Scene Grounding**|Ke-Jyun Wang et.al.|[2103.07679](http://arxiv.org/abs/2103.07679)|**[link](https://github.com/lluma/OCID-Ref)**|
+|**2022-06-16**|**MultiSubs: A Large-scale Multimodal and Multilingual Dataset**|Josiah Wang et.al.|[2103.01910](http://arxiv.org/abs/2103.01910)|**[link](https://github.com/josiahwang/multisubs-eval)**|
+|**2021-07-29**|**InstanceRefer: Cooperative Holistic Understanding for Visual Grounding on Point Clouds through Instance Multi-level Contextual Referring**|Zhihao Yuan et.al.|[2103.01128](http://arxiv.org/abs/2103.01128)|**[link](https://github.com/CurryYuan/InstanceRefer)**|
+|**2021-05-23**|**Unifying Vision-and-Language Tasks via Text Generation**|Jaemin Cho et.al.|[2102.02779](http://arxiv.org/abs/2102.02779)|**[link](https://github.com/j-min/VL-T5)**|
+|**2021-11-08**|**Answer Questions with Right Image Regions: A Visual Attention Regularization Approach**|Yibing Liu et.al.|[2102.01916](http://arxiv.org/abs/2102.01916)|**[link](https://github.com/BierOne/VQA-AttReg)**|
+|**2021-01-14**|**Enabling Robots to Draw and Tell: Towards Visually Grounded Multimodal Description Generation**|Ting Han et.al.|[2101.12338](http://arxiv.org/abs/2101.12338)|null|
+|**2021-04-20**|**Cross-lingual Visual Pre-training for Multimodal Machine Translation**|Ozan Caglayan et.al.|[2101.10044](http://arxiv.org/abs/2101.10044)|null|
+|**2021-01-19**|**A modular vision language navigation and manipulation framework for long horizon compositional tasks in indoor environment**|Homagni Saha et.al.|[2101.07891](http://arxiv.org/abs/2101.07891)|**[link](https://github.com/Homagn/MOVILAN)**|
+|**2022-01-19**|**Transformers in Vision: A Survey**|Salman Khan et.al.|[2101.01169](http://arxiv.org/abs/2101.01169)|null|
+|**2021-06-08**|**Language-Mediated, Object-Centric Representation Learning**|Ruocheng Wang et.al.|[2012.15814](http://arxiv.org/abs/2012.15814)|null|
+|**2020-12-31**|**Text-Free Image-to-Speech Synthesis Using Learned Segmental Units**|Wei-Ning Hsu et.al.|[2012.15454](http://arxiv.org/abs/2012.15454)|null|
+|**2020-12-20**|**PPGN: Phrase-Guided Proposal Generation Network For Referring Expression Comprehension**|Chao Yang et.al.|[2012.10890](http://arxiv.org/abs/2012.10890)|null|
+|**2022-03-14**|**Visually Grounding Language Instruction for History-Dependent Manipulation**|Hyemin Ahn et.al.|[2012.08977](http://arxiv.org/abs/2012.08977)|null|
+|**2021-03-30**|**Hierarchical Planning for Long-Horizon Manipulation with Geometric and Symbolic Scene Graphs**|Yifeng Zhu et.al.|[2012.07277](http://arxiv.org/abs/2012.07277)|null|
+|**2023-01-27**|**Intrinsically Motivated Compositional Language Emergence**|Rishi Hazra et.al.|[2012.05011](http://arxiv.org/abs/2012.05011)|**[link](https://github.com/SonuDixit/gComm)**|
+|**2020-12-08**|**CASTing Your Model: Learning to Localize Improves Self-Supervised Representations**|Ramprasaath R. Selvaraju et.al.|[2012.04630](http://arxiv.org/abs/2012.04630)|null|
+|**2020-11-28**|**Class-agnostic Object Detection**|Ayush Jaiswal et.al.|[2011.14204](http://arxiv.org/abs/2011.14204)|null|
+|**2020-11-22**|**Video SemNet: Memory-Augmented Video Semantic Network**|Prashanth Vijayaraghavan et.al.|[2011.10909](http://arxiv.org/abs/2011.10909)|null|
+|**2020-11-15**|**ArraMon: A Joint Navigation-Assembly Instruction Interpretation Task in Dynamic Environments**|Hyounghun Kim et.al.|[2011.07660](http://arxiv.org/abs/2011.07660)|null|
+|**2020-11-09**|**Refer, Reuse, Reduce: Generating Subsequent References in Visual and Conversational Contexts**|Ece Takmaz et.al.|[2011.04554](http://arxiv.org/abs/2011.04554)|null|
+|**2021-03-30**|**Text-to-Image Generation Grounded by Fine-Grained User Attention**|Jing Yu Koh et.al.|[2011.03775](http://arxiv.org/abs/2011.03775)|null|
+|**2020-10-29**|**Speech-Image Semantic Alignment Does Not Depend on Any Prior Classification Tasks**|Masood S. Mortazavi et.al.|[2010.15288](http://arxiv.org/abs/2010.15288)|null|
+|**2020-12-01**|**SOrT-ing VQA Models : Contrastive Gradient Learning for Improved Consistency**|Sameer Dharur et.al.|[2010.10038](http://arxiv.org/abs/2010.10038)|**[link](https://github.com/sameerdharur/sorting-vqa)**|
+|**2020-10-14**|**Vokenization: Improving Language Understanding with Contextualized, Visual-Grounded Supervision**|Hao Tan et.al.|[2010.06775](http://arxiv.org/abs/2010.06775)|**[link](https://github.com/airsplay/vokenization)**|
+|**2021-03-14**|**ALFWorld: Aligning Text and Embodied Environments for Interactive Learning**|Mohit Shridhar et.al.|[2010.03768](http://arxiv.org/abs/2010.03768)|**[link](https://github.com/alfworld/alfworld)**|
+|**2020-10-07**|**Towards Understanding Sample Variance in Visually Grounded Language Generation: Evaluations and Observations**|Wanrong Zhu et.al.|[2010.03644](http://arxiv.org/abs/2010.03644)|null|
+|**2020-10-07**|**A Linguistic Analysis of Visually Grounded Dialogues Based on Spatial Expressions**|Takuma Udagawa et.al.|[2010.03127](http://arxiv.org/abs/2010.03127)|**[link](https://github.com/Alab-NII/onecommon)**|
+|**2020-10-06**|**Learning to Represent Image and Text with Denotation Graph**|Bowen Zhang et.al.|[2010.02949](http://arxiv.org/abs/2010.02949)|null|
+|**2020-10-07**|**Textual Supervision for Visually Grounded Spoken Language Understanding**|Bertrand Higy et.al.|[2010.02806](http://arxiv.org/abs/2010.02806)|**[link](https://github.com/bhigy/textual-supervision)**|
+|**2020-10-26**|**Visually-Grounded Planning without Vision: Language Models Infer Detailed Plans from High-level Instructions**|Peter A. Jansen et.al.|[2009.14259](http://arxiv.org/abs/2009.14259)|**[link](https://github.com/cognitiveailab/alfred-gpt2)**|
+|**2020-09-26**|**Neural Twins Talk**|Zanyar Zohourianshahzadi et.al.|[2009.12524](http://arxiv.org/abs/2009.12524)|**[link](https://github.com/zanyarz/NeuralTwinsTalk)**|
+|**2020-09-25**|**Visually Grounded Compound PCFGs**|Yanpeng Zhao et.al.|[2009.12404](http://arxiv.org/abs/2009.12404)|**[link](https://github.com/zhaoyanpeng/vpcfg)**|
+|**2020-09-23**|**X-LXMERT: Paint, Caption and Answer Questions with Multi-Modal Transformers**|Jaemin Cho et.al.|[2009.11278](http://arxiv.org/abs/2009.11278)|**[link](https://github.com/allenai/x-lxmert)**|
+|**2020-09-18**|**Commands 4 Autonomous Vehicles (C4AV) Workshop Summary**|Thierry Deruyttere et.al.|[2009.08792](http://arxiv.org/abs/2009.08792)|null|
+|**2020-10-13**|**Simultaneous Machine Translation with Visual Context**|Ozan Caglayan et.al.|[2009.07310](http://arxiv.org/abs/2009.07310)|**[link](https://github.com/ImperialNLP/pysimt)**|
+|**2020-09-13**|**Cosine meets Softmax: A tough-to-beat baseline for visual grounding**|Nivedita Rufus et.al.|[2009.06066](http://arxiv.org/abs/2009.06066)|**[link](https://github.com/niveditarufus/CMSVG)**|
+|**2020-12-11**|**AttnGrounder: Talking to Cars with Attention**|Vivek Mittal et.al.|[2009.05684](http://arxiv.org/abs/2009.05684)|**[link](https://github.com/i-m-vivek/AttnGrounder)**|
+|**2020-08-03**|**Improving One-stage Visual Grounding by Recursive Sub-query Construction**|Zhengyuan Yang et.al.|[2008.01059](http://arxiv.org/abs/2008.01059)|**[link](https://github.com/zyang-ur/ReSC)**|
+|**2020-07-24**|**Dialog without Dialog Data: Learning Visual Dialog Agents from VQA Data**|Michael Cogswell et.al.|[2007.12750](http://arxiv.org/abs/2007.12750)|**[link](https://github.com/mcogswell/dialog_without_dialog)**|
+|**2020-12-23**|**Spatially Aware Multimodal Transformers for TextVQA**|Yash Kant et.al.|[2007.12146](http://arxiv.org/abs/2007.12146)|**[link](https://github.com/yashkant/sam-textvqa)**|
+|**2020-07-22**|**Analogical Reasoning for Visually Grounded Language Acquisition**|Bo Wu et.al.|[2007.11668](http://arxiv.org/abs/2007.11668)|null|
+|**2020-12-07**|**Referring Expression Comprehension: A Survey of Methods and Datasets**|Yanyuan Qiao et.al.|[2007.09554](http://arxiv.org/abs/2007.09554)|null|
+|**2020-07-21**|**Visual Relation Grounding in Videos**|Junbin Xiao et.al.|[2007.08814](http://arxiv.org/abs/2007.08814)|**[link](https://github.com/doc-doc/vRGV)**|
+|**2020-07-18**|**Reducing Language Biases in Visual Question Answering with Visually-Grounded Question Encoder**|Gouthaman KV et.al.|[2007.06198](http://arxiv.org/abs/2007.06198)|null|
+|**2020-07-10**|**Multi-Granularity Modularized Network for Abstract Visual Reasoning**|Xiangru Tang et.al.|[2007.04670](http://arxiv.org/abs/2007.04670)|null|
+|**2020-07-08**|**Audio-Visual Understanding of Passenger Intents for In-Cabin Conversational Agents**|Eda Okur et.al.|[2007.03876](http://arxiv.org/abs/2007.03876)|null|
+|**2021-04-25**|**Improving Weakly Supervised Visual Grounding by Contrastive Knowledge Distillation**|Liwei Wang et.al.|[2007.01951](http://arxiv.org/abs/2007.01951)|**[link](https://github.com/jhuang81/weak-sup-visual-grounding)**|
+|**2021-02-04**|**Multimodal Text Style Transfer for Outdoor Vision-and-Language Navigation**|Wanrong Zhu et.al.|[2007.00229](http://arxiv.org/abs/2007.00229)|null|
+|**2021-06-29**|**AVLnet: Learning Audio-Visual Language Representations from Instructional Videos**|Andrew Rouditchenko et.al.|[2006.09199](http://arxiv.org/abs/2006.09199)|null|
+|**2020-10-20**|**Catplayinginthesnow: Impact of Prior Segmentation on a Model of Visually Grounded Speech**|William N. Havard et.al.|[2006.08387](http://arxiv.org/abs/2006.08387)|null|
+|**2020-10-22**|**Large-Scale Adversarial Training for Vision-and-Language Representation Learning**|Zhe Gan et.al.|[2006.06195](http://arxiv.org/abs/2006.06195)|**[link](https://github.com/zhegan27/LXMERT-AdvTrain)**|
+|**2020-08-17**|**Give Me Something to Eat: Referring Expression Comprehension with Commonsense Knowledge**|Peng Wang et.al.|[2006.01629](http://arxiv.org/abs/2006.01629)|null|
+|**2020-05-31**|**Learning to Recognise Words using Visually Grounded Speech**|Sebastiaan Scholten et.al.|[2006.00512](http://arxiv.org/abs/2006.00512)|null|
+|**2020-05-18**|**What is Learned in Visually Grounded Neural Syntax Acquisition**|Noriyuki Kojima et.al.|[2005.01678](http://arxiv.org/abs/2005.01678)|**[link](https://github.com/lil-lab/vgnsl_analysis)**|
+|**2020-11-17**|**Visually Grounded Continual Learning of Compositional Phrases**|Xisen Jin et.al.|[2005.00785](http://arxiv.org/abs/2005.00785)|**[link](https://github.com/INK-USC/VG-CCL)**|
+|**2021-04-13**|**Probing Contextual Language Models for Common Ground with Visual Representations**|Gabriel Ilharco et.al.|[2005.00619](http://arxiv.org/abs/2005.00619)|null|
+|**2020-05-01**|**Improving Vision-and-Language Navigation with Image-Text Pairs from the Web**|Arjun Majumdar et.al.|[2004.14973](http://arxiv.org/abs/2004.14973)|**[link](https://github.com/arjunmajum/vln-bert)**|
+|**2020-10-07**|**Multi-View Attention Network for Visual Dialog**|Sungjin Park et.al.|[2004.14025](http://arxiv.org/abs/2004.14025)|**[link](https://github.com/taesunwhang/MVAN-VisDial)**|
+|**2020-06-29**|**Visual Grounding of Learned Physical Models**|Yunzhu Li et.al.|[2004.13664](http://arxiv.org/abs/2004.13664)|null|
+|**2020-04-28**|**A deep learning-based framework for segmenting invisible clinical target volumes with estimated uncertainties for post-operative prostate cancer radiotherapy**|Anjali Balagopal et.al.|[2004.13294](http://arxiv.org/abs/2004.13294)|null|
+|**2020-11-02**|**VD-BERT: A Unified Vision and Dialog Transformer with BERT**|Yue Wang et.al.|[2004.13278](http://arxiv.org/abs/2004.13278)|**[link](https://github.com/salesforce/VD-BERT)**|
+|**2020-10-11**|**Deep Multimodal Neural Architecture Search**|Zhou Yu et.al.|[2004.12070](http://arxiv.org/abs/2004.12070)|**[link](https://github.com/MILVLG/mmnas)**|
+|**2024-04-23**|**Visual Grounding Methods for VQA are Working for the Wrong Reasons!**|Robik Shrestha et.al.|[2004.05704](http://arxiv.org/abs/2004.05704)|**[link](https://github.com/erobic/negative_analysis_of_grounding)**|
+|**2020-03-31**|**Spatio-Temporal Graph for Video Captioning with Knowledge Distillation**|Boxiao Pan et.al.|[2003.13942](http://arxiv.org/abs/2003.13942)|null|
+|**2020-03-19**|**Multi-task Collaborative Network for Joint Referring Expression Comprehension and Segmentation**|Gen Luo et.al.|[2003.08813](http://arxiv.org/abs/2003.08813)|**[link](https://github.com/luogen1996/MCN)**|
+|**2021-05-26**|**Giving Commands to a Self-driving Car: A Multimodal Reasoner for Visual Grounding**|Thierry Deruyttere et.al.|[2003.08717](http://arxiv.org/abs/2003.08717)|null|
+|**2020-03-20**|**MUTATT: Visual-Textual Mutual Guidance for Referring Expression Comprehension**|Shuai Wang et.al.|[2003.08027](http://arxiv.org/abs/2003.08027)|null|
+|**2020-03-26**|**Visual Grounding in Video for Unsupervised Word Translation**|Gunnar A. Sigurdsson et.al.|[2003.05078](http://arxiv.org/abs/2003.05078)|**[link](https://github.com/gsig/visual-grounding)**|
+|**2020-03-01**|**Cops-Ref: A new Dataset and Task on Compositional Referring Expression Comprehension**|Zhenfang Chen et.al.|[2003.00403](http://arxiv.org/abs/2003.00403)|null|
+|**2020-07-18**|**Guessing State Tracking for Visual Dialogue**|Wei Pang et.al.|[2002.10340](http://arxiv.org/abs/2002.10340)|null|
+|**2020-02-22**|**Emergent Communication with World Models**|Alexander I. Cowen-Rivers et.al.|[2002.09604](http://arxiv.org/abs/2002.09604)|null|
+|**2019-12-20**|**Exploring Context, Attention and Audio Features for Audio Visual Scene-Aware Dialog**|Shachi H Kumar et.al.|[1912.10132](http://arxiv.org/abs/1912.10132)|null|
+|**2019-12-20**|**Leveraging Topics and Audio Features with Multimodal Attention for Audio Visual Scene-Aware Dialog**|Shachi H Kumar et.al.|[1912.10131](http://arxiv.org/abs/1912.10131)|null|
+|**2019-12-18**|**DMRM: A Dual-channel Multi-hop Reasoning Model for Visual Dialog**|Feilong Chen et.al.|[1912.08360](http://arxiv.org/abs/1912.08360)|**[link](https://github.com/phellonchen/DMRM)**|
+|**2019-12-12**|**Shaping representations through communication: community size effect in artificial learning systems**|Olivier Tieleman et.al.|[1912.06208](http://arxiv.org/abs/1912.06208)|null|
+|**2019-12-07**|**A Real-time Global Inference Network for One-stage Referring Expression Comprehension**|Yiyi Zhou et.al.|[1912.03478](http://arxiv.org/abs/1912.03478)|**[link](https://github.com/luogen1996/Real-time-Global-Inference-Network)**|
+|**2020-07-20**|**Connecting Vision and Language with Localized Narratives**|Jordi Pont-Tuset et.al.|[1912.03098](http://arxiv.org/abs/1912.03098)|**[link](https://github.com/google/localized-narratives)**|
+|**2020-03-31**|**Large-scale Pretraining for Visual Dialog: A Simple State-of-the-Art Baseline**|Vishvak Murahari et.al.|[1912.02379](http://arxiv.org/abs/1912.02379)|**[link](https://github.com/vmurahari3/visdial-bert)**|
+|**2020-04-24**|**12-in-1: Multi-Task Vision and Language Representation Learning**|Jiasen Lu et.al.|[1912.02315](http://arxiv.org/abs/1912.02315)|**[link](https://github.com/facebookresearch/vilbert-multi-task)**|
+|**2019-12-04**|**Compositional Temporal Visual Grounding of Natural Language Event Descriptions**|Jonathan C. Stroud et.al.|[1912.02256](http://arxiv.org/abs/1912.02256)|null|
+|**2019-11-29**|**OptiBox: Breaking the Limits of Proposals for Visual Grounding**|Zicong Fan et.al.|[1912.00076](http://arxiv.org/abs/1912.00076)|null|
+|**2020-02-14**|**Learning Hierarchical Discrete Linguistic Units from Visually-Grounded Speech**|David Harwath et.al.|[1911.09602](http://arxiv.org/abs/1911.09602)|null|
+|**2019-11-23**|**Learning Cross-modal Context Graph for Visual Grounding**|Yongfei Liu et.al.|[1911.09042](http://arxiv.org/abs/1911.09042)|**[link](https://github.com/youngfly11/LCMCG-PyTorch)**|
+|**2019-11-09**|**A perspective on multi-agent communication for information fusion**|Homagni Saha et.al.|[1911.03743](http://arxiv.org/abs/1911.03743)|null|
+|**2019-11-08**|**Language Grounding through Social Interactions and Curiosity-Driven Multi-Goal Learning**|Nicolas Lair et.al.|[1911.03219](http://arxiv.org/abs/1911.03219)|null|
+|**2020-06-08**|**Shaping Visual Representations with Language for Few-shot Classification**|Jesse Mu et.al.|[1911.02683](http://arxiv.org/abs/1911.02683)|**[link](https://worksheets.codalab.org/worksheets/0x55ed347e3beb4fa6971d3a226e48fc92)**|
+|**2019-11-05**|**Contextual Grounding of Natural Language Entities in Images**|Farley Lai et.al.|[1911.02133](http://arxiv.org/abs/1911.02133)|**[link](https://gitlab.com/necla-ml/grounding)**|
+|**2019-11-05**|**Recurrent Instance Segmentation using Sequences of Referring Expressions**|Alba Herrera-Palacio et.al.|[1911.02103](http://arxiv.org/abs/1911.02103)|null|
+|**2020-07-17**|**UNITER: UNiversal Image-TExt Representation Learning**|Yen-Chun Chen et.al.|[1909.11740](http://arxiv.org/abs/1909.11740)|**[link](https://github.com/ChenRocks/UNITER)**|
+|**2019-09-19**|**Large-scale representation learning from visually grounded untranscribed speech**|Gabriel Ilharco et.al.|[1909.08782](http://arxiv.org/abs/1909.08782)|null|
+|**2019-09-18**|**Word Recognition, Competition, and Activation in a Model of Visually Grounded Speech**|William N. Havard et.al.|[1909.08491](http://arxiv.org/abs/1909.08491)|null|
+|**2019-09-18**|**Dynamic Graph Attention for Referring Expression Comprehension**|Sibei Yang et.al.|[1909.08164](http://arxiv.org/abs/1909.08164)|null|
+|**2020-04-27**|**A Real-Time Cross-modality Correlation Filtering Method for Referring Expression Comprehension**|Yue Liao et.al.|[1909.07072](http://arxiv.org/abs/1909.07072)|null|
+|**2019-09-10**|**Countering Language Drift via Visual Grounding**|Jason Lee et.al.|[1909.04499](http://arxiv.org/abs/1909.04499)|null|
+|**2019-09-09**|**Language learning using Speech to Image retrieval**|Danny Merkx et.al.|[1909.03795](http://arxiv.org/abs/1909.03795)|**[link](https://github.com/DannyMerkx/speech2image)**|
+|**2019-08-27**|**Is the Red Square Big? MALeViC: Modeling Adjectives Leveraging Visual Contexts**|Sandro Pezzelle et.al.|[1908.10285](http://arxiv.org/abs/1908.10285)|null|
+|**2020-02-18**|**VL-BERT: Pre-training of Generic Visual-Linguistic Representations**|Weijie Su et.al.|[1908.08530](http://arxiv.org/abs/1908.08530)|**[link](https://github.com/jackroos/VL-BERT)**|
+|**2019-08-18**|**A Fast and Accurate One-Stage Approach to Visual Grounding**|Zhengyuan Yang et.al.|[1908.06354](http://arxiv.org/abs/1908.06354)|**[link](https://github.com/zyang-ur/onestage_grounding)**|
+|**2019-08-19**|**Multimodal Unified Attention Networks for Vision-and-Language Interactions**|Zhou Yu et.al.|[1908.04107](http://arxiv.org/abs/1908.04107)|null|
+|**2019-08-09**|**VisualBERT: A Simple and Performant Baseline for Vision and Language**|Liunian Harold Li et.al.|[1908.03557](http://arxiv.org/abs/1908.03557)|null|
+|**2019-08-08**|**Towards Generating Stylized Image Captions via Adversarial Training**|Omid Mohamad Nezami et.al.|[1908.02943](http://arxiv.org/abs/1908.02943)|null|
+|**2019-08-06**|**ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks**|Jiasen Lu et.al.|[1908.02265](http://arxiv.org/abs/1908.02265)|null|
+|**2019-07-24**|**Differentiable Disentanglement Filter: an Application Agnostic Core Concept Discovery Probe**|Guntis Barzdins et.al.|[1907.07507](http://arxiv.org/abs/1907.07507)|null|
+|**2019-07-09**|**Transfer Learning from Audio-Visual Grounding to Speech Recognition**|Wei-Ning Hsu et.al.|[1907.04355](http://arxiv.org/abs/1907.04355)|null|
+|**2019-11-26**|**Chasing Ghosts: Instruction Following as Bayesian State Tracking**|Peter Anderson et.al.|[1907.02022](http://arxiv.org/abs/1907.02022)|**[link](https://github.com/batra-mlp-lab/vln-chasing-ghosts)**|
+|**2019-07-02**|**Multimodal Transformer Networks for End-to-End Video-Grounded Dialogue Systems**|Hung Le et.al.|[1907.01166](http://arxiv.org/abs/1907.01166)|**[link](https://github.com/henryhungle/MTN)**|
+|**2019-12-28**|**Analyzing Utility of Visual Context in Multimodal Speech Recognition Under Noisy Conditions**|Tejas Srinivasan et.al.|[1907.00477](http://arxiv.org/abs/1907.00477)|null|
+|**2019-07-28**|**Grounding Object Detections With Transcriptions**|Yasufumi Moriya et.al.|[1906.06147](http://arxiv.org/abs/1906.06147)|null|
+|**2019-06-10**|**Multimodal Logical Inference System for Visual-Textual Entailment**|Riko Suzuki et.al.|[1906.03952](http://arxiv.org/abs/1906.03952)|null|
+|**2020-04-10**|**Joint Visual Grounding with Language Scene Graphs**|Daqing Liu et.al.|[1906.03561](http://arxiv.org/abs/1906.03561)|null|
+|**2019-09-24**|**Visually Grounded Neural Syntax Acquisition**|Haoyue Shi et.al.|[1906.02890](http://arxiv.org/abs/1906.02890)|null|
+|**2019-06-05**|**Learning to Compose and Reason with Language Tree Structures for Visual Grounding**|Richang Hong et.al.|[1906.01784](http://arxiv.org/abs/1906.01784)|null|
+|**2019-06-26**|**The PhotoBook Dataset: Building Common Ground through Visually-Grounded Dialogue**|Janosch Haber et.al.|[1906.01530](http://arxiv.org/abs/1906.01530)|null|
+|**2019-08-30**|**On the Contributions of Visual and Textual Supervision in Low-Resource Semantic Speech Retrieval**|Ankita Pasad et.al.|[1904.10947](http://arxiv.org/abs/1904.10947)|null|
+|**2019-04-15**|**Semantic query-by-example speech search using visual grounding**|Herman Kamper et.al.|[1904.07078](http://arxiv.org/abs/1904.07078)|null|
+|**2019-04-12**|**Evaluating the Representational Hub of Language and Vision Models**|Ravi Shekhar et.al.|[1904.06038](http://arxiv.org/abs/1904.06038)|null|
+|**2019-07-01**|**Modularized Textual Grounding for Counterfactual Resilience**|Zhiyuan Fang et.al.|[1904.03589](http://arxiv.org/abs/1904.03589)|**[link](https://github.com/jacobswan1/MTG-pytorch)**|
+|**2019-04-11**|**VQD: Visual Query Detection in Natural Scenes**|Manoj Acharya et.al.|[1904.02794](http://arxiv.org/abs/1904.02794)|null|
+|**2019-04-03**|**Revisiting Visual Grounding**|Erik Conser et.al.|[1904.02225](http://arxiv.org/abs/1904.02225)|null|
+|**2019-10-15**|**Align2Ground: Weakly Supervised Phrase Grounding Guided by Image-Caption Alignment**|Samyak Datta et.al.|[1903.11649](http://arxiv.org/abs/1903.11649)|null|
+|**2019-03-27**|**Learning semantic sentence representations from visually grounded language without lexical knowledge**|Danny Merkx et.al.|[1903.11393](http://arxiv.org/abs/1903.11393)|**[link](https://github.com/DannyMerkx/caption2image)**|
+|**2019-08-29**|**Dual Attention Networks for Visual Reference Resolution in Visual Dialog**|Gi-Cheon Kang et.al.|[1902.09368](http://arxiv.org/abs/1902.09368)|**[link](https://github.com/gicheonkang/DAN-VisDial)**|
+|**2019-04-17**|**Making History Matter: History-Advantage Sequence Training for Visual Dialog**|Tianhao Yang et.al.|[1902.09326](http://arxiv.org/abs/1902.09326)|null|
+|**2019-02-21**|**Towards Visually Grounded Sub-Word Speech Unit Discovery**|David Harwath et.al.|[1902.08213](http://arxiv.org/abs/1902.08213)|null|
+|**2019-03-17**|**You Only Look & Listen Once: Towards Fast and Accurate Visual Grounding**|Chaorui Deng et.al.|[1902.04213](http://arxiv.org/abs/1902.04213)|null|
+|**2019-10-28**|**Taking a HINT: Leveraging Explanations to Make Vision and Language Models More Grounded**|Ramprasaath R. Selvaraju et.al.|[1902.03751](http://arxiv.org/abs/1902.03751)|null|
+|**2019-02-08**|**Models of Visually Grounded Speech Signal Pay Attention To Nouns: a Bilingual Experiment on English and Japanese**|William N. Havard et.al.|[1902.03052](http://arxiv.org/abs/1902.03052)|**[link](https://github.com/William-N-Havard/VGS-dataset-metadata)**|
+|**2019-04-06**|**CLEVR-Ref+: Diagnosing Visual Reasoning with Referring Expressions**|Runtao Liu et.al.|[1901.00850](http://arxiv.org/abs/1901.00850)|null|
+|**2019-06-05**|**Symbolic inductive bias for visually grounded learning of spoken language**|Grzegorz Chrupała et.al.|[1812.09244](http://arxiv.org/abs/1812.09244)|**[link](https://github.com/gchrupala/symbolic-bias)**|
+|**2018-12-20**|**Context, Attention and Audio Feature Explorations for Audio Visual Scene-Aware Dialog**|Shachi H Kumar et.al.|[1812.08407](http://arxiv.org/abs/1812.08407)|null|
+|**2018-12-12**|**Neighbourhood Watch: Referring Expression Comprehension via Language-guided Graph Attention Networks**|Peng Wang et.al.|[1812.04794](http://arxiv.org/abs/1812.04794)|null|
+|**2018-12-09**|**Real-Time Referring Expression Comprehension by Single-Stage Grounding Network**|Xinpeng Chen et.al.|[1812.03426](http://arxiv.org/abs/1812.03426)|null|
+|**2019-10-21**|**Learning to Assemble Neural Module Tree Networks for Visual Grounding**|Daqing Liu et.al.|[1812.03299](http://arxiv.org/abs/1812.03299)|null|
+|**2019-04-06**|**Recursive Visual Attention in Visual Dialog**|Yulei Niu et.al.|[1812.02664](http://arxiv.org/abs/1812.02664)|**[link](https://github.com/yuleiniu/rva)**|
+|**2018-12-03**|**Multi-task Learning of Hierarchical Vision-Language Representation**|Duy-Kien Nguyen et.al.|[1812.00500](http://arxiv.org/abs/1812.00500)|null|
+|**2018-12-01**|**Mixture of Regression Experts in fMRI Encoding**|Subba Reddy Oota et.al.|[1811.10740](http://arxiv.org/abs/1811.10740)|null|
+|**2019-01-21**|**Visual Entailment Task for Visually-Grounded Language Learning**|Ning Xie et.al.|[1811.10582](http://arxiv.org/abs/1811.10582)|**[link](https://github.com/necla-ml/SNLI-VE)**|
+|**2018-11-26**|**CLEAR: A Dataset for Compositional Language and Elementary Acoustic Reasoning**|Jerome Abdelnour et.al.|[1811.10561](http://arxiv.org/abs/1811.10561)|**[link](https://github.com/IGLU-CHISTERA/CLEAR-dataset-generation)**|
+|**2018-11-16**|**On transfer learning using a MAC model variant**|Vincent Marois et.al.|[1811.06529](http://arxiv.org/abs/1811.06529)|null|
+|**2018-11-12**|**Blindfold Baselines for Embodied QA**|Ankesh Anand et.al.|[1811.05013](http://arxiv.org/abs/1811.05013)|**[link](https://github.com/ankeshanand/blindfold-baselines-eqa)**|
+|**2018-11-11**|**Product Title Refinement via Multi-Modal Generative Adversarial Learning**|Jianguo Zhang et.al.|[1811.04498](http://arxiv.org/abs/1811.04498)|null|
+|**2018-10-20**|**A Knowledge-Grounded Multimodal Search-Based Conversational Agent**|Shubham Agarwal et.al.|[1810.11954](http://arxiv.org/abs/1810.11954)|**[link](https://github.com/shubhamagarwal92/mmd)**|
+|**2018-11-08**|**Overcoming Language Priors in Visual Question Answering with Adversarial Regularization**|Sainandan Ramakrishnan et.al.|[1810.03649](http://arxiv.org/abs/1810.03649)|null|
+|**2018-10-17**|**Game-Based Video-Context Dialogue**|Ramakanth Pasunuru et.al.|[1809.04560](http://arxiv.org/abs/1809.04560)|**[link](https://github.com/ramakanth-pasunuru/video-dialogue)**|
+|**2019-03-15**|**Beyond task success: A closer look at jointly learning to see, ask, and GuessWhat**|Ravi Shekhar et.al.|[1809.03408](http://arxiv.org/abs/1809.03408)|null|
+|**2018-09-06**|**Visual Coreference Resolution in Visual Dialog using Neural Module Networks**|Satwik Kottur et.al.|[1809.01816](http://arxiv.org/abs/1809.01816)|null|
+|**2018-09-06**|**Community Regularization of Visually-Grounded Dialog**|Akshat Agarwal et.al.|[1808.04359](http://arxiv.org/abs/1808.04359)|**[link](https://github.com/agakshat/visualdialog-pytorch)**|
+|**2018-08-01**|**Interpretable Visual Question Answering by Visual Grounding from Attention Supervision Mining**|Yundong Zhang et.al.|[1808.00265](http://arxiv.org/abs/1808.00265)|null|
+|**2018-06-27**|**Learning Visually-Grounded Semantics from Contrastive Adversarial Samples**|Haoyue Shi et.al.|[1806.10348](http://arxiv.org/abs/1806.10348)|**[link](https://github.com/ExplorerFreda/VSE-C)**|
+|**2018-06-14**|**Grounded Textual Entailment**|Hoa Trong Vu et.al.|[1806.05645](http://arxiv.org/abs/1806.05645)|**[link](https://github.com/claudiogreco/coling18-gte)**|
+|**2018-06-13**|**Visually grounded cross-lingual keyword spotting in speech**|Herman Kamper et.al.|[1806.05030](http://arxiv.org/abs/1806.05030)|null|
+|**2018-06-12**|**iParaphrasing: Extracting Visually Grounded Paraphrases via an Image**|Chenhui Chu et.al.|[1806.04284](http://arxiv.org/abs/1806.04284)|**[link](https://github.com/ids-cv/coling_iparaphrasing)**|
+|**2018-06-11**|**Interactive Visual Grounding of Referring Expressions for Human-Robot Interaction**|Mohit Shridhar et.al.|[1806.03831](http://arxiv.org/abs/1806.03831)|null|
+|**2018-05-18**|**SemStyle: Learning to Generate Stylised Image Captions using Unaligned Text**|Alexander Mathews et.al.|[1805.07030](http://arxiv.org/abs/1805.07030)|**[link](https://github.com/computationalmedia/semstyle)**|
+|**2018-06-12**|**Ask No More: Deciding when to guess in referential visual dialogue**|Ravi Shekhar et.al.|[1805.06960](http://arxiv.org/abs/1805.06960)|null|
+|**2018-05-09**|**Rethinking Diversified and Discriminative Proposal Generation for Visual Grounding**|Zhou Yu et.al.|[1805.03508](http://arxiv.org/abs/1805.03508)|**[link](https://github.com/xiangchenchao/ddpn)**|
+|**2018-12-21**|**Attention Based Natural Language Grounding by Navigating Virtual Environment**|Akilesh B et.al.|[1804.08454](http://arxiv.org/abs/1804.08454)|**[link](https://github.com/rl-lang-grounding/rl-lang-ground)**|
+|**2018-04-06**|**Finding beans in burgers: Deep semantic-visual embedding with localization**|Martin Engilberge et.al.|[1804.01720](http://arxiv.org/abs/1804.01720)|**[link](https://github.com/technicolor-research/dsve-loc)**|
+|**2018-11-16**|**Learning Unsupervised Visual Grounding Through Semantic Self-Supervision**|Syed Ashar Javed et.al.|[1803.06506](http://arxiv.org/abs/1803.06506)|null|
+|**2018-04-03**|**FlipDial: A Generative Model for Two-Way Visual Dialogue**|Daniela Massiceti et.al.|[1802.03803](http://arxiv.org/abs/1802.03803)|null|
+|**2018-03-27**|**MAttNet: Modular Attention Network for Referring Expression Comprehension**|Licheng Yu et.al.|[1801.08186](http://arxiv.org/abs/1801.08186)|**[link](https://github.com/lichengunc/MAttNet)**|
+|**2017-12-18**|**Visual Explanations from Hadamard Product in Multimodal Deep Networks**|Jin-Hwa Kim et.al.|[1712.06228](http://arxiv.org/abs/1712.06228)|null|
+|**2017-12-09**|**Modulating and attending the source image during encoding improves Multimodal Translation**|Jean-Benoit Delbrouck et.al.|[1712.03449](http://arxiv.org/abs/1712.03449)|**[link](https://github.com/jbdel/mmt_cbn)**|
+|**2017-12-02**|**Improving Visually Grounded Sentence Representations with Self-Attention**|Kang Min Yoo et.al.|[1712.00609](http://arxiv.org/abs/1712.00609)|null|
+|**2017-12-02**|**Interactive Reinforcement Learning for Object Grounding via Self-Talking**|Yan Zhu et.al.|[1712.00576](http://arxiv.org/abs/1712.00576)|null|
+|**2017-11-29**|**HoME: a Household Multimodal Environment**|Simon Brodeur et.al.|[1711.11017](http://arxiv.org/abs/1711.11017)|null|
+|**2017-11-29**|**Curriculum Q-Learning for Visual Vocabulary Acquisition**|Ahmed H. Zaidi et.al.|[1711.10837](http://arxiv.org/abs/1711.10837)|null|
+|**2017-11-23**|**Self-view Grounding Given a Narrated 360° Video**|Shih-Han Chou et.al.|[1711.08664](http://arxiv.org/abs/1711.08664)|null|
+|**2018-04-05**|**Vision-and-Language Navigation: Interpreting visually-grounded navigation instructions in real environments**|Peter Anderson et.al.|[1711.07280](http://arxiv.org/abs/1711.07280)|**[link](https://github.com/peteanderson80/Matterport3DSimulator)**|
+|**2017-11-17**|**Parallel Attention: A Unified Framework for Visual Object Discovery through Dialogs and Queries**|Bohan Zhuang et.al.|[1711.06370](http://arxiv.org/abs/1711.06370)|null|
+|**2018-10-31**|**Semantic speech retrieval with a visually grounded model of untranscribed speech**|Herman Kamper et.al.|[1710.01949](http://arxiv.org/abs/1710.01949)|**[link](https://github.com/kamperh/semantic_flickraudio)**|
+|**2017-09-29**|**The BURCHAK corpus: a Challenge Data Set for Interactive Learning of Visually Grounded Word Meanings**|Yanchao Yu et.al.|[1709.10431](http://arxiv.org/abs/1709.10431)|null|
+|**2017-09-29**|**Training an adaptive dialogue policy for interactive learning of visually grounded word meanings**|Yanchao Yu et.al.|[1709.10426](http://arxiv.org/abs/1709.10426)|null|
+|**2017-09-29**|**Learning how to learn: an adaptive dialogue agent for incrementally learning visually grounded word meanings**|Yanchao Yu et.al.|[1709.10423](http://arxiv.org/abs/1709.10423)|null|
+|**2018-08-06**|**Visual Reference Resolution using Attention Memory for Visual Dialog**|Paul Hongsuck Seo et.al.|[1709.07992](http://arxiv.org/abs/1709.07992)|null|
+|**2020-11-23**|**SPEECH-COCO: 600k Visually Grounded Spoken Captions Aligned to MSCOCO Data Set**|William Havard et.al.|[1707.08435](http://arxiv.org/abs/1707.08435)|**[link](https://github.com/William-N-Havard/SpeechCoco)**|
+|**2018-06-04**|**Learning Visually Grounded Sentence Representations**|Douwe Kiela et.al.|[1707.06320](http://arxiv.org/abs/1707.06320)|null|
+|**2017-12-16**|**Visually Grounded Word Embeddings and Richer Visual Features for Improving Multimodal Neural Machine Translation**|Jean-Benoit Delbrouck et.al.|[1707.01009](http://arxiv.org/abs/1707.01009)|null|
+|**2018-11-09**|**Generative Models of Visually Grounded Imagination**|Ramakrishna Vedantam et.al.|[1705.10762](http://arxiv.org/abs/1705.10762)|null|
+|**2017-07-07**|**Imagination improves Multimodal Translation**|Desmond Elliott et.al.|[1705.04350](http://arxiv.org/abs/1705.04350)|null|
+|**2017-05-03**|**Weakly-supervised Visual Grounding of Phrases with Linguistic Structures**|Fanyi Xiao et.al.|[1705.01371](http://arxiv.org/abs/1705.01371)|null|
+|**2018-05-01**|**Learning Two-Branch Neural Networks for Image-Text Matching Tasks**|Liwei Wang et.al.|[1704.03470](http://arxiv.org/abs/1704.03470)|null|
+|**2017-05-25**|**Visually grounded learning of keyword prediction from untranscribed speech**|Herman Kamper et.al.|[1703.08136](http://arxiv.org/abs/1703.08136)|**[link](https://github.com/kamperh/recipe_vision_speech_flickr)**|
+|**2017-03-15**|**End-to-end optimization of goal-driven and visually grounded dialogue systems**|Florian Strub et.al.|[1703.05423](http://arxiv.org/abs/1703.05423)|null|
+|**2017-06-30**|**Representations of language in a model of visually grounded speech signal**|Grzegorz Chrupała et.al.|[1702.01991](http://arxiv.org/abs/1702.01991)|**[link](https://github.com/gchrupala/visually-grounded-speech)**|
+|**2017-04-20**|**Image-Grounded Conversations: Multimodal Context for Natural Question and Response Generation**|Nasrin Mostafazadeh et.al.|[1701.08251](http://arxiv.org/abs/1701.08251)|null|
+|**2017-04-12**|**Scene Graph Generation by Iterative Message Passing**|Danfei Xu et.al.|[1701.02426](http://arxiv.org/abs/1701.02426)|null|
+|**2017-04-17**|**A Joint Speaker-Listener-Reinforcer Model for Referring Expressions**|Licheng Yu et.al.|[1612.09542](http://arxiv.org/abs/1612.09542)|null|
+|**2016-12-22**|**Understanding Image and Text Simultaneously: a Dual Vision-Language Machine Comprehension Task**|Nan Ding et.al.|[1612.07833](http://arxiv.org/abs/1612.07833)|null|
+|**2017-05-29**|**Automatic Generation of Grounded Visual Questions**|Shijie Zhang et.al.|[1612.06530](http://arxiv.org/abs/1612.06530)|null|
+|**2016-10-11**|**From phonemes to images: levels of representation in a recurrent neural model of visually-grounded language learning**|Lieke Gelderloos et.al.|[1610.03342](http://arxiv.org/abs/1610.03342)|null|
+|**2016-11-22**|**Revisiting Visual Question Answering Baselines**|Allan Jabri et.al.|[1606.08390](http://arxiv.org/abs/1606.08390)|null|
+|**2016-09-24**|**Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding**|Akira Fukui et.al.|[1606.01847](http://arxiv.org/abs/1606.01847)|**[link](https://github.com/akirafukui/vqa-mcb)**|
+|**2016-04-12**|**Seeing through the Human Reporting Bias: Visual Classifiers from Noisy Human-Centric Labels**|Ishan Misra et.al.|[1512.06974](http://arxiv.org/abs/1512.06974)|null|
+|**2016-06-29**|**Visual Word2Vec (vis-w2v): Learning Visually Grounded Word Embeddings Using Abstract Scenes**|Satwik Kottur et.al.|[1511.07067](http://arxiv.org/abs/1511.07067)|null|
+|**2015-06-19**|**Learning language through pictures**|Grzegorz Chrupała et.al.|[1506.03694](http://arxiv.org/abs/1506.03694)|**[link](https://github.com/gchrupala/imaginet)**|
+|**2011-06-30**|**Grounded Semantic Composition for Visual Scenes**|P. Gorniak et.al.|[1107.0031](http://arxiv.org/abs/1107.0031)|null|
 
-<p align=right>(<a href=#updated-on-20241217>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241218>back to top</a>)</p>
 
 ## RVOS
 
@@ -686,7 +895,7 @@
 |**2022-04-03**|**End-to-End Referring Video Object Segmentation with Multimodal Transformers**|Adam Botach et.al.|[2111.14821](http://arxiv.org/abs/2111.14821)|**[link](https://github.com/mttr2021/MTTR)**|
 |**2024-01-19**|**Rethinking Cross-modal Interaction from a Top-down Perspective for Referring Video Object Segmentation**|Chen Liang et.al.|[2106.01061](http://arxiv.org/abs/2106.01061)|null|
 
-<p align=right>(<a href=#updated-on-20241217>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241218>back to top</a>)</p>
 
 ## 3D-RES
 
@@ -696,7 +905,7 @@
 |**2024-07-31**|**3D-GRES: Generalized 3D Referring Expression Segmentation**|Changli Wu et.al.|[2407.20664](http://arxiv.org/abs/2407.20664)|**[link](https://github.com/sosppxo/MDIN)**|
 |**2023-08-31**|**3D-STMN: Dependency-Driven Superpoint-Text Matching Network for End-to-End 3D Referring Expression Segmentation**|Changli Wu et.al.|[2308.16632](http://arxiv.org/abs/2308.16632)|**[link](https://github.com/sosppxo/3d-stmn)**|
 
-<p align=right>(<a href=#updated-on-20241217>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241218>back to top</a>)</p>
 
 ## 3D-REC
 
@@ -760,7 +969,7 @@
 |**2021-03-17**|**Refer-it-in-RGBD: A Bottom-up Approach for 3D Visual Grounding in RGBD Images**|Haolin Liu et.al.|[2103.07894](http://arxiv.org/abs/2103.07894)|null|
 |**2021-07-29**|**InstanceRefer: Cooperative Holistic Understanding for Visual Grounding on Point Clouds through Instance Multi-level Contextual Referring**|Zhihao Yuan et.al.|[2103.01128](http://arxiv.org/abs/2103.01128)|**[link](https://github.com/CurryYuan/InstanceRefer)**|
 
-<p align=right>(<a href=#updated-on-20241217>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241218>back to top</a>)</p>
 
 ## SAM 2
 
@@ -832,7 +1041,200 @@
 |**2024-10-19**|**A Survey on Segment Anything Model (SAM): Vision Foundation Model Meets Prompt Engineering**|Chaoning Zhang et.al.|[2306.06211](http://arxiv.org/abs/2306.06211)|null|
 |**2018-01-26**|**Infinite variance $H$ -sssi processes as limits of particle systems**|Łukasz Treszczotko et.al.|[1709.07644](http://arxiv.org/abs/1709.07644)|null|
 
-<p align=right>(<a href=#updated-on-20241217>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241218>back to top</a>)</p>
+
+## AVL
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2024-12-13**|**SonicBoom: Contact Localization Using Array of Microphones**|Moonyoung Lee et.al.|[2412.09878](http://arxiv.org/abs/2412.09878)|null|
+|**2024-12-09**|**Sound2Vision: Generating Diverse Visuals from Audio through Cross-Modal Latent Alignment**|Kim Sung-Bin et.al.|[2412.06209](http://arxiv.org/abs/2412.06209)|null|
+|**2024-10-25**|**Mask-Weighted Spatial Likelihood Coding for Speaker-Independent Joint Localization and Mask Estimation**|Jakob Kienegger et.al.|[2410.19595](http://arxiv.org/abs/2410.19595)|null|
+|**2024-10-01**|**A Critical Assessment of Visual Sound Source Localization Models Including Negative Audio**|Xavier Juanola et.al.|[2410.01020](http://arxiv.org/abs/2410.01020)|**[link](https://github.com/xavijuanola/vssl_eval)**|
+|**2024-09-30**|**Adaptive high-precision sound source localization at low frequencies based on convolutional neural network**|Wenbo Ma et.al.|[2409.20031](http://arxiv.org/abs/2409.20031)|null|
+|**2024-09-11**|**Analytic Class Incremental Learning for Sound Source Localization with Privacy Protection**|Xinyuan Qian et.al.|[2409.07224](http://arxiv.org/abs/2409.07224)|null|
+|**2024-08-25**|**Unveiling Visual Biases in Audio-Visual Localization Benchmarks**|Liangyu Chen et.al.|[2409.06709](http://arxiv.org/abs/2409.06709)|null|
+|**2024-09-08**|**TF-Mamba: A Time-Frequency Network for Sound Source Localization**|Yang Xiao et.al.|[2409.05034](http://arxiv.org/abs/2409.05034)|null|
+|**2024-09-07**|**Leveraging Moving Sound Source Trajectories for Universal Sound Separation**|Donghang Wu et.al.|[2409.04843](http://arxiv.org/abs/2409.04843)|null|
+|**2024-08-29**|**Enhancing Sound Source Localization via False Negative Elimination**|Zengjie Song et.al.|[2408.16448](http://arxiv.org/abs/2408.16448)|**[link](https://github.com/zjsong/sacl)**|
+|**2024-08-28**|**wav2pos: Sound Source Localization using Masked Autoencoders**|Axel Berg et.al.|[2408.15771](http://arxiv.org/abs/2408.15771)|**[link](https://github.com/axeber01/wav2pos)**|
+|**2024-08-25**|**The effect of self-motion and room familiarity on sound source localization in virtual environments**|Niklas Isserstedt et.al.|[2408.13904](http://arxiv.org/abs/2408.13904)|null|
+|**2024-08-09**|**Spherical World-Locking for Audio-Visual Localization in Egocentric Videos**|Heeseung Yun et.al.|[2408.05364](http://arxiv.org/abs/2408.05364)|null|
+|**2024-07-31**|**Open-Vocabulary Audio-Visual Semantic Segmentation**|Ruohao Guo et.al.|[2407.21721](http://arxiv.org/abs/2407.21721)|null|
+|**2024-07-18**|**Aligning Sight and Sound: Advanced Sound Source Localization Through Audio-Visual Alignment**|Arda Senocak et.al.|[2407.13676](http://arxiv.org/abs/2407.13676)|**[link](https://github.com/kaistmm/SSLalignment)**|
+|**2024-06-23**|**Text-Queried Target Sound Event Localization**|Jinzheng Zhao et.al.|[2406.16058](http://arxiv.org/abs/2406.16058)|null|
+|**2024-06-14**|**Can Large Language Models Understand Spatial Audio?**|Changli Tang et.al.|[2406.07914](http://arxiv.org/abs/2406.07914)|null|
+|**2024-06-11**|**Broadband MEMS Microphone Arrays with Reduced Aperture Through 3D-Printed Waveguides**|Dennis Laurijssen et.al.|[2406.07663](http://arxiv.org/abs/2406.07663)|null|
+|**2024-05-30**|**SLAM-based Joint Calibration of Multiple Asynchronous Microphone Arrays and Sound Source Localization**|Jiang Wang et.al.|[2405.19813](http://arxiv.org/abs/2405.19813)|**[link](https://github.com/aislab-sustech/calibration_of_multi_mic_arrays)**|
+|**2024-05-11**|**IPDnet: A Universal Direct-Path IPD Estimation Network for Sound Source Localization**|Yabo Wang et.al.|[2405.07021](http://arxiv.org/abs/2405.07021)|**[link](https://github.com/audio-westlakeu/fn-ssl)**|
+|**2024-05-09**|**Steered Response Power for Sound Source Localization: A Tutorial Review**|Eric Grinstein et.al.|[2405.02991](http://arxiv.org/abs/2405.02991)|**[link](https://github.com/egrinstein/xsrp)**|
+|**2024-04-30**|**SemiPL: A Semi-supervised Method for Event Sound Source Localization**|Yue Li et.al.|[2404.19615](http://arxiv.org/abs/2404.19615)|**[link](https://github.com/ly245422/sspl)**|
+|**2024-07-07**|**T-VSL: Text-Guided Visual Sound Source Localization in Mixtures**|Tanvir Mahmud et.al.|[2404.01751](http://arxiv.org/abs/2404.01751)|**[link](https://github.com/enyac-group/t-vsl)**|
+|**2024-04-02**|**Audio Simulation for Sound Source Localization in Virtual Evironment**|Yi Di Yuan et.al.|[2404.01611](http://arxiv.org/abs/2404.01611)|null|
+|**2024-03-29**|**Sound event localization and classification using WASN in Outdoor Environment**|Dongzhe Zhang et.al.|[2403.20130](http://arxiv.org/abs/2403.20130)|null|
+|**2024-03-26**|**Speaker Distance Estimation in Enclosures from Single-Channel Audio**|Michael Neri et.al.|[2403.17514](http://arxiv.org/abs/2403.17514)|**[link](https://github.com/michaelneri/audio-distance-estimation)**|
+|**2024-03-26**|**Learning to Visually Localize Sound Sources from Mixtures without Prior Source Knowledge**|Dongjin Kim et.al.|[2403.17420](http://arxiv.org/abs/2403.17420)|**[link](https://github.com/visualaikhu/noprior_multissl)**|
+|**2024-03-14**|**The Neural-SRP method for positional sound source localization**|Eric Grinstein et.al.|[2403.09455](http://arxiv.org/abs/2403.09455)|**[link](https://github.com/egrinstein/gnn_ssl)**|
+|**2024-02-09**|**Analytical model for the relation between signal bandwidth and spatial resolution in Steered-Response Power Phase Transform (SRP-PHAT) maps**|Guillermo Garcia-Barrios et.al.|[2402.06586](http://arxiv.org/abs/2402.06586)|null|
+|**2024-02-09**|**Exploiting spatial diversity for increasing the robustness of sound source localization systems against reverberation**|Guillermo Garcia-Barrios et.al.|[2402.06411](http://arxiv.org/abs/2402.06411)|null|
+|**2024-02-06**|**Binaural sound source localization using a hybrid time and frequency domain model**|Gil Geva et.al.|[2402.03867](http://arxiv.org/abs/2402.03867)|null|
+|**2023-12-08**|**Sound Source Localization for a Source inside a Structure using Ac-CycleGAN**|Shunsuke Kita et.al.|[2312.04846](http://arxiv.org/abs/2312.04846)|null|
+|**2024-01-28**|**Eliminating Quantization Errors in Classification-Based Sound Source Localization**|Linfeng Feng et.al.|[2311.12305](http://arxiv.org/abs/2311.12305)|**[link](https://github.com/linfeng-feng/uld)**|
+|**2023-11-13**|**Research and experimental verification on low-frequency long-range sound propagation characteristics under ice-covered and range-dependent marine environment in the Arctic**|Jinbao Weng et.al.|[2311.07175](http://arxiv.org/abs/2311.07175)|null|
+|**2023-11-07**|**Can CLIP Help Sound Source Localization?**|Sooyoung Park et.al.|[2311.04066](http://arxiv.org/abs/2311.04066)|**[link](https://github.com/swimmiing/ACL-SSL)**|
+|**2023-11-16**|**Resilient Multiple Choice Learning: A learned scoring scheme with application to audio scene analysis**|Victor Letzelter et.al.|[2311.01052](http://arxiv.org/abs/2311.01052)|**[link](https://github.com/victorletzelter/code-rmcl)**|
+|**2024-01-27**|**Feature Aggregation in Joint Sound Classification and Localization Neural Networks**|Brendan Healy et.al.|[2310.19063](http://arxiv.org/abs/2310.19063)|null|
+|**2024-11-02**|**Audio-Visual Instance Segmentation**|Ruohao Guo et.al.|[2310.18709](http://arxiv.org/abs/2310.18709)|**[link](https://github.com/ruohaoguo/avis)**|
+|**2024-08-16**|**Novel-View Acoustic Synthesis from 3D Reconstructed Rooms**|Byeongjoo Ahn et.al.|[2310.15130](http://arxiv.org/abs/2310.15130)|**[link](https://github.com/apple/ml-nvas3d)**|
+|**2023-09-19**|**Sound Source Localization is All about Cross-Modal Alignment**|Arda Senocak et.al.|[2309.10724](http://arxiv.org/abs/2309.10724)|null|
+|**2024-02-02**|**Prompting Segmentation with Sound Is Generalizable Audio-Visual Source Localizer**|Yaoting Wang et.al.|[2309.07929](http://arxiv.org/abs/2309.07929)|**[link](https://github.com/GeWu-Lab/Generalizable-Audio-Visual-Segmentation)**|
+|**2023-08-28**|**Data-driven 3D Room Geometry Inference with a Linear Loudspeaker Array and a Single Microphone**|Cagdas Tuna et.al.|[2308.14611](http://arxiv.org/abs/2308.14611)|null|
+|**2023-08-18**|**Audio-Visual Spatial Integration and Recursive Attention for Robust Sound Source Localization**|Sung Jin Um et.al.|[2308.06087](http://arxiv.org/abs/2308.06087)|**[link](https://github.com/visualaikhu/sira-ssl)**|
+|**2023-08-09**|**Induction Network: Audio-Visual Modality Gap-Bridging for Self-Supervised Sound Source Localization**|Tianyu Liu et.al.|[2308.04767](http://arxiv.org/abs/2308.04767)|**[link](https://github.com/tahy1/avin)**|
+|**2023-08-08**|**Dual input neural networks for positional sound source localization**|Eric Grinstein et.al.|[2308.04169](http://arxiv.org/abs/2308.04169)|**[link](https://github.com/egrinstein/di_nn)**|
+|**2023-07-22**|**Estimating speaker direction on a humanoid robot with binaural acoustic signals**|Pranav Barot et.al.|[2307.12129](http://arxiv.org/abs/2307.12129)|null|
+|**2023-06-28**|**Graph neural networks for sound source localization on distributed microphone networks**|Eric Grinstein et.al.|[2306.16081](http://arxiv.org/abs/2306.16081)|**[link](https://github.com/egrinstein/gnn_ssl)**|
+|**2023-05-31**|**FN-SSL: Full-Band and Narrow-Band Fusion for Sound Source Localization**|Yabo Wang et.al.|[2305.19610](http://arxiv.org/abs/2305.19610)|**[link](https://github.com/audio-westlakeu/fn-ssl)**|
+|**2023-05-03**|**AV-SAM: Segment Anything Model Meets Audio-Visual Localization and Segmentation**|Shentong Mo et.al.|[2305.01836](http://arxiv.org/abs/2305.01836)|null|
+|**2023-04-15**|**Soft Label Coding for End-to-end Sound Source Localization With Ad-hoc Microphone Arrays**|Linfeng Feng et.al.|[2304.07512](http://arxiv.org/abs/2304.07512)|null|
+|**2023-03-30**|**Sound to Visual Scene Generation by Audio-to-Visual Latent Alignment**|Kim Sung-Bin et.al.|[2303.17490](http://arxiv.org/abs/2303.17490)|null|
+|**2023-03-29**|**Audio-Visual Grouping Network for Sound Localization from Mixtures**|Shentong Mo et.al.|[2303.17056](http://arxiv.org/abs/2303.17056)|**[link](https://github.com/stonemo/avgn)**|
+|**2023-01-30**|**Real-Time Acoustic Perception for Automotive Applications**|Jun Yin et.al.|[2301.12808](http://arxiv.org/abs/2301.12808)|null|
+|**2022-12-10**|**Improving trajectory localization accuracy via direction-of-arrival derivative estimation**|Ruchi Pandey et.al.|[2212.03470](http://arxiv.org/abs/2212.03470)|null|
+|**2022-11-21**|**LISA: Localized Image Stylization with Audio via Implicit Neural Representation**|Seung Hyun Lee et.al.|[2211.11381](http://arxiv.org/abs/2211.11381)|null|
+|**2023-04-14**|**FlowGrad: Using Motion for Visual Sound Source Localization**|Rajsuryan Singh et.al.|[2211.08367](http://arxiv.org/abs/2211.08367)|**[link](https://github.com/rrrajjjj/flowgrad)**|
+|**2022-11-06**|**Hear The Flow: Optical Flow-Based Self-Supervised Visual Sound Source Localization**|Dennis Fedorishin et.al.|[2211.03019](http://arxiv.org/abs/2211.03019)|**[link](https://github.com/denfed/heartheflow)**|
+|**2022-11-03**|**MarginNCE: Robust Sound Localization with a Negative Margin**|Sooyoung Park et.al.|[2211.01966](http://arxiv.org/abs/2211.01966)|null|
+|**2022-10-26**|**Deep Learning Based Audio-Visual Multi-Speaker DOA Estimation Using Permutation-Free Loss Function**|Qing Wang et.al.|[2210.14581](http://arxiv.org/abs/2210.14581)|null|
+|**2023-06-05**|**Position tracking of a varying number of sound sources with sliding permutation invariant training**|David Diaz-Guerra et.al.|[2210.14536](http://arxiv.org/abs/2210.14536)|null|
+|**2022-10-16**|**End-to-end Two-dimensional Sound Source Localization With Ad-hoc Microphone Arrays**|Yijun Gong et.al.|[2210.08484](http://arxiv.org/abs/2210.08484)|null|
+|**2022-10-11**|**Observability Analysis of Graph SLAM-Based Joint Calibration of Multiple Microphone Arrays and Sound Source Localization**|Yuanzheng He et.al.|[2210.05600](http://arxiv.org/abs/2210.05600)|null|
+|**2022-08-30**|**A Closer Look at Weakly-Supervised Audio-Visual Source Localization**|Shentong Mo et.al.|[2209.09634](http://arxiv.org/abs/2209.09634)|**[link](https://github.com/stonemo/slavc)**|
+|**2022-06-24**|**Iterative Sound Source Localization for Unknown Number of Sources**|Yanjie Fu et.al.|[2206.12273](http://arxiv.org/abs/2206.12273)|**[link](https://github.com/fyjneverfollows/issl)**|
+|**2022-03-25**|**Self-Supervised Predictive Learning: A Negative-Free Method for Sound Source Localization in Visual Scenes**|Zengjie Song et.al.|[2203.13412](http://arxiv.org/abs/2203.13412)|**[link](https://github.com/zjsong/sspl)**|
+|**2022-04-06**|**HRTF measurement for accurate sound localization cues**|Gyeong-Tae Lee et.al.|[2203.03166](http://arxiv.org/abs/2203.03166)|**[link](https://github.com/han-saram/hrtf-hats-kaist)**|
+|**2022-02-28**|**SmartBelt: A Wearable Microphone Array for Sound Source Localization with Haptic Feedback**|Simon Michaud et.al.|[2202.13974](http://arxiv.org/abs/2202.13974)|null|
+|**2022-02-16**|**SRP-DNN: Learning Direct-Path Phase Difference for Multiple Moving Sound Source Localization**|Bing Yang et.al.|[2202.07859](http://arxiv.org/abs/2202.07859)|null|
+|**2022-02-16**|**Learning Deep Direct-Path Relative Transfer Function for Binaural Sound Source Localization**|Bing Yang et.al.|[2202.07841](http://arxiv.org/abs/2202.07841)|null|
+|**2022-02-13**|**Visual Sound Localization in the Wild by Cross-Modal Interference Erasing**|Xian Liu et.al.|[2202.06406](http://arxiv.org/abs/2202.06406)|**[link](https://github.com/alvinliu0/visual-sound-localization-in-the-wild)**|
+|**2021-11-05**|**Joint Learning of Visual-Audio Saliency Prediction and Sound Source Localization on Multi-face Videos**|Minglang Qiao et.al.|[2111.08567](http://arxiv.org/abs/2111.08567)|**[link](https://github.com/MinglangQiao/MVVA-Database)**|
+|**2021-10-29**|**Differentiable Tracking-Based Training of Deep Learning Sound Source Localizers**|Sharath Adavanne et.al.|[2111.00030](http://arxiv.org/abs/2111.00030)|**[link](https://github.com/sharathadavanne/hungarian-net)**|
+|**2021-10-02**|**Emergency Vehicles Audio Detection and Localization in Autonomous Driving**|Hongyi Sun et.al.|[2109.14797](http://arxiv.org/abs/2109.14797)|null|
+|**2022-06-17**|**A Survey of Sound Source Localization with Deep Learning Methods**|Pierre-Amaury Grumiaux et.al.|[2109.03465](http://arxiv.org/abs/2109.03465)|null|
+|**2021-08-03**|**AcousticFusion: Fusing Sound Source Localization to Visual SLAM in Dynamic Environments**|Tianwei Zhang et.al.|[2108.01246](http://arxiv.org/abs/2108.01246)|null|
+|**2021-06-01**|**Dual Normalization Multitasking for Audio-Visual Sounding Object Localization**|Tokuhiro Nishikawa et.al.|[2106.00180](http://arxiv.org/abs/2106.00180)|null|
+|**2021-05-05**|**Improved feature extraction for CRNN-based multiple sound source localization**|Pierre-Amaury Grumiaux et.al.|[2105.01897](http://arxiv.org/abs/2105.01897)|null|
+|**2021-04-27**|**BeamLearning: an end-to-end Deep Learning approach for the angular localization of sound sources using raw multichannel acoustic pressure data**|Hadrien Pujol et.al.|[2104.13347](http://arxiv.org/abs/2104.13347)|null|
+|**2022-07-09**|**Self-supervised object detection from audio-visual correspondence**|Triantafyllos Afouras et.al.|[2104.06401](http://arxiv.org/abs/2104.06401)|null|
+|**2021-03-10**|**Search Disaster Victims using Sound Source Localization**|Abhish Khanal et.al.|[2103.06049](http://arxiv.org/abs/2103.06049)|**[link](https://github.com/subash-timilsina/Sound-Source-Localization)**|
+|**2022-05-11**|**ODAS: Open embeddeD Audition System**|François Grondin et.al.|[2103.03954](http://arxiv.org/abs/2103.03954)|null|
+|**2021-03-16**|**Ensemble of Discriminators for Domain Adaptation in Multiple Sound Source 2D Localization**|Guillaume Le Moing et.al.|[2012.05908](http://arxiv.org/abs/2012.05908)|null|
+|**2021-03-17**|**Data-Efficient Framework for Real-world Multiple Sound Source 2D Localization**|Guillaume Le Moing et.al.|[2012.05533](http://arxiv.org/abs/2012.05533)|null|
+|**2020-12-10**|**Learning Multiple Sound Source 2D Localization**|Guillaume Le Moing et.al.|[2012.05515](http://arxiv.org/abs/2012.05515)|null|
+|**2020-12-07**|**Reverberant Sound Localization with a Robot Head Based on Direct-Path Relative Transfer Function**|Xiaofei Li et.al.|[2012.03574](http://arxiv.org/abs/2012.03574)|null|
+|**2020-10-30**|**Beamforming for measurements under disturbed propagation conditions using numerically calculated Green's functions**|Marius Lehmann et.al.|[2010.16140](http://arxiv.org/abs/2010.16140)|null|
+|**2021-02-15**|**SSLIDE: Sound Source Localization for Indoors based on Deep Learning**|Yifan Wu et.al.|[2010.14420](http://arxiv.org/abs/2010.14420)|null|
+|**2020-08-13**|**Look, Listen, and Attend: Co-Attention Network for Self-Supervised Audio-Visual Representation Learning**|Ying Cheng et.al.|[2008.05789](http://arxiv.org/abs/2008.05789)|null|
+|**2020-07-28**|**Self-supervised Neural Audio-Visual Sound Source Localization via Probabilistic Spatial Modeling**|Yoshiki Masuyama et.al.|[2007.13976](http://arxiv.org/abs/2007.13976)|null|
+|**2020-07-14**|**Multiple Sound Sources Localization from Coarse to Fine**|Rui Qian et.al.|[2007.06355](http://arxiv.org/abs/2007.06355)|**[link](https://github.com/shvdiwnkozbw/Multi-Source-Sound-Localization)**|
+|**2020-07-11**|**Do We Need Sound for Sound Source Localization?**|Takashi Oya et.al.|[2007.05722](http://arxiv.org/abs/2007.05722)|null|
+|**2020-07-07**|**Multi-Tones' Phase Coding (MTPC) of Interaural Time Difference by Spiking Neural Network**|Zihan Pan et.al.|[2007.03274](http://arxiv.org/abs/2007.03274)|null|
+|**2020-06-28**|**I can attend a meeting too! Towards a human-like telepresence avatar robot to attend meeting on your behalf**|Hrishav Bakul Barua et.al.|[2006.15647](http://arxiv.org/abs/2006.15647)|null|
+|**2020-02-12**|**Audio-Visual Calibration with Polynomial Regression for 2-D Projection Using SVD-PHAT**|Francois Grondin et.al.|[2002.01440](http://arxiv.org/abs/2002.01440)|null|
+|**2019-12-10**|**Advances in Online Audio-Visual Meeting Transcription**|Takuya Yoshioka et.al.|[1912.04979](http://arxiv.org/abs/1912.04979)|null|
+|**2019-11-28**|**Performance Comparison of UCA and UCCA based Real-time Sound Source Localization Systems using Circular Harmonics SRP Method**|Zhe Zhang et.al.|[1911.12616](http://arxiv.org/abs/1911.12616)|null|
+|**2019-11-20**|**Learning to Localize Sound Sources in Visual Scenes: Analysis and Applications**|Arda Senocak et.al.|[1911.09649](http://arxiv.org/abs/1911.09649)|null|
+|**2019-10-25**|**Watch, Listen and Tell: Multi-modal Weakly Supervised Dense Event Captioning**|Tanzila Rahman et.al.|[1909.09944](http://arxiv.org/abs/1909.09944)|null|
+|**2019-09-16**|**Real-time 3-D Mapping with Estimating Acoustic Materials**|Taeyoung Kim et.al.|[1909.06998](http://arxiv.org/abs/1909.06998)|null|
+|**2020-10-21**|**The LOCATA Challenge: Acoustic Source Localization and Tracking**|Christine Evers et.al.|[1909.01008](http://arxiv.org/abs/1909.01008)|**[link](https://github.com/cevers/sap_locata_eval)**|
+|**2019-07-29**|**Fast and Robust 3-D Sound Source Localization with DSVD-PHAT**|Francois Grondin et.al.|[1907.12621](http://arxiv.org/abs/1907.12621)|null|
+|**2019-07-03**|**Audio-Based Search and Rescue with a Drone: Highlights from the IEEE Signal Processing Cup 2019 Student Competition**|Antoine Deleforge et.al.|[1907.04655](http://arxiv.org/abs/1907.04655)|null|
+|**2019-07-02**|**Can a Robot Hear the Shape and Dimensions of a Room?**|Linh Nguyen et.al.|[1907.01169](http://arxiv.org/abs/1907.01169)|null|
+|**2019-06-27**|**Multiple Sound Source Localization with SVD-PHAT**|Francois Grondin et.al.|[1906.11913](http://arxiv.org/abs/1906.11913)|null|
+|**2019-06-21**|**Mirage: 2D Source Localization Using Microphone Pair Augmentation with Echoes**|Diego Di Carlo et.al.|[1906.08968](http://arxiv.org/abs/1906.08968)|null|
+|**2019-06-20**|**A Signal Subspace Rotation Method for Localization of Multiple Wideband Sound Sources**|Kainan Chen et.al.|[1906.08847](http://arxiv.org/abs/1906.08847)|null|
+|**2019-02-25**|**Robust Sound Source Localization considering Similarity of Back-Propagation Signals**|Inkyu An et.al.|[1902.09179](http://arxiv.org/abs/1902.09179)|null|
+|**2019-02-13**|**Enhanced Robot Speech Recognition Using Biomimetic Binaural Sound Source Localization**|Jorge et.al.|[1902.05446](http://arxiv.org/abs/1902.05446)|null|
+|**2018-12-14**|**Evaluation of an open-source implementation of the SRP-PHAT algorithm within the 2018 LOCATA challenge**|Romain Lebarbenchon et.al.|[1812.05901](http://arxiv.org/abs/1812.05901)|null|
+|**2018-12-10**|**A Computationally Efficient and Practically Feasible Two Microphones Blind Speech Separation Method**|Chandan K A Reddy et.al.|[1812.03914](http://arxiv.org/abs/1812.03914)|null|
+|**2018-12-06**|**Binaural Source Localization based on Modulation-Domain Features and Decision Pooling**|Semih Ağcaer et.al.|[1812.02399](http://arxiv.org/abs/1812.02399)|null|
+|**2018-12-01**|**Lightweight and Optimized Sound Source Localization and Tracking Methods for Open and Closed Microphone Array Configurations**|Francois Grondin et.al.|[1812.00115](http://arxiv.org/abs/1812.00115)|null|
+|**2019-02-11**|**SVD-PHAT: A Fast Sound Source Localization Method**|Francois Grondin et.al.|[1811.11785](http://arxiv.org/abs/1811.11785)|null|
+|**2019-08-20**|**Proceedings of the LOCATA Challenge Workshop -- a satellite event of IWAENC 2018**|Heinrich W. Loellmann et.al.|[1811.08482](http://arxiv.org/abs/1811.08482)|null|
+|**2018-12-04**|**TRAMP: Tracking by a Real-time AMbisonic-based Particle filter**|Srđan Kitić et.al.|[1810.04080](http://arxiv.org/abs/1810.04080)|null|
+|**2018-09-20**|**Evaluating MCC-PHAT for the LOCATA Challenge - Task 1 and Task 3**|Shoufeng Lin et.al.|[1809.07549](http://arxiv.org/abs/1809.07549)|null|
+|**2018-08-20**|**Deep Residual Network for Sound Source Localization in the Time Domain**|Dmitry Suvorov et.al.|[1808.06429](http://arxiv.org/abs/1808.06429)|null|
+|**2020-06-28**|**Multi-Sound-Source Localization Using Machine Learning for Small Autonomous Unmanned Vehicles with a Self-Rotating Bi-Microphone Array**|Deepak Gala et.al.|[1804.05111](http://arxiv.org/abs/1804.05111)|null|
+|**2018-10-09**|**Audio-Visual Scene Analysis with Self-Supervised Multisensory Features**|Andrew Owens et.al.|[1804.03641](http://arxiv.org/abs/1804.03641)|null|
+|**2018-04-10**|**Realtime Active Sound Source Localization for Unmanned Ground Robots Using a Self-Rotational Bi-Microphone Array**|Deepak Gala et.al.|[1804.03372](http://arxiv.org/abs/1804.03372)|null|
+|**2018-03-10**|**Learning to Localize Sound Source in Visual Scenes**|Arda Senocak et.al.|[1803.03849](http://arxiv.org/abs/1803.03849)|null|
+|**2018-02-13**|**Phased Microphone Array for Sound Source Localization with Deep Learning**|Wei Ma et.al.|[1802.04479](http://arxiv.org/abs/1802.04479)|null|
+|**2018-08-28**|**Direction of Arrival with One Microphone, a few LEGOs, and Non-Negative Matrix Factorization**|Dalia El Badawy et.al.|[1801.03740](http://arxiv.org/abs/1801.03740)|**[link](https://github.com/swing-research/scatsense)**|
+|**2017-12-21**|**Indoor Sound Source Localization with Probabilistic Neural Network**|Yingxiang Sun et.al.|[1712.07814](http://arxiv.org/abs/1712.07814)|null|
+|**2018-02-26**|**Deep Neural Networks for Multiple Speaker Detection and Localization**|Weipeng He et.al.|[1711.11565](http://arxiv.org/abs/1711.11565)|null|
+|**2017-11-21**|**Reflection-Aware Sound Source Localization**|Inkyu An et.al.|[1711.07791](http://arxiv.org/abs/1711.07791)|null|
+|**2017-10-27**|**Sound Source Localization in a Multipath Environment Using Convolutional Neural Networks**|Eric L. Ferguson et.al.|[1710.10948](http://arxiv.org/abs/1710.10948)|null|
+|**2016-12-14**|**VAST : The Virtual Acoustic Space Traveler Dataset**|Clément Gaultier et.al.|[1612.06287](http://arxiv.org/abs/1612.06287)|null|
+|**2017-03-20**|**Hearing in a shoe-box : binaural source position and wall absorption estimation using virtually supervised learning**|Saurabh Kataria et.al.|[1609.09747](http://arxiv.org/abs/1609.09747)|null|
+|**2016-09-30**|**Rectified binaural ratio: A complex T-distributed feature for robust sound localization**|Antoine Deleforge et.al.|[1609.09743](http://arxiv.org/abs/1609.09743)|null|
+|**2016-08-29**|**Improving the Efficiency of DAMAS for Sound Source Localization via Wavelet Compression Computational Grid**|Wei Ma et.al.|[1608.05179](http://arxiv.org/abs/1608.05179)|null|
+|**2016-02-27**|**Robust 3D Localization and Tracking of Sound Sources Using Beamforming and Particle Filtering**|Jean-Marc Valin et.al.|[1604.01642](http://arxiv.org/abs/1604.01642)|null|
+|**2016-02-27**|**Localization of Simultaneous Moving Sound Sources for Mobile Robot Using a Frequency-Domain Steered Beamformer Approach**|Jean-Marc Valin et.al.|[1602.08629](http://arxiv.org/abs/1602.08629)|null|
+|**2016-02-26**|**Robust Sound Source Localization Using a Microphone Array on a Mobile Robot**|Jean-Marc Valin et.al.|[1602.08213](http://arxiv.org/abs/1602.08213)|null|
+|**2016-02-25**|**Robust Localization and Tracking of Simultaneous Moving Sound Sources Using Beamforming and Particle Filtering**|Jean-Marc Valin et.al.|[1602.08139](http://arxiv.org/abs/1602.08139)|null|
+|**2016-06-27**|**Estimation of the Direct-Path Relative Transfer Function for Supervised Sound-Source Localization**|Xiaofei Li et.al.|[1509.03205](http://arxiv.org/abs/1509.03205)|null|
+|**2015-08-13**|**Semi-Supervised Sound Source Localization Based on Manifold Regularization**|Bracha Laufer-Goldshtein et.al.|[1508.03148](http://arxiv.org/abs/1508.03148)|null|
+|**2015-03-03**|**Sampling Sparse Signals on the Sphere: Algorithms and Applications**|Ivan Dokmanic et.al.|[1502.07577](http://arxiv.org/abs/1502.07577)|null|
+|**2015-02-11**|**Gaussian Process Models for HRTF based Sound-Source Localization and Active-Learning**|Yuancheng Luo et.al.|[1502.03163](http://arxiv.org/abs/1502.03163)|null|
+|**2015-02-16**|**Efficient Steered-Response Power Methods for Sound Source Localization Using Microphone Arrays**|Markus V. S. Lima et.al.|[1407.2351](http://arxiv.org/abs/1407.2351)|null|
+|**2014-02-12**|**A Geometric Approach to Sound Source Localization from Time-Delay Estimates**|Xavier Alameda-Pineda et.al.|[1311.1047](http://arxiv.org/abs/1311.1047)|null|
+
+<p align=right>(<a href=#updated-on-20241218>back to top</a>)</p>
+
+## AVS
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2024-12-17**|**Multimodal Class-aware Semantic Enhancement Network for Audio-Visual Video Parsing**|Pengcheng Zhao et.al.|[2412.11248](http://arxiv.org/abs/2412.11248)|null|
+|**2024-12-11**|**Collaborative Hybrid Propagator for Temporal Misalignment in Audio-Visual Segmentation**|Kexin Li et.al.|[2412.08161](http://arxiv.org/abs/2412.08161)|null|
+|**2024-11-04**|**3D Audio-Visual Segmentation**|Artem Sokolov et.al.|[2411.02236](http://arxiv.org/abs/2411.02236)|null|
+|**2024-08-03**|**AVESFormer: Efficient Transformer Design for Real-Time Audio-Visual Segmentation**|Zili Wang et.al.|[2408.01708](http://arxiv.org/abs/2408.01708)|**[link](https://github.com/markxcloud/avesformer)**|
+|**2024-07-23**|**Unveiling and Mitigating Bias in Audio Visual Segmentation**|Peiwen Sun et.al.|[2407.16638](http://arxiv.org/abs/2407.16638)|null|
+|**2024-09-12**|**Stepping Stones: A Progressive Training Strategy for Audio-Visual Semantic Segmentation**|Juncheng Ma et.al.|[2407.11820](http://arxiv.org/abs/2407.11820)|**[link](https://github.com/GeWu-Lab/Stepping-Stones)**|
+|**2024-07-15**|**Ref-AVS: Refer and Segment Objects in Audio-Visual Scenes**|Yaoting Wang et.al.|[2407.10957](http://arxiv.org/abs/2407.10957)|null|
+|**2024-07-15**|**Can Textual Semantics Mitigate Sounding Object Segmentation Preference?**|Yaoting Wang et.al.|[2407.10947](http://arxiv.org/abs/2407.10947)|**[link](https://github.com/gewu-lab/sounding-object-segmentation-preference)**|
+|**2024-07-11**|**Label-anticipated Event Disentanglement for Audio-Visual Video Parsing**|Jinxing Zhou et.al.|[2407.08126](http://arxiv.org/abs/2407.08126)|null|
+|**2024-09-29**|**CPM: Class-conditional Prompting Machine for Audio-visual Segmentation**|Yuanhong Chen et.al.|[2407.05358](http://arxiv.org/abs/2407.05358)|null|
+|**2024-07-03**|**SAVE: Segment Audio-Visual Easy way using Segment Anything Model**|Khanh-Binh Nguyen et.al.|[2407.02004](http://arxiv.org/abs/2407.02004)|null|
+|**2024-06-10**|**Extending Segment Anything Model into Auditory and Temporal Dimensions for Audio-Visual Segmentation**|Juhyeong Seon et.al.|[2406.06163](http://arxiv.org/abs/2406.06163)|**[link](https://github.com/Sunjuhyeong/SAM_STBAVA)**|
+|**2024-06-04**|**Progressive Confident Masking Attention Network for Audio-Visual Segmentation**|Yuxuan Wang et.al.|[2406.02345](http://arxiv.org/abs/2406.02345)|null|
+|**2024-03-21**|**Unsupervised Audio-Visual Segmentation with Modality Alignment**|Swapnil Bhosale et.al.|[2403.14203](http://arxiv.org/abs/2403.14203)|null|
+|**2024-03-17**|**Audio-Visual Segmentation via Unlabeled Frame Exploitation**|Jinxiang Liu et.al.|[2403.11074](http://arxiv.org/abs/2403.11074)|null|
+|**2024-02-06**|**Bootstrapping Audio-Visual Segmentation by Strengthening Audio Cues**|Tianxiang Chen et.al.|[2402.02327](http://arxiv.org/abs/2402.02327)|null|
+|**2024-04-07**|**Cooperation Does Matter: Exploring Multi-Order Bilateral Relations for Audio-Visual Segmentation**|Qi Yang et.al.|[2312.06462](http://arxiv.org/abs/2312.06462)|**[link](https://github.com/yannqi/COMBO-AVS)**|
+|**2023-12-02**|**Unveiling the Power of Audio-Visual Early Fusion Transformers with Dense Interactions through Masked Modeling**|Shentong Mo et.al.|[2312.01017](http://arxiv.org/abs/2312.01017)|**[link](https://github.com/stonemo/deepavfusion)**|
+|**2023-11-25**|**Weakly-Supervised Audio-Visual Segmentation**|Shentong Mo et.al.|[2311.15080](http://arxiv.org/abs/2311.15080)|null|
+|**2023-10-12**|**Multimodal Variational Auto-encoder based Audio-Visual Segmentation**|Yuxin Mao et.al.|[2310.08303](http://arxiv.org/abs/2310.08303)|**[link](https://github.com/opennlplab/mmvae-avs)**|
+|**2024-07-17**|**Cross-modal Cognitive Consensus guided Audio-Visual Segmentation**|Zhaofeng Shi et.al.|[2310.06259](http://arxiv.org/abs/2310.06259)|**[link](https://github.com/zhaofengshi/avs-c3n)**|
+|**2023-09-18**|**Discovering Sounding Objects by Audio Queries for Audio Visual Segmentation**|Shaofei Huang et.al.|[2309.09501](http://arxiv.org/abs/2309.09501)|null|
+|**2023-09-13**|**Leveraging Foundation models for Unsupervised Audio-Visual Segmentation**|Swapnil Bhosale et.al.|[2309.06728](http://arxiv.org/abs/2309.06728)|null|
+|**2023-08-20**|**BAVS: Bootstrapping Audio-Visual Segmentation by Integrating Foundation Knowledge**|Chen Liu et.al.|[2308.10175](http://arxiv.org/abs/2308.10175)|null|
+|**2023-12-19**|**Improving Audio-Visual Segmentation with Bidirectional Generation**|Dawei Hao et.al.|[2308.08288](http://arxiv.org/abs/2308.08288)|**[link](https://github.com/opennlplab/avs-bidirectional)**|
+|**2023-08-10**|**Progressive Spatio-temporal Perception for Audio-Visual Question Answering**|Guangyao Li et.al.|[2308.05421](http://arxiv.org/abs/2308.05421)|**[link](https://github.com/gewu-lab/pstp-net)**|
+|**2023-08-01**|**Audio-Visual Segmentation by Exploring Cross-Modal Mutual Semantics**|Chen Liu et.al.|[2307.16620](http://arxiv.org/abs/2307.16620)|null|
+|**2023-07-31**|**Contrastive Conditional Latent Diffusion for Audio-visual Segmentation**|Yuxin Mao et.al.|[2307.16579](http://arxiv.org/abs/2307.16579)|null|
+|**2023-07-25**|**Audio-aware Query-enhanced Transformer for Audio-Visual Segmentation**|Jinxiang Liu et.al.|[2307.13236](http://arxiv.org/abs/2307.13236)|null|
+|**2023-12-18**|**AVSegFormer: Audio-Visual Segmentation with Transformer**|Shengyi Gao et.al.|[2307.01146](http://arxiv.org/abs/2307.01146)|**[link](https://github.com/vvvb-github/avsegformer)**|
+|**2023-10-07**|**Annotation-free Audio-Visual Segmentation**|Jinxiang Liu et.al.|[2305.11019](http://arxiv.org/abs/2305.11019)|null|
+|**2023-12-26**|**Transavs: End-To-End Audio-Visual Segmentation With Transformer**|Yuhang Ling et.al.|[2305.07223](http://arxiv.org/abs/2305.07223)|null|
+|**2023-05-03**|**AV-SAM: Segment Anything Model Meets Audio-Visual Localization and Segmentation**|Shentong Mo et.al.|[2305.01836](http://arxiv.org/abs/2305.01836)|null|
+|**2024-09-17**|**MED-VT++: Unifying Multimodal Learning with a Multiscale Encoder-Decoder Video Transformer**|Rezaul Karim et.al.|[2304.05930](http://arxiv.org/abs/2304.05930)|null|
+|**2024-08-14**|**Unraveling Instance Associations: A Closer Look for Audio-Visual Segmentation**|Yuanhong Chen et.al.|[2304.02970](http://arxiv.org/abs/2304.02970)|**[link](https://github.com/cyh-0/CAVP)**|
+|**2023-01-30**|**Audio-Visual Segmentation with Semantics**|Jinxing Zhou et.al.|[2301.13190](http://arxiv.org/abs/2301.13190)|**[link](https://github.com/opennlplab/avsbench)**|
+|**2023-02-17**|**Audio-Visual Segmentation**|Jinxing Zhou et.al.|[2207.05042](http://arxiv.org/abs/2207.05042)|**[link](https://github.com/opennlplab/avsbench)**|
+|**2021-04-05**|**Positive Sample Propagation along the Audio-Visual Event Line**|Jinxing Zhou et.al.|[2104.00239](http://arxiv.org/abs/2104.00239)|**[link](https://github.com/jasongief/PSP_CVPR_2021)**|
+
+<p align=right>(<a href=#updated-on-20241218>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
