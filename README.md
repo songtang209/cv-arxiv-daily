@@ -12,11 +12,10 @@
     <li><a href=#res>RES</a></li>
     <li><a href=#rec>REC</a></li>
     <li><a href=#rvos>RVOS</a></li>
-    <li><a href=#3d-res>3D-RES</a></li>
-    <li><a href=#3d-rec>3D-REC</a></li>
-    <li><a href=#sam-2>SAM 2</a></li>
     <li><a href=#avl>AVL</a></li>
     <li><a href=#avs>AVS</a></li>
+    <li><a href=#3d-res>3D-RES</a></li>
+    <li><a href=#3d-rec>3D-REC</a></li>
   </ol>
 </details>
 
@@ -897,152 +896,6 @@
 
 <p align=right>(<a href=#updated-on-20241218>back to top</a>)</p>
 
-## 3D-RES
-
-|Publish Date|Title|Authors|PDF|Code|
-|---|---|---|---|---|
-|**2024-12-03**|**RG-SAN: Rule-Guided Spatial Awareness Network for End-to-End 3D Referring Expression Segmentation**|Changli Wu et.al.|[2412.02402](http://arxiv.org/abs/2412.02402)|**[link](https://github.com/sosppxo/rg-san)**|
-|**2024-07-31**|**3D-GRES: Generalized 3D Referring Expression Segmentation**|Changli Wu et.al.|[2407.20664](http://arxiv.org/abs/2407.20664)|**[link](https://github.com/sosppxo/MDIN)**|
-|**2023-08-31**|**3D-STMN: Dependency-Driven Superpoint-Text Matching Network for End-to-End 3D Referring Expression Segmentation**|Changli Wu et.al.|[2308.16632](http://arxiv.org/abs/2308.16632)|**[link](https://github.com/sosppxo/3d-stmn)**|
-
-<p align=right>(<a href=#updated-on-20241218>back to top</a>)</p>
-
-## 3D-REC
-
-|Publish Date|Title|Authors|PDF|Code|
-|---|---|---|---|---|
-|**2024-12-09**|**3D Spatial Understanding in MLLMs: Disambiguation and Evaluation**|Chun-Peng Chang et.al.|[2412.06613](http://arxiv.org/abs/2412.06613)|null|
-|**2024-12-05**|**SeeGround: See and Ground for Zero-Shot Open-Vocabulary 3D Visual Grounding**|Rong Li et.al.|[2412.04383](http://arxiv.org/abs/2412.04383)|null|
-|**2024-11-27**|**3D Scene Graph Guided Vision-Language Pre-training**|Hao Liu et.al.|[2411.18666](http://arxiv.org/abs/2411.18666)|null|
-|**2024-11-27**|**BIP3D: Bridging 2D Images and 3D Perception for Embodied Intelligence**|Xuewu Lin et.al.|[2411.14869](http://arxiv.org/abs/2411.14869)|**[link](https://github.com/HorizonRobotics/BIP3D)**|
-|**2024-11-21**|**Solving Zero-Shot 3D Visual Grounding as Constraint Satisfaction Problems**|Qihao Yuan et.al.|[2411.14594](http://arxiv.org/abs/2411.14594)|**[link](https://github.com/sunsleaf/csvg)**|
-|**2024-11-07**|**LidaRefer: Outdoor 3D Visual Grounding for Autonomous Driving with Transformers**|Yeong-Seung Baek et.al.|[2411.04351](http://arxiv.org/abs/2411.04351)|null|
-|**2024-11-05**|**Fine-Grained Spatial and Verbal Losses for 3D Visual Grounding**|Sombit Dey et.al.|[2411.03405](http://arxiv.org/abs/2411.03405)|null|
-|**2024-10-21**|**Joint Top-Down and Bottom-Up Frameworks for 3D Visual Grounding**|Yang Liu et.al.|[2410.15615](http://arxiv.org/abs/2410.15615)|null|
-|**2024-10-17**|**VLM-Grounder: A VLM Agent for Zero-Shot 3D Visual Grounding**|Runsen Xu et.al.|[2410.13860](http://arxiv.org/abs/2410.13860)|**[link](https://github.com/openrobotlab/vlm-grounder)**|
-|**2024-09-12**|**Bayesian Self-Training for Semi-Supervised 3D Segmentation**|Ozan Unal et.al.|[2409.08102](http://arxiv.org/abs/2409.08102)|null|
-|**2024-08-07**|**Task-oriented Sequential Grounding in 3D Scenes**|Zhuofan Zhang et.al.|[2408.04034](http://arxiv.org/abs/2408.04034)|null|
-|**2024-07-25**|**RefMask3D: Language-Guided Transformer for 3D Referring Segmentation**|Shuting He et.al.|[2407.18244](http://arxiv.org/abs/2407.18244)|**[link](https://github.com/heshuting555/refmask3d)**|
-|**2024-09-02**|**PD-APE: A Parallel Decoding Framework with Adaptive Position Encoding for 3D Visual Grounding**|Chenshu Hou et.al.|[2407.14491](http://arxiv.org/abs/2407.14491)|null|
-|**2024-07-10**|**Multi-branch Collaborative Learning Network for 3D Visual Grounding**|Zhipeng Qian et.al.|[2407.05363](http://arxiv.org/abs/2407.05363)|**[link](https://github.com/qzp2018/MCLN)**|
-|**2024-07-17**|**ScanReason: Empowering 3D Visual Grounding with Reasoning Capabilities**|Chenming Zhu et.al.|[2407.01525](http://arxiv.org/abs/2407.01525)|null|
-|**2024-06-13**|**MMScan: A Multi-Modal 3D Scene Dataset with Hierarchical Grounded Language Annotations**|Ruiyuan Lyu et.al.|[2406.09401](http://arxiv.org/abs/2406.09401)|**[link](https://github.com/openrobotlab/embodiedscan)**|
-|**2024-06-13**|**Dual Attribute-Spatial Relation Alignment for 3D Visual Grounding**|Yue Xu et.al.|[2406.08907](http://arxiv.org/abs/2406.08907)|null|
-|**2024-07-22**|**A Survey on Text-guided 3D Visual Grounding: Elements, Recent Advances, and Future Directions**|Daizong Liu et.al.|[2406.05785](http://arxiv.org/abs/2406.05785)|**[link](https://github.com/liudaizong/awesome-3d-visual-grounding)**|
-|**2024-07-06**|**Intent3D: 3D Object Detection in RGB-D Scans Based on Human Intention**|Weitai Kang et.al.|[2405.18295](http://arxiv.org/abs/2405.18295)|null|
-|**2024-05-24**|**Talk to Parallel LiDARs: A Human-LiDAR Interaction Method Based on 3D Visual Grounding**|Yuhang Liu et.al.|[2405.15274](http://arxiv.org/abs/2405.15274)|null|
-|**2024-07-19**|**Talk2Radar: Bridging Natural Language with 4D mmWave Radar for 3D Referring Expression Comprehension**|Runwei Guan et.al.|[2405.12821](http://arxiv.org/abs/2405.12821)|**[link](https://github.com/guanrunwei/talk2radar)**|
-|**2024-04-30**|**Naturally Supervised 3D Visual Grounding with Language-Regularized Concept Learners**|Chun Feng et.al.|[2404.19696](http://arxiv.org/abs/2404.19696)|null|
-|**2024-09-19**|**Rethinking 3D Dense Caption and Visual Grounding in A Unified Framework through Prompt-based Localization**|Yongdong Luo et.al.|[2404.11064](http://arxiv.org/abs/2404.11064)|null|
-|**2024-12-04**|**Data-Efficient 3D Visual Grounding via Order-Aware Referring**|Tung-Yu Wu et.al.|[2403.16539](http://arxiv.org/abs/2403.16539)|null|
-|**2024-03-13**|**SeCG: Semantic-Enhanced 3D Visual Grounding via Cross-modal Graph Attention**|Feng Xiao et.al.|[2403.08182](http://arxiv.org/abs/2403.08182)|null|
-|**2024-12-01**|**MiKASA: Multi-Key-Anchor & Scene-Aware Transformer for 3D Visual Grounding**|Chun-Peng Chang et.al.|[2403.03077](http://arxiv.org/abs/2403.03077)|**[link](https://github.com/dfki-av/mikasa-3dvg)**|
-|**2024-09-24**|**SceneVerse: Scaling 3D Vision-Language Learning for Grounded Scene Understanding**|Baoxiong Jia et.al.|[2401.09340](http://arxiv.org/abs/2401.09340)|null|
-|**2024-08-30**|**Weakly-Supervised 3D Visual Grounding based on Visual Linguistic Alignment**|Xiaoxu Xu et.al.|[2312.09625](http://arxiv.org/abs/2312.09625)|null|
-|**2023-12-13**|**Mono3DVG: 3D Visual Grounding in Monocular Images**|Yang Zhan et.al.|[2312.08022](http://arxiv.org/abs/2312.08022)|**[link](https://github.com/zhanyang-nwpu/mono3dvg)**|
-|**2024-03-23**|**Visual Programming for Zero-shot Open-Vocabulary 3D Visual Grounding**|Zhihao Yuan et.al.|[2311.15383](http://arxiv.org/abs/2311.15383)|**[link](https://github.com/CurryYuan/ZSVG3D)**|
-|**2023-10-28**|**CityRefer: Geography-aware 3D Visual Grounding Dataset on City-scale Point Cloud Data**|Taiki Miyanishi et.al.|[2310.18773](http://arxiv.org/abs/2310.18773)|**[link](https://github.com/atr-dbi/cityrefer)**|
-|**2024-10-05**|**CoT3DRef: Chain-of-Thoughts Data-Efficient 3D Visual Grounding**|Eslam Abdelrahman et.al.|[2310.06214](http://arxiv.org/abs/2310.06214)|**[link](https://github.com/eslambakr/CoT3D_VG)**|
-|**2023-09-21**|**LLM-Grounder: Open-Vocabulary 3D Visual Grounding with Large Language Model as an Agent**|Jianing Yang et.al.|[2309.12311](http://arxiv.org/abs/2309.12311)|**[link](https://github.com/sled-group/chat-with-nerf)**|
-|**2023-09-11**|**Multi3DRefer: Grounding Text Description to Multiple 3D Objects**|Yiming Zhang et.al.|[2309.05251](http://arxiv.org/abs/2309.05251)|null|
-|**2024-07-16**|**Four Ways to Improve Verbo-visual Fusion for Dense 3D Visual Grounding**|Ozan Unal et.al.|[2309.04561](http://arxiv.org/abs/2309.04561)|null|
-|**2023-11-20**|**A Unified Framework for 3D Point Cloud Visual Grounding**|Haojia Lin et.al.|[2308.11887](http://arxiv.org/abs/2308.11887)|**[link](https://github.com/leon1207/3dreftr)**|
-|**2023-07-25**|**3DRP-Net: 3D Relative Position-aware Network for 3D Visual Grounding**|Zehan Wang et.al.|[2307.13363](http://arxiv.org/abs/2307.13363)|null|
-|**2023-07-18**|**Distilling Coarse-to-Fine Semantic Matching Knowledge for Weakly Supervised 3D Visual Grounding**|Zehan Wang et.al.|[2307.09267](http://arxiv.org/abs/2307.09267)|**[link](https://github.com/ZzZZCHS/WS-3DVG)**|
-|**2023-05-25**|**Language-Guided 3D Object Detection in Point Cloud for Autonomous Driving**|Wenhao Cheng et.al.|[2305.15765](http://arxiv.org/abs/2305.15765)|null|
-|**2024-02-07**|**Cross3DVG: Cross-Dataset 3D Visual Grounding on Different RGB-D Scans**|Taiki Miyanishi et.al.|[2305.13876](http://arxiv.org/abs/2305.13876)|**[link](https://github.com/atr-dbi/cross3dvg)**|
-|**2024-07-15**|**WildRefer: 3D Object Localization in Large-scale Dynamic Scenes with Multi-modal Visual Data and Natural Language**|Zhenxiang Lin et.al.|[2304.05645](http://arxiv.org/abs/2304.05645)|**[link](https://github.com/4dvlab/wildrefer)**|
-|**2023-12-05**|**ViewRefer: Grasp the Multi-view Knowledge for 3D Visual Grounding with GPT and Prototype Guidance**|Zoey Guo et.al.|[2303.16894](http://arxiv.org/abs/2303.16894)|**[link](https://github.com/ivan-tang-3d/viewrefer3d)**|
-|**2023-03-23**|**NS3D: Neuro-Symbolic Grounding of 3D Objects and Relations**|Joy Hsu et.al.|[2303.13483](http://arxiv.org/abs/2303.13483)|null|
-|**2023-03-23**|**ScanERU: Interactive 3D Visual Grounding based on Embodied Reference Understanding**|Ziyang Lu et.al.|[2303.13186](http://arxiv.org/abs/2303.13186)|**[link](https://github.com/mrlearnedtoad/scaneru)**|
-|**2022-12-01**|**UniT3D: A Unified Transformer for 3D Dense Captioning and Visual Grounding**|Dave Zhenyu Chen et.al.|[2212.00836](http://arxiv.org/abs/2212.00836)|null|
-|**2022-11-25**|**Look Around and Refer: 2D Synthetic Semantics Knowledge Distillation for 3D Visual Grounding**|Eslam Mohamed Bakr et.al.|[2211.14241](http://arxiv.org/abs/2211.14241)|**[link](https://github.com/eslambakr/LAR-Look-Around-and-Refer)**|
-|**2023-06-09**|**Learning Point-Language Hierarchical Alignment for 3D Visual Grounding**|Jiaming Chen et.al.|[2210.12513](http://arxiv.org/abs/2210.12513)|**[link](https://github.com/ppjmchen/ham)**|
-|**2023-04-24**|**EDA: Explicit Text-Decoupling and Dense Alignment for 3D Visual Grounding**|Yanmin Wu et.al.|[2209.14941](http://arxiv.org/abs/2209.14941)|**[link](https://github.com/yanmin-wu/eda)**|
-|**2023-05-27**|**Toward Explainable and Fine-Grained 3D Grounding through Referring Textual Phrases**|Zhihao Yuan et.al.|[2207.01821](http://arxiv.org/abs/2207.01821)|null|
-|**2022-04-13**|**3D-SPS: Single-Stage 3D Visual Grounding via Referred Point Progressive Selection**|Junyu Luo et.al.|[2204.06272](http://arxiv.org/abs/2204.06272)|**[link](https://github.com/fjhzhixi/3d-sps)**|
-|**2022-04-05**|**Multi-View Transformer for 3D Visual Grounding**|Shijia Huang et.al.|[2204.02174](http://arxiv.org/abs/2204.02174)|**[link](https://github.com/sega-hsj/mvt-3dvg)**|
-|**2022-07-22**|**D3Net: A Unified Speaker-Listener Architecture for 3D Dense Captioning and Visual Grounding**|Dave Zhenyu Chen et.al.|[2112.01551](http://arxiv.org/abs/2112.01551)|null|
-|**2021-08-11**|**TransRefer3D: Entity-and-Relation Aware Transformer for Fine-Grained 3D Visual Grounding**|Dailan He et.al.|[2108.02388](http://arxiv.org/abs/2108.02388)|null|
-|**2021-11-04**|**LanguageRefer: Spatial-Language Model for 3D Visual Grounding**|Junha Roh et.al.|[2107.03438](http://arxiv.org/abs/2107.03438)|null|
-|**2021-09-22**|**SAT: 2D Semantics Assisted Training for 3D Visual Grounding**|Zhengyuan Yang et.al.|[2105.11450](http://arxiv.org/abs/2105.11450)|**[link](https://github.com/zyang-ur/SAT)**|
-|**2021-03-17**|**Refer-it-in-RGBD: A Bottom-up Approach for 3D Visual Grounding in RGBD Images**|Haolin Liu et.al.|[2103.07894](http://arxiv.org/abs/2103.07894)|null|
-|**2021-07-29**|**InstanceRefer: Cooperative Holistic Understanding for Visual Grounding on Point Clouds through Instance Multi-level Contextual Referring**|Zhihao Yuan et.al.|[2103.01128](http://arxiv.org/abs/2103.01128)|**[link](https://github.com/CurryYuan/InstanceRefer)**|
-
-<p align=right>(<a href=#updated-on-20241218>back to top</a>)</p>
-
-## SAM 2
-
-|Publish Date|Title|Authors|PDF|Code|
-|---|---|---|---|---|
-|**2024-12-12**|**Efficient Semantic Splatting for Remote Sensing Multi-view Segmentation**|Zipeng Qi et.al.|[2412.05969](http://arxiv.org/abs/2412.05969)|null|
-|**2024-12-02**|**Inspiring the Next Generation of Segment Anything Models: Comprehensively Evaluate SAM and SAM 2 with Diverse Prompts Towards Context-Dependent Concepts under Different Scenes**|Xiaoqi Zhao et.al.|[2412.01240](http://arxiv.org/abs/2412.01240)|null|
-|**2024-12-02**|**Referring Video Object Segmentation via Language-aligned Track Selection**|Seongchan Kim et.al.|[2412.01136](http://arxiv.org/abs/2412.01136)|null|
-|**2024-11-29**|**Adaptive Interactive Segmentation for Multimodal Medical Imaging via Selection Engine**|Zhi Li et.al.|[2411.19447](http://arxiv.org/abs/2411.19447)|**[link](https://github.com/RicoLeehdu/SISeg)**|
-|**2024-11-28**|**SAMa: Material-aware 3D Selection and Segmentation**|Michael Fischer et.al.|[2411.19322](http://arxiv.org/abs/2411.19322)|null|
-|**2024-12-02**|**Det-SAM2:Technical Report on the Self-Prompting Segmentation Framework Based on Segment Anything Model 2**|Zhiting Wang et.al.|[2411.18977](http://arxiv.org/abs/2411.18977)|**[link](https://github.com/motern88/det-sam2)**|
-|**2024-11-28**|**Efficient Track Anything**|Yunyang Xiong et.al.|[2411.18933](http://arxiv.org/abs/2411.18933)|null|
-|**2024-11-26**|**SAMWISE: Infusing wisdom in SAM2 for Text-Driven Video Segmentation**|Claudia Cuttano et.al.|[2411.17646](http://arxiv.org/abs/2411.17646)|**[link](https://github.com/claudiacuttano/samwise)**|
-|**2024-12-04**|**A Distractor-Aware Memory for Visual Object Tracking with SAM2**|Jovana Videnovic et.al.|[2411.17576](http://arxiv.org/abs/2411.17576)|**[link](https://github.com/jovanavidenovic/dam4sam)**|
-|**2024-11-25**|**Learn from Foundation Model: Fruit Detection Model without Manual Annotation**|Yanan Wang et.al.|[2411.16196](http://arxiv.org/abs/2411.16196)|**[link](https://github.com/agroboticsresearch/sdm-d)**|
-|**2024-11-21**|**Segment Anything in Light Fields for Real-Time Applications via Constrained Prompting**|Nikolai Goncharov et.al.|[2411.13840](http://arxiv.org/abs/2411.13840)|**[link](https://github.com/nagonch/LF_SAM_segmentation)**|
-|**2024-11-13**|**SAM-I2I: Unleash the Power of Segment Anything Model for Medical Image Translation**|Jiayu Huo et.al.|[2411.12755](http://arxiv.org/abs/2411.12755)|null|
-|**2024-11-30**|**SAMURAI: Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory**|Cheng-Yen Yang et.al.|[2411.11922](http://arxiv.org/abs/2411.11922)|**[link](https://github.com/yangchris11/samurai)**|
-|**2024-11-13**|**Zero-shot capability of SAM-family models for bone segmentation in CT scans**|Caroline Magg et.al.|[2411.08629](http://arxiv.org/abs/2411.08629)|null|
-|**2024-11-13**|**Motion Control for Enhanced Complex Action Video Generation**|Qiang Zhou et.al.|[2411.08328](http://arxiv.org/abs/2411.08328)|null|
-|**2024-11-08**|**Assessing Foundational Medical 'Segment Anything' (Med-SAM1, Med-SAM2) Deep Learning Models for Left Atrial Segmentation in 3D LGE MRI**|Mehri Mehrnia et.al.|[2411.05963](http://arxiv.org/abs/2411.05963)|null|
-|**2024-10-29**|**SAM-Swin: SAM-Driven Dual-Swin Transformers with Adaptive Lesion Enhancement for Laryngo-Pharyngeal Tumor Detection**|Jia Wei et.al.|[2410.21813](http://arxiv.org/abs/2410.21813)|**[link](https://github.com/vvjia/sam-swin)**|
-|**2024-10-25**|**A-MFST: Adaptive Multi-Flow Sparse Tracker for Real-Time Tissue Tracking Under Occlusion**|Yuxin Chen et.al.|[2410.19996](http://arxiv.org/abs/2410.19996)|null|
-|**2024-10-21**|**SAM2Long: Enhancing SAM 2 for Long Video Segmentation with a Training-Free Memory Tree**|Shuangrui Ding et.al.|[2410.16268](http://arxiv.org/abs/2410.16268)|**[link](https://github.com/mark12ding/sam2long)**|
-|**2024-10-20**|**GRS: Generating Robotic Simulation Tasks from Real-World Images**|Alex Zook et.al.|[2410.15536](http://arxiv.org/abs/2410.15536)|null|
-|**2024-12-12**|**Zero-Shot Pupil Segmentation with SAM 2: A Case Study of Over 14 Million Images**|Virmarie Maquiling et.al.|[2410.08926](http://arxiv.org/abs/2410.08926)|null|
-|**2024-10-09**|**Iterative Optimization Annotation Pipeline and ALSS-YOLO-Seg for Efficient Banana Plantation Segmentation in UAV Imagery**|Ang He et.al.|[2410.07955](http://arxiv.org/abs/2410.07955)|**[link](https://github.com/helloworlder8/computer_vision)**|
-|**2024-11-19**|**Next Best Sense: Guiding Vision and Touch with FisherRF for 3D Gaussian Splatting**|Matthew Strong et.al.|[2410.04680](http://arxiv.org/abs/2410.04680)|**[link](https://github.com/armlabstanford/NextBestSense)**|
-|**2024-10-20**|**SuperPose: Improved 6D Pose Estimation with Robust Tracking and Mask-Free Initialization**|Yu Deng et.al.|[2409.19986](http://arxiv.org/abs/2409.19986)|null|
-|**2024-09-29**|**RoboNurse-VLA: Robotic Scrub Nurse System based on Vision-Language-Action Model**|Shunlei Li et.al.|[2409.19590](http://arxiv.org/abs/2409.19590)|null|
-|**2024-09-27**|**When SAM2 Meets Video Camouflaged Object Segmentation: A Comprehensive Evaluation and Adaptation**|Yuli Zhou et.al.|[2409.18653](http://arxiv.org/abs/2409.18653)|**[link](https://github.com/zhoustan/sam2-vcos)**|
-|**2024-09-25**|**Towards Underwater Camouflaged Object Tracking: An Experimental Evaluation of SAM and SAM 2**|Chunhui Zhang et.al.|[2409.16902](http://arxiv.org/abs/2409.16902)|**[link](https://github.com/983632847/awesome-multimodal-object-tracking)**|
-|**2024-09-24**|**Articulated Object Manipulation using Online Axis Estimation with SAM2-Based Tracking**|Xi Wang et.al.|[2409.16287](http://arxiv.org/abs/2409.16287)|null|
-|**2024-09-20**|**PointSAM: Pointly-Supervised Segment Anything Model for Remote Sensing Images**|Nanqing Liu et.al.|[2409.13401](http://arxiv.org/abs/2409.13401)|**[link](https://github.com/lans1ng/pointsam)**|
-|**2024-09-14**|**Self-Prompting Polyp Segmentation in Colonoscopy using Hybrid Yolo-SAM 2 Model**|Mobina Mansoori et.al.|[2409.09484](http://arxiv.org/abs/2409.09484)|null|
-|**2024-11-25**|**RevSAM2: Prompt SAM2 for Medical Image Segmentation via Reverse-Propagation without Fine-tuning**|Yunhao Bai et.al.|[2409.04298](http://arxiv.org/abs/2409.04298)|**[link](https://github.com/deepmed-lab-ecnu/fs_medsam2)**|
-|**2024-10-02**|**Evaluation Study on SAM 2 for Class-agnostic Instance-level Segmentation**|Jialun Pei et.al.|[2409.02567](http://arxiv.org/abs/2409.02567)|**[link](https://github.com/PJLallen/InstanceSAM2Eval)**|
-|**2024-08-29**|**SAM2Point: Segment Any 3D as Videos in Zero-shot and Promptable Manners**|Ziyu Guo et.al.|[2408.16768](http://arxiv.org/abs/2408.16768)|**[link](https://github.com/ziyuguo99/sam2point)**|
-|**2024-08-28**|**Unleashing the Temporal-Spatial Reasoning Capacity of GPT for Training-Free Audio and Language Referenced Video Object Segmentation**|Shaofei Huang et.al.|[2408.15876](http://arxiv.org/abs/2408.15876)|**[link](https://github.com/appletea233/al-ref-sam2)**|
-|**2024-08-27**|**SAM & SAM 2 in 3D Slicer: SegmentWithSAM Extension for Annotating Medical Images**|Zafer Yildiz et.al.|[2408.15224](http://arxiv.org/abs/2408.15224)|**[link](https://github.com/mazurowski-lab/slicersegmentwithsam)**|
-|**2024-08-26**|**FusionSAM: Latent Space driven Segment Anything Model for Multimodal Fusion and Segmentation**|Daixun Li et.al.|[2408.13980](http://arxiv.org/abs/2408.13980)|null|
-|**2024-08-24**|**Segment Any Mesh: Zero-shot Mesh Part Segmentation via Lifting Segment Anything 2 to 3D**|George Tang et.al.|[2408.13679](http://arxiv.org/abs/2408.13679)|**[link](https://github.com/gtangg12/samesh)**|
-|**2024-08-23**|**Unleashing the Potential of SAM2 for Biomedical Images and Videos: A Survey**|Yichi Zhang et.al.|[2408.12889](http://arxiv.org/abs/2408.12889)|**[link](https://github.com/yichizhang98/sam4mis)**|
-|**2024-08-20**|**A Short Review and Evaluation of SAM2's Performance in 3D CT Image Segmentation**|Yufan He et.al.|[2408.11210](http://arxiv.org/abs/2408.11210)|**[link](https://github.com/Project-MONAI/VISTA)**|
-|**2024-08-21**|**LSVOS Challenge 3rd Place Report: SAM2 and Cutie based VOS**|Xinyu Liu et.al.|[2408.10469](http://arxiv.org/abs/2408.10469)|null|
-|**2024-08-24**|**Video Object Segmentation via SAM 2: The 4th Solution for LSVOS Challenge VOS Track**|Feiyu Pan et.al.|[2408.10125](http://arxiv.org/abs/2408.10125)|null|
-|**2024-08-16**|**SAM2-UNet: Segment Anything 2 Makes Strong Encoder for Natural and Medical Image Segmentation**|Xinyu Xiong et.al.|[2408.08870](http://arxiv.org/abs/2408.08870)|**[link](https://github.com/wzh0120/sam2-unet)**|
-|**2024-08-16**|**Retrieval-augmented Few-shot Medical Image Segmentation with Foundation Models**|Lin Zhao et.al.|[2408.08813](http://arxiv.org/abs/2408.08813)|null|
-|**2024-07-31**|**Segment Anything for Videos: A Systematic Survey**|Chunhui Zhang et.al.|[2408.08315](http://arxiv.org/abs/2408.08315)|**[link](https://github.com/983632847/sam-for-videos)**|
-|**2024-08-15**|**Surgical SAM 2: Real-time Segment Anything in Surgical Video by Efficient Frame Pruning**|Haofeng Liu et.al.|[2408.07931](http://arxiv.org/abs/2408.07931)|**[link](https://github.com/jinlab-imvr/surgical-sam-2)**|
-|**2024-08-15**|**Prompt-Based Segmentation at Multiple Resolutions and Lighting Conditions using Segment Anything Model 2**|Osher Rafaeli et.al.|[2408.06970](http://arxiv.org/abs/2408.06970)|null|
-|**2024-08-12**|**From SAM to SAM 2: Exploring Improvements in Meta's Segment Anything Model**|Athulya Sundaresan Geetha et.al.|[2408.06305](http://arxiv.org/abs/2408.06305)|null|
-|**2024-09-24**|**Zero-shot 3D Segmentation of Abdominal Organs in CT Scans Using Segment Anything Model 2**|Yosuke Yamagishi et.al.|[2408.06170](http://arxiv.org/abs/2408.06170)|null|
-|**2024-09-07**|**Polyp SAM 2: Advancing Zero shot Polyp Segmentation in Colorectal Cancer Detection**|Mobina Mansoori et.al.|[2408.05892](http://arxiv.org/abs/2408.05892)|**[link](https://github.com/sajjad-sh33/polyp-sam-2)**|
-|**2024-08-08**|**Novel adaptation of video segmentation to 3D MRI: efficient zero-shot knee segmentation with SAM2**|Andrew Seohwan Yu et.al.|[2408.04762](http://arxiv.org/abs/2408.04762)|null|
-|**2024-08-08**|**SAM 2 in Robotic Surgery: An Empirical Evaluation for Robustness and Generalization in Surgical Video Segmentation**|Jieming Yu et.al.|[2408.04593](http://arxiv.org/abs/2408.04593)|null|
-|**2024-08-10**|**SAM2-Adapter: Evaluating & Adapting Segment Anything 2 in Downstream Tasks: Camouflage, Shadow, Medical Image Segmentation, and More**|Tianrun Chen et.al.|[2408.04579](http://arxiv.org/abs/2408.04579)|null|
-|**2024-08-12**|**Is SAM 2 Better than SAM in Medical Image Segmentation?**|Sourya Sengupta et.al.|[2408.04212](http://arxiv.org/abs/2408.04212)|null|
-|**2024-09-04**|**Path-SAM2: Transfer SAM2 for digital pathology semantic segmentation**|Mingya Zhang et.al.|[2408.03651](http://arxiv.org/abs/2408.03651)|**[link](https://github.com/simzhangbest/sam2path)**|
-|**2024-08-06**|**Segment Anything in Medical Images and Videos: Benchmark and Deployment**|Jun Ma et.al.|[2408.03322](http://arxiv.org/abs/2408.03322)|**[link](https://github.com/bowang-lab/medsam)**|
-|**2024-08-17**|**Biomedical SAM 2: Segment Anything in Biomedical Images and Videos**|Zhiling Yan et.al.|[2408.03286](http://arxiv.org/abs/2408.03286)|**[link](https://github.com/ZhilingYan/Biomedical-SAM-2)**|
-|**2024-08-06**|**Evaluation of Segment Anything Model 2: The Role of SAM2 in the Underwater Environment**|Shijie Lian et.al.|[2408.02924](http://arxiv.org/abs/2408.02924)|**[link](https://github.com/liamlian0727/underwatersam2eval)**|
-|**2024-08-05**|**Interactive 3D Medical Image Segmentation with SAM 2**|Chuyun Shen et.al.|[2408.02635](http://arxiv.org/abs/2408.02635)|**[link](https://github.com/chuyun-shen/sam_2_medical_3d)**|
-|**2024-08-03**|**Zero-Shot Surgical Tool Segmentation in Monocular Video Using Segment Anything Model 2**|Ange Lou et.al.|[2408.01648](http://arxiv.org/abs/2408.01648)|**[link](https://github.com/AngeLouCN/SAM-2_Surgical_Video)**|
-|**2024-12-04**|**Medical SAM 2: Segment medical images as video via Segment Anything Model 2**|Jiayuan Zhu et.al.|[2408.00874](http://arxiv.org/abs/2408.00874)|**[link](https://github.com/medicinetoken/medical-sam2)**|
-|**2024-08-22**|**Segment anything model 2: an application to 2D and 3D medical images**|Haoyu Dong et.al.|[2408.00756](http://arxiv.org/abs/2408.00756)|**[link](https://github.com/mazurowski-lab/segment-anything-medical-evaluation)**|
-|**2024-10-28**|**SAM 2: Segment Anything in Images and Videos**|Nikhila Ravi et.al.|[2408.00714](http://arxiv.org/abs/2408.00714)|**[link](https://github.com/facebookresearch/sam2)**|
-|**2024-07-31**|**Evaluating SAM2's Role in Camouflaged Object Detection: From SAM to SAM2**|Lv Tang et.al.|[2407.21596](http://arxiv.org/abs/2407.21596)|null|
-|**2024-10-19**|**A Survey on Segment Anything Model (SAM): Vision Foundation Model Meets Prompt Engineering**|Chaoning Zhang et.al.|[2306.06211](http://arxiv.org/abs/2306.06211)|null|
-|**2018-01-26**|**Infinite variance $H$ -sssi processes as limits of particle systems**|Łukasz Treszczotko et.al.|[1709.07644](http://arxiv.org/abs/1709.07644)|null|
-
-<p align=right>(<a href=#updated-on-20241218>back to top</a>)</p>
-
 ## AVL
 
 |Publish Date|Title|Authors|PDF|Code|
@@ -1233,6 +1086,80 @@
 |**2023-01-30**|**Audio-Visual Segmentation with Semantics**|Jinxing Zhou et.al.|[2301.13190](http://arxiv.org/abs/2301.13190)|**[link](https://github.com/opennlplab/avsbench)**|
 |**2023-02-17**|**Audio-Visual Segmentation**|Jinxing Zhou et.al.|[2207.05042](http://arxiv.org/abs/2207.05042)|**[link](https://github.com/opennlplab/avsbench)**|
 |**2021-04-05**|**Positive Sample Propagation along the Audio-Visual Event Line**|Jinxing Zhou et.al.|[2104.00239](http://arxiv.org/abs/2104.00239)|**[link](https://github.com/jasongief/PSP_CVPR_2021)**|
+
+<p align=right>(<a href=#updated-on-20241218>back to top</a>)</p>
+
+## 3D-RES
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2024-12-03**|**RG-SAN: Rule-Guided Spatial Awareness Network for End-to-End 3D Referring Expression Segmentation**|Changli Wu et.al.|[2412.02402](http://arxiv.org/abs/2412.02402)|**[link](https://github.com/sosppxo/rg-san)**|
+|**2024-07-31**|**3D-GRES: Generalized 3D Referring Expression Segmentation**|Changli Wu et.al.|[2407.20664](http://arxiv.org/abs/2407.20664)|**[link](https://github.com/sosppxo/MDIN)**|
+|**2023-08-31**|**3D-STMN: Dependency-Driven Superpoint-Text Matching Network for End-to-End 3D Referring Expression Segmentation**|Changli Wu et.al.|[2308.16632](http://arxiv.org/abs/2308.16632)|**[link](https://github.com/sosppxo/3d-stmn)**|
+
+<p align=right>(<a href=#updated-on-20241218>back to top</a>)</p>
+
+## 3D-REC
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2024-12-09**|**3D Spatial Understanding in MLLMs: Disambiguation and Evaluation**|Chun-Peng Chang et.al.|[2412.06613](http://arxiv.org/abs/2412.06613)|null|
+|**2024-12-05**|**SeeGround: See and Ground for Zero-Shot Open-Vocabulary 3D Visual Grounding**|Rong Li et.al.|[2412.04383](http://arxiv.org/abs/2412.04383)|null|
+|**2024-11-27**|**3D Scene Graph Guided Vision-Language Pre-training**|Hao Liu et.al.|[2411.18666](http://arxiv.org/abs/2411.18666)|null|
+|**2024-11-27**|**BIP3D: Bridging 2D Images and 3D Perception for Embodied Intelligence**|Xuewu Lin et.al.|[2411.14869](http://arxiv.org/abs/2411.14869)|**[link](https://github.com/HorizonRobotics/BIP3D)**|
+|**2024-11-21**|**Solving Zero-Shot 3D Visual Grounding as Constraint Satisfaction Problems**|Qihao Yuan et.al.|[2411.14594](http://arxiv.org/abs/2411.14594)|**[link](https://github.com/sunsleaf/csvg)**|
+|**2024-11-07**|**LidaRefer: Outdoor 3D Visual Grounding for Autonomous Driving with Transformers**|Yeong-Seung Baek et.al.|[2411.04351](http://arxiv.org/abs/2411.04351)|null|
+|**2024-11-05**|**Fine-Grained Spatial and Verbal Losses for 3D Visual Grounding**|Sombit Dey et.al.|[2411.03405](http://arxiv.org/abs/2411.03405)|null|
+|**2024-10-21**|**Joint Top-Down and Bottom-Up Frameworks for 3D Visual Grounding**|Yang Liu et.al.|[2410.15615](http://arxiv.org/abs/2410.15615)|null|
+|**2024-10-17**|**VLM-Grounder: A VLM Agent for Zero-Shot 3D Visual Grounding**|Runsen Xu et.al.|[2410.13860](http://arxiv.org/abs/2410.13860)|**[link](https://github.com/openrobotlab/vlm-grounder)**|
+|**2024-09-12**|**Bayesian Self-Training for Semi-Supervised 3D Segmentation**|Ozan Unal et.al.|[2409.08102](http://arxiv.org/abs/2409.08102)|null|
+|**2024-08-07**|**Task-oriented Sequential Grounding in 3D Scenes**|Zhuofan Zhang et.al.|[2408.04034](http://arxiv.org/abs/2408.04034)|null|
+|**2024-07-25**|**RefMask3D: Language-Guided Transformer for 3D Referring Segmentation**|Shuting He et.al.|[2407.18244](http://arxiv.org/abs/2407.18244)|**[link](https://github.com/heshuting555/refmask3d)**|
+|**2024-09-02**|**PD-APE: A Parallel Decoding Framework with Adaptive Position Encoding for 3D Visual Grounding**|Chenshu Hou et.al.|[2407.14491](http://arxiv.org/abs/2407.14491)|null|
+|**2024-07-10**|**Multi-branch Collaborative Learning Network for 3D Visual Grounding**|Zhipeng Qian et.al.|[2407.05363](http://arxiv.org/abs/2407.05363)|**[link](https://github.com/qzp2018/MCLN)**|
+|**2024-07-17**|**ScanReason: Empowering 3D Visual Grounding with Reasoning Capabilities**|Chenming Zhu et.al.|[2407.01525](http://arxiv.org/abs/2407.01525)|null|
+|**2024-06-13**|**MMScan: A Multi-Modal 3D Scene Dataset with Hierarchical Grounded Language Annotations**|Ruiyuan Lyu et.al.|[2406.09401](http://arxiv.org/abs/2406.09401)|**[link](https://github.com/openrobotlab/embodiedscan)**|
+|**2024-06-13**|**Dual Attribute-Spatial Relation Alignment for 3D Visual Grounding**|Yue Xu et.al.|[2406.08907](http://arxiv.org/abs/2406.08907)|null|
+|**2024-07-22**|**A Survey on Text-guided 3D Visual Grounding: Elements, Recent Advances, and Future Directions**|Daizong Liu et.al.|[2406.05785](http://arxiv.org/abs/2406.05785)|**[link](https://github.com/liudaizong/awesome-3d-visual-grounding)**|
+|**2024-07-06**|**Intent3D: 3D Object Detection in RGB-D Scans Based on Human Intention**|Weitai Kang et.al.|[2405.18295](http://arxiv.org/abs/2405.18295)|null|
+|**2024-05-24**|**Talk to Parallel LiDARs: A Human-LiDAR Interaction Method Based on 3D Visual Grounding**|Yuhang Liu et.al.|[2405.15274](http://arxiv.org/abs/2405.15274)|null|
+|**2024-07-19**|**Talk2Radar: Bridging Natural Language with 4D mmWave Radar for 3D Referring Expression Comprehension**|Runwei Guan et.al.|[2405.12821](http://arxiv.org/abs/2405.12821)|**[link](https://github.com/guanrunwei/talk2radar)**|
+|**2024-04-30**|**Naturally Supervised 3D Visual Grounding with Language-Regularized Concept Learners**|Chun Feng et.al.|[2404.19696](http://arxiv.org/abs/2404.19696)|null|
+|**2024-09-19**|**Rethinking 3D Dense Caption and Visual Grounding in A Unified Framework through Prompt-based Localization**|Yongdong Luo et.al.|[2404.11064](http://arxiv.org/abs/2404.11064)|null|
+|**2024-12-04**|**Data-Efficient 3D Visual Grounding via Order-Aware Referring**|Tung-Yu Wu et.al.|[2403.16539](http://arxiv.org/abs/2403.16539)|null|
+|**2024-03-13**|**SeCG: Semantic-Enhanced 3D Visual Grounding via Cross-modal Graph Attention**|Feng Xiao et.al.|[2403.08182](http://arxiv.org/abs/2403.08182)|null|
+|**2024-12-01**|**MiKASA: Multi-Key-Anchor & Scene-Aware Transformer for 3D Visual Grounding**|Chun-Peng Chang et.al.|[2403.03077](http://arxiv.org/abs/2403.03077)|**[link](https://github.com/dfki-av/mikasa-3dvg)**|
+|**2024-09-24**|**SceneVerse: Scaling 3D Vision-Language Learning for Grounded Scene Understanding**|Baoxiong Jia et.al.|[2401.09340](http://arxiv.org/abs/2401.09340)|null|
+|**2024-08-30**|**Weakly-Supervised 3D Visual Grounding based on Visual Linguistic Alignment**|Xiaoxu Xu et.al.|[2312.09625](http://arxiv.org/abs/2312.09625)|null|
+|**2023-12-13**|**Mono3DVG: 3D Visual Grounding in Monocular Images**|Yang Zhan et.al.|[2312.08022](http://arxiv.org/abs/2312.08022)|**[link](https://github.com/zhanyang-nwpu/mono3dvg)**|
+|**2024-03-23**|**Visual Programming for Zero-shot Open-Vocabulary 3D Visual Grounding**|Zhihao Yuan et.al.|[2311.15383](http://arxiv.org/abs/2311.15383)|**[link](https://github.com/CurryYuan/ZSVG3D)**|
+|**2023-10-28**|**CityRefer: Geography-aware 3D Visual Grounding Dataset on City-scale Point Cloud Data**|Taiki Miyanishi et.al.|[2310.18773](http://arxiv.org/abs/2310.18773)|**[link](https://github.com/atr-dbi/cityrefer)**|
+|**2024-10-05**|**CoT3DRef: Chain-of-Thoughts Data-Efficient 3D Visual Grounding**|Eslam Abdelrahman et.al.|[2310.06214](http://arxiv.org/abs/2310.06214)|**[link](https://github.com/eslambakr/CoT3D_VG)**|
+|**2023-09-21**|**LLM-Grounder: Open-Vocabulary 3D Visual Grounding with Large Language Model as an Agent**|Jianing Yang et.al.|[2309.12311](http://arxiv.org/abs/2309.12311)|**[link](https://github.com/sled-group/chat-with-nerf)**|
+|**2023-09-11**|**Multi3DRefer: Grounding Text Description to Multiple 3D Objects**|Yiming Zhang et.al.|[2309.05251](http://arxiv.org/abs/2309.05251)|null|
+|**2024-07-16**|**Four Ways to Improve Verbo-visual Fusion for Dense 3D Visual Grounding**|Ozan Unal et.al.|[2309.04561](http://arxiv.org/abs/2309.04561)|null|
+|**2023-11-20**|**A Unified Framework for 3D Point Cloud Visual Grounding**|Haojia Lin et.al.|[2308.11887](http://arxiv.org/abs/2308.11887)|**[link](https://github.com/leon1207/3dreftr)**|
+|**2023-07-25**|**3DRP-Net: 3D Relative Position-aware Network for 3D Visual Grounding**|Zehan Wang et.al.|[2307.13363](http://arxiv.org/abs/2307.13363)|null|
+|**2023-07-18**|**Distilling Coarse-to-Fine Semantic Matching Knowledge for Weakly Supervised 3D Visual Grounding**|Zehan Wang et.al.|[2307.09267](http://arxiv.org/abs/2307.09267)|**[link](https://github.com/ZzZZCHS/WS-3DVG)**|
+|**2023-05-25**|**Language-Guided 3D Object Detection in Point Cloud for Autonomous Driving**|Wenhao Cheng et.al.|[2305.15765](http://arxiv.org/abs/2305.15765)|null|
+|**2024-02-07**|**Cross3DVG: Cross-Dataset 3D Visual Grounding on Different RGB-D Scans**|Taiki Miyanishi et.al.|[2305.13876](http://arxiv.org/abs/2305.13876)|**[link](https://github.com/atr-dbi/cross3dvg)**|
+|**2024-07-15**|**WildRefer: 3D Object Localization in Large-scale Dynamic Scenes with Multi-modal Visual Data and Natural Language**|Zhenxiang Lin et.al.|[2304.05645](http://arxiv.org/abs/2304.05645)|**[link](https://github.com/4dvlab/wildrefer)**|
+|**2023-12-05**|**ViewRefer: Grasp the Multi-view Knowledge for 3D Visual Grounding with GPT and Prototype Guidance**|Zoey Guo et.al.|[2303.16894](http://arxiv.org/abs/2303.16894)|**[link](https://github.com/ivan-tang-3d/viewrefer3d)**|
+|**2023-03-23**|**NS3D: Neuro-Symbolic Grounding of 3D Objects and Relations**|Joy Hsu et.al.|[2303.13483](http://arxiv.org/abs/2303.13483)|null|
+|**2023-03-23**|**ScanERU: Interactive 3D Visual Grounding based on Embodied Reference Understanding**|Ziyang Lu et.al.|[2303.13186](http://arxiv.org/abs/2303.13186)|**[link](https://github.com/mrlearnedtoad/scaneru)**|
+|**2022-12-01**|**UniT3D: A Unified Transformer for 3D Dense Captioning and Visual Grounding**|Dave Zhenyu Chen et.al.|[2212.00836](http://arxiv.org/abs/2212.00836)|null|
+|**2022-11-25**|**Look Around and Refer: 2D Synthetic Semantics Knowledge Distillation for 3D Visual Grounding**|Eslam Mohamed Bakr et.al.|[2211.14241](http://arxiv.org/abs/2211.14241)|**[link](https://github.com/eslambakr/LAR-Look-Around-and-Refer)**|
+|**2023-06-09**|**Learning Point-Language Hierarchical Alignment for 3D Visual Grounding**|Jiaming Chen et.al.|[2210.12513](http://arxiv.org/abs/2210.12513)|**[link](https://github.com/ppjmchen/ham)**|
+|**2023-04-24**|**EDA: Explicit Text-Decoupling and Dense Alignment for 3D Visual Grounding**|Yanmin Wu et.al.|[2209.14941](http://arxiv.org/abs/2209.14941)|**[link](https://github.com/yanmin-wu/eda)**|
+|**2023-05-27**|**Toward Explainable and Fine-Grained 3D Grounding through Referring Textual Phrases**|Zhihao Yuan et.al.|[2207.01821](http://arxiv.org/abs/2207.01821)|null|
+|**2022-04-13**|**3D-SPS: Single-Stage 3D Visual Grounding via Referred Point Progressive Selection**|Junyu Luo et.al.|[2204.06272](http://arxiv.org/abs/2204.06272)|**[link](https://github.com/fjhzhixi/3d-sps)**|
+|**2022-04-05**|**Multi-View Transformer for 3D Visual Grounding**|Shijia Huang et.al.|[2204.02174](http://arxiv.org/abs/2204.02174)|**[link](https://github.com/sega-hsj/mvt-3dvg)**|
+|**2022-07-22**|**D3Net: A Unified Speaker-Listener Architecture for 3D Dense Captioning and Visual Grounding**|Dave Zhenyu Chen et.al.|[2112.01551](http://arxiv.org/abs/2112.01551)|null|
+|**2021-08-11**|**TransRefer3D: Entity-and-Relation Aware Transformer for Fine-Grained 3D Visual Grounding**|Dailan He et.al.|[2108.02388](http://arxiv.org/abs/2108.02388)|null|
+|**2021-11-04**|**LanguageRefer: Spatial-Language Model for 3D Visual Grounding**|Junha Roh et.al.|[2107.03438](http://arxiv.org/abs/2107.03438)|null|
+|**2021-09-22**|**SAT: 2D Semantics Assisted Training for 3D Visual Grounding**|Zhengyuan Yang et.al.|[2105.11450](http://arxiv.org/abs/2105.11450)|**[link](https://github.com/zyang-ur/SAT)**|
+|**2021-03-17**|**Refer-it-in-RGBD: A Bottom-up Approach for 3D Visual Grounding in RGBD Images**|Haolin Liu et.al.|[2103.07894](http://arxiv.org/abs/2103.07894)|null|
+|**2021-07-29**|**InstanceRefer: Cooperative Holistic Understanding for Visual Grounding on Point Clouds through Instance Multi-level Contextual Referring**|Zhihao Yuan et.al.|[2103.01128](http://arxiv.org/abs/2103.01128)|**[link](https://github.com/CurryYuan/InstanceRefer)**|
 
 <p align=right>(<a href=#updated-on-20241218>back to top</a>)</p>
 
