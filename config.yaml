@@ -5,7 +5,7 @@ repo_name: "cv-arxiv-daily"
 show_authors: True
 show_links: True
 show_badge: True
-max_results: 500
+max_results: 2000
 
 publish_readme: True
 publish_gitpage: True
@@ -24,15 +24,19 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "RES": 
-        filters: ["Referring Expression Segmentation", "Referring Image Segmentation"]
+        filters: ["Referring Expression Segmentation", "Referring Image Segmentation", "Language-based Image Segmentation"]
     "REC": 
         filters: ["Referring Expression Comprehension", "Visual Grounding"]
     "RVOS": 
-        filters: ["Referring Video Object Segmentation", "Referring Video-Object Segmentation"]
+        filters: ["Referring Video Object Segmentation", "Referring Video-Object Segmentation", "Text-based Video Segmentation"]
+    "RMOT": 
+        filters: ["Referring Multi-Object Tracking"]
+    "AVL": 
+        filters: ["Audio-Visual Localization", "Audio Visual Localization", "Sound Source Localization"]
+    "AVS": 
+        filters: ["Audio-Visual Segmentation", "Audio Visual Segmentation"]
     "3D-RES":
           filters: ["3D Referring Expression Segmentation"]  
-    "SAM 2":
-          filters: ["SAM2","SAM 2"]  
     "3D-REC":
           filters: ["3D Referring Expression Comprehension",  "3D Visual Grounding"]  
 
