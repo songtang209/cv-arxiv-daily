@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.18
+## Updated on 2024.12.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -16,6 +16,7 @@
     <li><a href=#avs>AVS</a></li>
     <li><a href=#3d-res>3D-RES</a></li>
     <li><a href=#3d-rec>3D-REC</a></li>
+    <li><a href=#vos>VOS</a></li>
   </ol>
 </details>
 
@@ -133,7 +134,7 @@
 |**2019-04-06**|**CLEVR-Ref+: Diagnosing Visual Reasoning with Referring Expressions**|Runtao Liu et.al.|[1901.00850](http://arxiv.org/abs/1901.00850)|null|
 |**2017-08-04**|**Recurrent Multimodal Interaction for Referring Image Segmentation**|Chenxi Liu et.al.|[1703.07939](http://arxiv.org/abs/1703.07939)|**[link](https://github.com/chenxi116/TF-phrasecut-public)**|
 
-<p align=right>(<a href=#updated-on-20241218>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241219>back to top</a>)</p>
 
 ## REC
 
@@ -284,7 +285,7 @@
 |**2024-04-21**|**Socratic Planner: Inquiry-Based Zero-Shot Planning for Embodied Instruction Following**|Suyeon Shin et.al.|[2404.15190](http://arxiv.org/abs/2404.15190)|null|
 |**2024-09-05**|**HiVG: Hierarchical Multimodal Fine-grained Modulation for Visual Grounding**|Linhui Xiao et.al.|[2404.13400](http://arxiv.org/abs/2404.13400)|**[link](https://github.com/linhuixiao/hivg)**|
 |**2024-04-19**|**Groma: Localized Visual Tokenization for Grounding Multimodal Large Language Models**|Chuofan Ma et.al.|[2404.13013](http://arxiv.org/abs/2404.13013)|**[link](https://github.com/FoundationVision/Groma)**|
-|**2024-09-19**|**Rethinking 3D Dense Caption and Visual Grounding in A Unified Framework through Prompt-based Localization**|Yongdong Luo et.al.|[2404.11064](http://arxiv.org/abs/2404.11064)|null|
+|**2024-12-18**|**Rethinking 3D Dense Caption and Visual Grounding in A Unified Framework through Prompt-based Localization**|Yongdong Luo et.al.|[2404.11064](http://arxiv.org/abs/2404.11064)|null|
 |**2024-04-10**|**MedRG: Medical Report Grounding with Multi-modal Large Language Model**|Ke Zou et.al.|[2404.06798](http://arxiv.org/abs/2404.06798)|null|
 |**2024-04-03**|**Text-driven Affordance Learning from Egocentric Vision**|Tomoya Yoshida et.al.|[2404.02523](http://arxiv.org/abs/2404.02523)|null|
 |**2024-11-06**|**VHM: Versatile and Honest Vision Language Model for Remote Sensing Image Analysis**|Chao Pang et.al.|[2403.20213](http://arxiv.org/abs/2403.20213)|**[link](https://github.com/opendatalab/vhm)**|
@@ -848,7 +849,7 @@
 |**2015-06-19**|**Learning language through pictures**|Grzegorz Chrupała et.al.|[1506.03694](http://arxiv.org/abs/1506.03694)|**[link](https://github.com/gchrupala/imaginet)**|
 |**2011-06-30**|**Grounded Semantic Composition for Visual Scenes**|P. Gorniak et.al.|[1107.0031](http://arxiv.org/abs/1107.0031)|null|
 
-<p align=right>(<a href=#updated-on-20241218>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241219>back to top</a>)</p>
 
 ## RVOS
 
@@ -894,7 +895,7 @@
 |**2022-04-03**|**End-to-End Referring Video Object Segmentation with Multimodal Transformers**|Adam Botach et.al.|[2111.14821](http://arxiv.org/abs/2111.14821)|**[link](https://github.com/mttr2021/MTTR)**|
 |**2024-01-19**|**Rethinking Cross-modal Interaction from a Top-down Perspective for Referring Video Object Segmentation**|Chen Liang et.al.|[2106.01061](http://arxiv.org/abs/2106.01061)|null|
 
-<p align=right>(<a href=#updated-on-20241218>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241219>back to top</a>)</p>
 
 ## AVL
 
@@ -1042,7 +1043,7 @@
 |**2015-02-16**|**Efficient Steered-Response Power Methods for Sound Source Localization Using Microphone Arrays**|Markus V. S. Lima et.al.|[1407.2351](http://arxiv.org/abs/1407.2351)|null|
 |**2014-02-12**|**A Geometric Approach to Sound Source Localization from Time-Delay Estimates**|Xavier Alameda-Pineda et.al.|[1311.1047](http://arxiv.org/abs/1311.1047)|null|
 
-<p align=right>(<a href=#updated-on-20241218>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241219>back to top</a>)</p>
 
 ## AVS
 
@@ -1087,7 +1088,7 @@
 |**2023-02-17**|**Audio-Visual Segmentation**|Jinxing Zhou et.al.|[2207.05042](http://arxiv.org/abs/2207.05042)|**[link](https://github.com/opennlplab/avsbench)**|
 |**2021-04-05**|**Positive Sample Propagation along the Audio-Visual Event Line**|Jinxing Zhou et.al.|[2104.00239](http://arxiv.org/abs/2104.00239)|**[link](https://github.com/jasongief/PSP_CVPR_2021)**|
 
-<p align=right>(<a href=#updated-on-20241218>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241219>back to top</a>)</p>
 
 ## 3D-RES
 
@@ -1097,7 +1098,7 @@
 |**2024-07-31**|**3D-GRES: Generalized 3D Referring Expression Segmentation**|Changli Wu et.al.|[2407.20664](http://arxiv.org/abs/2407.20664)|**[link](https://github.com/sosppxo/MDIN)**|
 |**2023-08-31**|**3D-STMN: Dependency-Driven Superpoint-Text Matching Network for End-to-End 3D Referring Expression Segmentation**|Changli Wu et.al.|[2308.16632](http://arxiv.org/abs/2308.16632)|**[link](https://github.com/sosppxo/3d-stmn)**|
 
-<p align=right>(<a href=#updated-on-20241218>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241219>back to top</a>)</p>
 
 ## 3D-REC
 
@@ -1125,7 +1126,7 @@
 |**2024-05-24**|**Talk to Parallel LiDARs: A Human-LiDAR Interaction Method Based on 3D Visual Grounding**|Yuhang Liu et.al.|[2405.15274](http://arxiv.org/abs/2405.15274)|null|
 |**2024-07-19**|**Talk2Radar: Bridging Natural Language with 4D mmWave Radar for 3D Referring Expression Comprehension**|Runwei Guan et.al.|[2405.12821](http://arxiv.org/abs/2405.12821)|**[link](https://github.com/guanrunwei/talk2radar)**|
 |**2024-04-30**|**Naturally Supervised 3D Visual Grounding with Language-Regularized Concept Learners**|Chun Feng et.al.|[2404.19696](http://arxiv.org/abs/2404.19696)|null|
-|**2024-09-19**|**Rethinking 3D Dense Caption and Visual Grounding in A Unified Framework through Prompt-based Localization**|Yongdong Luo et.al.|[2404.11064](http://arxiv.org/abs/2404.11064)|null|
+|**2024-12-18**|**Rethinking 3D Dense Caption and Visual Grounding in A Unified Framework through Prompt-based Localization**|Yongdong Luo et.al.|[2404.11064](http://arxiv.org/abs/2404.11064)|null|
 |**2024-12-04**|**Data-Efficient 3D Visual Grounding via Order-Aware Referring**|Tung-Yu Wu et.al.|[2403.16539](http://arxiv.org/abs/2403.16539)|null|
 |**2024-03-13**|**SeCG: Semantic-Enhanced 3D Visual Grounding via Cross-modal Graph Attention**|Feng Xiao et.al.|[2403.08182](http://arxiv.org/abs/2403.08182)|null|
 |**2024-12-01**|**MiKASA: Multi-Key-Anchor & Scene-Aware Transformer for 3D Visual Grounding**|Chun-Peng Chang et.al.|[2403.03077](http://arxiv.org/abs/2403.03077)|**[link](https://github.com/dfki-av/mikasa-3dvg)**|
@@ -1161,7 +1162,446 @@
 |**2021-03-17**|**Refer-it-in-RGBD: A Bottom-up Approach for 3D Visual Grounding in RGBD Images**|Haolin Liu et.al.|[2103.07894](http://arxiv.org/abs/2103.07894)|null|
 |**2021-07-29**|**InstanceRefer: Cooperative Holistic Understanding for Visual Grounding on Point Clouds through Instance Multi-level Contextual Referring**|Zhihao Yuan et.al.|[2103.01128](http://arxiv.org/abs/2103.01128)|**[link](https://github.com/CurryYuan/InstanceRefer)**|
 
-<p align=right>(<a href=#updated-on-20241218>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241219>back to top</a>)</p>
+
+## VOS
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2024-12-10**|**Stable Mean Teacher for Semi-supervised Video Action Detection**|Akash Kumar et.al.|[2412.07072](http://arxiv.org/abs/2412.07072)|null|
+|**2024-12-09**|**Video Decomposition Prior: A Methodology to Decompose Videos into Layers**|Gaurav Shrivastava et.al.|[2412.04930](http://arxiv.org/abs/2412.04930)|null|
+|**2024-12-03**|**Multi-Granularity Video Object Segmentation**|Sangbeom Lim et.al.|[2412.01471](http://arxiv.org/abs/2412.01471)|null|
+|**2024-12-02**|**Referring Video Object Segmentation via Language-aligned Track Selection**|Seongchan Kim et.al.|[2412.01136](http://arxiv.org/abs/2412.01136)|null|
+|**2024-11-28**|**Track Anything Behind Everything: Zero-Shot Amodal Video Object Segmentation**|Finlay G. C. Hudson et.al.|[2411.19210](http://arxiv.org/abs/2411.19210)|null|
+|**2024-11-28**|**Efficient Track Anything**|Yunyang Xiong et.al.|[2411.18933](http://arxiv.org/abs/2411.18933)|null|
+|**2024-11-26**|**SAMWISE: Infusing wisdom in SAM2 for Text-Driven Video Segmentation**|Claudia Cuttano et.al.|[2411.17646](http://arxiv.org/abs/2411.17646)|**[link](https://github.com/claudiacuttano/samwise)**|
+|**2024-12-04**|**A Distractor-Aware Memory for Visual Object Tracking with SAM2**|Jovana Videnovic et.al.|[2411.17576](http://arxiv.org/abs/2411.17576)|**[link](https://github.com/jovanavidenovic/dam4sam)**|
+|**2024-11-18**|**IKEA Manuals at Work: 4D Grounding of Assembly Instructions on Internet Videos**|Yunong Liu et.al.|[2411.11409](http://arxiv.org/abs/2411.11409)|**[link](https://github.com/yunongLiu1/IKEA-Manuals-at-Work)**|
+|**2024-11-05**|**LiVOS: Light Video Object Segmentation with Gated Linear Matching**|Qin Liu et.al.|[2411.02818](http://arxiv.org/abs/2411.02818)|**[link](https://github.com/uncbiag/livos)**|
+|**2024-10-31**|**Continuous Spatio-Temporal Memory Networks for 4D Cardiac Cine MRI Segmentation**|Meng Ye et.al.|[2410.23191](http://arxiv.org/abs/2410.23191)|**[link](https://github.com/deeptag/cstm)**|
+|**2024-10-29**|**Addressing Issues with Working Memory in Video Object Segmentation**|Clayton Bromley et.al.|[2410.22451](http://arxiv.org/abs/2410.22451)|null|
+|**2024-12-17**|**SAM2Long: Enhancing SAM 2 for Long Video Segmentation with a Training-Free Memory Tree**|Shuangrui Ding et.al.|[2410.16268](http://arxiv.org/abs/2410.16268)|**[link](https://github.com/mark12ding/sam2long)**|
+|**2024-09-29**|**One Token to Seg Them All: Language Instructed Reasoning Segmentation in Videos**|Zechen Bai et.al.|[2409.19603](http://arxiv.org/abs/2409.19603)|**[link](https://github.com/showlab/videolisa)**|
+|**2024-09-28**|**X-Prompt: Multi-modal Visual Prompt for Video Object Segmentation**|Pinxue Guo et.al.|[2409.19342](http://arxiv.org/abs/2409.19342)|**[link](https://github.com/pinxueguo/x-prompt)**|
+|**2024-09-22**|**Memory Matching is not Enough: Jointly Improving Memory Matching and Decoding for Video Object Segmentation**|Jintu Zheng et.al.|[2409.14343](http://arxiv.org/abs/2409.14343)|null|
+|**2024-09-03**|**Convolutional Networks as Extremely Small Foundation Models: Visual Prompting and Theoretical Perspective**|Jianqiao Wangni et.al.|[2409.10555](http://arxiv.org/abs/2409.10555)|null|
+|**2024-09-09**|**LSVOS Challenge Report: Large-scale Complex and Long Video Object Segmentation**|Henghui Ding et.al.|[2409.05847](http://arxiv.org/abs/2409.05847)|null|
+|**2024-08-29**|**Discriminative Spatial-Semantic VOS Solution: 1st Place Solution for 6th LSVOS**|Deshui Miao et.al.|[2408.16431](http://arxiv.org/abs/2408.16431)|null|
+|**2024-08-28**|**Unleashing the Temporal-Spatial Reasoning Capacity of GPT for Training-Free Audio and Language Referenced Video Object Segmentation**|Shaofei Huang et.al.|[2408.15876](http://arxiv.org/abs/2408.15876)|**[link](https://github.com/appletea233/al-ref-sam2)**|
+|**2024-08-24**|**CSS-Segment: 2nd Place Report of LSVOS Challenge VOS Track**|Jinming Chai et.al.|[2408.13582](http://arxiv.org/abs/2408.13582)|null|
+|**2024-08-22**|**The 2nd Solution for LSVOS Challenge RVOS Track: Spatial-temporal Refinement for Consistent Semantic Segmentation**|Tuyen Tran et.al.|[2408.12447](http://arxiv.org/abs/2408.12447)|null|
+|**2024-08-20**|**The Instance-centric Transformer for the RVOS Track of LSVOS Challenge: 3rd Place Solution**|Bin Cao et.al.|[2408.10541](http://arxiv.org/abs/2408.10541)|null|
+|**2024-08-21**|**LSVOS Challenge 3rd Place Report: SAM2 and Cutie based VOS**|Xinyu Liu et.al.|[2408.10469](http://arxiv.org/abs/2408.10469)|null|
+|**2024-08-24**|**UNINEXT-Cutie: The 1st Solution for LSVOS Challenge RVOS Track**|Hao Fang et.al.|[2408.10129](http://arxiv.org/abs/2408.10129)|null|
+|**2024-08-24**|**Video Object Segmentation via SAM 2: The 4th Solution for LSVOS Challenge VOS Track**|Feiyu Pan et.al.|[2408.10125](http://arxiv.org/abs/2408.10125)|null|
+|**2024-11-20**|**3D-Aware Instance Segmentation and Tracking in Egocentric Videos**|Yash Bhalgat et.al.|[2408.09860](http://arxiv.org/abs/2408.09860)|null|
+|**2024-08-07**|**Fast Sprite Decomposition from Animated Graphics**|Tomoyuki Suzuki et.al.|[2408.03923](http://arxiv.org/abs/2408.03923)|null|
+|**2024-08-17**|**Biomedical SAM 2: Segment Anything in Biomedical Images and Videos**|Zhiling Yan et.al.|[2408.03286](http://arxiv.org/abs/2408.03286)|**[link](https://github.com/ZhilingYan/Biomedical-SAM-2)**|
+|**2024-11-12**|**Strike the Balance: On-the-Fly Uncertainty based User Interactions for Long-Term Video Object Segmentation**|Stéphane Vujasinović et.al.|[2408.00169](http://arxiv.org/abs/2408.00169)|**[link](https://github.com/vujas-eteph/lazyxmem)**|
+|**2024-11-01**|**Disentangling spatio-temporal knowledge for weakly supervised object detection and segmentation in surgical video**|Guiqiu Liao et.al.|[2407.15794](http://arxiv.org/abs/2407.15794)|**[link](https://github.com/pcasolab/vdst-net)**|
+|**2024-07-16**|**Improving Unsupervised Video Object Segmentation via Fake Flow Generation**|Suhwan Cho et.al.|[2407.11714](http://arxiv.org/abs/2407.11714)|**[link](https://github.com/suhwan-cho/FakeFlow)**|
+|**2024-07-16**|**VISA: Reasoning Video Object Segmentation via Large Language Models**|Cilin Yan et.al.|[2407.11325](http://arxiv.org/abs/2407.11325)|**[link](https://github.com/cilinyan/revos-api)**|
+|**2024-07-10**|**Learning Spatial-Semantic Features for Robust Video Object Segmentation**|Xin Li et.al.|[2407.07760](http://arxiv.org/abs/2407.07760)|null|
+|**2024-07-10**|**ActionVOS: Actions as Prompts for Video Object Segmentation**|Liangyang Ouyang et.al.|[2407.07402](http://arxiv.org/abs/2407.07402)|**[link](https://github.com/ut-vision/actionvos)**|
+|**2024-07-09**|**Rethinking Image-to-Video Adaptation: An Object-centric Perspective**|Rui Qian et.al.|[2407.06871](http://arxiv.org/abs/2407.06871)|null|
+|**2024-07-08**|**Context Propagation from Proposals for Semantic Video Object Segmentation**|Tinghuai Wang et.al.|[2407.06247](http://arxiv.org/abs/2407.06247)|null|
+|**2024-07-08**|**Non-parametric Contextual Relationship Learning for Semantic Video Object Segmentation**|Tinghuai Wang et.al.|[2407.05916](http://arxiv.org/abs/2407.05916)|null|
+|**2024-07-08**|**Submodular video object proposal selection for semantic object segmentation**|Tinghuai Wang et.al.|[2407.05913](http://arxiv.org/abs/2407.05913)|null|
+|**2024-06-25**|**Video Inpainting Localization with Contrastive Learning**|Zijie Lou et.al.|[2406.17628](http://arxiv.org/abs/2406.17628)|**[link](https://github.com/multimediafor/vilocal)**|
+|**2024-06-24**|**PVUW 2024 Challenge on Complex Video Understanding: Methods and Results**|Henghui Ding et.al.|[2406.17005](http://arxiv.org/abs/2406.17005)|**[link](https://github.com/henghuiding/MOSE-api)**|
+|**2024-06-20**|**2nd Place Solution for MeViS Track in CVPR 2024 PVUW Workshop: Motion Expression guided Video Segmentation**|Bin Cao et.al.|[2406.13939](http://arxiv.org/abs/2406.13939)|null|
+|**2024-06-19**|**Trusted Video Inpainting Localization via Deep Attentive Noise Learning**|Zijie Lou et.al.|[2406.13576](http://arxiv.org/abs/2406.13576)|**[link](https://github.com/multimediafor/truvil)**|
+|**2024-06-23**|**GroPrompt: Efficient Grounded Prompting and Adaptation for Referring Video Object Segmentation**|Ci-Siang Lin et.al.|[2406.12834](http://arxiv.org/abs/2406.12834)|null|
+|**2024-09-19**|**ViDSOD-100: A New Dataset and a Baseline Model for RGB-D Video Salient Object Detection**|Junhao Lin et.al.|[2406.12536](http://arxiv.org/abs/2406.12536)|**[link](https://github.com/jhl-det/rgbd_video_sod)**|
+|**2024-06-12**|**RMem: Restricted Memory Banks Improve Video Object Segmentation**|Junbao Zhou et.al.|[2406.08476](http://arxiv.org/abs/2406.08476)|null|
+|**2024-06-12**|**2nd Place Solution for MOSE Track in CVPR 2024 PVUW workshop: Complex Video Object Segmentation**|Zhensong Xu et.al.|[2406.08192](http://arxiv.org/abs/2406.08192)|null|
+|**2024-06-11**|**1st Place Solution for MeViS Track in CVPR 2024 PVUW Workshop: Motion Expression guided Video Segmentation**|Mingqi Gao et.al.|[2406.07043](http://arxiv.org/abs/2406.07043)|**[link](https://github.com/tapall-ai/mevis_track_solution_2024)**|
+|**2024-06-08**|**Training-Free Robust Interactive Video Object Segmentation**|Xiaoli Wei et.al.|[2406.05485](http://arxiv.org/abs/2406.05485)|null|
+|**2024-06-07**|**DVOS: Self-Supervised Dense-Pattern Video Object Segmentation**|Keyhan Najafian et.al.|[2406.05131](http://arxiv.org/abs/2406.05131)|null|
+|**2024-06-07**|**3rd Place Solution for MeViS Track in CVPR 2024 PVUW workshop: Motion Expression guided Video Segmentation**|Feiyu Pan et.al.|[2406.04842](http://arxiv.org/abs/2406.04842)|null|
+|**2024-06-07**|**1st Place Solution for MOSE Track in CVPR 2024 PVUW Workshop: Complex Video Object Segmentation**|Deshui Miao et.al.|[2406.04600](http://arxiv.org/abs/2406.04600)|null|
+|**2024-06-06**|**3rd Place Solution for MOSE Track in CVPR 2024 PVUW workshop: Complex Video Object Segmentation**|Xinyu Liu et.al.|[2406.03668](http://arxiv.org/abs/2406.03668)|null|
+|**2024-05-29**|**Lifelong Learning Using a Dynamically Growing Tree of Sub-networks for Domain Generalization in Video Object Segmentation**|Islam Osman et.al.|[2405.19525](http://arxiv.org/abs/2405.19525)|null|
+|**2024-05-22**|**One-shot Training for Video Object Segmentation**|Baiyu Chen et.al.|[2405.14010](http://arxiv.org/abs/2405.14010)|null|
+|**2024-09-22**|**Harnessing Vision-Language Pretrained Models with Temporal-Aware Adaptation for Referring Video Object Segmentation**|Zikun Zhou et.al.|[2405.10610](http://arxiv.org/abs/2405.10610)|null|
+|**2024-05-11**|**DeVOS: Flow-Guided Deformable Transformer for Video Object Segmentation**|Volodymyr Fedynyak et.al.|[2405.08715](http://arxiv.org/abs/2405.08715)|null|
+|**2024-05-11**|**Global Motion Understanding in Large-Scale Video Object Segmentation**|Volodymyr Fedynyak et.al.|[2405.07031](http://arxiv.org/abs/2405.07031)|null|
+|**2024-05-07**|**Space-time Reinforcement Network for Video Object Segmentation**|Yadang Chen et.al.|[2405.04042](http://arxiv.org/abs/2405.04042)|null|
+|**2024-05-01**|**LVOS: A Benchmark for Large-scale Long-term Video Object Segmentation**|Lingyi Hong et.al.|[2404.19326](http://arxiv.org/abs/2404.19326)|null|
+|**2024-04-22**|**360VOTS: Visual Object Tracking and Segmentation in Omnidirectional Videos**|Yinzhe Xu et.al.|[2404.13953](http://arxiv.org/abs/2404.13953)|null|
+|**2024-04-21**|**Dynamic in Static: Hybrid Visual Correspondence for Self-Supervised Video Object Segmentation**|Gensheng Pei et.al.|[2404.13505](http://arxiv.org/abs/2404.13505)|**[link](https://github.com/nust-machine-intelligence-laboratory/hvc)**|
+|**2024-04-09**|**Spatial-Temporal Multi-level Association for Video Object Segmentation**|Deshui Miao et.al.|[2404.06265](http://arxiv.org/abs/2404.06265)|null|
+|**2024-04-02**|**Event-assisted Low-Light Video Object Segmentation**|Hebei Li et.al.|[2404.01945](http://arxiv.org/abs/2404.01945)|**[link](https://github.com/hebeifast/eventlowlightvos)**|
+|**2024-10-11**|**Temporally Consistent Referring Video Object Segmentation with Hybrid Memory**|Bo Miao et.al.|[2403.19407](http://arxiv.org/abs/2403.19407)|**[link](https://github.com/bo-miao/HTR)**|
+|**2024-03-27**|**Annolid: Annotate, Segment, and Track Anything You Need**|Chen Yang et.al.|[2403.18690](http://arxiv.org/abs/2403.18690)|null|
+|**2024-09-26**|**Efficient Video Object Segmentation via Modulated Cross-Attention Memory**|Abdelrahman Shaker et.al.|[2403.17937](http://arxiv.org/abs/2403.17937)|**[link](https://github.com/amshaker/mavos)**|
+|**2024-03-21**|**PSALM: Pixelwise SegmentAtion with Large Multi-Modal Model**|Zheng Zhang et.al.|[2403.14598](http://arxiv.org/abs/2403.14598)|**[link](https://github.com/zamling/psalm)**|
+|**2024-07-06**|**Exploring Pre-trained Text-to-Video Diffusion Models for Referring Video Object Segmentation**|Zixin Zhu et.al.|[2403.12042](http://arxiv.org/abs/2403.12042)|**[link](https://github.com/buxiangzhiren/vd-it)**|
+|**2024-03-18**|**Video Object Segmentation with Dynamic Query Modulation**|Hantao Zhou et.al.|[2403.11529](http://arxiv.org/abs/2403.11529)|**[link](https://github.com/zht8506/qmvos)**|
+|**2024-03-13**|**OneVOS: Unifying Video Object Segmentation with All-in-One Transformer Framework**|Wanyun Li et.al.|[2403.08682](http://arxiv.org/abs/2403.08682)|null|
+|**2024-07-02**|**Augmenting Efficient Real-time Surgical Instrument Segmentation in Video with Point Tracking and Segment Anything**|Zijian Wu et.al.|[2403.08003](http://arxiv.org/abs/2403.08003)|**[link](https://github.com/wuzijian1997/sis-pt-sam)**|
+|**2024-03-10**|**ClickVOS: Click Video Object Segmentation**|Pinxue Guo et.al.|[2403.06130](http://arxiv.org/abs/2403.06130)|null|
+|**2024-03-07**|**Depth-aware Test-Time Training for Zero-shot Video Object Segmentation**|Weihuang Liu et.al.|[2403.04258](http://arxiv.org/abs/2403.04258)|**[link](https://github.com/NiFangBaAGe/DATTT)**|
+|**2024-02-29**|**VideoMAC: Video Masked Autoencoders Meet ConvNets**|Gensheng Pei et.al.|[2402.19082](http://arxiv.org/abs/2402.19082)|**[link](https://github.com/nust-machine-intelligence-laboratory/videomac)**|
+|**2024-02-15**|**Lester: rotoscope animation through video object segmentation and tracking**|Ruben Tous et.al.|[2402.09883](http://arxiv.org/abs/2402.09883)|**[link](https://github.com/rtous/lester)**|
+|**2024-02-14**|**Moving Object Proposals with Deep Learned Optical Flow for Video Object Segmentation**|Ge Shi et.al.|[2402.08882](http://arxiv.org/abs/2402.08882)|null|
+|**2024-06-10**|**Point-VOS: Pointing Up Video Object Segmentation**|Idil Esen Zulfikar et.al.|[2402.05917](http://arxiv.org/abs/2402.05917)|null|
+|**2024-03-04**|**Is Two-shot All You Need? A Label-efficient Approach for Video Segmentation in Breast Ultrasound**|Jiajun Zeng et.al.|[2402.04921](http://arxiv.org/abs/2402.04921)|null|
+|**2024-03-18**|**Self-supervised Video Object Segmentation with Distillation Learning of Deformable Attention**|Quang-Trung Truong et.al.|[2401.13937](http://arxiv.org/abs/2401.13937)|null|
+|**2024-02-04**|**Explore Synergistic Interaction Across Frames for Interactive Video Object Segmentation**|Kexin Li et.al.|[2401.12480](http://arxiv.org/abs/2401.12480)|null|
+|**2024-04-10**|**Understanding Video Transformers via Universal Concept Discovery**|Matthew Kowal et.al.|[2401.10831](http://arxiv.org/abs/2401.10831)|null|
+|**2024-10-01**|**OMG-Seg: Is One Model Good Enough For All Segmentation?**|Xiangtai Li et.al.|[2401.10229](http://arxiv.org/abs/2401.10229)|**[link](https://github.com/lxtgh/omg-seg)**|
+|**2024-01-01**|**1st Place Solution for 5th LSVOS Challenge: Referring Video Object Segmentation**|Zhuoyan Luo et.al.|[2401.00663](http://arxiv.org/abs/2401.00663)|**[link](https://github.com/robertluo1/iccv2023_rvos_challenge)**|
+|**2023-12-29**|**Tracking with Human-Intent Reasoning**|Jiawen Zhu et.al.|[2312.17448](http://arxiv.org/abs/2312.17448)|**[link](https://github.com/jiawen-zhu/trackgpt)**|
+|**2023-12-25**|**UniRef++: Segment Every Reference Object in Spatial and Temporal Spaces**|Jiannan Wu et.al.|[2312.15715](http://arxiv.org/abs/2312.15715)|**[link](https://github.com/foundationvision/uniref)**|
+|**2023-12-20**|**No More Shortcuts: Realizing the Potential of Temporal Self-Supervision**|Ishan Rajendrakumar Dave et.al.|[2312.13008](http://arxiv.org/abs/2312.13008)|null|
+|**2023-12-15**|**Hierarchical Graph Pattern Understanding for Zero-Shot VOS**|Gensheng Pei et.al.|[2312.09525](http://arxiv.org/abs/2312.09525)|**[link](https://github.com/nust-machine-intelligence-laboratory/hgpu)**|
+|**2024-04-09**|**TAM-VT: Transformation-Aware Multi-scale Video Transformer for Segmentation and Tracking**|Raghav Goyal et.al.|[2312.08514](http://arxiv.org/abs/2312.08514)|null|
+|**2024-04-03**|**Semi-supervised Active Learning for Video Action Detection**|Ayush Singh et.al.|[2312.07169](http://arxiv.org/abs/2312.07169)|**[link](https://github.com/akash2907/semi-sup-active-learning)**|
+|**2023-12-11**|**Flexible visual prompts for in-context learning in computer vision**|Thomas Foster et.al.|[2312.06592](http://arxiv.org/abs/2312.06592)|**[link](https://github.com/v7labs/xmem_icl)**|
+|**2023-11-30**|**VIDiff: Translating Videos via Multi-Modal Instructions with Diffusion Models**|Zhen Xing et.al.|[2311.18837](http://arxiv.org/abs/2311.18837)|null|
+|**2023-11-30**|**SimulFlow: Simultaneously Extracting Feature and Identifying Target for Unsupervised Video Object Segmentation**|Lingyi Hong et.al.|[2311.18286](http://arxiv.org/abs/2311.18286)|null|
+|**2024-07-08**|**Betrayed by Attention: A Simple yet Effective Approach for Self-supervised Video Object Segmentation**|Shuangrui Ding et.al.|[2311.17893](http://arxiv.org/abs/2311.17893)|**[link](https://github.com/shvdiwnkozbw/ssl-uvos)**|
+|**2024-07-22**|**SEGIC: Unleashing the Emergent Correspondence for In-Context Segmentation**|Lingchen Meng et.al.|[2311.14671](http://arxiv.org/abs/2311.14671)|**[link](https://github.com/menglcool/segic)**|
+|**2023-11-13**|**Sketch-based Video Object Segmentation: Benchmark and Analysis**|Ruolin Yang et.al.|[2311.07261](http://arxiv.org/abs/2311.07261)|null|
+|**2023-11-11**|**Learning the What and How of Annotation in Video Object Segmentation**|Thanos Delatolas et.al.|[2311.04414](http://arxiv.org/abs/2311.04414)|null|
+|**2023-11-05**|**ISAR: A Benchmark for Single- and Few-Shot Object Instance Segmentation and Re-Identification**|Nicolas Gorlo et.al.|[2311.02734](http://arxiv.org/abs/2311.02734)|null|
+|**2023-10-23**|**SpVOS: Efficient Video Object Segmentation with Triple Sparse Convolution**|Weihao Lin et.al.|[2310.15115](http://arxiv.org/abs/2310.15115)|null|
+|**2024-04-11**|**Putting the Object Back into Video Object Segmentation**|Ho Kei Cheng et.al.|[2310.12982](http://arxiv.org/abs/2310.12982)|**[link](https://github.com/hkchengrex/Cutie)**|
+|**2024-01-25**|**Zero-Shot Open-Vocabulary Tracking with Large Pre-Trained Models**|Wen-Hsuan Chu et.al.|[2310.06992](http://arxiv.org/abs/2310.06992)|null|
+|**2023-10-03**|**CoralVOS: Dataset and Benchmark for Coral Video Segmentation**|Zheng Ziqiang et.al.|[2310.01946](http://arxiv.org/abs/2310.01946)|null|
+|**2024-02-14**|**Memory-Efficient Continual Learning Object Segmentation for Long Video**|Amir Nazemi et.al.|[2309.15274](http://arxiv.org/abs/2309.15274)|null|
+|**2023-09-26**|**Treating Motion as Option with Output Selection for Unsupervised Video Object Segmentation**|Suhwan Cho et.al.|[2309.14786](http://arxiv.org/abs/2309.14786)|**[link](https://github.com/suhwan-cho/tmo)**|
+|**2023-09-25**|**Adversarial Attacks on Video Object Segmentation with Hard Region Discovery**|Ping Li et.al.|[2309.13857](http://arxiv.org/abs/2309.13857)|null|
+|**2024-07-28**|**PanoVOS: Bridging Non-panoramic and Panoramic Views with Transformer for Video Segmentation**|Shilin Yan et.al.|[2309.12303](http://arxiv.org/abs/2309.12303)|**[link](https://github.com/shilinyan99/panovos)**|
+|**2023-09-21**|**Fully Transformer-Equipped Architecture for End-to-End Referring Video Object Segmentation**|Ping Li et.al.|[2309.11933](http://arxiv.org/abs/2309.11933)|null|
+|**2023-09-21**|**Efficient Long-Short Temporal Attention Network for Unsupervised Video Object Segmentation**|Ping Li et.al.|[2309.11707](http://arxiv.org/abs/2309.11707)|null|
+|**2023-09-20**|**Multi-grained Temporal Prototype Learning for Few-shot Video Object Segmentation**|Nian Liu et.al.|[2309.11160](http://arxiv.org/abs/2309.11160)|**[link](https://github.com/nankepan/VIPMT)**|
+|**2023-09-07**|**Tracking Anything with Decoupled Video Segmentation**|Ho Kei Cheng et.al.|[2309.03903](http://arxiv.org/abs/2309.03903)|**[link](https://github.com/hkchengrex/Tracking-Anything-with-DEVA)**|
+|**2023-09-07**|**Temporal Collection and Distribution for Referring Video Object Segmentation**|Jiajin Tang et.al.|[2309.03473](http://arxiv.org/abs/2309.03473)|null|
+|**2023-10-18**|**Robust Visual Tracking by Motion Analyzing**|Mohammed Leo et.al.|[2309.03247](http://arxiv.org/abs/2309.03247)|null|
+|**2023-09-05**|**Learning Cross-Modal Affinity for Referring Video Object Segmentation Targeting Limited Samples**|Guanghui Li et.al.|[2309.02041](http://arxiv.org/abs/2309.02041)|**[link](https://github.com/hengliusky/few_shot_rvos)**|
+|**2023-08-25**|**Joint Modeling of Feature, Correspondence, and a Compressed Memory for Video Object Segmentation**|Jiaming Zhang et.al.|[2308.13505](http://arxiv.org/abs/2308.13505)|null|
+|**2023-09-21**|**Integrating Boxes and Masks: A Multi-Object Framework for Unified Visual Tracking and Segmentation**|Yuanyou Xu et.al.|[2308.13266](http://arxiv.org/abs/2308.13266)|**[link](https://github.com/yoxu515/mits)**|
+|**2023-12-02**|**LOCATE: Self-supervised Object Discovery via Flow-guided Graph-cut and Bootstrapped Self-training**|Silky Singh et.al.|[2308.11239](http://arxiv.org/abs/2308.11239)|**[link](https://github.com/silky1708/locate)**|
+|**2023-08-19**|**Scalable Video Object Segmentation with Simplified Framework**|Qiangqiang Wu et.al.|[2308.09903](http://arxiv.org/abs/2308.09903)|null|
+|**2023-08-16**|**MeViS: A Large-scale Benchmark for Video Segmentation with Motion Expressions**|Henghui Ding et.al.|[2308.08544](http://arxiv.org/abs/2308.08544)|**[link](https://github.com/henghuiding/MeViS)**|
+|**2023-08-13**|**Isomer: Isomerous Transformer for Zero-shot Video Object Segmentation**|Yichen Yuan et.al.|[2308.06693](http://arxiv.org/abs/2308.06693)|**[link](https://github.com/dlut-yyc/isomer)**|
+|**2023-08-08**|**EPCFormer: Expression Prompt Collaboration Transformer for Universal Referring Video Object Segmentation**|Jiajun Chen et.al.|[2308.04162](http://arxiv.org/abs/2308.04162)|**[link](https://github.com/lab206/epcformer)**|
+|**2023-12-15**|**Learning Referring Video Object Segmentation from Weak Annotation**|Wangbo Zhao et.al.|[2308.02162](http://arxiv.org/abs/2308.02162)|null|
+|**2023-08-15**|**XMem++: Production-level Video Segmentation From Few Annotated Frames**|Maksym Bekuzarov et.al.|[2307.15958](http://arxiv.org/abs/2307.15958)|**[link](https://github.com/max810/XMem2)**|
+|**2023-07-26**|**Tracking Anything in High Quality**|Jiawen Zhu et.al.|[2307.13974](http://arxiv.org/abs/2307.13974)|**[link](https://github.com/jiawen-zhu/hqtrack)**|
+|**2023-07-25**|**Spectrum-guided Multi-granularity Referring Video Object Segmentation**|Bo Miao et.al.|[2307.13537](http://arxiv.org/abs/2307.13537)|**[link](https://github.com/bo-miao/sgmg)**|
+|**2023-07-18**|**OnlineRefer: A Simple Online Baseline for Referring Video Object Segmentation**|Dongming Wu et.al.|[2307.09356](http://arxiv.org/abs/2307.09356)|**[link](https://github.com/wudongming97/onlinerefer)**|
+|**2023-07-17**|**Hierarchical Spatiotemporal Transformers for Video Object Segmentation**|Jun-Sang Yoo et.al.|[2307.08263](http://arxiv.org/abs/2307.08263)|null|
+|**2023-07-16**|**Holistic Prototype Attention Network for Few-Shot VOS**|Yin Tang et.al.|[2307.07933](http://arxiv.org/abs/2307.07933)|**[link](https://github.com/nust-machine-intelligence-laboratory/hpan)**|
+|**2023-07-15**|**Multiscale Memory Comparator Transformer for Few-Shot Video Segmentation**|Mennatullah Siam et.al.|[2307.07812](http://arxiv.org/abs/2307.07812)|**[link](https://github.com/msiam/mmc-multiscalememory)**|
+|**2023-07-10**|**FODVid: Flow-guided Object Discovery in Videos**|Silky Singh et.al.|[2307.04392](http://arxiv.org/abs/2307.04392)|null|
+|**2023-07-10**|**ZJU ReLER Submission for EPIC-KITCHEN Challenge 2023: TREK-150 Single Object Tracking**|Yuanyou Xu et.al.|[2307.02508](http://arxiv.org/abs/2307.02508)|null|
+|**2023-07-10**|**ZJU ReLER Submission for EPIC-KITCHEN Challenge 2023: Semi-Supervised Video Object Segmentation**|Jiahao Li et.al.|[2307.02010](http://arxiv.org/abs/2307.02010)|null|
+|**2023-12-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197](http://arxiv.org/abs/2307.01197)|**[link](https://github.com/syscv/sam-pt)**|
+|**2024-09-03**|**RefSAM: Efficiently Adapting Segmenting Anything Model for Referring Video Object Segmentation**|Yonglin Li et.al.|[2307.00997](http://arxiv.org/abs/2307.00997)|**[link](https://github.com/lancasterli/refsam)**|
+|**2023-09-17**|**Bidirectional Correlation-Driven Inter-Frame Interaction Transformer for Referring Video Object Segmentation**|Meng Lan et.al.|[2307.00536](http://arxiv.org/abs/2307.00536)|null|
+|**2023-06-28**|**TrickVOS: A Bag of Tricks for Video Object Segmentation**|Evangelos Skartados et.al.|[2306.15377](http://arxiv.org/abs/2306.15377)|null|
+|**2024-01-17**|**Online Unsupervised Video Object Segmentation via Contrastive Motion Clustering**|Lin Xi et.al.|[2306.12048](http://arxiv.org/abs/2306.12048)|**[link](https://github.com/xilin1991/CluterNet)**|
+|**2024-04-02**|**LoSh: Long-Short Text Joint Prediction Network for Referring Video Object Segmentation**|Linfeng Yuan et.al.|[2306.08736](http://arxiv.org/abs/2306.08736)|**[link](https://github.com/linfengyuan1997/losh)**|
+|**2024-02-01**|**EPIC Fields: Marrying 3D Geometry and Video Understanding**|Vadim Tschernezki et.al.|[2306.08731](http://arxiv.org/abs/2306.08731)|**[link](https://github.com/epic-kitchens/epic-fields-code)**|
+|**2023-05-26**|**SOC: Semantic-Assisted Object Cluster for Referring Video Object Segmentation**|Zhuoyan Luo et.al.|[2305.17011](http://arxiv.org/abs/2305.17011)|**[link](https://github.com/RobertLuo1/NeurIPS2023_SOC)**|
+|**2023-12-12**|**Referred by Multi-Modality: A Unified Temporal Transformer for Video Object Segmentation**|Shilin Yan et.al.|[2305.16318](http://arxiv.org/abs/2305.16318)|**[link](https://github.com/opengvlab/mutr)**|
+|**2023-05-24**|**AutoDepthNet: High Frame Rate Depth Map Reconstruction using Commodity Depth and RGB Cameras**|Peyman Gholami et.al.|[2305.14731](http://arxiv.org/abs/2305.14731)|null|
+|**2023-05-23**|**Siamese Masked Autoencoders**|Agrim Gupta et.al.|[2305.14344](http://arxiv.org/abs/2305.14344)|null|
+|**2023-09-25**|**READMem: Robust Embedding Association for a Diverse Memory in Unconstrained Video Object Segmentation**|Stéphane Vujasinović et.al.|[2305.12823](http://arxiv.org/abs/2305.12823)|**[link](https://github.com/Vujas-Eteph/READMem)**|
+|**2024-06-06**|**UVOSAM: A Mask-free Paradigm for Unsupervised Video Object Segmentation via Segment Anything Model**|Zhenghao Zhang et.al.|[2305.12659](http://arxiv.org/abs/2305.12659)|**[link](https://github.com/alibaba/uvosam)**|
+|**2023-06-25**|**Video Object Segmentation in Panoptic Wild Scenes**|Yuanyou Xu et.al.|[2305.04470](http://arxiv.org/abs/2305.04470)|**[link](https://github.com/yoxu515/viposeg-benchmark)**|
+|**2023-10-04**|**Personalize Segment Anything Model with One Shot**|Renrui Zhang et.al.|[2305.03048](http://arxiv.org/abs/2305.03048)|**[link](https://github.com/zrrskywalker/personalize-sam)**|
+|**2023-04-24**|**Robust and Efficient Memory Network for Video Object Segmentation**|Yadang Chen et.al.|[2304.11840](http://arxiv.org/abs/2304.11840)|null|
+|**2023-04-17**|**Bootstrapping Objectness from Videos by Relaxed Common Fate and Visual Grouping**|Long Lian et.al.|[2304.08025](http://arxiv.org/abs/2304.08025)|**[link](https://github.com/TonyLianLong/RCF-UnsupVideoSeg)**|
+|**2023-07-11**|**Segment Everything Everywhere All at Once**|Xueyan Zou et.al.|[2304.06718](http://arxiv.org/abs/2304.06718)|null|
+|**2023-04-13**|**Boosting Video Object Segmentation via Space-time Correspondence Learning**|Yurong Zhang et.al.|[2304.06211](http://arxiv.org/abs/2304.06211)|**[link](https://github.com/wenguanwang/vos_correspondence)**|
+|**2024-09-17**|**MED-VT++: Unifying Multimodal Learning with a Multiscale Encoder-Decoder Video Transformer**|Rezaul Karim et.al.|[2304.05930](http://arxiv.org/abs/2304.05930)|null|
+|**2023-04-09**|**CLVOS23: A Long Video Object Segmentation Dataset for Continual Learning**|Amir Nazemi et.al.|[2304.04259](http://arxiv.org/abs/2304.04259)|**[link](https://github.com/amir4g/clvos23)**|
+|**2023-04-08**|**Co-attention Propagation Network for Zero-Shot Video Object Segmentation**|Gensheng Pei et.al.|[2304.03910](http://arxiv.org/abs/2304.03910)|**[link](https://github.com/nust-machine-intelligence-laboratory/hcpn)**|
+|**2023-04-06**|**SegGPT: Segmenting Everything In Context**|Xinlong Wang et.al.|[2304.03284](http://arxiv.org/abs/2304.03284)|**[link](https://github.com/baaivision/painter)**|
+|**2023-04-07**|**DropMAE: Masked Autoencoders with Spatial-Attention Dropout for Tracking Tasks**|Qiangqiang Wu et.al.|[2304.00571](http://arxiv.org/abs/2304.00571)|**[link](https://github.com/jimmy-dq/dropmae)**|
+|**2023-03-25**|**Reliability-Hierarchical Memory Network for Scribble-Supervised Video Object Segmentation**|Zikun Zhou et.al.|[2303.14384](http://arxiv.org/abs/2303.14384)|**[link](https://github.com/mkg1204/rhmnet-for-ssvos)**|
+|**2023-03-23**|**CrOC: Cross-View Online Clustering for Dense Visual Representation Learning**|Thomas Stegmüller et.al.|[2303.13245](http://arxiv.org/abs/2303.13245)|**[link](https://github.com/stegmuel/croc)**|
+|**2023-03-21**|**Two-shot Video Object Segmentation**|Kun Yan et.al.|[2303.12078](http://arxiv.org/abs/2303.12078)|**[link](https://github.com/yk-pku/two-shot-video-object-segmentation)**|
+|**2024-02-03**|**Adaptive Multi-source Predictor for Zero-shot Video Object Segmentation**|Xiaoqi Zhao et.al.|[2303.10383](http://arxiv.org/abs/2303.10383)|**[link](https://github.com/xiaoqi-zhao-dlut/multi-source-aps-zvos)**|
+|**2023-03-17**|**Unified Mask Embedding and Correspondence Learning for Self-Supervised Video Segmentation**|Liulei Li et.al.|[2303.10100](http://arxiv.org/abs/2303.10100)|**[link](https://github.com/0liliulei/mask-vos)**|
+|**2024-03-31**|**Guided Slot Attention for Unsupervised Video Object Segmentation**|Minhyeok Lee et.al.|[2303.08314](http://arxiv.org/abs/2303.08314)|**[link](https://github.com/hydragon516/gsanet)**|
+|**2023-03-14**|**MobileVOS: Real-Time Video Object Segmentation Contrastive Learning meets Knowledge Distillation**|Roy Miles et.al.|[2303.07815](http://arxiv.org/abs/2303.07815)|null|
+|**2024-02-21**|**Tsanet: Temporal and Scale Alignment for Unsupervised Video Object Segmentation**|Seunghoon Lee et.al.|[2303.04376](http://arxiv.org/abs/2303.04376)|null|
+|**2023-02-28**|**One-Shot Video Inpainting**|Sangjin Lee et.al.|[2302.14362](http://arxiv.org/abs/2302.14362)|null|
+|**2023-02-07**|**Self-Supervised Unseen Object Instance Segmentation via Long-Term Robot Interaction**|Yangxiao Lu et.al.|[2302.03793](http://arxiv.org/abs/2302.03793)|null|
+|**2023-02-03**|**MOSE: A New Dataset for Video Object Segmentation in Complex Scenes**|Henghui Ding et.al.|[2302.01872](http://arxiv.org/abs/2302.01872)|**[link](https://github.com/henghuiding/MOSE-api)**|
+|**2023-01-29**|**Maximal Cliques on Multi-Frame Proposal Graph for Unsupervised Video Object Segmentation**|Jialin Yuan et.al.|[2301.12352](http://arxiv.org/abs/2301.12352)|null|
+|**2023-01-25**|**Flow-guided Semi-supervised Video Object Segmentation**|Yushan Zhang et.al.|[2301.10492](http://arxiv.org/abs/2301.10492)|null|
+|**2023-05-10**|**TarViS: A Unified Approach for Target-based Video Segmentation**|Ali Athar et.al.|[2301.02657](http://arxiv.org/abs/2301.02657)|**[link](https://github.com/Ali2500/TarViS)**|
+|**2022-12-27**|**1st Place Solution for YouTubeVOS Challenge 2022: Referring Video Object Segmentation**|Zhiwei Hu et.al.|[2212.14679](http://arxiv.org/abs/2212.14679)|**[link](https://github.com/zhiweihhh/cvpr2022-rvos-challenge)**|
+|**2022-12-17**|**Improving Unsupervised Video Object Segmentation with Motion-Appearance Synergy**|Long Lian et.al.|[2212.08816](http://arxiv.org/abs/2212.08816)|null|
+|**2022-12-15**|**Learning a Fast 3D Spectral Approach to Object Segmentation and Tracking over Space and Time**|Elena Burceanu et.al.|[2212.08058](http://arxiv.org/abs/2212.08058)|null|
+|**2022-12-13**|**Look Before You Match: Instance Understanding Matters in Video Object Segmentation**|Junke Wang et.al.|[2212.06826](http://arxiv.org/abs/2212.06826)|null|
+|**2023-03-28**|**Breaking the "Object" in Video Object Segmentation**|Pavel Tokmakov et.al.|[2212.06200](http://arxiv.org/abs/2212.06200)|null|
+|**2022-12-06**|**Video Object of Interest Segmentation**|Siyuan Zhou et.al.|[2212.02871](http://arxiv.org/abs/2212.02871)|null|
+|**2022-12-05**|**Learning to Learn Better for Video Object Segmentation**|Meng Lan et.al.|[2212.02112](http://arxiv.org/abs/2212.02112)|**[link](https://github.com/vitae-transformer/vos-llb)**|
+|**2024-03-26**|**Dual Prototype Attention for Unsupervised Video Object Segmentation**|Suhwan Cho et.al.|[2211.12036](http://arxiv.org/abs/2211.12036)|**[link](https://github.com/hydragon516/dpa)**|
+|**2023-08-18**|**LVOS: A Benchmark for Long-term Video Object Segmentation**|Lingyi Hong et.al.|[2211.10181](http://arxiv.org/abs/2211.10181)|**[link](https://github.com/LingyiHongfd/LVOS)**|
+|**2022-11-13**|**Visual Semantic Segmentation Based on Few/Zero-Shot Learning: An Overview**|Wenqi Ren et.al.|[2211.08352](http://arxiv.org/abs/2211.08352)|null|
+|**2022-11-21**|**Efficient Unsupervised Video Object Segmentation Network Based on Motion Guidance**|Chao Hu et.al.|[2211.05364](http://arxiv.org/abs/2211.05364)|null|
+|**2024-09-16**|**Quantifying and Learning Static vs. Dynamic Information in Deep Spatiotemporal Networks**|Matthew Kowal et.al.|[2211.01783](http://arxiv.org/abs/2211.01783)|null|
+|**2022-10-30**|**Two-Level Temporal Relation Model for Online Video Instance Segmentation**|Çağan Selim Çoban et.al.|[2210.16795](http://arxiv.org/abs/2210.16795)|**[link](https://github.com/caganselim/tltm)**|
+|**2022-10-23**|**Self-supervised Amodal Video Object Segmentation**|Jian Yao et.al.|[2210.12733](http://arxiv.org/abs/2210.12733)|null|
+|**2022-11-28**|**Decoupling Features in Hierarchical Propagation for Video Object Segmentation**|Zongxin Yang et.al.|[2210.09782](http://arxiv.org/abs/2210.09782)|**[link](https://github.com/z-x-yang/AOT)**|
+|**2022-10-12**|**Global Spectral Filter Memory Network for Video Object Segmentation**|Yong Liu et.al.|[2210.05567](http://arxiv.org/abs/2210.05567)|**[link](https://github.com/workforai/gsfm)**|
+|**2022-10-09**|**Self-supervised Video Representation Learning with Motion-Aware Masked Autoencoders**|Haosen Yang et.al.|[2210.04154](http://arxiv.org/abs/2210.04154)|**[link](https://github.com/happy-hsy/motionmae)**|
+|**2022-09-26**|**EPIC-KITCHENS VISOR Benchmark: VIdeo Segmentations and Object Relations**|Ahmad Darkhalil et.al.|[2209.13064](http://arxiv.org/abs/2209.13064)|**[link](https://github.com/epic-kitchens/visor-wdtcf)**|
+|**2022-11-22**|**BURST: A Benchmark for Unifying Object Recognition, Segmentation and Tracking in Video**|Ali Athar et.al.|[2209.12118](http://arxiv.org/abs/2209.12118)|**[link](https://github.com/ali2500/burst-benchmark)**|
+|**2022-10-19**|**A Simple and Powerful Global Optimization for Unsupervised Video Object Segmentation**|Georgy Ponimatkin et.al.|[2209.09341](http://arxiv.org/abs/2209.09341)|**[link](https://github.com/ponimatkin/ssl-vos)**|
+|**2022-09-08**|**Unsupervised Video Object Segmentation via Prototype Memory Network**|Minhyeok Lee et.al.|[2209.03712](http://arxiv.org/abs/2209.03712)|**[link](https://github.com/Hydragon516/PMN)**|
+|**2023-02-01**|**Pixel-Level Equalized Matching for Video Object Segmentation**|Suhwan Cho et.al.|[2209.03139](http://arxiv.org/abs/2209.03139)|null|
+|**2022-11-02**|**Treating Motion as Option to Reduce Motion Dependency in Unsupervised Video Object Segmentation**|Suhwan Cho et.al.|[2209.03138](http://arxiv.org/abs/2209.03138)|**[link](https://github.com/suhwan-cho/tmo)**|
+|**2023-12-05**|**TokenCut: Segmenting Objects in Images and Videos with Self-supervised Transformer and Normalized Cut**|Yangtao Wang et.al.|[2209.00383](http://arxiv.org/abs/2209.00383)|null|
+|**2022-08-22**|**SWEM: Towards Real-Time Video Object Segmentation with Sequential Weighted Expectation-Maximization**|Zhihui Lin et.al.|[2208.10128](http://arxiv.org/abs/2208.10128)|**[link](https://github.com/lmm077/SWEM)**|
+|**2022-08-08**|**Two-Stream Networks for Object Segmentation in Videos**|Hannan Lu et.al.|[2208.04026](http://arxiv.org/abs/2208.04026)|null|
+|**2022-08-03**|**Per-Clip Video Object Segmentation**|Kwanyong Park et.al.|[2208.01924](http://arxiv.org/abs/2208.01924)|**[link](https://github.com/pkyong95/PCVOS)**|
+|**2022-08-08**|**BATMAN: Bilateral Attention Transformer in Motion-Appearance Neighboring Space for Video Object Segmentation**|Ye Yu et.al.|[2208.01159](http://arxiv.org/abs/2208.01159)|null|
+|**2022-07-26**|**Multi-Attention Network for Compressed Video Referring Object Segmentation**|Weidong Chen et.al.|[2207.12622](http://arxiv.org/abs/2207.12622)|**[link](https://github.com/dexianghong/manet)**|
+|**2022-07-21**|**In Defense of Online Models for Video Instance Segmentation**|Junfeng Wu et.al.|[2207.10661](http://arxiv.org/abs/2207.10661)|**[link](https://github.com/wjf5203/vnext)**|
+|**2022-07-22**|**Semantic-Aware Fine-Grained Correspondence**|Yingdong Hu et.al.|[2207.10456](http://arxiv.org/abs/2207.10456)|**[link](https://github.com/alxead/sfc)**|
+|**2022-07-21**|**Region Aware Video Object Segmentation with Deep Motion Modeling**|Bo Miao et.al.|[2207.10258](http://arxiv.org/abs/2207.10258)|null|
+|**2022-07-19**|**Hierarchical Feature Alignment Network for Unsupervised Video Object Segmentation**|Gensheng Pei et.al.|[2207.08485](http://arxiv.org/abs/2207.08485)|**[link](https://github.com/NUST-Machine-Intelligence-Laboratory/HFAN)**|
+|**2022-07-16**|**Learning Quality-aware Dynamic Memory for Video Object Segmentation**|Yong Liu et.al.|[2207.07922](http://arxiv.org/abs/2207.07922)|**[link](https://github.com/workforai/qdmn)**|
+|**2022-07-18**|**XMem: Long-Term Video Object Segmentation with an Atkinson-Shiffrin Memory Model**|Ho Kei Cheng et.al.|[2207.07115](http://arxiv.org/abs/2207.07115)|**[link](https://github.com/hkchengrex/XMem)**|
+|**2022-08-15**|**Tackling Background Distraction in Video Object Segmentation**|Suhwan Cho et.al.|[2207.06953](http://arxiv.org/abs/2207.06953)|**[link](https://github.com/suhwan-cho/tbd)**|
+|**2022-07-05**|**SiamMask: A Framework for Fast Online Object Tracking and Segmentation**|Weiming Hu et.al.|[2207.02088](http://arxiv.org/abs/2207.02088)|null|
+|**2023-08-18**|**Towards Robust Referring Video Object Segmentation with Cyclic Relational Consensus**|Xiang Li et.al.|[2207.01203](http://arxiv.org/abs/2207.01203)|**[link](https://github.com/lxa9867/R2VOS)**|
+|**2022-07-02**|**Towards Robust Video Object Segmentation with Adaptive Object Calibration**|Xiaohao Xu et.al.|[2207.00887](http://arxiv.org/abs/2207.00887)|**[link](https://github.com/jerryx1110/robust-video-object-segmentation)**|
+|**2022-06-24**|**The Second Place Solution for The 4th Large-scale Video Object Segmentation Challenge--Track 3: Referring Video Object Segmentation**|Leilei Cao et.al.|[2206.12035](http://arxiv.org/abs/2206.12035)|null|
+|**2022-06-20**|**5th Place Solution for YouTube-VOS Challenge 2022: Video Object Segmentation**|Wangwang Yang et.al.|[2206.09585](http://arxiv.org/abs/2206.09585)|null|
+|**2022-06-08**|**Language-Bridged Spatial-Temporal Interaction for Referring Video Object Segmentation**|Zihan Ding et.al.|[2206.03789](http://arxiv.org/abs/2206.03789)|**[link](https://github.com/dzh19990407/lbdt)**|
+|**2022-06-06**|**A Deeper Dive Into What Deep Spatiotemporal Networks Encode: Quantifying Static vs. Dynamic Information**|Matthew Kowal et.al.|[2206.02846](http://arxiv.org/abs/2206.02846)|**[link](https://github.com/YorkUCVIL/Static-Dynamic-Interpretability)**|
+|**2022-08-05**|**Differentiable Soft-Masked Attention**|Ali Athar et.al.|[2206.00182](http://arxiv.org/abs/2206.00182)|**[link](https://github.com/Ali2500/HODOR)**|
+|**2022-05-23**|**Collaborative Attention Memory Network for Video Object Segmentation**|Zhixing Huang et.al.|[2205.08075](http://arxiv.org/abs/2205.08075)|null|
+|**2022-05-08**|**Recurrent Dynamic Embedding for Video Object Segmentation**|Mingxing Li et.al.|[2205.03761](http://arxiv.org/abs/2205.03761)|**[link](https://github.com/limingxing00/rde-vos-cvpr2022)**|
+|**2022-05-02**|**Boosting Video Object Segmentation based on Scale Inconsistency**|Hengyi Wang et.al.|[2205.01197](http://arxiv.org/abs/2205.01197)|**[link](https://github.com/HengyiWang/SIRNet)**|
+|**2022-04-22**|**Self-Supervised Video Object Segmentation via Cutout Prediction and Tagging**|Jyoti Kini et.al.|[2204.10846](http://arxiv.org/abs/2204.10846)|null|
+|**2022-04-13**|**Adaptive Memory Management for Video Object Segmentation**|Ali Pourganjalikhan et.al.|[2204.06626](http://arxiv.org/abs/2204.06626)|**[link](https://github.com/alipga/AMM_VOS)**|
+|**2024-01-16**|**Implicit Motion-Compensated Network for Unsupervised Video Object Segmentation**|Lin Xi et.al.|[2204.02791](http://arxiv.org/abs/2204.02791)|**[link](https://github.com/xilin1991/IMCNet)**|
+|**2022-10-24**|**In-N-Out Generative Learning for Dense Unsupervised Video Segmentation**|Xiao Pan et.al.|[2203.15312](http://arxiv.org/abs/2203.15312)|**[link](https://github.com/pansanity666/INO_VOS)**|
+|**2023-07-16**|**Temporal Transductive Inference for Few-Shot Video Object Segmentation**|Mennatullah Siam et.al.|[2203.14308](http://arxiv.org/abs/2203.14308)|**[link](https://github.com/msiam/tti_fsvos)**|
+|**2024-05-28**|**Scalable Video Object Segmentation with Identification Mechanism**|Zongxin Yang et.al.|[2203.11442](http://arxiv.org/abs/2203.11442)|**[link](https://github.com/yoxu515/aot-benchmark)**|
+|**2022-07-20**|**Robust Visual Tracking by Segmentation**|Matthieu Paul et.al.|[2203.11191](http://arxiv.org/abs/2203.11191)|**[link](https://github.com/visionml/pytracking)**|
+|**2024-01-19**|**Local-Global Context Aware Transformer for Language-Guided Video Segmentation**|Chen Liang et.al.|[2203.09773](http://arxiv.org/abs/2203.09773)|**[link](https://github.com/leonnnop/locater)**|
+|**2022-07-01**|**End-to-End Semi-Supervised Learning for Video Action Detection**|Akash Kumar et.al.|[2203.04251](http://arxiv.org/abs/2203.04251)|**[link](https://github.com/AKASH2907/End-to-End-Semi-Supervised-Learning-for-Video-Action-Detection)**|
+|**2022-06-07**|**Revisiting Click-based Interactive Video Object Segmentation**|Stephane Vujasinovic et.al.|[2203.01784](http://arxiv.org/abs/2203.01784)|**[link](https://github.com/Vujas-Eteph/CiVOS)**|
+|**2022-02-16**|**Box Supervised Video Segmentation Proposal Network**|Tanveer Hannan et.al.|[2202.07025](http://arxiv.org/abs/2202.07025)|**[link](https://github.com/tanveer81/boxvos)**|
+|**2022-05-09**|**Semantically Video Coding: Instill Static-Dynamic Clues into Structured Bitstream for AI Tasks**|Xin Jin et.al.|[2201.10162](http://arxiv.org/abs/2201.10162)|null|
+|**2022-04-04**|**Learning Pixel Trajectories with Multiscale Contrastive Random Walks**|Zhangxing Bian et.al.|[2201.08379](http://arxiv.org/abs/2201.08379)|null|
+|**2022-03-13**|**Language as Queries for Referring Video Object Segmentation**|Jiannan Wu et.al.|[2201.00487](http://arxiv.org/abs/2201.00487)|**[link](https://github.com/wjn922/referformer)**|
+|**2021-12-28**|**Siamese Network with Interactive Transformer for Video Object Segmentation**|Meng Lan et.al.|[2112.13983](http://arxiv.org/abs/2112.13983)|**[link](https://github.com/lanmng/sitvos)**|
+|**2021-12-23**|**Iteratively Selecting an Easy Reference Frame Makes Unsupervised Video Object Segmentation Easier**|Youngjo Lee et.al.|[2112.12402](http://arxiv.org/abs/2112.12402)|null|
+|**2021-12-27**|**A Discriminative Single-Shot Segmentation Network for Visual Object Tracking**|Alan Lukežič et.al.|[2112.11846](http://arxiv.org/abs/2112.11846)|null|
+|**2022-07-15**|**HODOR: High-level Object Descriptors for Object Re-segmentation in Video Learned from Static Images**|Ali Athar et.al.|[2112.09131](http://arxiv.org/abs/2112.09131)|**[link](https://github.com/Ali2500/HODOR)**|
+|**2021-12-06**|**Reliable Propagation-Correction Modulation for Video Object Segmentation**|Xiaohao Xu et.al.|[2112.02853](http://arxiv.org/abs/2112.02853)|**[link](https://github.com/jerryx1110/rpcmvos)**|
+|**2022-04-03**|**End-to-End Referring Video Object Segmentation with Multimodal Transformers**|Adam Botach et.al.|[2111.14821](http://arxiv.org/abs/2111.14821)|**[link](https://github.com/mttr2021/MTTR)**|
+|**2021-11-29**|**MUNet: Motion Uncertainty-aware Semi-supervised Video Object Segmentation**|Jiadai Sun et.al.|[2111.14646](http://arxiv.org/abs/2111.14646)|null|
+|**2021-11-28**|**Learning To Segment Dominant Object Motion From Watching Videos**|Sahir Shrestha et.al.|[2111.14160](http://arxiv.org/abs/2111.14160)|null|
+|**2021-11-20**|**FlowVOS: Weakly-Supervised Visual Warping for Detail-Preserving and Temporally Consistent Single-Shot Video Object Segmentation**|Julia Gong et.al.|[2111.10621](http://arxiv.org/abs/2111.10621)|null|
+|**2021-11-20**|**FAMINet: Learning Real-time Semi-supervised Video Object Segmentation with Steepest Optimized Optical Flow**|Ziyang Liu et.al.|[2111.10531](http://arxiv.org/abs/2111.10531)|**[link](https://github.com/liuziyang123/faminet)**|
+|**2021-11-15**|**D^2Conv3D: Dynamic Dilated Convolutions for Object Segmentation in Videos**|Christian Schmidt et.al.|[2111.07774](http://arxiv.org/abs/2111.07774)|**[link](https://github.com/schmiddo/d2conv3d)**|
+|**2021-11-11**|**Dense Unsupervised Learning for Video Segmentation**|Nikita Araslanov et.al.|[2111.06265](http://arxiv.org/abs/2111.06265)|**[link](https://github.com/visinf/dense-ulearn-vos)**|
+|**2021-11-03**|**Video Salient Object Detection via Contrastive Features and Attention Modules**|Yi-Wen Chen et.al.|[2111.02368](http://arxiv.org/abs/2111.02368)|null|
+|**2022-07-25**|**Exploring the Semi-supervised Video Object Segmentation Problem from a Cyclic Perspective**|Yuxi Li et.al.|[2111.01323](http://arxiv.org/abs/2111.01323)|**[link](https://github.com/lyxok1/STM-Training)**|
+|**2021-10-27**|**SiamPolar: Semi-supervised Realtime Video Object Segmentation with Polar Representation**|Yaochen Li et.al.|[2110.14773](http://arxiv.org/abs/2110.14773)|null|
+|**2023-05-16**|**Multi-Object Tracking and Segmentation with a Space-Time Memory Network**|Mehdi Miah et.al.|[2110.11284](http://arxiv.org/abs/2110.11284)|null|
+|**2021-11-12**|**Pixel-Level Bijective Matching for Video Object Segmentation**|Suhwan Cho et.al.|[2110.01644](http://arxiv.org/abs/2110.01644)|**[link](https://github.com/suhwan-cho/bmvos)**|
+|**2021-09-23**|**Hierarchical Memory Matching Network for Video Object Segmentation**|Hongje Seong et.al.|[2109.11404](http://arxiv.org/abs/2109.11404)|**[link](https://github.com/hongje/hmmn)**|
+|**2022-07-06**|**Space Time Recurrent Memory Network**|Hung Nguyen et.al.|[2109.06474](http://arxiv.org/abs/2109.06474)|null|
+|**2021-10-29**|**Shifted Chunk Transformer for Spatio-Temporal Representational Learning**|Xuefan Zha et.al.|[2108.11575](http://arxiv.org/abs/2108.11575)|null|
+|**2021-08-19**|**VIL-100: A New Dataset and A Baseline Model for Video Instance Lane Detection**|Yujun Zhang et.al.|[2108.08482](http://arxiv.org/abs/2108.08482)|**[link](https://github.com/yujun0-0/mma-net)**|
+|**2021-08-11**|**Multi-Source Fusion and Automatic Predictor Selection for Zero-Shot Video Object Segmentation**|Xiaoqi Zhao et.al.|[2108.05076](http://arxiv.org/abs/2108.05076)|**[link](https://github.com/xiaoqi-zhao-dlut/multi-source-aps-zvos)**|
+|**2021-08-08**|**Joint Inductive and Transductive Learning for Video Object Segmentation**|Yunyao Mao et.al.|[2108.03679](http://arxiv.org/abs/2108.03679)|**[link](https://github.com/maoyunyao/joint)**|
+|**2021-09-03**|**Full-Duplex Strategy for Video Object Segmentation**|Ge-Peng Ji et.al.|[2108.03151](http://arxiv.org/abs/2108.03151)|**[link](https://github.com/GewelsJI/FSNet)**|
+|**2021-10-28**|**Self-Supervised Video Object Segmentation by Motion-Aware Mask Propagation**|Bo Miao et.al.|[2107.12569](http://arxiv.org/abs/2107.12569)|**[link](https://github.com/bo-miao/MAMP)**|
+|**2022-04-06**|**Accelerating Video Object Segmentation with Compressed Video**|Kai Xu et.al.|[2107.12192](http://arxiv.org/abs/2107.12192)|**[link](https://github.com/kai422/covos)**|
+|**2021-07-15**|**MeNToS: Tracklets Association with a Space-Time Memory Network**|Mehdi Miah et.al.|[2107.07067](http://arxiv.org/abs/2107.07067)|null|
+|**2021-07-09**|**Fast Pixel-Matching for Video Object Segmentation**|Siyue Yu et.al.|[2107.04279](http://arxiv.org/abs/2107.04279)|null|
+|**2021-06-19**|**MSN: Efficient Online Mask Selection Network for Video Instance Segmentation**|Vidit Goel et.al.|[2106.10452](http://arxiv.org/abs/2106.10452)|**[link](https://github.com/SHI-Labs/Mask-Selection-Networks)**|
+|**2021-10-08**|**Rethinking Space-Time Networks with Improved Memory Coverage for Efficient Video Object Segmentation**|Ho Kei Cheng et.al.|[2106.05210](http://arxiv.org/abs/2106.05210)|**[link](https://github.com/hkchengrex/STCN)**|
+|**2021-06-09**|**SynthRef: Generation of Synthetic Referring Expressions for Object Segmentation**|Ioannis Kazakos et.al.|[2106.04403](http://arxiv.org/abs/2106.04403)|**[link](https://github.com/imatge-upc/synthref)**|
+|**2021-12-24**|**ViTAE: Vision Transformer Advanced by Exploring Intrinsic Inductive Bias**|Yufei Xu et.al.|[2106.03348](http://arxiv.org/abs/2106.03348)|**[link](https://github.com/Annbless/ViTAE)**|
+|**2021-10-30**|**Associating Objects with Transformers for Video Object Segmentation**|Zongxin Yang et.al.|[2106.02638](http://arxiv.org/abs/2106.02638)|**[link](https://github.com/z-x-yang/AOT)**|
+|**2024-01-19**|**Rethinking Cross-modal Interaction from a Top-down Perspective for Referring Video Object Segmentation**|Chen Liang et.al.|[2106.01061](http://arxiv.org/abs/2106.01061)|null|
+|**2021-09-18**|**TransVOS: Video Object Segmentation with Transformers**|Jianbiao Mei et.al.|[2106.00588](http://arxiv.org/abs/2106.00588)|**[link](https://github.com/sallymmx/TransVOS)**|
+|**2021-05-30**|**Polygonal Point Set Tracking**|Gunhee Nam et.al.|[2105.14584](http://arxiv.org/abs/2105.14584)|null|
+|**2021-07-29**|**Attention-guided Temporally Coherent Video Object Matting**|Yunke Zhang et.al.|[2105.11427](http://arxiv.org/abs/2105.11427)|**[link](https://github.com/yunkezhang/TCVOM)**|
+|**2021-05-24**|**DAVOS: Semi-Supervised Video Object Segmentation via Adversarial Domain Adaptation**|Jinshuo Zhang et.al.|[2105.10201](http://arxiv.org/abs/2105.10201)|null|
+|**2021-12-29**|**Breaking Shortcut: Exploring Fully Convolutional Cycle-Consistency for Video Correspondence Learning**|Yansong Tang et.al.|[2105.05838](http://arxiv.org/abs/2105.05838)|**[link](https://github.com/steve-tod/stfc3)**|
+|**2021-04-21**|**Guided Interactive Video Object Segmentation Using Reliability-Based Attention Maps**|Yuk Heo et.al.|[2104.10386](http://arxiv.org/abs/2104.10386)|**[link](https://github.com/yuk6heo/GIS-RAmap)**|
+|**2021-08-11**|**Self-supervised Video Object Segmentation by Motion Grouping**|Charig Yang et.al.|[2104.07658](http://arxiv.org/abs/2104.07658)|null|
+|**2021-04-10**|**Target-Aware Object Discovery and Association for Unsupervised Video Multi-Object Segmentation**|Tianfei Zhou et.al.|[2104.04782](http://arxiv.org/abs/2104.04782)|null|
+|**2021-04-09**|**Learning Position and Target Consistency for Memory-based Video Object Segmentation**|Li Hu et.al.|[2104.04329](http://arxiv.org/abs/2104.04329)|null|
+|**2021-10-14**|**Rethinking Self-supervised Correspondence Learning: A Video Frame-level Similarity Perspective**|Jiarui Xu et.al.|[2103.17263](http://arxiv.org/abs/2103.17263)|**[link](https://github.com/xvjiarui/VFS)**|
+|**2021-04-27**|**Efficient Regional Memory Network for Video Object Segmentation**|Haozhe Xie et.al.|[2103.12934](http://arxiv.org/abs/2103.12934)|**[link](https://github.com/hzxie/RMNet)**|
+|**2021-06-17**|**Learning to Recommend Frame for Interactive Video Object Segmentation in the Wild**|Zhaoyuan Yin et.al.|[2103.10391](http://arxiv.org/abs/2103.10391)|**[link](https://github.com/svip-lab/IVOS-W)**|
+|**2021-03-21**|**Modular Interactive Video Object Segmentation: Interaction-to-Mask, Propagation and Difference-Aware Fusion**|Ho Kei Cheng et.al.|[2103.07941](http://arxiv.org/abs/2103.07941)|**[link](https://github.com/hkchengrex/MiVOS)**|
+|**2021-03-11**|**Triple-cooperative Video Shadow Detection**|Zhihao Chen et.al.|[2103.06533](http://arxiv.org/abs/2103.06533)|**[link](https://github.com/eraserNut/ViSha)**|
+|**2021-04-21**|**Fast Interactive Video Object Segmentation with Graph Neural Networks**|Viktor Varga et.al.|[2103.03821](http://arxiv.org/abs/2103.03821)|**[link](https://github.com/vvarga90/gnn_annot)**|
+|**2021-04-21**|**SwiftNet: Real-time Video Object Segmentation**|Haochen Wang et.al.|[2102.04604](http://arxiv.org/abs/2102.04604)|**[link](https://github.com/haochenheheda/SwiftNet)**|
+|**2022-02-03**|**Active Boundary Loss for Semantic Segmentation**|Chi Wang et.al.|[2102.02696](http://arxiv.org/abs/2102.02696)|**[link](https://github.com/wangchi95/active-boundary-loss)**|
+|**2021-03-29**|**SSTVOS: Sparse Spatiotemporal Transformers for Video Object Segmentation**|Brendan Duke et.al.|[2101.08833](http://arxiv.org/abs/2101.08833)|**[link](https://github.com/dukebw/SSTVOS)**|
+|**2021-01-16**|**VideoClick: Video Object Segmentation with a Single Click**|Namdar Homayounfar et.al.|[2101.06545](http://arxiv.org/abs/2101.06545)|null|
+|**2021-01-06**|**Generating Masks from Boxes by Mining Spatio-Temporal Consistencies in Videos**|Bin Zhao et.al.|[2101.02196](http://arxiv.org/abs/2101.02196)|**[link](https://github.com/visionml/pytracking)**|
+|**2021-05-16**|**Learning Dynamic Network Using a Reuse Gate Function in Semi-supervised Video Object Segmentation**|Hyojin Park et.al.|[2012.11655](http://arxiv.org/abs/2012.11655)|**[link](https://github.com/HYOJINPARK/Reuse_VOS)**|
+|**2020-12-10**|**Spatiotemporal Graph Neural Network based Mask Reconstruction for Video Object Segmentation**|Daizong Liu et.al.|[2012.05499](http://arxiv.org/abs/2012.05499)|null|
+|**2020-12-09**|**Contrastive Transformation for Self-supervised Correspondence Learning**|Ning Wang et.al.|[2012.05057](http://arxiv.org/abs/2012.05057)|**[link](https://github.com/594422814/ContrastCorr)**|
+|**2020-12-04**|**F2Net: Learning to Focus on the Foreground for Unsupervised Video Object Segmentation**|Daizong Liu et.al.|[2012.02534](http://arxiv.org/abs/2012.02534)|null|
+|**2020-12-03**|**Make One-Shot Video Object Segmentation Efficient Again**|Tim Meinhardt et.al.|[2012.01866](http://arxiv.org/abs/2012.01866)|**[link](https://github.com/dvl-tum/e-osvos)**|
+|**2021-04-04**|**TTVOS: Lightweight Video Object Segmentation with Adaptive Template Attention Module and Temporal Consistency Loss**|Hyojin Park et.al.|[2011.04445](http://arxiv.org/abs/2011.04445)|**[link](https://github.com/HYOJINPARK/TTVOS)**|
+|**2020-11-02**|**Reducing the Annotation Effort for Video Object Segmentation Datasets**|Paul Voigtlaender et.al.|[2011.01142](http://arxiv.org/abs/2011.01142)|null|
+|**2020-10-23**|**Delving into the Cyclic Mechanism in Semi-supervised Video Object Segmentation**|Yuxi Li et.al.|[2010.12176](http://arxiv.org/abs/2010.12176)|**[link](https://github.com/lyxok1/STM-Training)**|
+|**2020-10-22**|**Learning to Sort Image Sequences via Accumulated Temporal Differences**|Gagan Kanojia et.al.|[2010.11649](http://arxiv.org/abs/2010.11649)|null|
+|**2020-10-15**|**Video Object Segmentation with Adaptive Feature Bank and Uncertain-Region Refinement**|Yongqing Liang et.al.|[2010.07958](http://arxiv.org/abs/2010.07958)|**[link](https://github.com/xmlyqing00/AFB-URR)**|
+|**2021-05-16**|**Collaborative Video Object Segmentation by Multi-Scale Foreground-Background Integration**|Zongxin Yang et.al.|[2010.06349](http://arxiv.org/abs/2010.06349)|**[link](https://github.com/z-x-yang/CFBI)**|
+|**2020-11-07**|**Hybrid-S2S: Video Object Segmentation with Recurrent Networks and Correspondence Matching**|Fatemeh Azimi et.al.|[2010.05069](http://arxiv.org/abs/2010.05069)|**[link](https://github.com/fatemehazimi990/HS2S)**|
+|**2020-10-01**|**RefVOS: A Closer Look at Referring Expressions for Video Object Segmentation**|Miriam Bellver et.al.|[2010.00263](http://arxiv.org/abs/2010.00263)|**[link](https://github.com/miriambellver/refvos)**|
+|**2021-04-06**|**Learning Spatio-Appearance Memory Network for High-Performance Visual Tracking**|Fei Xie et.al.|[2009.09669](http://arxiv.org/abs/2009.09669)|**[link](https://github.com/phiphiphi31/DMB)**|
+|**2020-09-18**|**PMVOS: Pixel-Level Matching-Based Video Object Segmentation**|Suhwan Cho et.al.|[2009.08855](http://arxiv.org/abs/2009.08855)|null|
+|**2020-09-02**|**LSMVOS: Long-Short-Term Similarity Matching for Video Object**|Zhang Xuerui et.al.|[2009.00771](http://arxiv.org/abs/2009.00771)|null|
+|**2020-08-22**|**ScribbleBox: Interactive Annotation Framework for Video Object Segmentation**|Bowen Chen et.al.|[2008.09721](http://arxiv.org/abs/2008.09721)|null|
+|**2021-04-03**|**DyStaB: Unsupervised Object Segmentation via Dynamic-Static Bootstrapping**|Yanchao Yang et.al.|[2008.07012](http://arxiv.org/abs/2008.07012)|null|
+|**2020-08-15**|**Curriculum Learning for Recurrent Video Object Segmentation**|Maria Gonzalez-i-Calabuig et.al.|[2008.06698](http://arxiv.org/abs/2008.06698)|**[link](https://github.com/imatge-upc/rvos-mots)**|
+|**2020-08-04**|**Learning Discriminative Feature with CRF for Unsupervised Video Object Segmentation**|Mingmin Zhen et.al.|[2008.01270](http://arxiv.org/abs/2008.01270)|null|
+|**2020-08-03**|**Self-supervised Object Tracking with Cycle-consistent Siamese Networks**|Weihao Yuan et.al.|[2008.00637](http://arxiv.org/abs/2008.00637)|**[link](https://github.com/weihaosky/CycleSiam)**|
+|**2020-07-16**|**Kernelized Memory Network for Video Object Segmentation**|Hongje Seong et.al.|[2007.08270](http://arxiv.org/abs/2007.08270)|null|
+|**2020-07-16**|**Interactive Video Object Segmentation Using Global and Local Transfer Modules**|Yuk Heo et.al.|[2007.08139](http://arxiv.org/abs/2007.08139)|**[link](https://github.com/yuk6heo/IVOS-ATNet)**|
+|**2020-12-09**|**Video Object Segmentation with Episodic Graph Memory Networks**|Xiankai Lu et.al.|[2007.07020](http://arxiv.org/abs/2007.07020)|**[link](https://github.com/carrierlxk/GraphMemVOS)**|
+|**2020-07-11**|**Fast Video Object Segmentation With Temporal Aggregation Network and Dynamic Template Matching**|Xuhua Huang et.al.|[2007.05687](http://arxiv.org/abs/2007.05687)|null|
+|**2020-12-18**|**Learning Object Depth from Camera Motion and Video Object Segmentation**|Brent A. Griffin et.al.|[2007.05676](http://arxiv.org/abs/2007.05676)|**[link](https://github.com/griffbr/ODMS)**|
+|**2020-07-01**|**Motion Prediction in Visual Object Tracking**|Jianren Wang et.al.|[2007.01120](http://arxiv.org/abs/2007.01120)|null|
+|**2020-06-22**|**Self-supervised Video Object Segmentation**|Fangrui Zhu et.al.|[2006.12480](http://arxiv.org/abs/2006.12480)|null|
+|**2020-08-14**|**ALBA : Reinforcement Learning for Video Object Segmentation**|Shreyank N Gowda et.al.|[2005.13039](http://arxiv.org/abs/2005.13039)|null|
+|**2020-04-25**|**Revisiting Sequence-to-Sequence Video Object Segmentation with Multi-Task Loss and Skip-Memory**|Fatemeh Azimi et.al.|[2004.12170](http://arxiv.org/abs/2004.12170)|**[link](https://github.com/fatemehazimi990/RS2S)**|
+|**2020-04-16**|**Fast Template Matching and Update for Video Object Tracking and Segmentation**|Mingjie Sun et.al.|[2004.07538](http://arxiv.org/abs/2004.07538)|**[link](https://github.com/insomnia94/FTMU)**|
+|**2020-04-16**|**A Transductive Approach for Video Object Segmentation**|Yizhuo Zhang et.al.|[2004.07193](http://arxiv.org/abs/2004.07193)|**[link](https://github.com/microsoft/transductive-vos.pytorch)**|
+|**2020-03-30**|**Memory Aggregation Networks for Efficient Interactive Video Object Segmentation**|Jiaxu Miao et.al.|[2003.13246](http://arxiv.org/abs/2003.13246)|null|
+|**2020-03-29**|**Learning a Weakly-Supervised Video Actor-Action Segmentation Model with a Wise Selection**|Jie Chen et.al.|[2003.13141](http://arxiv.org/abs/2003.13141)|null|
+|**2020-05-01**|**Learning What to Learn for Video Object Segmentation**|Goutam Bhat et.al.|[2003.11540](http://arxiv.org/abs/2003.11540)|**[link](https://github.com/visionml/pytracking)**|
+|**2020-07-23**|**Collaborative Video Object Segmentation by Foreground-Background Integration**|Zongxin Yang et.al.|[2003.08333](http://arxiv.org/abs/2003.08333)|**[link](https://github.com/z-x-yang/CFBI)**|
+|**2020-03-13**|**Dual Temporal Memory Network for Efficient Video Object Segmentation**|Kaihua Zhang et.al.|[2003.06125](http://arxiv.org/abs/2003.06125)|null|
+|**2020-03-10**|**Learning Video Object Segmentation from Unlabeled Videos**|Xiankai Lu et.al.|[2003.05020](http://arxiv.org/abs/2003.05020)|**[link](https://github.com/carrierlxk/MuG)**|
+|**2020-07-09**|**Motion-Attentive Transition for Zero-Shot Video Object Segmentation**|Tianfei Zhou et.al.|[2003.04253](http://arxiv.org/abs/2003.04253)|**[link](https://github.com/tfzhou/MATNet)**|
+|**2020-03-31**|**Learning Fast and Robust Target Models for Video Object Segmentation**|Andreas Robinson et.al.|[2003.00908](http://arxiv.org/abs/2003.00908)|**[link](https://github.com/andr345/frtm-vos)**|
+|**2020-03-01**|**State-Aware Tracker for Real-Time Video Object Segmentation**|Xi Chen et.al.|[2003.00482](http://arxiv.org/abs/2003.00482)|**[link](https://github.com/MegviiDetection/video_analyst)**|
+|**2020-02-26**|**MAST: A Memory-Augmented Self-supervised Tracker**|Zihang Lai et.al.|[2002.07793](http://arxiv.org/abs/2002.07793)|**[link](https://github.com/zlai0/MAST)**|
+|**2020-02-17**|**Directional Deep Embedding and Appearance Learning for Fast Video Object Segmentation**|Yingjie Yin et.al.|[2002.06736](http://arxiv.org/abs/2002.06736)|**[link](https://github.com/YingjieYin/Directional-Deep-Embedding-and-Appearance-Learning-for-Fast-Video-Object-Segmentation)**|
+|**2020-06-02**|**CRVOS: Clue Refining Network for Video Object Segmentation**|Suhwan Cho et.al.|[2002.03651](http://arxiv.org/abs/2002.03651)|null|
+|**2020-07-18**|**Fast Video Object Segmentation using the Global Context Module**|Yu Li et.al.|[2001.11243](http://arxiv.org/abs/2001.11243)|**[link](https://github.com/cmsflash/global-context-module)**|
+|**2020-01-19**|**See More, Know More: Unsupervised Video Object Segmentation with Co-Attention Siamese Networks**|Xiankai Lu et.al.|[2001.06810](http://arxiv.org/abs/2001.06810)|**[link](https://github.com/carrierlxk/COSNet)**|
+|**2020-01-19**|**Zero-Shot Video Object Segmentation via Attentive Graph Neural Networks**|Wenguan Wang et.al.|[2001.06807](http://arxiv.org/abs/2001.06807)|**[link](https://github.com/carrierlxk/AGNN)**|
+|**2020-01-15**|**UnOVOST: Unsupervised Offline Video Object Segmentation and Tracking**|Jonathon Luiten et.al.|[2001.05425](http://arxiv.org/abs/2001.05425)|null|
+|**2019-12-18**|**One-Shot Weakly Supervised Video Object Segmentation**|Mennatullah Siam et.al.|[1912.08936](http://arxiv.org/abs/1912.08936)|null|
+|**2019-12-03**|**Automatic Video Object Segmentation via Motion-Appearance-Stream Fusion and Instance-aware Segmentation**|Sungkwon Choo et.al.|[1912.01373](http://arxiv.org/abs/1912.01373)|null|
+|**2020-04-14**|**D3S -- A Discriminative Single Shot Segmentation Tracker**|Alan Lukežič et.al.|[1911.08862](http://arxiv.org/abs/1911.08862)|**[link](https://github.com/alanlukezic/d3s)**|
+|**2019-10-25**|**Learning to Track Any Object**|Achal Dave et.al.|[1910.11844](http://arxiv.org/abs/1910.11844)|null|
+|**2019-10-24**|**Anchor Diffusion for Unsupervised Video Object Segmentation**|Zhao Yang et.al.|[1910.10895](http://arxiv.org/abs/1910.10895)|**[link](https://github.com/yz93/anchor-diff-VOS)**|
+|**2020-08-14**|**Object Segmentation Tracking from Generic Video Cues**|Amirhossein Kardoost et.al.|[1910.02258](http://arxiv.org/abs/1910.02258)|null|
+|**2019-09-30**|**CapsuleVOS: Semi-Supervised Video Object Segmentation Using Capsule Routing**|Kevin Duarte et.al.|[1910.00132](http://arxiv.org/abs/1910.00132)|**[link](https://github.com/KevinDuarte/CapsuleVOS)**|
+|**2019-09-30**|**LIP: Learning Instance Propagation for Video Object Segmentation**|Ye Lyu et.al.|[1910.00032](http://arxiv.org/abs/1910.00032)|null|
+|**2019-09-30**|**Towards Good Practices for Video Object Segmentation**|Dongdong Yu et.al.|[1909.13583](http://arxiv.org/abs/1909.13583)|null|
+|**2019-10-10**|**RPM-Net: Robust Pixel-Level Matching Networks for Self-Supervised Video Object Segmentation**|Youngeun Kim et.al.|[1909.13247](http://arxiv.org/abs/1909.13247)|null|
+|**2019-09-28**|**Meta Learning with Differentiable Closed-form Solver for Fast Video Object Segmentation**|Yu Liu et.al.|[1909.13046](http://arxiv.org/abs/1909.13046)|null|
+|**2019-09-27**|**Adaptive ROI Generation for Video Object Segmentation Using Reinforcement Learning**|Mingjie Sun et.al.|[1909.12482](http://arxiv.org/abs/1909.12482)|null|
+|**2019-09-27**|**DMM-Net: Differentiable Mask-Matching Network for Video Object Segmentation**|Xiaohui Zeng et.al.|[1909.12471](http://arxiv.org/abs/1909.12471)|**[link](https://github.com/ZENGXH/DMM_Net)**|
+|**2019-08-28**|**Fast Video Object Segmentation via Mask Transfer Network**|Tao Zhuo et.al.|[1908.10717](http://arxiv.org/abs/1908.10717)|null|
+|**2019-08-20**|**In defense of OSVOS**|Yu Liu et.al.|[1908.06692](http://arxiv.org/abs/1908.06692)|null|
+|**2019-09-08**|**RANet: Ranking Attention Network for Fast Video Object Segmentation**|Ziqin Wang et.al.|[1908.06647](http://arxiv.org/abs/1908.06647)|**[link](https://github.com/Storife/RANet)**|
+|**2019-07-30**|**An Empirical Study of Propagation-based Methods for Video Object Segmentation**|Hengkai Guo et.al.|[1907.12769](http://arxiv.org/abs/1907.12769)|null|
+|**2019-07-21**|**An Efficient 3D CNN for Action/Object Segmentation in Video**|Rui Hou et.al.|[1907.08895](http://arxiv.org/abs/1907.08895)|null|
+|**2020-02-22**|**Global Optimality Guarantees for Nonconvex Unsupervised Video Segmentation**|Brendon G. Anderson et.al.|[1907.04409](http://arxiv.org/abs/1907.04409)|null|
+|**2019-08-03**|**Spacetime Graph Optimization for Video Object Segmentation**|Emanuela Haller et.al.|[1907.03326](http://arxiv.org/abs/1907.03326)|null|
+|**2019-07-04**|**Proposal, Tracking and Segmentation (PTS): A Cascaded Network for Video Object Segmentation**|Qiang Zhou et.al.|[1907.01203](http://arxiv.org/abs/1907.01203)|**[link](https://github.com/sydney0zq/PTSNet)**|
+|**2019-07-26**|**Key Instance Selection for Unsupervised Video Object Segmentation**|Donghyeon Cho et.al.|[1906.07851](http://arxiv.org/abs/1906.07851)|null|
+|**2019-07-02**|**OVSNet : Towards One-Pass Real-Time Video Object Segmentation**|Peng Sun et.al.|[1905.10064](http://arxiv.org/abs/1905.10064)|null|
+|**2019-05-19**|**U-Net Based Multi-instance Video Object Segmentation**|Heguang Liu et.al.|[1905.07826](http://arxiv.org/abs/1905.07826)|null|
+|**2019-05-02**|**The 2019 DAVIS Challenge on VOS: Unsupervised Multi-Object Segmentation**|Sergi Caelles et.al.|[1905.00737](http://arxiv.org/abs/1905.00737)|null|
+|**2019-04-25**|**On guiding video object segmentation**|Diego Ortego et.al.|[1904.11256](http://arxiv.org/abs/1904.11256)|null|
+|**2019-05-02**|**Fast User-Guided Video Object Segmentation by Interaction-and-Propagation Networks**|Seoung Wug Oh et.al.|[1904.09791](http://arxiv.org/abs/1904.09791)|null|
+|**2019-04-26**|**Video Object Segmentation and Tracking: A Survey**|Rui Yao et.al.|[1904.09172](http://arxiv.org/abs/1904.09172)|null|
+|**2019-04-18**|**Discriminative Online Learning for Fast Video Object Segmentation**|Andreas Robinson et.al.|[1904.08630](http://arxiv.org/abs/1904.08630)|null|
+|**2019-04-17**|**MHP-VOS: Multiple Hypotheses Propagation for Video Object Segmentation**|Shuangjie Xu et.al.|[1904.08141](http://arxiv.org/abs/1904.08141)|**[link](https://github.com/shuangjiexu/MHP-VOS)**|
+|**2019-12-29**|**BoLTVOS: Box-Level Tracking for Video Object Segmentation**|Paul Voigtlaender et.al.|[1904.04552](http://arxiv.org/abs/1904.04552)|null|
+|**2019-04-04**|**Spatiotemporal CNN for Video Object Segmentation**|Kai Xu et.al.|[1904.02363](http://arxiv.org/abs/1904.02363)|**[link](https://github.com/longyin880815/STCNN)**|
+|**2019-08-20**|**Patchwork: A Patch-wise Attention Network for Efficient Object Detection and Segmentation in Video Streams**|Yuning Chai et.al.|[1904.01784](http://arxiv.org/abs/1904.01784)|null|
+|**2019-04-02**|**Multigrid Predictive Filter Flow for Unsupervised Learning on Videos**|Shu Kong et.al.|[1904.01693](http://arxiv.org/abs/1904.01693)|null|
+|**2019-03-21**|**Value of Temporal Dynamics Information in Driving Scene Segmentation**|Li Ding et.al.|[1904.00758](http://arxiv.org/abs/1904.00758)|null|
+|**2019-08-12**|**Video Object Segmentation using Space-Time Memory Networks**|Seoung Wug Oh et.al.|[1904.00607](http://arxiv.org/abs/1904.00607)|null|
+|**2019-03-28**|**Fast video object segmentation with Spatio-Temporal GANs**|Sergi Caelles et.al.|[1903.12161](http://arxiv.org/abs/1903.12161)|null|
+|**2020-11-24**|**BubbleNets: Learning to Select the Guidance Frame in Video Object Segmentation by Deep Sorting Frames**|Brent A. Griffin et.al.|[1903.11779](http://arxiv.org/abs/1903.11779)|**[link](https://github.com/griffbr/BubbleNets)**|
+|**2020-01-10**|**Video Object Segmentation-based Visual Servo Control and Object Depth Estimation on a Mobile Robot**|Brent A. Griffin et.al.|[1903.08336](http://arxiv.org/abs/1903.08336)|**[link](https://github.com/griffbr/VOSVS)**|
+|**2019-04-02**|**Learning Correspondence from the Cycle-Consistency of Time**|Xiaolong Wang et.al.|[1903.07593](http://arxiv.org/abs/1903.07593)|null|
+|**2019-05-21**|**RVOS: End-to-End Recurrent Network for Video Object Segmentation**|Carles Ventura et.al.|[1903.05612](http://arxiv.org/abs/1903.05612)|**[link](https://github.com/imatge-upc/rvos)**|
+|**2019-04-08**|**FEELVOS: Fast End-to-End Embedding Learning for Video Object Segmentation**|Paul Voigtlaender et.al.|[1902.09513](http://arxiv.org/abs/1902.09513)|**[link](https://github.com/tensorflow/models)**|
+|**2018-12-19**|**Unsupervised Video Object Segmentation with Distractor-Aware Online Adaptation**|Ye Wang et.al.|[1812.07712](http://arxiv.org/abs/1812.07712)|null|
+|**2018-12-13**|**Design Pseudo Ground Truth with Motion Cue for Unsupervised Video Object Segmentation**|Ye Wang et.al.|[1812.05206](http://arxiv.org/abs/1812.05206)|null|
+|**2019-05-05**|**Fast Online Object Tracking and Segmentation: A Unifying Approach**|Qiang Wang et.al.|[1812.05050](http://arxiv.org/abs/1812.05050)|null|
+|**2020-01-27**|**Online Model Distillation for Efficient Video Inference**|Ravi Teja Mullapudi et.al.|[1812.02699](http://arxiv.org/abs/1812.02699)|null|
+|**2020-08-17**|**Meta Learning Deep Visual Words for Fast Video Object Segmentation**|Harkirat Singh Behl et.al.|[1812.01397](http://arxiv.org/abs/1812.01397)|**[link](https://github.com/harkiratbehl/MetaVOS)**|
+|**2018-12-07**|**A Generative Appearance Model for End-to-end Video Object Segmentation**|Joakim Johnander et.al.|[1811.11611](http://arxiv.org/abs/1811.11611)|null|
+|**2018-11-30**|**Tukey-Inspired Video Object Segmentation**|Brent A. Griffin et.al.|[1811.07958](http://arxiv.org/abs/1811.07958)|**[link](https://github.com/griffbr/TIS)**|
+|**2018-11-05**|**Unsupervised RGBD Video Object Segmentation Using GANs**|Maryam Sultana et.al.|[1811.01526](http://arxiv.org/abs/1811.01526)|null|
+|**2018-10-24**|**Mask Propagation Network for Video Object Segmentation**|Jia Sun et.al.|[1810.10289](http://arxiv.org/abs/1810.10289)|null|
+|**2019-03-12**|**Video Object Segmentation using Teacher-Student Adaptation in a Human Robot Interaction (HRI) Setting**|Mennatullah Siam et.al.|[1810.07733](http://arxiv.org/abs/1810.07733)|**[link](https://github.com/MSiam/motion_adaptation)**|
+|**2019-08-06**|**Unsupervised Online Video Object Segmentation with Motion Property Understanding**|Tao Zhuo et.al.|[1810.03783](http://arxiv.org/abs/1810.03783)|**[link](https://github.com/VisionTao/UOVOS)**|
+|**2018-09-26**|**A Coarse-To-Fine Framework For Video Object Segmentation**|Chi Zhang et.al.|[1809.10260](http://arxiv.org/abs/1809.10260)|null|
+|**2018-09-06**|**YouTube-VOS: A Large-Scale Video Object Segmentation Benchmark**|Ning Xu et.al.|[1809.03327](http://arxiv.org/abs/1809.03327)|null|
+|**2018-09-04**|**Unsupervised Video Object Segmentation using Motion Saliency-Guided Spatio-Temporal Propagation**|Yuan-Ting Hu et.al.|[1809.01125](http://arxiv.org/abs/1809.01125)|null|
+|**2018-09-04**|**VideoMatch: Matching based Video Object Segmentation**|Yuan-Ting Hu et.al.|[1809.01123](http://arxiv.org/abs/1809.01123)|null|
+|**2018-09-03**|**YouTube-VOS: Sequence-to-Sequence Video Object Segmentation**|Ning Xu et.al.|[1809.00461](http://arxiv.org/abs/1809.00461)|null|
+|**2018-08-14**|**Moving Object Segmentation in Jittery Videos by Stabilizing Trajectories Modeled in Kendall's Shape Space**|Geethu Miriam Jacob et.al.|[1808.04551](http://arxiv.org/abs/1808.04551)|null|
+|**2018-08-10**|**Adaptive Temporal Encoding Network for Video Instance-level Human Parsing**|Qixian Zhou et.al.|[1808.00661](http://arxiv.org/abs/1808.00661)|**[link](https://github.com/HCPLab-SYSU/ATEN)**|
+|**2018-11-03**|**PReMVOS: Proposal-generation, Refinement and Merging for Video Object Segmentation**|Jonathon Luiten et.al.|[1807.09190](http://arxiv.org/abs/1807.09190)|null|
+|**2018-06-18**|**ReConvNet: Video Object Segmentation with Spatio-Temporal Features Modulation**|Francesco Lattari et.al.|[1806.05510](http://arxiv.org/abs/1806.05510)|null|
+|**2018-06-06**|**Fast and Accurate Online Video Object Segmentation via Tracking Parts**|Jingchun Cheng et.al.|[1806.02323](http://arxiv.org/abs/1806.02323)|**[link](https://github.com/JingchunCheng/FAVOS)**|
+|**2018-05-20**|**Unsupervised Video Object Segmentation for Deep Reinforcement Learning**|Vik Goel et.al.|[1805.07780](http://arxiv.org/abs/1805.07780)|null|
+|**2018-04-09**|**Blazingly Fast Video Object Segmentation with Pixel-Wise Metric Learning**|Yuhua Chen et.al.|[1804.03131](http://arxiv.org/abs/1804.03131)|null|
+|**2018-03-29**|**MaskRNN: Instance Level Video Object Segmentation**|Yuan-Ting Hu et.al.|[1803.11187](http://arxiv.org/abs/1803.11187)|null|
+|**2018-03-26**|**CNN in MRF: Video Object Segmentation via Inference in A CNN-Based Higher-Order Spatio-Temporal MRF**|Linchao Bao et.al.|[1803.09453](http://arxiv.org/abs/1803.09453)|null|
+|**2019-09-17**|**Adversarial Framework for Unsupervised Learning of Motion Dynamics in Videos**|C. Spampinato et.al.|[1803.09092](http://arxiv.org/abs/1803.09092)|null|
+|**2019-02-05**|**Video Object Segmentation with Language Referring Expressions**|Anna Khoreva et.al.|[1803.08006](http://arxiv.org/abs/1803.08006)|null|
+|**2018-03-14**|**Video Object Segmentation with Joint Re-identification and Attention-Aware Mask Propagation**|Xiaoxiao Li et.al.|[1803.04242](http://arxiv.org/abs/1803.04242)|null|
+|**2018-03-27**|**The 2018 DAVIS Challenge on Video Object Segmentation**|Sergi Caelles et.al.|[1803.00557](http://arxiv.org/abs/1803.00557)|null|
+|**2018-02-04**|**Efficient Video Object Segmentation via Network Modulation**|Linjie Yang et.al.|[1802.01218](http://arxiv.org/abs/1802.01218)|**[link](https://github.com/linjieyangsc/video_seg)**|
+|**2018-02-27**|**Instance Embedding Transfer to Unsupervised Video Object Segmentation**|Siyang Li et.al.|[1801.00908](http://arxiv.org/abs/1801.00908)|null|
+|**2017-12-31**|**Interactive Video Object Segmentation in the Wild**|Arnaud Benard et.al.|[1801.00269](http://arxiv.org/abs/1801.00269)|null|
+|**2017-11-30**|**An End-to-end 3D Convolutional Neural Network for Action Detection and Segmentation in Videos**|Rui Hou et.al.|[1712.01111](http://arxiv.org/abs/1712.01111)|null|
+|**2018-03-27**|**Deep Extreme Cut: From Extreme Points to Object Segmentation**|Kevis-Kokitsi Maninis et.al.|[1711.09081](http://arxiv.org/abs/1711.09081)|**[link](https://github.com/scaelles/DEXTR-PyTorch)**|
+|**2017-09-20**|**SegFlow: Joint Learning for Video Object Segmentation and Optical Flow**|Jingchun Cheng et.al.|[1709.06750](http://arxiv.org/abs/1709.06750)|**[link](https://github.com/JingchunCheng/SegFlow)**|
+|**2018-05-16**|**Video Object Segmentation Without Temporal Information**|Kevis-Kokitsi Maninis et.al.|[1709.06031](http://arxiv.org/abs/1709.06031)|null|
+|**2017-08-17**|**Pixel-Level Matching for Video Object Segmentation using Convolutional Neural Networks**|Jae Shin Yoon et.al.|[1708.05137](http://arxiv.org/abs/1708.05137)|null|
+|**2018-06-18**|**Video Salient Object Detection Using Spatiotemporal Deep Features**|Trung-Nghia Le et.al.|[1708.01447](http://arxiv.org/abs/1708.01447)|null|
+|**2017-08-01**|**Video Object Segmentation with Re-identification**|Xiaoxiao Li et.al.|[1708.00197](http://arxiv.org/abs/1708.00197)|null|
+|**2017-07-20**|**Video Object Segmentation using Tracked Object Proposals**|Gilad Sharir et.al.|[1707.06545](http://arxiv.org/abs/1707.06545)|null|
+|**2017-06-29**|**Flow-free Video Object Segmentation**|Aditya Vora et.al.|[1706.09544](http://arxiv.org/abs/1706.09544)|null|
+|**2017-08-01**|**Online Adaptation of Convolutional Neural Networks for Video Object Segmentation**|Paul Voigtlaender et.al.|[1706.09364](http://arxiv.org/abs/1706.09364)|null|
+|**2018-04-28**|**Discrete-Continuous ADMM for Transductive Inference in Higher-Order MRFs**|Emanuel Laude et.al.|[1705.05020](http://arxiv.org/abs/1705.05020)|null|
+|**2017-07-12**|**Learning Video Object Segmentation with Visual Memory**|Pavel Tokmakov et.al.|[1704.05737](http://arxiv.org/abs/1704.05737)|null|
+|**2017-04-18**|**Video Object Segmentation using Supervoxel-Based Gerrymandering**|Brent A. Griffin et.al.|[1704.05165](http://arxiv.org/abs/1704.05165)|**[link](https://github.com/griffbr/supervoxel-gerrymandering)**|
+|**2018-07-17**|**Semantically-Guided Video Object Segmentation**|Sergi Caelles et.al.|[1704.01926](http://arxiv.org/abs/1704.01926)|null|
+|**2018-03-01**|**The 2017 DAVIS Challenge on Video Object Segmentation**|Jordi Pont-Tuset et.al.|[1704.00675](http://arxiv.org/abs/1704.00675)|null|
+|**2019-03-13**|**Lucid Data Dreaming for Video Object Segmentation**|Anna Khoreva et.al.|[1703.09554](http://arxiv.org/abs/1703.09554)|null|
+|**2016-12-24**|**Unsupervised Video Segmentation via Spatio-Temporally Nonlocal Appearance Learning**|Kaihua Zhang et.al.|[1612.08169](http://arxiv.org/abs/1612.08169)|null|
+|**2017-04-11**|**Video Propagation Networks**|Varun Jampani et.al.|[1612.05478](http://arxiv.org/abs/1612.05478)|null|
+|**2016-12-08**|**Learning Video Object Segmentation from Static Images**|Anna Khoreva et.al.|[1612.02646](http://arxiv.org/abs/1612.02646)|null|
+|**2017-04-13**|**One-Shot Video Object Segmentation**|Sergi Caelles et.al.|[1611.05198](http://arxiv.org/abs/1611.05198)|null|
+|**2016-07-05**|**Click Carving: Segmenting Objects in Video with Point Clicks**|Suyog Dutt Jain et.al.|[1607.01115](http://arxiv.org/abs/1607.01115)|null|
+|**2016-06-07**|**Semi-Supervised Domain Adaptation for Weakly Labeled Semantic Video Object Segmentation**|Huiling Wang et.al.|[1606.02280](http://arxiv.org/abs/1606.02280)|null|
+|**2016-01-05**|**Gamifying Video Object Segmentation**|Simone Palazzo et.al.|[1601.00825](http://arxiv.org/abs/1601.00825)|null|
+|**2013-08-01**|**MAS for video objects segmentation and tracking based on active contours and SURF descriptor**|Mohamed Chakroun et.al.|[1308.0315](http://arxiv.org/abs/1308.0315)|null|
+|**2013-05-29**|**Video Human Segmentation using Fuzzy Object Models and its Application to Body Pose Estimation of Toddlers for Behavior Studies**|Thiago V. Spina et.al.|[1305.6918](http://arxiv.org/abs/1305.6918)|null|
+|**2014-10-27**|**Efficient MRF Energy Propagation for Video Segmentation via Bilateral Filters**|Ozan Sener et.al.|[1301.5356](http://arxiv.org/abs/1301.5356)|null|
+
+<p align=right>(<a href=#updated-on-20241219>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
