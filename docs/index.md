@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.19
+## Updated on 2024.12.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RES
@@ -59,7 +59,7 @@ layout: default
 |**2024-03-21**|**GSVA: Generalized Segmentation via Multimodal Large Language Models**|Zhuofan Xia et.al.|[2312.10103](http://arxiv.org/abs/2312.10103)|**[link](https://github.com/leaplabthu/gsva)**|
 |**2024-03-21**|**Unveiling Parts Beyond Objects:Towards Finer-Granularity Referring Expression Segmentation**|Wenxuan Wang et.al.|[2312.08007](http://arxiv.org/abs/2312.08007)|**[link](https://github.com/rubics-xuan/mres)**|
 |**2023-12-01**|**Towards Generalizable Referring Image Segmentation via Target Prompt and Visual Coherence**|Yajie Liu et.al.|[2312.00452](http://arxiv.org/abs/2312.00452)|null|
-|**2023-11-30**|**InstructSeq: Unifying Vision Tasks with Instruction-conditioned Multi-modal Sequence Generation**|Rongyao Fang et.al.|[2311.18835](http://arxiv.org/abs/2311.18835)|**[link](https://github.com/rongyaofang/instructseq)**|
+|**2023-11-30**|**InstructSeq: Unifying Vision Tasks with Instruction-conditioned Multi-modal Sequence Generation**|Rongyao Fang et.al.|[2311.18835](http://arxiv.org/abs/2311.18835)|null|
 |**2023-11-29**|**Synchronizing Vision and Language: Bidirectional Token-Masking AutoEncoder for Referring Image Segmentation**|Minhyeok Lee et.al.|[2311.17952](http://arxiv.org/abs/2311.17952)|null|
 |**2024-05-21**|**RISAM: Referring Image Segmentation via Mutual-Aware Attention Features**|Mengxi Zhang et.al.|[2311.15727](http://arxiv.org/abs/2311.15727)|null|
 |**2023-11-22**|**Visual In-Context Prompting**|Feng Li et.al.|[2311.13601](http://arxiv.org/abs/2311.13601)|**[link](https://github.com/ux-decoder/dinov)**|
@@ -128,11 +128,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-19**|**EarthDial: Turning Multi-sensory Earth Observations to Interactive Dialogues**|Sagar Soni et.al.|[2412.15190](http://arxiv.org/abs/2412.15190)|null|
+|**2024-12-19**|**FiVL: A Framework for Improved Vision-Language Alignment**|Estelle Aflalo et.al.|[2412.14672](http://arxiv.org/abs/2412.14672)|null|
+|**2024-12-18**|**GAGS: Granularity-Aware Feature Distillation for Language Gaussian Splatting**|Yuning Peng et.al.|[2412.13654](http://arxiv.org/abs/2412.13654)|null|
 |**2024-12-16**|**VG-TVP: Multimodal Procedural Planning via Visually Grounded Text-Video Prompting**|Muhammet Furkan Ilaslan et.al.|[2412.11621](http://arxiv.org/abs/2412.11621)|**[link](https://github.com/mfurkanilaslan/vg-tvp)**|
 |**2024-12-16**|**Aligning Visual and Semantic Interpretability through Visually Grounded Concept Bottleneck Models**|Patrick Knab et.al.|[2412.11576](http://arxiv.org/abs/2412.11576)|**[link](https://github.com/kathpra/gcbm)**|
 |**2024-12-13**|**DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding**|Zhiyu Wu et.al.|[2412.10302](http://arxiv.org/abs/2412.10302)|**[link](https://github.com/deepseek-ai/deepseek-vl2)**|
 |**2024-12-13**|**Learning Visually Grounded Domain Ontologies via Embodied Conversation and Explanation**|Jonghyuk Park et.al.|[2412.09770](http://arxiv.org/abs/2412.09770)|**[link](https://github.com/jpstyle/ns-arch-unity)**|
-|**2024-12-11**|**Progressive Multi-granular Alignments for Grounded Reasoning in Large Vision-Language Models**|Quang-Hung Le et.al.|[2412.08125](http://arxiv.org/abs/2412.08125)|null|
+|**2024-12-19**|**Progressive Multi-granular Alignments for Grounded Reasoning in Large Vision-Language Models**|Quang-Hung Le et.al.|[2412.08125](http://arxiv.org/abs/2412.08125)|**[link](https://github.com/lqh52/promvil)**|
 |**2024-12-11**|**Barking Up The Syntactic Tree: Enhancing VLM Training with Syntactic Losses**|Jiayun Luo et.al.|[2412.08110](http://arxiv.org/abs/2412.08110)|null|
 |**2024-12-09**|**3D Spatial Understanding in MLLMs: Disambiguation and Evaluation**|Chun-Peng Chang et.al.|[2412.06613](http://arxiv.org/abs/2412.06613)|null|
 |**2024-12-10**|**TACO: Learning Multi-modal Action Models with Synthetic Chains-of-Thought-and-Action**|Zixian Ma et.al.|[2412.05479](http://arxiv.org/abs/2412.05479)|null|
@@ -273,10 +276,10 @@ layout: default
 |**2024-04-21**|**Socratic Planner: Inquiry-Based Zero-Shot Planning for Embodied Instruction Following**|Suyeon Shin et.al.|[2404.15190](http://arxiv.org/abs/2404.15190)|null|
 |**2024-09-05**|**HiVG: Hierarchical Multimodal Fine-grained Modulation for Visual Grounding**|Linhui Xiao et.al.|[2404.13400](http://arxiv.org/abs/2404.13400)|**[link](https://github.com/linhuixiao/hivg)**|
 |**2024-04-19**|**Groma: Localized Visual Tokenization for Grounding Multimodal Large Language Models**|Chuofan Ma et.al.|[2404.13013](http://arxiv.org/abs/2404.13013)|**[link](https://github.com/FoundationVision/Groma)**|
-|**2024-12-18**|**Rethinking 3D Dense Caption and Visual Grounding in A Unified Framework through Prompt-based Localization**|Yongdong Luo et.al.|[2404.11064](http://arxiv.org/abs/2404.11064)|null|
+|**2024-12-18**|**Rethinking 3D Dense Caption and Visual Grounding in A Unified Framework through Prompt-based Localization**|Yongdong Luo et.al.|[2404.11064](http://arxiv.org/abs/2404.11064)|**[link](https://github.com/leon1207/3dgctr)**|
 |**2024-04-10**|**MedRG: Medical Report Grounding with Multi-modal Large Language Model**|Ke Zou et.al.|[2404.06798](http://arxiv.org/abs/2404.06798)|null|
 |**2024-04-03**|**Text-driven Affordance Learning from Egocentric Vision**|Tomoya Yoshida et.al.|[2404.02523](http://arxiv.org/abs/2404.02523)|null|
-|**2024-11-06**|**VHM: Versatile and Honest Vision Language Model for Remote Sensing Image Analysis**|Chao Pang et.al.|[2403.20213](http://arxiv.org/abs/2403.20213)|**[link](https://github.com/opendatalab/vhm)**|
+|**2024-12-19**|**VHM: Versatile and Honest Vision Language Model for Remote Sensing Image Analysis**|Chao Pang et.al.|[2403.20213](http://arxiv.org/abs/2403.20213)|**[link](https://github.com/opendatalab/vhm)**|
 |**2024-07-22**|**PropTest: Automatic Property Testing for Improved Visual Programming**|Jaywon Koo et.al.|[2403.16921](http://arxiv.org/abs/2403.16921)|null|
 |**2024-12-04**|**Data-Efficient 3D Visual Grounding via Order-Aware Referring**|Tung-Yu Wu et.al.|[2403.16539](http://arxiv.org/abs/2403.16539)|null|
 |**2024-03-29**|**MedPromptX: Grounded Multimodal Prompting for Chest X-ray Diagnosis**|Mai A. Shaaban et.al.|[2403.15585](http://arxiv.org/abs/2403.15585)|**[link](https://github.com/biomedia-mbzuai/medpromptx)**|
@@ -1104,7 +1107,7 @@ layout: default
 |**2024-05-24**|**Talk to Parallel LiDARs: A Human-LiDAR Interaction Method Based on 3D Visual Grounding**|Yuhang Liu et.al.|[2405.15274](http://arxiv.org/abs/2405.15274)|null|
 |**2024-07-19**|**Talk2Radar: Bridging Natural Language with 4D mmWave Radar for 3D Referring Expression Comprehension**|Runwei Guan et.al.|[2405.12821](http://arxiv.org/abs/2405.12821)|**[link](https://github.com/guanrunwei/talk2radar)**|
 |**2024-04-30**|**Naturally Supervised 3D Visual Grounding with Language-Regularized Concept Learners**|Chun Feng et.al.|[2404.19696](http://arxiv.org/abs/2404.19696)|null|
-|**2024-12-18**|**Rethinking 3D Dense Caption and Visual Grounding in A Unified Framework through Prompt-based Localization**|Yongdong Luo et.al.|[2404.11064](http://arxiv.org/abs/2404.11064)|null|
+|**2024-12-18**|**Rethinking 3D Dense Caption and Visual Grounding in A Unified Framework through Prompt-based Localization**|Yongdong Luo et.al.|[2404.11064](http://arxiv.org/abs/2404.11064)|**[link](https://github.com/leon1207/3dgctr)**|
 |**2024-12-04**|**Data-Efficient 3D Visual Grounding via Order-Aware Referring**|Tung-Yu Wu et.al.|[2403.16539](http://arxiv.org/abs/2403.16539)|null|
 |**2024-03-13**|**SeCG: Semantic-Enhanced 3D Visual Grounding via Cross-modal Graph Attention**|Feng Xiao et.al.|[2403.08182](http://arxiv.org/abs/2403.08182)|null|
 |**2024-12-01**|**MiKASA: Multi-Key-Anchor & Scene-Aware Transformer for 3D Visual Grounding**|Chun-Peng Chang et.al.|[2403.03077](http://arxiv.org/abs/2403.03077)|**[link](https://github.com/dfki-av/mikasa-3dvg)**|
@@ -1144,6 +1147,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-19**|**M $^3$ -VOS: Multi-Phase, Multi-Transition, and Multi-Scenery Video Object Segmentation**|Zixuan Chen et.al.|[2412.13803](http://arxiv.org/abs/2412.13803)|null|
 |**2024-12-10**|**Stable Mean Teacher for Semi-supervised Video Action Detection**|Akash Kumar et.al.|[2412.07072](http://arxiv.org/abs/2412.07072)|null|
 |**2024-12-09**|**Video Decomposition Prior: A Methodology to Decompose Videos into Layers**|Gaurav Shrivastava et.al.|[2412.04930](http://arxiv.org/abs/2412.04930)|null|
 |**2024-12-03**|**Multi-Granularity Video Object Segmentation**|Sangbeom Lim et.al.|[2412.01471](http://arxiv.org/abs/2412.01471)|null|
