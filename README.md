@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.25
+## Updated on 2024.12.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,6 +17,7 @@
     <li><a href=#3d-res>3D-RES</a></li>
     <li><a href=#3d-rec>3D-REC</a></li>
     <li><a href=#vos>VOS</a></li>
+    <li><a href=#reg>REG</a></li>
   </ol>
 </details>
 
@@ -134,7 +135,7 @@
 |**2019-04-06**|**CLEVR-Ref+: Diagnosing Visual Reasoning with Referring Expressions**|Runtao Liu et.al.|[1901.00850](http://arxiv.org/abs/1901.00850)|null|
 |**2017-08-04**|**Recurrent Multimodal Interaction for Referring Image Segmentation**|Chenxi Liu et.al.|[1703.07939](http://arxiv.org/abs/1703.07939)|**[link](https://github.com/chenxi116/TF-phrasecut-public)**|
 
-<p align=right>(<a href=#updated-on-20241225>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241226>back to top</a>)</p>
 
 ## REC
 
@@ -857,7 +858,7 @@
 |**2015-06-19**|**Learning language through pictures**|Grzegorz Chrupała et.al.|[1506.03694](http://arxiv.org/abs/1506.03694)|**[link](https://github.com/gchrupala/imaginet)**|
 |**2011-06-30**|**Grounded Semantic Composition for Visual Scenes**|P. Gorniak et.al.|[1107.0031](http://arxiv.org/abs/1107.0031)|null|
 
-<p align=right>(<a href=#updated-on-20241225>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241226>back to top</a>)</p>
 
 ## RVOS
 
@@ -903,7 +904,7 @@
 |**2022-04-03**|**End-to-End Referring Video Object Segmentation with Multimodal Transformers**|Adam Botach et.al.|[2111.14821](http://arxiv.org/abs/2111.14821)|**[link](https://github.com/mttr2021/MTTR)**|
 |**2024-01-19**|**Rethinking Cross-modal Interaction from a Top-down Perspective for Referring Video Object Segmentation**|Chen Liang et.al.|[2106.01061](http://arxiv.org/abs/2106.01061)|null|
 
-<p align=right>(<a href=#updated-on-20241225>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241226>back to top</a>)</p>
 
 ## AVL
 
@@ -1052,7 +1053,7 @@
 |**2015-02-16**|**Efficient Steered-Response Power Methods for Sound Source Localization Using Microphone Arrays**|Markus V. S. Lima et.al.|[1407.2351](http://arxiv.org/abs/1407.2351)|null|
 |**2014-02-12**|**A Geometric Approach to Sound Source Localization from Time-Delay Estimates**|Xavier Alameda-Pineda et.al.|[1311.1047](http://arxiv.org/abs/1311.1047)|null|
 
-<p align=right>(<a href=#updated-on-20241225>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241226>back to top</a>)</p>
 
 ## AVS
 
@@ -1097,7 +1098,7 @@
 |**2023-02-17**|**Audio-Visual Segmentation**|Jinxing Zhou et.al.|[2207.05042](http://arxiv.org/abs/2207.05042)|**[link](https://github.com/opennlplab/avsbench)**|
 |**2021-04-05**|**Positive Sample Propagation along the Audio-Visual Event Line**|Jinxing Zhou et.al.|[2104.00239](http://arxiv.org/abs/2104.00239)|**[link](https://github.com/jasongief/PSP_CVPR_2021)**|
 
-<p align=right>(<a href=#updated-on-20241225>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241226>back to top</a>)</p>
 
 ## 3D-RES
 
@@ -1107,7 +1108,7 @@
 |**2024-07-31**|**3D-GRES: Generalized 3D Referring Expression Segmentation**|Changli Wu et.al.|[2407.20664](http://arxiv.org/abs/2407.20664)|**[link](https://github.com/sosppxo/MDIN)**|
 |**2023-08-31**|**3D-STMN: Dependency-Driven Superpoint-Text Matching Network for End-to-End 3D Referring Expression Segmentation**|Changli Wu et.al.|[2308.16632](http://arxiv.org/abs/2308.16632)|**[link](https://github.com/sosppxo/3d-stmn)**|
 
-<p align=right>(<a href=#updated-on-20241225>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241226>back to top</a>)</p>
 
 ## 3D-REC
 
@@ -1171,14 +1172,14 @@
 |**2021-03-17**|**Refer-it-in-RGBD: A Bottom-up Approach for 3D Visual Grounding in RGBD Images**|Haolin Liu et.al.|[2103.07894](http://arxiv.org/abs/2103.07894)|null|
 |**2021-07-29**|**InstanceRefer: Cooperative Holistic Understanding for Visual Grounding on Point Clouds through Instance Multi-level Contextual Referring**|Zhihao Yuan et.al.|[2103.01128](http://arxiv.org/abs/2103.01128)|**[link](https://github.com/CurryYuan/InstanceRefer)**|
 
-<p align=right>(<a href=#updated-on-20241225>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241226>back to top</a>)</p>
 
 ## VOS
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-12-19**|**M $^3$ -VOS: Multi-Phase, Multi-Transition, and Multi-Scenery Video Object Segmentation**|Zixuan Chen et.al.|[2412.13803](http://arxiv.org/abs/2412.13803)|null|
-|**2024-12-23**|**Stable Mean Teacher for Semi-supervised Video Action Detection**|Akash Kumar et.al.|[2412.07072](http://arxiv.org/abs/2412.07072)|null|
+|**2024-12-23**|**Stable Mean Teacher for Semi-supervised Video Action Detection**|Akash Kumar et.al.|[2412.07072](http://arxiv.org/abs/2412.07072)|**[link](https://github.com/AKASH2907/stable-mean-teacher)**|
 |**2024-12-09**|**Video Decomposition Prior: A Methodology to Decompose Videos into Layers**|Gaurav Shrivastava et.al.|[2412.04930](http://arxiv.org/abs/2412.04930)|null|
 |**2024-12-03**|**Multi-Granularity Video Object Segmentation**|Sangbeom Lim et.al.|[2412.01471](http://arxiv.org/abs/2412.01471)|null|
 |**2024-12-02**|**Referring Video Object Segmentation via Language-aligned Track Selection**|Seongchan Kim et.al.|[2412.01136](http://arxiv.org/abs/2412.01136)|null|
@@ -1611,7 +1612,53 @@
 |**2013-05-29**|**Video Human Segmentation using Fuzzy Object Models and its Application to Body Pose Estimation of Toddlers for Behavior Studies**|Thiago V. Spina et.al.|[1305.6918](http://arxiv.org/abs/1305.6918)|null|
 |**2014-10-27**|**Efficient MRF Energy Propagation for Video Segmentation via Bilateral Filters**|Ozan Sener et.al.|[1301.5356](http://arxiv.org/abs/1301.5356)|null|
 
-<p align=right>(<a href=#updated-on-20241225>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241226>back to top</a>)</p>
+
+## REG
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2001-04-30**|**Microplanning with Communicative Intentions: The SPUD System**|Matthew Stone et.al.|[cs/0104022](http://arxiv.org/abs/cs/0104022)|null|
+|**1995-05-09**|**Generating One-Anaphoric Expressions: Where Does the Decision Lie?**|Robert Dale et.al.|[cmp-lg/9505022](http://arxiv.org/abs/cmp-lg/9505022)|null|
+|**2024-10-04**|**Grounding Language in Multi-Perspective Referential Communication**|Zineng Tang et.al.|[2410.03959](http://arxiv.org/abs/2410.03959)|**[link](https://github.com/zinengtang/MulAgentRef)**|
+|**2024-11-01**|**Uni-Med: A Unified Medical Generalist Foundation Model For Multi-Task Learning Via Connector-MoE**|Xun Zhu et.al.|[2409.17508](http://arxiv.org/abs/2409.17508)|**[link](https://github.com/tsinghua-msiip/uni-med)**|
+|**2024-09-09**|**Referring Expression Generation in Visually Grounded Dialogue with Discourse-aware Comprehension Guiding**|Bram Willemsen et.al.|[2409.05721](http://arxiv.org/abs/2409.05721)|**[link](https://github.com/willemsenbram/reg-with-guiding)**|
+|**2024-08-23**|**Resilience through Scene Context in Visual Referring Expression Generation**|Simeon Junker et.al.|[2404.12289](http://arxiv.org/abs/2404.12289)|**[link](https://github.com/clause-bielefeld/reg-scene-context)**|
+|**2024-03-29**|**Elysium: Exploring Object-level Perception in Videos via MLLM**|Han Wang et.al.|[2403.16558](http://arxiv.org/abs/2403.16558)|**[link](https://github.com/hon-wong/elysium)**|
+|**2024-03-25**|**Multi-modal Instruction Tuned LLMs with Fine-grained Visual Perception**|Junwen He et.al.|[2403.02969](http://arxiv.org/abs/2403.02969)|null|
+|**2024-02-12**|**Intrinsic Task-based Evaluation for Referring Expression Generation**|Guanyi Chen et.al.|[2402.07432](http://arxiv.org/abs/2402.07432)|null|
+|**2024-04-26**|**Enhancing Visual Grounding and Generalization: A Multi-Task Cycle Training Approach for Vision-Language Models**|Xiaoyu Yang et.al.|[2311.12327](http://arxiv.org/abs/2311.12327)|**[link](https://github.com/anonymgiant/vilam)**|
+|**2023-08-19**|**Whether you can locate or not? Interactive Referring Expression Generation**|Fulong Ye et.al.|[2308.09977](http://arxiv.org/abs/2308.09977)|**[link](https://github.com/superhero-7/ireg)**|
+|**2023-07-13**|**Kosmos-2: Grounding Multimodal Large Language Models to the World**|Zhiliang Peng et.al.|[2306.14824](http://arxiv.org/abs/2306.14824)|**[link](https://github.com/microsoft/unilm/tree/master/kosmos-2)**|
+|**2023-05-30**|**DisCLIP: Open-Vocabulary Referring Expression Generation**|Lior Bracha et.al.|[2305.19108](http://arxiv.org/abs/2305.19108)|null|
+|**2023-05-24**|**Pento-DIARef: A Diagnostic Dataset for Learning the Incremental Algorithm for Referring Expression Generation from Examples**|Philipp Sadler et.al.|[2305.15087](http://arxiv.org/abs/2305.15087)|**[link](https://github.com/clp-research/pento-diaref)**|
+|**2023-05-22**|**Yes, this Way! Learning to Ground Referring Expressions into Actions with Intra-episodic Feedback from Supportive Teachers**|Philipp Sadler et.al.|[2305.12880](http://arxiv.org/abs/2305.12880)|**[link](https://github.com/clp-research/intra-episodic-feedback)**|
+|**2022-11-15**|**A Unified Mutual Supervision Framework for Referring Expression Segmentation and Generation**|Shijia Huang et.al.|[2211.07919](http://arxiv.org/abs/2211.07919)|null|
+|**2022-10-24**|**Towards Unifying Reference Expression Generation and Comprehension**|Duo Zheng et.al.|[2210.13076](http://arxiv.org/abs/2210.13076)|**[link](https://github.com/zd11024/uniref)**|
+|**2022-10-11**|**Assessing Neural Referential Form Selectors on a Realistic Multilingual Dataset**|Guanyi Chen et.al.|[2210.04828](http://arxiv.org/abs/2210.04828)|null|
+|**2022-05-16**|**Referring Expressions with Rational Speech Act Framework: A Probabilistic Approach**|Hieu Le et.al.|[2205.07795](http://arxiv.org/abs/2205.07795)|null|
+|**2022-03-15**|**Non-neural Models Matter: A Re-evaluation of Neural Referring Expression Generation Systems**|Fahime Same et.al.|[2203.08274](http://arxiv.org/abs/2203.08274)|null|
+|**2021-08-15**|**What can Neural Referential Form Selectors Learn?**|Guanyi Chen et.al.|[2108.06806](http://arxiv.org/abs/2108.06806)|null|
+|**2022-07-01**|**Giving Commands to a Self-Driving Car: How to Deal with Uncertain Situations?**|Thierry Deruyttere et.al.|[2106.04232](http://arxiv.org/abs/2106.04232)|**[link](https://github.com/ThierryDeruyttere/Talk2Car-Expr)**|
+|**2022-04-03**|**Perspective-corrected Spatial Referring Expression Generation for Human-Robot Interaction**|Mingjiang Liu et.al.|[2104.01558](http://arxiv.org/abs/2104.01558)|null|
+|**2021-01-22**|**Visual Question Answering based on Local-Scene-Aware Referring Expression Generation**|Jung-Jun Kim et.al.|[2101.08978](http://arxiv.org/abs/2101.08978)|null|
+|**2021-08-15**|**Lessons from Computational Modelling of Reference Production in Mandarin and English**|Guanyi Chen et.al.|[2011.07398](http://arxiv.org/abs/2011.07398)|null|
+|**2020-07-16**|**Toward Forgetting-Sensitive Referring Expression Generationfor Integrated Robot Architectures**|Tom Williams et.al.|[2007.08672](http://arxiv.org/abs/2007.08672)|null|
+|**2019-09-22**|**Improving Quality and Efficiency in Plan-based Neural Data-to-Text Generation**|Amit Moryossef et.al.|[1909.09986](http://arxiv.org/abs/1909.09986)|null|
+|**2019-09-04**|**Referring Expression Generation Using Entity Profiles**|Meng Cao et.al.|[1909.01528](http://arxiv.org/abs/1909.01528)|**[link](https://github.com/mcao610/ProfileREG)**|
+|**2018-11-26**|**Augmenting Robot Knowledge Consultants with Distributed Short Term Memory**|Tom Williams et.al.|[1811.10229](http://arxiv.org/abs/1811.10229)|null|
+|**2018-10-31**|**Generating Texts with Integer Linear Programming**|Gerasimos Lampouras et.al.|[1811.00051](http://arxiv.org/abs/1811.00051)|null|
+|**2018-10-19**|**An Incremental Iterated Response Model of Pragmatics**|Reuben Cohn-Gordon et.al.|[1810.00367](http://arxiv.org/abs/1810.00367)|null|
+|**2018-09-07**|**Meteorologists and Students: A resource for language grounding of geographical descriptors**|Alejandro Ramos-Soto et.al.|[1809.02494](http://arxiv.org/abs/1809.02494)|null|
+|**2018-05-21**|**NeuralREG: An end-to-end approach to referring expression generation**|Thiago Castro Ferreira et.al.|[1805.08093](http://arxiv.org/abs/1805.08093)|**[link](https://github.com/ThiagoCF05/NeuralREG)**|
+|**2018-04-19**|**A Predictive Model for Notional Anaphora in English**|Amir Zeldes et.al.|[1804.07375](http://arxiv.org/abs/1804.07375)|null|
+|**2017-12-24**|**Semi-automatic definite description annotation: a first report**|Danillo da Silva Rocha et.al.|[1712.08933](http://arxiv.org/abs/1712.08933)|null|
+|**2017-04-12**|**Trainable Referring Expression Generation using Overspecification Preferences**|Thiago castro Ferreira et.al.|[1704.03693](http://arxiv.org/abs/1704.03693)|null|
+|**2017-03-30**|**An Empirical Approach for Modeling Fuzzy Geographical Descriptors**|Alejandro Ramos-Soto et.al.|[1703.10429](http://arxiv.org/abs/1703.10429)|null|
+|**2017-01-12**|**Comprehension-guided referring expressions**|Ruotian Luo et.al.|[1701.03439](http://arxiv.org/abs/1701.03439)|null|
+|**2016-08-10**|**Modeling Context in Referring Expressions**|Licheng Yu et.al.|[1608.00272](http://arxiv.org/abs/1608.00272)|**[link](https://github.com/lichengunc/refer)**|
+
+<p align=right>(<a href=#updated-on-20241226>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
