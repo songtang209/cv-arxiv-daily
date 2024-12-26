@@ -5,7 +5,7 @@ repo_name: "cv-arxiv-daily"
 show_authors: True
 show_links: True
 show_badge: True
-max_results: 2000
+max_results: 5000
 
 publish_readme: True
 publish_gitpage: True
@@ -41,4 +41,6 @@ keywords:
           filters: ["3D Referring Expression Comprehension",  "3D Visual Grounding"]  
     "VOS":
           filters: ["Video Object Segmentation"]  
-
+    "REG":
+          filters: ["Referring Expression Generation"]  
+5
