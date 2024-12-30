@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.29
+## Updated on 2024.12.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RES
@@ -359,7 +359,7 @@ layout: default
 |**2024-06-02**|**GLaMM: Pixel Grounding Large Multimodal Model**|Hanoona Rasheed et.al.|[2311.03356](http://arxiv.org/abs/2311.03356)|**[link](https://github.com/mbzuai-oryx/groundingLMM)**|
 |**2023-11-06**|**CoVLM: Composing Visual Entities and Relationships in Large Language Models Via Communicative Decoding**|Junyan Li et.al.|[2311.03354](http://arxiv.org/abs/2311.03354)|null|
 |**2024-04-16**|**GPT-4V-AD: Exploring Grounding Potential of VQA-oriented GPT-4V for Zero-shot Anomaly Detection**|Jiangning Zhang et.al.|[2311.02612](http://arxiv.org/abs/2311.02612)|**[link](https://github.com/zhangzjn/gpt-4v-ad)**|
-|**2023-11-02**|**MetaReVision: Meta-Learning with Retrieval for Visually Grounded Compositional Concept Acquisition**|Guangyue Xu et.al.|[2311.01580](http://arxiv.org/abs/2311.01580)|null|
+|**2023-11-02**|**MetaReVision: Meta-Learning with Retrieval for Visually Grounded Compositional Concept Acquisition**|Guangyue Xu et.al.|[2311.01580](http://arxiv.org/abs/2311.01580)|**[link](https://github.com/hlr/metarevision)**|
 |**2024-01-30**|**A Systematic Evaluation of GPT-4V's Multimodal Capability for Medical Image Analysis**|Yingshu Li et.al.|[2310.20381](http://arxiv.org/abs/2310.20381)|null|
 |**2023-10-30**|**Scenario-Aware Audio-Visual TF-GridNet for Target Speech Extraction**|Zexu Pan et.al.|[2310.19644](http://arxiv.org/abs/2310.19644)|null|
 |**2023-10-28**|**CityRefer: Geography-aware 3D Visual Grounding Dataset on City-scale Point Cloud Data**|Taiki Miyanishi et.al.|[2310.18773](http://arxiv.org/abs/2310.18773)|**[link](https://github.com/atr-dbi/cityrefer)**|
@@ -1598,7 +1598,7 @@ layout: default
 |**2024-09-09**|**Referring Expression Generation in Visually Grounded Dialogue with Discourse-aware Comprehension Guiding**|Bram Willemsen et.al.|[2409.05721](http://arxiv.org/abs/2409.05721)|**[link](https://github.com/willemsenbram/reg-with-guiding)**|
 |**2024-08-23**|**Resilience through Scene Context in Visual Referring Expression Generation**|Simeon Junker et.al.|[2404.12289](http://arxiv.org/abs/2404.12289)|**[link](https://github.com/clause-bielefeld/reg-scene-context)**|
 |**2024-03-29**|**Elysium: Exploring Object-level Perception in Videos via MLLM**|Han Wang et.al.|[2403.16558](http://arxiv.org/abs/2403.16558)|**[link](https://github.com/hon-wong/elysium)**|
-|**2024-03-25**|**Multi-modal Instruction Tuned LLMs with Fine-grained Visual Perception**|Junwen He et.al.|[2403.02969](http://arxiv.org/abs/2403.02969)|null|
+|**2024-03-25**|**Multi-modal Instruction Tuned LLMs with Fine-grained Visual Perception**|Junwen He et.al.|[2403.02969](http://arxiv.org/abs/2403.02969)|**[link](https://github.com/jwh97nn/anyref)**|
 |**2024-02-12**|**Intrinsic Task-based Evaluation for Referring Expression Generation**|Guanyi Chen et.al.|[2402.07432](http://arxiv.org/abs/2402.07432)|null|
 |**2024-04-26**|**Enhancing Visual Grounding and Generalization: A Multi-Task Cycle Training Approach for Vision-Language Models**|Xiaoyu Yang et.al.|[2311.12327](http://arxiv.org/abs/2311.12327)|**[link](https://github.com/anonymgiant/vilam)**|
 |**2023-08-19**|**Whether you can locate or not? Interactive Referring Expression Generation**|Fulong Ye et.al.|[2308.09977](http://arxiv.org/abs/2308.09977)|**[link](https://github.com/superhero-7/ireg)**|
