@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.30
+## Updated on 2024.12.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RES
@@ -128,7 +128,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-23**|**Reasoning to Attend: Try to Understand How <SEG> Token Works**|Rui Qian et.al.|[2412.17741](http://arxiv.org/abs/2412.17741)|null|
+|**2024-12-26**|**Referencing Where to Focus: Improving VisualGrounding with Referential Query**|Yabing Wang et.al.|[2412.19155](http://arxiv.org/abs/2412.19155)|null|
+|**2024-12-25**|**Reasoning to Attend: Try to Understand How <SEG> Token Works**|Rui Qian et.al.|[2412.17741](http://arxiv.org/abs/2412.17741)|null|
 |**2024-12-23**|**PC Agent: While You Sleep, AI Works -- A Cognitive Journey into Digital World**|Yanheng He et.al.|[2412.17589](http://arxiv.org/abs/2412.17589)|null|
 |**2024-12-22**|**CoF: Coarse to Fine-Grained Image Understanding for Multi-modal Large Language Models**|Yeyuan Wang et.al.|[2412.16869](http://arxiv.org/abs/2412.16869)|**[link](https://github.com/gavin001201/cof)**|
 |**2024-12-22**|**Visual Prompting with Iterative Refinement for Design Critique Generation**|Peitong Duan et.al.|[2412.16829](http://arxiv.org/abs/2412.16829)|null|
@@ -408,7 +409,7 @@ layout: default
 |**2023-08-24**|**VQA Therapy: Exploring Answer Differences by Visually Grounding Answers**|Chongyan Chen et.al.|[2308.11662](http://arxiv.org/abs/2308.11662)|**[link](https://github.com/ccychongyanchen/vqatherapycrowdsourcing)**|
 |**2023-12-14**|**Target-Grounded Graph-Aware Transformer for Aerial Vision-and-Dialog Navigation**|Yifei Su et.al.|[2308.11561](http://arxiv.org/abs/2308.11561)|**[link](https://github.com/yifeisu/tg-gat)**|
 |**2023-08-19**|**Whether you can locate or not? Interactive Referring Expression Generation**|Fulong Ye et.al.|[2308.09977](http://arxiv.org/abs/2308.09977)|**[link](https://github.com/superhero-7/ireg)**|
-|**2023-08-18**|**Language-Guided Diffusion Model for Visual Grounding**|Sijia Chen et.al.|[2308.09599](http://arxiv.org/abs/2308.09599)|**[link](https://github.com/iqua/vggbase)**|
+|**2024-12-27**|**Language-Guided Diffusion Model for Visual Grounding**|Sijia Chen et.al.|[2308.09599](http://arxiv.org/abs/2308.09599)|**[link](https://github.com/iqua/vggbase)**|
 |**2024-04-22**|**Learning the meanings of function words from grounded language using a visual question answering model**|Eva Portelance et.al.|[2308.08628](http://arxiv.org/abs/2308.08628)|**[link](https://github.com/evaportelance/vqa-function-word-learning)**|
 |**2024-02-11**|**Detecting and Preventing Hallucinations in Large Vision Language Models**|Anisha Gunjal et.al.|[2308.06394](http://arxiv.org/abs/2308.06394)|**[link](https://github.com/hendryx-scale/mhal-detect)**|
 |**2023-08-08**|**3D-VisTA: Pre-trained Transformer for 3D Vision and Text Alignment**|Ziyu Zhu et.al.|[2308.04352](http://arxiv.org/abs/2308.04352)|null|
@@ -431,7 +432,7 @@ layout: default
 |**2023-06-25**|**Switch-BERT: Learning to Model Multimodal Interactions by Switching Attention and Input**|Qingpei Guo et.al.|[2306.14182](http://arxiv.org/abs/2306.14182)|null|
 |**2024-04-18**|**Visually grounded few-shot word learning in low-resource settings**|Leanne Nortje et.al.|[2306.11371](http://arxiv.org/abs/2306.11371)|null|
 |**2023-06-19**|**A neuro-symbolic approach for multimodal reference expression comprehension**|Aman Jain et.al.|[2306.10717](http://arxiv.org/abs/2306.10717)|null|
-|**2023-06-14**|**World-to-Words: Grounded Open Vocabulary Acquisition through Fast Mapping in Vision-Language Models**|Ziqiao Ma et.al.|[2306.08685](http://arxiv.org/abs/2306.08685)|**[link](https://github.com/sled-group/world-to-words)**|
+|**2024-12-26**|**World-to-Words: Grounded Open Vocabulary Acquisition through Fast Mapping in Vision-Language Models**|Ziqiao Ma et.al.|[2306.08685](http://arxiv.org/abs/2306.08685)|**[link](https://github.com/sled-group/world-to-words)**|
 |**2023-06-10**|**Referring to Screen Texts with Voice Assistants**|Shruti Bhargava et.al.|[2306.07298](http://arxiv.org/abs/2306.07298)|null|
 |**2023-06-06**|**Language Adaptive Weight Generation for Multi-task Visual Grounding**|Wei Su et.al.|[2306.04652](http://arxiv.org/abs/2306.04652)|**[link](https://github.com/dcdcvgroup/vglaw-mindspore)**|
 |**2023-10-16**|**Rewarded soups: towards Pareto-optimal alignment by interpolating weights fine-tuned on diverse rewards**|Alexandre Ramé et.al.|[2306.04488](http://arxiv.org/abs/2306.04488)|**[link](https://github.com/alexrame/rewardedsoups)**|
@@ -893,7 +894,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-22**|**SoundLoc3D: Invisible 3D Sound Source Localization and Classification Using a Multimodal RGB-D Acoustic Camera**|Yuhang He et.al.|[2412.16861](http://arxiv.org/abs/2412.16861)|null|
+|**2024-12-26**|**Graph-Enhanced Dual-Stream Feature Fusion with Pre-Trained Model for Acoustic Traffic Monitoring**|Shitong Fan et.al.|[2412.19078](http://arxiv.org/abs/2412.19078)|null|
+|**2024-12-29**|**SoundLoc3D: Invisible 3D Sound Source Localization and Classification Using a Multimodal RGB-D Acoustic Camera**|Yuhang He et.al.|[2412.16861](http://arxiv.org/abs/2412.16861)|null|
 |**2024-12-13**|**SonicBoom: Contact Localization Using Array of Microphones**|Moonyoung Lee et.al.|[2412.09878](http://arxiv.org/abs/2412.09878)|null|
 |**2024-12-09**|**Sound2Vision: Generating Diverse Visuals from Audio through Cross-Modal Latent Alignment**|Kim Sung-Bin et.al.|[2412.06209](http://arxiv.org/abs/2412.06209)|null|
 |**2024-10-25**|**Mask-Weighted Spatial Likelihood Coding for Speaker-Independent Joint Localization and Mask Estimation**|Jakob Kienegger et.al.|[2410.19595](http://arxiv.org/abs/2410.19595)|null|
