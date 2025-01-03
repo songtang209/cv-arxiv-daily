@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.01
+## Updated on 2025.01.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RES
@@ -1643,7 +1643,7 @@ layout: default
 |**2024-12-30**|**Cosmological Signatures of Neutrino Seesaw**|Chengcheng Han et.al.|[2412.21045](http://arxiv.org/abs/2412.21045)|null|
 |**2024-12-30**|**Resolving Pleiades binary stars with Gaia and speckle interferometric observations**|Dmitry Chulkov et.al.|[2412.20986](http://arxiv.org/abs/2412.20986)|null|
 |**2024-12-30**|**On some new metric characterisations of Hilbert spaces**|M. A. Sofi et.al.|[2412.20900](http://arxiv.org/abs/2412.20900)|null|
-|**2024-12-30**|**Robust Matrix Completion for Discrete Rating-Scale Data**|Aurore Archimbaud et.al.|[2412.20802](http://arxiv.org/abs/2412.20802)|null|
+|**2024-12-30**|**Robust Matrix Completion for Discrete Rating-Scale Data**|Aurore Archimbaud et.al.|[2412.20802](http://arxiv.org/abs/2412.20802)|**[link](https://github.com/aalfons/rdmc)**|
 |**2024-12-30**|**The Pristine survey. XXVI. Chemical abundances of subgiant stars of the extremelymetal-poor stream C-19**|P. Bonifacio et.al.|[2412.20776](http://arxiv.org/abs/2412.20776)|null|
 |**2024-12-30**|**Ramanujan Graphs and Interlacing Families**|Nikhil Srivastava et.al.|[2412.20721](http://arxiv.org/abs/2412.20721)|null|
 |**2024-12-30**|**Differentiable Convex Optimization Layers in Neural Architectures: Foundations and Perspectives**|Calder Katyal et.al.|[2412.20679](http://arxiv.org/abs/2412.20679)|null|
@@ -1658,17 +1658,17 @@ layout: default
 |**2024-12-28**|**Towards Visual Grounding: A Survey**|Linhui Xiao et.al.|[2412.20206](http://arxiv.org/abs/2412.20206)|**[link](https://github.com/linhuixiao/awesome-visual-grounding)**|
 |**2024-12-28**|**An Undergraduate Course on the Statistical Principles of Research Study Design**|Lee Kennedy-Shaffer et.al.|[2412.20175](http://arxiv.org/abs/2412.20175)|null|
 |**2024-12-28**|**Proceedings Eleventh International Conference on Non-Classical Logics. Theory and Applications**|Andrzej Indrzejczak et.al.|[2412.20053](http://arxiv.org/abs/2412.20053)|null|
-|**2024-12-28**|**From Generalist to Specialist: A Survey of Large Language Models for Chemistry**|Yang Han et.al.|[2412.19994](http://arxiv.org/abs/2412.19994)|null|
+|**2024-12-28**|**From Generalist to Specialist: A Survey of Large Language Models for Chemistry**|Yang Han et.al.|[2412.19994](http://arxiv.org/abs/2412.19994)|**[link](https://github.com/opendfm/llm4chemistry)**|
 |**2024-12-27**|**A new constraint on galaxy-halo connections of [O II] emitters via HOD modelling with angular clustering and luminosity functions from the Subaru HSC survey**|Shogo Ishikawa et.al.|[2412.19898](http://arxiv.org/abs/2412.19898)|null|
 |**2024-12-16**|**A Survey on Large Language Models for Communication, Network, and Service Management: Application Insights, Challenges, and Future Directions**|Gordon Owusu Boateng et.al.|[2412.19823](http://arxiv.org/abs/2412.19823)|null|
 |**2024-12-13**|**From terrestrial weather to space weather through the history of scintillation**|Emily F. Kerrison et.al.|[2412.19816](http://arxiv.org/abs/2412.19816)|null|
 |**2024-12-10**|**Coverage Path Planning in Precision Agriculture: Algorithms, Applications, and Key Benefits**|Jahid Chowdhury Choton et.al.|[2412.19813](http://arxiv.org/abs/2412.19813)|null|
-|**2024-12-27**|**Generalized Grade-of-Membership Estimation for High-dimensional Locally Dependent Data**|Ling Chen et.al.|[2412.19796](http://arxiv.org/abs/2412.19796)|null|
+|**2024-12-27**|**Generalized Grade-of-Membership Estimation for High-dimensional Locally Dependent Data**|Ling Chen et.al.|[2412.19796](http://arxiv.org/abs/2412.19796)|**[link](https://github.com/lscientific/gGoM)**|
 |**2024-12-27**|**Fully-relativistic evolution of vacuum tensor inhomogeneities during inflation**|Ericka Florio et.al.|[2412.19731](http://arxiv.org/abs/2412.19731)|null|
 |**2024-12-27**|**The possible long-term periodic variability of the extremely luminous quasar WISE J090924.01+000211.1**|Takashi Horiuchi et.al.|[2412.19573](http://arxiv.org/abs/2412.19573)|null|
-|**2024-12-27**|**Multi-Condition Fault Diagnosis of Dynamic Systems: A Survey, Insights, and Prospects**|Pengyu Han et.al.|[2412.19497](http://arxiv.org/abs/2412.19497)|null|
-|**2024-12-27**|**A Survey on Large Language Model Acceleration based on KV Cache Management**|Haoyang Li et.al.|[2412.19442](http://arxiv.org/abs/2412.19442)|null|
-|**2024-12-27**|**The Rendezvous Between Extreme Value Theory and Next-generation Networks**|Srinivas Sagar et.al.|[2412.19438](http://arxiv.org/abs/2412.19438)|null|
+|**2024-12-27**|**Multi-Condition Fault Diagnosis of Dynamic Systems: A Survey, Insights, and Prospects**|Pengyu Han et.al.|[2412.19497](http://arxiv.org/abs/2412.19497)|**[link](https://github.com/THUFDD/Multi-Condition-Fault-Diagnosis)**|
+|**2024-12-27**|**A Survey on Large Language Model Acceleration based on KV Cache Management**|Haoyang Li et.al.|[2412.19442](http://arxiv.org/abs/2412.19442)|**[link](https://github.com/treeai-lab/awesome-kv-cache-management)**|
+|**2024-12-31**|**The Rendezvous Between Extreme Value Theory and Next-generation Networks**|Srinivas Sagar et.al.|[2412.19438](http://arxiv.org/abs/2412.19438)|null|
 |**2024-12-27**|**A Self-Efficacy Theory-based Study on the Teachers Readiness to Teach Artificial Intelligence in Public Schools in Sri Lanka**|Chathura Rajapakse et.al.|[2412.19425](http://arxiv.org/abs/2412.19425)|null|
 |**2024-12-27**|**Introduction to Graph Neural Networks: A Starting Point for Machine Learning Engineers**|James H. Tanis et.al.|[2412.19419](http://arxiv.org/abs/2412.19419)|null|
 |**2024-12-27**|**The Hobby-Eberly Telescope Dark Energy Experiment Survey (HETDEX) Active Galactic Nuclei Catalog: the Fourth Data Release**|Chenxu Liu et.al.|[2412.19414](http://arxiv.org/abs/2412.19414)|null|
@@ -1683,7 +1683,7 @@ layout: default
 |**2024-12-25**|**Identifying New $γ$ -Ray Sources in All-Sky Surveys Based on Fermipy's Advanced Algorithm**|Y. C. Xiang et.al.|[2412.18767](http://arxiv.org/abs/2412.18767)|null|
 |**2024-12-24**|**Video Is Worth a Thousand Images: Exploring the Latest Trends in Long Video Generation**|Faraz Waseem et.al.|[2412.18688](http://arxiv.org/abs/2412.18688)|null|
 |**2024-12-24**|**State-of-the-Art Underwater Vehicles and Technologies Enabling Smart Ocean: Survey and Classifications**|Jiajie Xu et.al.|[2412.18667](http://arxiv.org/abs/2412.18667)|null|
-|**2024-12-30**|**MPI-Rockstar: a Hybrid MPI and OpenMP Parallel Implementation of the Rockstar Halo finder**|Tomoyuki Tokuue et.al.|[2412.18629](http://arxiv.org/abs/2412.18629)|null|
+|**2024-12-30**|**MPI-Rockstar: a Hybrid MPI and OpenMP Parallel Implementation of the Rockstar Halo finder**|Tomoyuki Tokuue et.al.|[2412.18629](http://arxiv.org/abs/2412.18629)|**[link](https://github.com/tomoaki-ishiyama/mpi-rockstar)**|
 |**2024-12-30**|**Next Token Prediction Towards Multimodal Intelligence: A Comprehensive Survey**|Liang Chen et.al.|[2412.18619](http://arxiv.org/abs/2412.18619)|**[link](https://github.com/lmm101/awesome-multimodal-next-token-prediction)**|
 |**2024-12-24**|**Red supergiant stars in binary systems II. Confirmation of B-type companions of red supergiants in the Small Magellanic Cloud using Hubble ultra-violet spectroscopy**|L. R. Patrick et.al.|[2412.18554](http://arxiv.org/abs/2412.18554)|null|
 |**2024-12-24**|**Post-pandemic social contacts in Italy: implications for social distancing measures on in-person school and work attendance**|Lorenzo Lucchini et.al.|[2412.18549](http://arxiv.org/abs/2412.18549)|null|
@@ -1982,7 +1982,7 @@ layout: default
 |**2024-12-10**|**Two Distinct Populations of Dark Comets Delineated by Orbits and Sizes**|Darryl Z. Seligman et.al.|[2412.07603](http://arxiv.org/abs/2412.07603)|**[link](https://github.com/dseligman/darkcomets)**|
 |**2024-12-10**|**Moving to the suburbs? Exploring the potential impact of work-from-home on suburbanization in Poland**|Beata Woźniak-Jęchorek et.al.|[2412.07459](http://arxiv.org/abs/2412.07459)|null|
 |**2024-12-10**|**Identity theft and societal acceptability of electronic identity in Europe and in the United States**|Marek Tiits et.al.|[2412.07445](http://arxiv.org/abs/2412.07445)|null|
-|**2024-12-10**|**Machine Learning Algorithms for Detecting Mental Stress in College Students**|Ashutosh Singh et.al.|[2412.07415](http://arxiv.org/abs/2412.07415)|null|
+|**2024-12-10**|**Machine Learning Algorithms for Detecting Mental Stress in College Students**|Ashutosh Singh et.al.|[2412.07415](http://arxiv.org/abs/2412.07415)|**[link](https://github.com/ashutosh22102/Machine-Learning-Algorithms-for-Detecting-Mental-Stress-in-College-Students)**|
 |**2024-12-10**|**Tides on Lava Worlds: Application to Close-in Exoplanets and the Early Earth-Moon System**|Mohammad Farhat et.al.|[2412.07285](http://arxiv.org/abs/2412.07285)|null|
 |**2024-12-10**|**Detecting the Black Hole Candidate Population in M51's Young Massive Star Clusters: Constraints on Accreting Intermediate Mass Black Holes**|Kristen C. Dage et.al.|[2412.07284](http://arxiv.org/abs/2412.07284)|null|
 |**2024-12-10**|**Effective Reward Specification in Deep Reinforcement Learning**|Julien Roy et.al.|[2412.07177](http://arxiv.org/abs/2412.07177)|null|
@@ -2559,7 +2559,7 @@ layout: default
 |**2024-11-12**|**Asymmetry in the distribution of HSC galaxy spin directions: comment on arXiv:2410.18884v1**|Lior Shamir et.al.|[2411.08723](http://arxiv.org/abs/2411.08723)|null|
 |**2024-11-13**|**Investigating Changing-Look Active Galactic Nuclei with Long-term Optical and X-Ray Observations**|A. Jana et.al.|[2411.08676](http://arxiv.org/abs/2411.08676)|null|
 |**2024-11-16**|**A Survey on Vision Autoregressive Model**|Kai Jiang et.al.|[2411.08666](http://arxiv.org/abs/2411.08666)|null|
-|**2024-11-13**|**Probing the Cosmological Principle with weak lensing shear**|James Adam et.al.|[2411.08560](http://arxiv.org/abs/2411.08560)|null|
+|**2024-12-31**|**Probing the Cosmological Principle with weak lensing shear**|James Adam et.al.|[2411.08560](http://arxiv.org/abs/2411.08560)|null|
 |**2024-11-13**|**Detection and classification of radio sources with deep learning**|S. Riggi et.al.|[2411.08519](http://arxiv.org/abs/2411.08519)|null|
 |**2024-11-13**|**A survey on Graph Deep Representation Learning for Facial Expression Recognition**|Théo Gueuret et.al.|[2411.08472](http://arxiv.org/abs/2411.08472)|null|
 |**2024-11-13**|**High-Time-Cadence Spectroscopy and Photometry of Stellar Flares on M-dwarf YZ Canis Minoris with Seimei Telescope and TESS. I. Discovery of Rapid and Short-Duration Prominence Eruptions**|Yuto Kajikiya et.al.|[2411.08462](http://arxiv.org/abs/2411.08462)|null|
@@ -4302,7 +4302,7 @@ layout: default
 |**2024-08-13**|**TaPS: A Performance Evaluation Suite for Task-based Execution Frameworks**|J. Gregory Pauloski et.al.|[2408.07236](http://arxiv.org/abs/2408.07236)|**[link](https://github.com/proxystore/taps)**|
 |**2024-08-13**|**Probing cluster magnetism with embedded and background radio sources in Planck clusters**|Erik Osinga et.al.|[2408.07178](http://arxiv.org/abs/2408.07178)|null|
 |**2024-08-13**|**Improving Radial Velocities by Marginalizing over Stars and Sky: Achieving 30 m/s RV Precision for APOGEE in the Plate Era**|Andrew K. Saydjari et.al.|[2408.07126](http://arxiv.org/abs/2408.07126)|null|
-|**2024-08-13**|**Globular cluster counts around 700 nearby galaxies**|Minh Ngoc Le et.al.|[2408.07124](http://arxiv.org/abs/2408.07124)|null|
+|**2024-12-31**|**Globular Cluster Counts around 700 Nearby Galaxies**|Minh Ngoc Le et.al.|[2408.07124](http://arxiv.org/abs/2408.07124)|null|
 |**2024-08-13**|**Systematically Measuring Ultra-Diffuse Galaxies. VII. The HI Survey Overview**|Ananthan Karunakaran et.al.|[2408.07119](http://arxiv.org/abs/2408.07119)|null|
 |**2024-08-12**|**Quantized Redshift and its significance for recent observations**|Arindam Mal et.al.|[2408.07101](http://arxiv.org/abs/2408.07101)|null|
 |**2024-08-13**|**Model Counting in the Wild**|Arijit Shaw et.al.|[2408.07059](http://arxiv.org/abs/2408.07059)|null|
@@ -5533,7 +5533,7 @@ layout: default
 |**2024-06-10**|**Discrepancies between spectroscopy and HST photometry in tagging multiple stellar populations in 22 globular clusters**|Eugenio Carretta et.al.|[2406.06683](http://arxiv.org/abs/2406.06683)|null|
 |**2024-10-01**|**Systematic Collapse of the Accretion Disc Across the Supermassive Black Hole Population**|Scott Hagen et.al.|[2406.06674](http://arxiv.org/abs/2406.06674)|null|
 |**2024-06-08**|**A Survey of Meta-features Used for Automated Selection of Algorithms for Black-box Single-objective Continuous Optimization**|Gjorgjina Cenikj et.al.|[2406.06629](http://arxiv.org/abs/2406.06629)|null|
-|**2024-12-23**|**The Prompt Report: A Systematic Survey of Prompting Techniques**|Sander Schulhoff et.al.|[2406.06608](http://arxiv.org/abs/2406.06608)|**[link](https://github.com/trigaten/Prompt_Systematic_Review)**|
+|**2024-12-30**|**The Prompt Report: A Systematic Survey of Prompting Techniques**|Sander Schulhoff et.al.|[2406.06608](http://arxiv.org/abs/2406.06608)|**[link](https://github.com/trigaten/Prompt_Systematic_Review)**|
 |**2024-06-03**|**Review of Computational Epigraphy**|Vishal Kumar et.al.|[2406.06570](http://arxiv.org/abs/2406.06570)|null|
 |**2024-06-10**|**Most nearby young star clusters formed in three massive complexes**|Cameren Swiggum et.al.|[2406.06510](http://arxiv.org/abs/2406.06510)|null|
 |**2024-06-10**|**Survey for Landing Generative AI in Social and E-commerce Recsys -- the Industry Perspectives**|Da Xu et.al.|[2406.06475](http://arxiv.org/abs/2406.06475)|null|
