@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.03
+## Updated on 2025.01.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RES
@@ -26,7 +26,7 @@ layout: default
 |**2024-09-28**|**A Parameter-Efficient Tuning Framework for Language-guided Object Grounding and Robot Grasping**|Houjian Yu et.al.|[2409.19457](http://arxiv.org/abs/2409.19457)|null|
 |**2024-09-25**|**PTQ4RIS: Post-Training Quantization for Referring Image Segmentation**|Xiaoyan Jiang et.al.|[2409.17020](http://arxiv.org/abs/2409.17020)|**[link](https://github.com/gugu511yy/ptq4ris)**|
 |**2024-09-17**|**Robot Manipulation in Salient Vision through Referring Image Segmentation and Geometric Constraints**|Chen Jiang et.al.|[2409.11518](http://arxiv.org/abs/2409.11518)|null|
-|**2024-12-14**|**SAM4MLLM: Enhance Multi-Modal Large Language Model for Referring Expression Segmentation**|Yi-Chia Chen et.al.|[2409.10542](http://arxiv.org/abs/2409.10542)|null|
+|**2024-12-14**|**SAM4MLLM: Enhance Multi-Modal Large Language Model for Referring Expression Segmentation**|Yi-Chia Chen et.al.|[2409.10542](http://arxiv.org/abs/2409.10542)|**[link](https://github.com/ai-application-and-integration-lab/sam4mllm)**|
 |**2024-09-19**|**A Simple Baseline with Single-encoder for Referring Image Segmentation**|Seonghoon Yu et.al.|[2408.15521](http://arxiv.org/abs/2408.15521)|null|
 |**2024-08-14**|**Cross-aware Early Fusion with Stage-divided Vision and Language Transformer Encoders for Referring Image Segmentation**|Yubin Cho et.al.|[2408.07539](http://arxiv.org/abs/2408.07539)|null|
 |**2024-08-07**|**How Well Can Vision Language Models See Image Details?**|Chenhui Gou et.al.|[2408.03940](http://arxiv.org/abs/2408.03940)|null|
@@ -130,7 +130,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-12-28**|**Towards Visual Grounding: A Survey**|Linhui Xiao et.al.|[2412.20206](http://arxiv.org/abs/2412.20206)|**[link](https://github.com/linhuixiao/awesome-visual-grounding)**|
 |**2024-12-26**|**Referencing Where to Focus: Improving VisualGrounding with Referential Query**|Yabing Wang et.al.|[2412.19155](http://arxiv.org/abs/2412.19155)|null|
-|**2024-12-25**|**Reasoning to Attend: Try to Understand How <SEG> Token Works**|Rui Qian et.al.|[2412.17741](http://arxiv.org/abs/2412.17741)|null|
+|**2024-12-25**|**Reasoning to Attend: Try to Understand How <SEG> Token Works**|Rui Qian et.al.|[2412.17741](http://arxiv.org/abs/2412.17741)|**[link](https://github.com/rui-qian/read)**|
 |**2024-12-23**|**PC Agent: While You Sleep, AI Works -- A Cognitive Journey into Digital World**|Yanheng He et.al.|[2412.17589](http://arxiv.org/abs/2412.17589)|null|
 |**2024-12-22**|**CoF: Coarse to Fine-Grained Image Understanding for Multi-modal Large Language Models**|Yeyuan Wang et.al.|[2412.16869](http://arxiv.org/abs/2412.16869)|**[link](https://github.com/gavin001201/cof)**|
 |**2024-12-22**|**Visual Prompting with Iterative Refinement for Design Critique Generation**|Peitong Duan et.al.|[2412.16829](http://arxiv.org/abs/2412.16829)|null|
@@ -145,7 +145,7 @@ layout: default
 |**2024-12-19**|**Progressive Multi-granular Alignments for Grounded Reasoning in Large Vision-Language Models**|Quang-Hung Le et.al.|[2412.08125](http://arxiv.org/abs/2412.08125)|**[link](https://github.com/lqh52/promvil)**|
 |**2024-12-11**|**Barking Up The Syntactic Tree: Enhancing VLM Training with Syntactic Losses**|Jiayun Luo et.al.|[2412.08110](http://arxiv.org/abs/2412.08110)|null|
 |**2024-12-09**|**3D Spatial Understanding in MLLMs: Disambiguation and Evaluation**|Chun-Peng Chang et.al.|[2412.06613](http://arxiv.org/abs/2412.06613)|null|
-|**2024-12-10**|**TACO: Learning Multi-modal Action Models with Synthetic Chains-of-Thought-and-Action**|Zixian Ma et.al.|[2412.05479](http://arxiv.org/abs/2412.05479)|null|
+|**2024-12-10**|**TACO: Learning Multi-modal Action Models with Synthetic Chains-of-Thought-and-Action**|Zixian Ma et.al.|[2412.05479](http://arxiv.org/abs/2412.05479)|**[link](https://github.com/salesforceairesearch/taco)**|
 |**2024-12-17**|**Expanding Performance Boundaries of Open-Source Multimodal Models with Model, Data, and Test-Time Scaling**|Zhe Chen et.al.|[2412.05271](http://arxiv.org/abs/2412.05271)|**[link](https://github.com/opengvlab/internvl)**|
 |**2024-12-05**|**SeeGround: See and Ground for Zero-Shot Open-Vocabulary 3D Visual Grounding**|Rong Li et.al.|[2412.04383](http://arxiv.org/abs/2412.04383)|null|
 |**2024-12-15**|**M $^{3}$ D: A Multimodal, Multilingual and Multitask Dataset for Grounded Document-level Information Extraction**|Jiang Liu et.al.|[2412.04026](http://arxiv.org/abs/2412.04026)|**[link](https://github.com/solkx/m3d)**|
@@ -1639,7 +1639,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-12-30**|**The Many Colours of Amplitudes**|Jacob L. Bourjaily et.al.|[2412.21189](http://arxiv.org/abs/2412.21189)|null|
-|**2024-12-30**|**Galaxy Spectra Networks (GaSNet). III. Generative pre-trained network for spectrum reconstruction, redshift estimate and anomaly detection**|Fucheng Zhong et.al.|[2412.21130](http://arxiv.org/abs/2412.21130)|null|
+|**2024-12-30**|**Galaxy Spectra Networks (GaSNet). III. Generative pre-trained network for spectrum reconstruction, redshift estimate and anomaly detection**|Fucheng Zhong et.al.|[2412.21130](http://arxiv.org/abs/2412.21130)|**[link](https://github.com/Fucheng-Zhong/GaSNet-III)**|
 |**2024-12-30**|**Cosmological Signatures of Neutrino Seesaw**|Chengcheng Han et.al.|[2412.21045](http://arxiv.org/abs/2412.21045)|null|
 |**2024-12-30**|**Resolving Pleiades binary stars with Gaia and speckle interferometric observations**|Dmitry Chulkov et.al.|[2412.20986](http://arxiv.org/abs/2412.20986)|null|
 |**2024-12-30**|**On some new metric characterisations of Hilbert spaces**|M. A. Sofi et.al.|[2412.20900](http://arxiv.org/abs/2412.20900)|null|
@@ -1863,7 +1863,7 @@ layout: default
 |**2024-12-16**|**Comprehensive Survey on Adversarial Examples in Cybersecurity: Impacts, Challenges, and Mitigation Strategies**|Li Li et.al.|[2412.12217](http://arxiv.org/abs/2412.12217)|null|
 |**2024-12-13**|**Predicting Internet Connectivity in Schools: A Feasibility Study Leveraging Multi-modal Data and Location Encoders in Low-Resource Settings**|Kelsey Doerksen et.al.|[2412.12188](http://arxiv.org/abs/2412.12188)|null|
 |**2024-12-16**|**Geometry of 3-dimensional del Pezzo fibrations in positive characteristic**|Fabio Bernasconi et.al.|[2412.12090](http://arxiv.org/abs/2412.12090)|null|
-|**2024-12-16**|**$X+y$ : insights on gas thermodynamics from the combination of X-ray and thermal Sunyaev-Zel'dovich data cross-correlated with cosmic shear**|Adrien La Posta et.al.|[2412.12081](http://arxiv.org/abs/2412.12081)|null|
+|**2024-12-16**|**$X+y$ : insights on gas thermodynamics from the combination of X-ray and thermal Sunyaev-Zel'dovich data cross-correlated with cosmic shear**|Adrien La Posta et.al.|[2412.12081](http://arxiv.org/abs/2412.12081)|**[link](https://github.com/cosmotheka/cosmotheka)**|
 |**2024-12-16**|**Euclid: Field-level inference of primordial non-Gaussianity and cosmic initial conditions**|A. Andrews et.al.|[2412.11945](http://arxiv.org/abs/2412.11945)|null|
 |**2024-12-16**|**A Survey of Mathematical Reasoning in the Era of Multimodal Large Language Model: Benchmark, Method & Challenges**|Yibo Yan et.al.|[2412.11936](http://arxiv.org/abs/2412.11936)|null|
 |**2024-12-16**|**Generalised Fermat equation: a survey of solved cases**|Ashleigh Wilcox et.al.|[2412.11933](http://arxiv.org/abs/2412.11933)|null|
@@ -4814,7 +4814,7 @@ layout: default
 |**2024-07-17**|**A survey and taxonomy of methods interpreting random forest models**|Maissae Haddouchi et.al.|[2407.12759](http://arxiv.org/abs/2407.12759)|null|
 |**2024-07-17**|**Exploring the interplay of individual traits and interaction dynamics in preschool social networks**|Gülşah Akçakır et.al.|[2407.12728](http://arxiv.org/abs/2407.12728)|null|
 |**2024-07-17**|**A new perspective on the stellar Mass-Metallicity Relation of quiescent galaxies from the LEGA-C survey**|D. Bevacqua et.al.|[2407.12704](http://arxiv.org/abs/2407.12704)|null|
-|**2024-08-08**|**A global view on star formation: The GLOSTAR Galactic plane survey. XI. Radio source catalog IV: $2^\circ < \ell < 28^\circ$, $36^\circ < \ell < 60^\circ$ and $|b| < 1^\circ$**|S. -N. X. Medina et.al.|[2407.12585](http://arxiv.org/abs/2407.12585)|null|
+|**2024-08-08**|**A global view on star formation: The GLOSTAR Galactic plane survey. XI. Radio source catalog IV: $2^\circ < \ell < 28^\circ$, $36^\circ < \ell < 60^\circ$ and $|b|< 1^\circ$**|S. -N. X. Medina et.al.|
 |**2024-08-09**|**eROSITA (eRASS1) study of the Canis Major overdensity: Developing a multi-wavelength algorithm for classifying faint X-ray sources**|Sara Saeedi et.al.|[2407.12583](http://arxiv.org/abs/2407.12583)|null|
 |**2024-11-12**|**UniTE: A Survey and Unified Pipeline for Pre-training Spatiotemporal Trajectory Embeddings**|Yan Lin et.al.|[2407.12550](http://arxiv.org/abs/2407.12550)|**[link](https://github.com/Logan-Lin/UniTE)**|
 |**2024-07-17**|**Quadrupolar power radiation by a binary system in a hyperbolic encounter on de Sitter background**|Michael Blanc et.al.|[2407.12526](http://arxiv.org/abs/2407.12526)|null|
