@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.09
+## Updated on 2025.01.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -26,6 +26,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-09**|**IPDN: Image-enhanced Prompt Decoding Network for 3D Referring Expression Segmentation**|Qi Chen et.al.|[2501.04995](http://arxiv.org/abs/2501.04995)|null|
 |**2025-01-02**|**Hierarchical Alignment-enhanced Adaptive Grounding Network for Generalized Referring Expression Comprehension**|Yaxian Wang et.al.|[2501.01416](http://arxiv.org/abs/2501.01416)|null|
 |**2024-12-14**|**Grasp What You Want: Embodied Dexterous Grasping System Driven by Your Voice**|Junliang Li et.al.|[2412.10694](http://arxiv.org/abs/2412.10694)|null|
 |**2024-12-22**|**RG-SAN: Rule-Guided Spatial Awareness Network for End-to-End 3D Referring Expression Segmentation**|Changli Wu et.al.|[2412.02402](http://arxiv.org/abs/2412.02402)|**[link](https://github.com/sosppxo/rg-san)**|
@@ -137,7 +138,7 @@
 |**2019-04-06**|**CLEVR-Ref+: Diagnosing Visual Reasoning with Referring Expressions**|Runtao Liu et.al.|[1901.00850](http://arxiv.org/abs/1901.00850)|null|
 |**2017-08-04**|**Recurrent Multimodal Interaction for Referring Image Segmentation**|Chenxi Liu et.al.|[1703.07939](http://arxiv.org/abs/1703.07939)|**[link](https://github.com/chenxi116/TF-phrasecut-public)**|
 
-<p align=right>(<a href=#updated-on-20250109>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250111>back to top</a>)</p>
 
 ## REC
 
@@ -253,7 +254,7 @@
 |**2024-07-06**|**ACTRESS: Active Retraining for Semi-supervised Visual Grounding**|Weitai Kang et.al.|[2407.03251](http://arxiv.org/abs/2407.03251)|null|
 |**2024-07-06**|**Visual Grounding with Attention-Driven Constraint Balancing**|Weitai Kang et.al.|[2407.03243](http://arxiv.org/abs/2407.03243)|null|
 |**2024-07-06**|**SegVG: Transferring Object Bounding Box to Segmentation for Visual Grounding**|Weitai Kang et.al.|[2407.03200](http://arxiv.org/abs/2407.03200)|**[link](https://github.com/weitaikang/segvg)**|
-|**2025-01-08**|**ViG-Bias: Visually Grounded Bias Discovery and Mitigation**|Badr-Eddine Marani et.al.|[2407.01996](http://arxiv.org/abs/2407.01996)|null|
+|**2025-01-08**|**ViG-Bias: Visually Grounded Bias Discovery and Mitigation**|Badr-Eddine Marani et.al.|[2407.01996](http://arxiv.org/abs/2407.01996)|**[link](https://github.com/badrmarani/vig-bias-eccv)**|
 |**2024-07-02**|**The Solution for the ICCV 2023 Perception Test Challenge 2023 -- Task 6 -- Grounded videoQA**|Hailiang Zhang et.al.|[2407.01907](http://arxiv.org/abs/2407.01907)|null|
 |**2024-09-17**|**Visual grounding for desktop graphical user interfaces**|Tassnim Dardouri et.al.|[2407.01558](http://arxiv.org/abs/2407.01558)|null|
 |**2024-07-17**|**ScanReason: Empowering 3D Visual Grounding with Reasoning Capabilities**|Chenming Zhu et.al.|[2407.01525](http://arxiv.org/abs/2407.01525)|null|
@@ -271,6 +272,7 @@
 |**2024-11-11**|**VRSBench: A Versatile Vision-Language Benchmark Dataset for Remote Sensing Image Understanding**|Xiang Li et.al.|[2406.12384](http://arxiv.org/abs/2406.12384)|**[link](https://github.com/lx709/vrsbench)**|
 |**2024-06-17**|**Reframing linguistic bootstrapping as joint inference using visually-grounded grammar induction models**|Eva Portelance et.al.|[2406.11977](http://arxiv.org/abs/2406.11977)|null|
 |**2024-09-11**|**DocGenome: An Open Large-scale Scientific Document Benchmark for Training and Testing Multi-modal Large Language Models**|Renqiu Xia et.al.|[2406.11633](http://arxiv.org/abs/2406.11633)|**[link](https://github.com/UniModal4Reasoning/DocGenome)**|
+|**2025-01-08**|**ISR-DPO: Aligning Large Multimodal Models for Videos by Iterative Self-Retrospective DPO**|Daechul Ahn et.al.|[2406.11280](http://arxiv.org/abs/2406.11280)|**[link](https://github.com/snumprlab/isr-dpo)**|
 |**2024-06-14**|**ChartMimic: Evaluating LMM's Cross-Modal Reasoning Capability via Chart-to-Code Generation**|Chufan Shi et.al.|[2406.09961](http://arxiv.org/abs/2406.09961)|**[link](https://github.com/chartmimic/chartmimic)**|
 |**2024-10-21**|**Learning Language Structures through Grounding**|Freda Shi et.al.|[2406.09662](http://arxiv.org/abs/2406.09662)|null|
 |**2024-06-13**|**MMScan: A Multi-Modal 3D Scene Dataset with Hierarchical Grounded Language Annotations**|Ruiyuan Lyu et.al.|[2406.09401](http://arxiv.org/abs/2406.09401)|**[link](https://github.com/openrobotlab/embodiedscan)**|
@@ -867,13 +869,14 @@
 |**2015-06-19**|**Learning language through pictures**|Grzegorz Chrupała et.al.|[1506.03694](http://arxiv.org/abs/1506.03694)|**[link](https://github.com/gchrupala/imaginet)**|
 |**2011-06-30**|**Grounded Semantic Composition for Visual Scenes**|P. Gorniak et.al.|[1107.0031](http://arxiv.org/abs/1107.0031)|null|
 
-<p align=right>(<a href=#updated-on-20250109>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250111>back to top</a>)</p>
 
 ## RVOS
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-01-07**|**Sa2VA: Marrying SAM2 with LLaVA for Dense Grounded Understanding of Images and Videos**|Haobo Yuan et.al.|[2501.04001](http://arxiv.org/abs/2501.04001)|null|
+|**2025-01-09**|**Multi-Context Temporal Consistent Modeling for Referring Video Object Segmentation**|Sun-Hyuk Choi et.al.|[2501.04939](http://arxiv.org/abs/2501.04939)|null|
+|**2025-01-07**|**Sa2VA: Marrying SAM2 with LLaVA for Dense Grounded Understanding of Images and Videos**|Haobo Yuan et.al.|[2501.04001](http://arxiv.org/abs/2501.04001)|**[link](https://github.com/magic-research/Sa2VA)**|
 |**2024-12-02**|**Referring Video Object Segmentation via Language-aligned Track Selection**|Seongchan Kim et.al.|[2412.01136](http://arxiv.org/abs/2412.01136)|null|
 |**2024-11-26**|**SAMWISE: Infusing wisdom in SAM2 for Text-Driven Video Segmentation**|Claudia Cuttano et.al.|[2411.17646](http://arxiv.org/abs/2411.17646)|**[link](https://github.com/claudiacuttano/samwise)**|
 |**2024-09-09**|**LSVOS Challenge Report: Large-scale Complex and Long Video Object Segmentation**|Henghui Ding et.al.|[2409.05847](http://arxiv.org/abs/2409.05847)|null|
@@ -914,7 +917,7 @@
 |**2022-04-03**|**End-to-End Referring Video Object Segmentation with Multimodal Transformers**|Adam Botach et.al.|[2111.14821](http://arxiv.org/abs/2111.14821)|**[link](https://github.com/mttr2021/MTTR)**|
 |**2024-01-19**|**Rethinking Cross-modal Interaction from a Top-down Perspective for Referring Video Object Segmentation**|Chen Liang et.al.|[2106.01061](http://arxiv.org/abs/2106.01061)|null|
 
-<p align=right>(<a href=#updated-on-20250109>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250111>back to top</a>)</p>
 
 ## AVL
 
@@ -924,7 +927,7 @@
 |**2024-12-29**|**SoundLoc3D: Invisible 3D Sound Source Localization and Classification Using a Multimodal RGB-D Acoustic Camera**|Yuhang He et.al.|[2412.16861](http://arxiv.org/abs/2412.16861)|null|
 |**2024-12-13**|**SonicBoom: Contact Localization Using Array of Microphones**|Moonyoung Lee et.al.|[2412.09878](http://arxiv.org/abs/2412.09878)|null|
 |**2024-12-09**|**Sound2Vision: Generating Diverse Visuals from Audio through Cross-Modal Latent Alignment**|Kim Sung-Bin et.al.|[2412.06209](http://arxiv.org/abs/2412.06209)|null|
-|**2024-10-25**|**Mask-Weighted Spatial Likelihood Coding for Speaker-Independent Joint Localization and Mask Estimation**|Jakob Kienegger et.al.|[2410.19595](http://arxiv.org/abs/2410.19595)|null|
+|**2025-01-08**|**Mask-Weighted Spatial Likelihood Coding for Speaker-Independent Joint Localization and Mask Estimation**|Jakob Kienegger et.al.|[2410.19595](http://arxiv.org/abs/2410.19595)|null|
 |**2024-12-24**|**A Critical Assessment of Visual Sound Source Localization Models Including Negative Audio**|Xavier Juanola et.al.|[2410.01020](http://arxiv.org/abs/2410.01020)|**[link](https://github.com/xavijuanola/vssl_eval)**|
 |**2024-09-30**|**Adaptive high-precision sound source localization at low frequencies based on convolutional neural network**|Wenbo Ma et.al.|[2409.20031](http://arxiv.org/abs/2409.20031)|null|
 |**2024-09-11**|**Analytic Class Incremental Learning for Sound Source Localization with Privacy Protection**|Xinyuan Qian et.al.|[2409.07224](http://arxiv.org/abs/2409.07224)|null|
@@ -1064,7 +1067,7 @@
 |**2015-02-16**|**Efficient Steered-Response Power Methods for Sound Source Localization Using Microphone Arrays**|Markus V. S. Lima et.al.|[1407.2351](http://arxiv.org/abs/1407.2351)|null|
 |**2014-02-12**|**A Geometric Approach to Sound Source Localization from Time-Delay Estimates**|Xavier Alameda-Pineda et.al.|[1311.1047](http://arxiv.org/abs/1311.1047)|null|
 
-<p align=right>(<a href=#updated-on-20250109>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250111>back to top</a>)</p>
 
 ## AVS
 
@@ -1109,17 +1112,18 @@
 |**2023-02-17**|**Audio-Visual Segmentation**|Jinxing Zhou et.al.|[2207.05042](http://arxiv.org/abs/2207.05042)|**[link](https://github.com/opennlplab/avsbench)**|
 |**2021-04-05**|**Positive Sample Propagation along the Audio-Visual Event Line**|Jinxing Zhou et.al.|[2104.00239](http://arxiv.org/abs/2104.00239)|**[link](https://github.com/jasongief/PSP_CVPR_2021)**|
 
-<p align=right>(<a href=#updated-on-20250109>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250111>back to top</a>)</p>
 
 ## 3D-RES
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-09**|**IPDN: Image-enhanced Prompt Decoding Network for 3D Referring Expression Segmentation**|Qi Chen et.al.|[2501.04995](http://arxiv.org/abs/2501.04995)|null|
 |**2024-12-22**|**RG-SAN: Rule-Guided Spatial Awareness Network for End-to-End 3D Referring Expression Segmentation**|Changli Wu et.al.|[2412.02402](http://arxiv.org/abs/2412.02402)|**[link](https://github.com/sosppxo/rg-san)**|
 |**2024-07-31**|**3D-GRES: Generalized 3D Referring Expression Segmentation**|Changli Wu et.al.|[2407.20664](http://arxiv.org/abs/2407.20664)|**[link](https://github.com/sosppxo/MDIN)**|
 |**2023-08-31**|**3D-STMN: Dependency-Driven Superpoint-Text Matching Network for End-to-End 3D Referring Expression Segmentation**|Changli Wu et.al.|[2308.16632](http://arxiv.org/abs/2308.16632)|**[link](https://github.com/sosppxo/3d-stmn)**|
 
-<p align=right>(<a href=#updated-on-20250109>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250111>back to top</a>)</p>
 
 ## 3D-REC
 
@@ -1184,13 +1188,14 @@
 |**2021-03-17**|**Refer-it-in-RGBD: A Bottom-up Approach for 3D Visual Grounding in RGBD Images**|Haolin Liu et.al.|[2103.07894](http://arxiv.org/abs/2103.07894)|null|
 |**2021-07-29**|**InstanceRefer: Cooperative Holistic Understanding for Visual Grounding on Point Clouds through Instance Multi-level Contextual Referring**|Zhihao Yuan et.al.|[2103.01128](http://arxiv.org/abs/2103.01128)|**[link](https://github.com/CurryYuan/InstanceRefer)**|
 
-<p align=right>(<a href=#updated-on-20250109>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250111>back to top</a>)</p>
 
 ## VOS
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-01-07**|**Sa2VA: Marrying SAM2 with LLaVA for Dense Grounded Understanding of Images and Videos**|Haobo Yuan et.al.|[2501.04001](http://arxiv.org/abs/2501.04001)|null|
+|**2025-01-09**|**Multi-Context Temporal Consistent Modeling for Referring Video Object Segmentation**|Sun-Hyuk Choi et.al.|[2501.04939](http://arxiv.org/abs/2501.04939)|null|
+|**2025-01-07**|**Sa2VA: Marrying SAM2 with LLaVA for Dense Grounded Understanding of Images and Videos**|Haobo Yuan et.al.|[2501.04001](http://arxiv.org/abs/2501.04001)|**[link](https://github.com/magic-research/Sa2VA)**|
 |**2024-12-19**|**M $^3$ -VOS: Multi-Phase, Multi-Transition, and Multi-Scenery Video Object Segmentation**|Zixuan Chen et.al.|[2412.13803](http://arxiv.org/abs/2412.13803)|null|
 |**2024-12-23**|**Stable Mean Teacher for Semi-supervised Video Action Detection**|Akash Kumar et.al.|[2412.07072](http://arxiv.org/abs/2412.07072)|**[link](https://github.com/AKASH2907/stable-mean-teacher)**|
 |**2024-12-09**|**Video Decomposition Prior: A Methodology to Decompose Videos into Layers**|Gaurav Shrivastava et.al.|[2412.04930](http://arxiv.org/abs/2412.04930)|null|
@@ -1625,7 +1630,7 @@
 |**2013-05-29**|**Video Human Segmentation using Fuzzy Object Models and its Application to Body Pose Estimation of Toddlers for Behavior Studies**|Thiago V. Spina et.al.|[1305.6918](http://arxiv.org/abs/1305.6918)|null|
 |**2014-10-27**|**Efficient MRF Energy Propagation for Video Segmentation via Bilateral Filters**|Ozan Sener et.al.|[1301.5356](http://arxiv.org/abs/1301.5356)|null|
 
-<p align=right>(<a href=#updated-on-20250109>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250111>back to top</a>)</p>
 
 ## REG
 
@@ -1671,12 +1676,58 @@
 |**2017-01-12**|**Comprehension-guided referring expressions**|Ruotian Luo et.al.|[1701.03439](http://arxiv.org/abs/1701.03439)|null|
 |**2016-08-10**|**Modeling Context in Referring Expressions**|Licheng Yu et.al.|[1608.00272](http://arxiv.org/abs/1608.00272)|**[link](https://github.com/lichengunc/refer)**|
 
-<p align=right>(<a href=#updated-on-20250109>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250111>back to top</a>)</p>
 
 ## Survey
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-09**|**A survey of textual cyber abuse detection using cutting-edge language models and large language models**|Jose A. Diaz-Garcia et.al.|[2501.05443](http://arxiv.org/abs/2501.05443)|null|
+|**2025-01-09**|**A Disintegrating Rocky Planet with Prominent Comet-like Tails Around a Bright Star**|Marc Hon et.al.|[2501.05431](http://arxiv.org/abs/2501.05431)|null|
+|**2025-01-09**|**Developing a Foundation of Vector Symbolic Architectures Using Category Theory**|Nolan P Shaw et.al.|[2501.05368](http://arxiv.org/abs/2501.05368)|null|
+|**2025-01-09**|**An ESO-SKAO Synergistic Approach to Galaxy Formation and Evolution Studies**|Isabella Prandoni et.al.|[2501.05354](http://arxiv.org/abs/2501.05354)|null|
+|**2025-01-09**|**Forecast of gravitationally lensed Type Ia supernovae time delay measurement by Muztage-Ata 1.93m Synergy Telescope**|Guanhua Rui et.al.|[2501.05303](http://arxiv.org/abs/2501.05303)|null|
+|**2025-01-09**|**Detection of Rumors and Their Sources in Social Networks: A Comprehensive Survey**|Otabek Sattarov et.al.|[2501.05292](http://arxiv.org/abs/2501.05292)|null|
+|**2025-01-09**|**A Systematic Literature Review on Deep Learning-based Depth Estimation in Computer Vision**|Ali Rohan et.al.|[2501.05147](http://arxiv.org/abs/2501.05147)|null|
+|**2025-01-09**|**Detection of thioacetaldehyde (CH3CHS) in TMC-1: sulfur-oxygen differentiation along the hydrogenation sequence**|M. Agundez et.al.|[2501.05125](http://arxiv.org/abs/2501.05125)|null|
+|**2025-01-09**|**The ESO SupJup Survey V: Exploring Atmospheric Variability and Orbit of the Super-Jupiter AB Pictoris b with CRIRES+**|Siddharth Gandhi et.al.|[2501.05114](http://arxiv.org/abs/2501.05114)|null|
+|**2025-01-09**|**Advancing ALS Applications with Large-Scale Pre-training: Dataset Development and Downstream Assessment**|Haoyi Xiu et.al.|[2501.05095](http://arxiv.org/abs/2501.05095)|null|
+|**2025-01-09**|**The impact of the redshift-dependent selection effect of halos on the redshift-space power spectrum**|Kanmi Nose et.al.|[2501.05086](http://arxiv.org/abs/2501.05086)|null|
+|**2025-01-09**|**Fully comprehensive diagnostic of galaxy activity using principal components of visible spectra: implementation on nearby S0s**|J. L. Tous et.al.|[2501.05070](http://arxiv.org/abs/2501.05070)|null|
+|**2025-01-09**|**Euclid: Detecting Solar System objects in Euclid images and classifying them using Kohonen self-organising maps**|A. A. Nucita et.al.|[2501.05023](http://arxiv.org/abs/2501.05023)|null|
+|**2025-01-09**|**ALMA Observations of Peculiar Embedded Icy Objects**|Takashi Shimonishi et.al.|[2501.05008](http://arxiv.org/abs/2501.05008)|null|
+|**2025-01-09**|**The Rapid ASKAP Continuum Survey (RACS) VI: The RACS-high 1655.5 MHz images and catalogue**|S. W. Duchesne et.al.|[2501.04978](http://arxiv.org/abs/2501.04978)|null|
+|**2025-01-09**|**Influence of photometric galaxies redshift distribution in BAO estimation**|Paula S. Ferreira et.al.|[2501.04960](http://arxiv.org/abs/2501.04960)|null|
+|**2025-01-09**|**Dwarf Galaxy Integral-field Survey (DGIS): survey overview and the result of global mass-metallicity relation**|Xin Li et.al.|[2501.04943](http://arxiv.org/abs/2501.04943)|null|
+|**2025-01-09**|**The Catalogue of Virtual Early-Type Galaxies from IllustrisTNG: Validation and Real Observation Consistency**|Pedro de Araujo Ferreira et.al.|[2501.04932](http://arxiv.org/abs/2501.04932)|**[link](https://github.com/PedroFerreirAstro/TNGLDP_catalogue_ETGs)**|
+|**2025-01-09**|**The Progenitor Systems of Classical Novae in M31**|C. S. Abelson et.al.|[2501.04925](http://arxiv.org/abs/2501.04925)|null|
+|**2025-01-09**|**Another piece to the puzzle: radio detection of a JWST discovered AGN candidate**|Anniek J. Gloudemans et.al.|[2501.04912](http://arxiv.org/abs/2501.04912)|null|
+|**2025-01-08**|**The Evolution of Half-Mass Radii and Color Gradients for Young and Old Quiescent Galaxies at $0.5 < z < 3$ with JWST/PRIMER**|Maike Clausen et.al.|[2501.04788](http://arxiv.org/abs/2501.04788)|null|
+|**2025-01-08**|**Deep Photometric Observations of Ultra-Faint Milky Way Satellites Centaurus I and Eridanus IV**|Quinn O. Casey et.al.|[2501.04772](http://arxiv.org/abs/2501.04772)|null|
+|**2025-01-08**|**Lyman Alpha Forest - Halo Cross-Correlations in Effective Field Theory**|Anton Chudaykin et.al.|[2501.04770](http://arxiv.org/abs/2501.04770)|null|
+|**2025-01-02**|**Some recent results on the punctual Quot schemes**|Indranil Biswas et.al.|[2501.04716](http://arxiv.org/abs/2501.04716)|null|
+|**2025-01-08**|**A study of the frequency and characteristics of stellar companions and Jupiter-like planets in nearby open clusters**|R. Gratton et.al.|[2501.04692](http://arxiv.org/abs/2501.04692)|null|
+|**2025-01-08**|**The Impostor is Among Us: Can Large Language Models Capture the Complexity of Human Personas?**|Christopher Lazik et.al.|[2501.04543](http://arxiv.org/abs/2501.04543)|null|
+|**2025-01-08**|**The Cygnus Allscale Survey of Chemistry and Dynamical Environments: CASCADE. IV. Unveiling the hidden structures in DR18**|W. -J. Kim et.al.|[2501.04518](http://arxiv.org/abs/2501.04518)|null|
+|**2025-01-08**|**Searching the non-accreting white dwarf population in eROSITA data**|S. Friedrich et.al.|[2501.04497](http://arxiv.org/abs/2501.04497)|null|
+|**2025-01-08**|**The Role of Machine Learning in Congenital Heart Disease Diagnosis: Datasets, Algorithms, and Insights**|Khalil Khan et.al.|[2501.04493](http://arxiv.org/abs/2501.04493)|null|
+|**2025-01-08**|**A Survey on Path Planning Problem of Rolling Contacts: Approaches, Applications and Future Challenges**|Seyed Amir Tafrishi et.al.|[2501.04442](http://arxiv.org/abs/2501.04442)|null|
+|**2025-01-08**|**Neighborhood Disparities in Smart City Service Adoption**|Shahaf Donio et.al.|[2501.04363](http://arxiv.org/abs/2501.04363)|null|
+|**2025-01-08**|**Sustainability in Telecommunication Networks and Key Value Indicators: a Survey**|Lucia Pintor et.al.|[2501.04356](http://arxiv.org/abs/2501.04356)|null|
+|**2025-01-08**|**LLM4SR: A Survey on Large Language Models for Scientific Research**|Ziming Luo et.al.|[2501.04306](http://arxiv.org/abs/2501.04306)|**[link](https://github.com/du-nlp-lab/llm4sr)**|
+|**2025-01-08**|**Agent Laboratory: Using LLM Agents as Research Assistants**|Samuel Schmidgall et.al.|[2501.04227](http://arxiv.org/abs/2501.04227)|null|
+|**2025-01-08**|**eRO-ExTra: eROSITA extragalactic non-AGN X-ray transients and variables in eRASS1 and eRASS2**|Iuliia Grotova et.al.|[2501.04208](http://arxiv.org/abs/2501.04208)|null|
+|**2025-01-07**|**Graph classes through the lens of logic**|Michał Pilipczuk et.al.|[2501.04166](http://arxiv.org/abs/2501.04166)|null|
+|**2025-01-07**|**\texttt{Pz Cats}: Photometric redshift catalogs based on DES Y3 BAO sample**|Paula S. Ferreira et.al.|[2501.04118](http://arxiv.org/abs/2501.04118)|null|
+|**2025-01-07**|**The LOFAR Two-metre Sky Survey: Deep Fields Data Release 2. I. The ELAIS-N1 field**|T. W. Shimwell et.al.|[2501.04093](http://arxiv.org/abs/2501.04093)|null|
+|**2025-01-07**|**Streams, Shells, and Substructures in the Accretion-Built Stellar Halo of NGC 300**|Catherine E. Fielder et.al.|[2501.04089](http://arxiv.org/abs/2501.04089)|null|
+|**2025-01-07**|**The Cosmic Evolution Early Release Science Survey (CEERS)**|Steven L. Finkelstein et.al.|[2501.04085](http://arxiv.org/abs/2501.04085)|null|
+|**2025-01-07**|**Detecting Exomoons in Free-Floating-Planet Events from Space-based Microlensing Surveys**|Hao-Zhu Fu et.al.|[2501.04083](http://arxiv.org/abs/2501.04083)|null|
+|**2025-01-07**|**Tidal Synchronization of TESS Eclipsing Binaries**|Marshall Hobson-Ritz et.al.|[2501.04082](http://arxiv.org/abs/2501.04082)|null|
+|**2025-01-07**|**Galaxy cluster characterization with machine learning techniques**|Maria Sadikov et.al.|[2501.04081](http://arxiv.org/abs/2501.04081)|null|
+|**2025-01-07**|**Advances in RNA secondary structure prediction and RNA modifications: Methods, data, and applications**|Shu Yang et.al.|[2501.04056](http://arxiv.org/abs/2501.04056)|null|
+|**2025-01-06**|**Geometry of weak metric $f$ -manifolds: a survey**|Vladimir Rovenski et.al.|[2501.04048](http://arxiv.org/abs/2501.04048)|null|
+|**2025-01-03**|**A Survey on Large Language Models with some Insights on their Capabilities and Limitations**|Andrea Matarazzo et.al.|[2501.04040](http://arxiv.org/abs/2501.04040)|null|
 |**2025-01-07**|**A Survey on Federated Learning in Human Sensing**|Mohan Li et.al.|[2501.04000](http://arxiv.org/abs/2501.04000)|null|
 |**2025-01-07**|**Visual question answering: from early developments to recent advances -- a survey**|Ngoc Dung Huynh et.al.|[2501.03939](http://arxiv.org/abs/2501.03939)|null|
 |**2025-01-07**|**ALMA chemical survey of disk-outflow sources in Taurus (ALMA-DOT) VII: the layered molecular outflow from HL Tau and its relationship with the ringed disk**|F. Bacciotti et.al.|[2501.03920](http://arxiv.org/abs/2501.03920)|null|
@@ -1736,6 +1787,7 @@
 |**2025-01-03**|**Evaluating Scenario-based Decision-making for Interactive Autonomous Driving Using Rational Criteria: A Survey**|Zhen Tian et.al.|[2501.01886](http://arxiv.org/abs/2501.01886)|null|
 |**2025-01-03**|**The ESO SupJup Survey IV. Unveiling the carbon isotope ratio of GQ Lup B and its host star**|D. González Picos et.al.|[2501.01789](http://arxiv.org/abs/2501.01789)|null|
 |**2025-01-03**|**Chemistry in the Galactic Center**|Izaskun Jimenez-Serra et.al.|[2501.01782](http://arxiv.org/abs/2501.01782)|null|
+|**2025-01-09**|**Non-evolutionary effects on period change in Magellanic Cepheids**|R. S. Rathour et.al.|[2501.01777](http://arxiv.org/abs/2501.01777)|null|
 |**2025-01-03**|**Multi-modal classification of forest biodiversity potential from 2D orthophotos and 3D airborne laser scanning point clouds**|Simon B. Jensen et.al.|[2501.01728](http://arxiv.org/abs/2501.01728)|null|
 |**2025-01-03**|**Cosmological constraints from the Minkowski functionals of the BOSS CMASS galaxy sample**|Wei Liu et.al.|[2501.01698](http://arxiv.org/abs/2501.01698)|null|
 |**2025-01-03**|**Finding Large Sets Without Arithmetic Progressions of Length Three: An Empirical View and Survey II**|William Gasarch et.al.|[2501.01634](http://arxiv.org/abs/2501.01634)|null|
@@ -1770,7 +1822,7 @@
 |**2024-12-31**|**Low-Rank Adaptation for Foundation Models: A Comprehensive Review**|Menglin Yang et.al.|[2501.00365](http://arxiv.org/abs/2501.00365)|null|
 |**2025-01-08**|**Retrieval-Augmented Generation with Graphs (GraphRAG)**|Haoyu Han et.al.|[2501.00309](http://arxiv.org/abs/2501.00309)|null|
 |**2024-12-31**|**A novel analysis of contamination in Lyman-break galaxy samples at $\boldsymbol{z\sim6-8}$: spatial correlation with intermediate-redshift galaxies at $\boldsymbol{z\sim1.3-2}$**|Miftahul Hilmi et.al.|[2501.00301](http://arxiv.org/abs/2501.00301)|null|
-|**2024-12-31**|**Automotive Speed Estimation: Sensor Types and Error Characteristics from OBD-II to ADAS**|Hany Ragab et.al.|[2501.00242](http://arxiv.org/abs/2501.00242)|null|
+|**2025-01-09**|**Automotive Speed Estimation: Sensor Types and Error Characteristics from OBD-II to ADAS**|Hany Ragab et.al.|[2501.00242](http://arxiv.org/abs/2501.00242)|null|
 |**2024-12-31**|**Parallel I/O Characterization and Optimization on Large-Scale HPC Systems: A 360-Degree Survey**|Hammad Ather et.al.|[2501.00203](http://arxiv.org/abs/2501.00203)|null|
 |**2024-12-30**|**The Text Classification Pipeline: Starting Shallow going Deeper**|Marco Siino et.al.|[2501.00174](http://arxiv.org/abs/2501.00174)|null|
 |**2024-12-30**|**Autoencoder Reconstruction of Cosmological Microlensing Magnification Maps**|Somayeh Khakpash et.al.|[2501.00153](http://arxiv.org/abs/2501.00153)|null|
@@ -1799,7 +1851,7 @@
 |**2024-12-27**|**A new constraint on galaxy-halo connections of [O II] emitters via HOD modelling with angular clustering and luminosity functions from the Subaru HSC survey**|Shogo Ishikawa et.al.|[2412.19898](http://arxiv.org/abs/2412.19898)|null|
 |**2024-12-16**|**A Survey on Large Language Models for Communication, Network, and Service Management: Application Insights, Challenges, and Future Directions**|Gordon Owusu Boateng et.al.|[2412.19823](http://arxiv.org/abs/2412.19823)|null|
 |**2024-12-13**|**From terrestrial weather to space weather through the history of scintillation**|Emily F. Kerrison et.al.|[2412.19816](http://arxiv.org/abs/2412.19816)|null|
-|**2024-12-10**|**Coverage Path Planning in Precision Agriculture: Algorithms, Applications, and Key Benefits**|Jahid Chowdhury Choton et.al.|[2412.19813](http://arxiv.org/abs/2412.19813)|null|
+|**2025-01-08**|**Coverage Path Planning in Precision Agriculture: Algorithms, Applications, and Key Benefits**|Jahid Chowdhury Choton et.al.|[2412.19813](http://arxiv.org/abs/2412.19813)|null|
 |**2024-12-27**|**Generalized Grade-of-Membership Estimation for High-dimensional Locally Dependent Data**|Ling Chen et.al.|[2412.19796](http://arxiv.org/abs/2412.19796)|**[link](https://github.com/lscientific/gGoM)**|
 |**2024-12-27**|**Fully-relativistic evolution of vacuum tensor inhomogeneities during inflation**|Ericka Florio et.al.|[2412.19731](http://arxiv.org/abs/2412.19731)|null|
 |**2024-12-27**|**The possible long-term periodic variability of the extremely luminous quasar WISE J090924.01+000211.1**|Takashi Horiuchi et.al.|[2412.19573](http://arxiv.org/abs/2412.19573)|null|
@@ -2306,7 +2358,7 @@
 |**2024-12-02**|**The ionizing photon production efficiency of star-forming galaxies at $z\sim 4-10$**|M. Llerena et.al.|[2412.01358](http://arxiv.org/abs/2412.01358)|null|
 |**2024-12-02**|**Indexing Economic Fluctuation Narratives from Keiki Watchers Survey**|Eriko Shigetsugu et.al.|[2412.01265](http://arxiv.org/abs/2412.01265)|null|
 |**2024-12-14**|**Robust detection of hot intragroup medium in optically selected, poor galaxy groups by eROSITA**|Dawei Li et.al.|[2412.01261](http://arxiv.org/abs/2412.01261)|null|
-|**2024-12-02**|**Investigations of MWISP Filaments. I. Filament Identification and Analysis Algorithms, and Source Catalogue**|Yu Jiang et.al.|[2412.01238](http://arxiv.org/abs/2412.01238)|**[link](https://github.com/JiangYuTS/DPConCFil)**|
+|**2025-01-09**|**Investigations of MWISP Filaments. I. Filament Identification and Analysis Algorithms, and Source Catalogue**|Yu Jiang et.al.|[2412.01238](http://arxiv.org/abs/2412.01238)|**[link](https://github.com/JiangYuTS/DPConCFil)**|
 |**2024-12-02**|**The Simons Observatory: Design, Integration, and Current Status of Small Aperture Telescopes**|Aashrita Mangu et.al.|[2412.01200](http://arxiv.org/abs/2412.01200)|null|
 |**2024-12-02**|**Representation Learning for Time-Domain High-Energy Astrophysics: Discovery of Extragalactic Fast X-ray Transient XRT 200515**|Steven Dillmann et.al.|[2412.01150](http://arxiv.org/abs/2412.01150)|null|
 |**2024-12-02**|**Transversal Structures in Graph Systems: A Survey**|Wanting Sun et.al.|[2412.01121](http://arxiv.org/abs/2412.01121)|null|
@@ -2445,7 +2497,7 @@
 |**2024-11-25**|**OrCAS: Origins, Compositions, and Atmospheres of Sub-neptunes. I. Survey Definition**|Ian J. M. Crossfield et.al.|[2411.16836](http://arxiv.org/abs/2411.16836)|**[link](https://github.com/iancrossfield/OrCAS_target_selection)**|
 |**2024-11-25**|**Blockchain Meets LLMs: A Living Survey on Bidirectional Integration**|Jianghao Gong et.al.|[2411.16809](http://arxiv.org/abs/2411.16809)|null|
 |**2024-11-25**|**Euclid: Searches for strong gravitational lenses using convolutional neural nets in Early Release Observations of the Perseus field**|R. Pearce-Casey et.al.|[2411.16808](http://arxiv.org/abs/2411.16808)|null|
-|**2024-11-25**|**Parameter Efficient Instruction Tuning: An Empirical Study**|Pengfei He et.al.|[2411.16775](http://arxiv.org/abs/2411.16775)|null|
+|**2024-11-25**|**Parameter Efficient Instruction Tuning: An Empirical Study**|Pengfei He et.al.|[2411.16775](http://arxiv.org/abs/2411.16775)|**[link](https://github.com/AdaBit-AI/parameter_efficient_instruction_tuning)**|
 |**2024-11-24**|**An investigation into the performances of the Current state-of-the-art Naive Bayes, Non-Bayesian and Deep Learning Based Classifier for Phishing Detection: A Survey**|Tosin Ige et.al.|[2411.16751](http://arxiv.org/abs/2411.16751)|null|
 |**2024-11-11**|**Exploring the determinants on massive open online courses continuance learning intention in business toward accounting context**|D. Shang et.al.|[2411.16700](http://arxiv.org/abs/2411.16700)|null|
 |**2024-11-08**|**Factors Influencing the Usage of Mobile Banking Apps Among Malaysian Consumers**|Siti Nurdianah binti Mohamad Jalani et.al.|[2411.16689](http://arxiv.org/abs/2411.16689)|null|
@@ -2475,7 +2527,7 @@
 |**2024-11-24**|**A review on Machine Learning based User-Centric Multimedia Streaming Techniques**|Monalisa Ghosh et.al.|[2411.15801](http://arxiv.org/abs/2411.15801)|null|
 |**2024-11-23**|**Canonical Correlation Analysis: review**|Anna Bykhovskaya et.al.|[2411.15625](http://arxiv.org/abs/2411.15625)|null|
 |**2024-11-23**|**New radial velocities for 40 nearby dwarf galaxies**|Igor D. Karachentsev et.al.|[2411.15603](http://arxiv.org/abs/2411.15603)|null|
-|**2024-12-16**|**A Survey on LLM-as-a-Judge**|Jiawei Gu et.al.|[2411.15594](http://arxiv.org/abs/2411.15594)|**[link](https://github.com/idea-finai/llm-as-a-judge)**|
+|**2025-01-09**|**A Survey on LLM-as-a-Judge**|Jiawei Gu et.al.|[2411.15594](http://arxiv.org/abs/2411.15594)|**[link](https://github.com/idea-finai/llm-as-a-judge)**|
 |**2024-11-23**|**Navigating Fog Federation: Classifying Current Research and Identifying Challenges**|Dhairya Patel et.al.|[2411.15573](http://arxiv.org/abs/2411.15573)|null|
 |**2024-11-23**|**Radio Halo Detection in MWA Data using Deep Neural Networks and Generative Data Augmentation**|Ashutosh K. Mishra et.al.|[2411.15559](http://arxiv.org/abs/2411.15559)|null|
 |**2024-11-23**|**The Detection of H $_2$ O Maser Emission from mid-IR Red Galaxies**|C. Y. Kuo et.al.|[2411.15524](http://arxiv.org/abs/2411.15524)|null|
@@ -2865,7 +2917,7 @@
 |**2024-11-04**|**Distributionally Robust Optimization**|Daniel Kuhn et.al.|[2411.02549](http://arxiv.org/abs/2411.02549)|null|
 |**2024-11-04**|**Estimating journey time for two-point vehicle re-identification survey with limited observable scope using 2-dimensional truncated distributions**|Diyi Liu et.al.|[2411.02539](http://arxiv.org/abs/2411.02539)|null|
 |**2024-11-04**|**The Second Case of a Major Merger Triggering a Starburst in a Green Pea Galaxy**|S. Purkayastha et.al.|[2411.02527](http://arxiv.org/abs/2411.02527)|null|
-|**2024-11-07**|**Quantum Linear System Solvers: A Survey of Algorithms and Applications**|Mauro E. S. Morales et.al.|[2411.02522](http://arxiv.org/abs/2411.02522)|null|
+|**2025-01-09**|**Quantum Linear System Solvers: A Survey of Algorithms and Applications**|Mauro E. S. Morales et.al.|[2411.02522](http://arxiv.org/abs/2411.02522)|null|
 |**2024-11-04**|**Hubble Space Telescope survey of Magellanic Cloud star clusters. Binaries among the split main sequences of NGC 1818, NGC 1850, and NGC 2164**|F. Muratore et.al.|[2411.02508](http://arxiv.org/abs/2411.02508)|null|
 |**2024-11-04**|**Model-independent cosmology with joint observations of gravitational waves and $γ$ -ray bursts**|Andrea Cozzumbo et.al.|[2411.02490](http://arxiv.org/abs/2411.02490)|null|
 |**2024-11-03**|**An Exploration of Higher Education Course Evaluation by Large Language Models**|Bo Yuan et.al.|[2411.02455](http://arxiv.org/abs/2411.02455)|null|
@@ -3196,7 +3248,7 @@
 |**2024-10-18**|**Medical AI for Early Detection of Lung Cancer: A Survey**|Guohui Cai et.al.|[2410.14769](http://arxiv.org/abs/2410.14769)|**[link](https://github.com/caiguohui123/awesome-lung-cancer-detection)**|
 |**2024-10-16**|**Knowledge Graph Embeddings: A Comprehensive Survey on Capturing Relation Properties**|Guanglin Niu et.al.|[2410.14733](http://arxiv.org/abs/2410.14733)|null|
 |**2024-11-01**|**A Systematic Survey on Large Language Models for Algorithm Design**|Fei Liu et.al.|[2410.14716](http://arxiv.org/abs/2410.14716)|null|
-|**2024-10-18**|**Are AI Detectors Good Enough? A Survey on Quality of Datasets With Machine-Generated Texts**|German Gritsai et.al.|[2410.14677](http://arxiv.org/abs/2410.14677)|**[link](https://github.com/Advacheck-OU/ai-dataset-analysing)**|
+|**2025-01-09**|**Are AI Detectors Good Enough? A Survey on Quality of Datasets With Machine-Generated Texts**|German Gritsai et.al.|[2410.14677](http://arxiv.org/abs/2410.14677)|**[link](https://github.com/Advacheck-OU/ai-dataset-analysing)**|
 |**2024-10-18**|**A diverse, overlooked population of Type Ia supernovae exhibiting mid-infrared signatures of delayed circumstellar interaction**|Geoffrey Mo et.al.|[2410.14644](http://arxiv.org/abs/2410.14644)|null|
 |**2024-10-18**|**syren-new: Precise formulae for the linear and nonlinear matter power spectra with massive neutrinos and dynamical dark energy**|Ce Sui et.al.|[2410.14623](http://arxiv.org/abs/2410.14623)|**[link](https://github.com/deaglanbartlett/symbolic_pofk)**|
 |**2024-10-18**|**High-Precision Galaxy Clustering Predictions from Small-Volume Hydrodynamical Simulations via Control Variates**|Alexandra Doytcheva et.al.|[2410.14546](http://arxiv.org/abs/2410.14546)|null|
@@ -3645,7 +3697,7 @@
 |**2024-09-26**|**Open-World Evaluation for Retrieving Diverse Perspectives**|Hung-Ting Chen et.al.|[2409.18110](http://arxiv.org/abs/2409.18110)|null|
 |**2024-09-26**|**CARRSSPipeline: Flux Calibration and Non-linear Reprojection for SALT-RSS Multi-Object Spectroscopy over 3500-9500 Å**|George V. Kharchilava et.al.|[2409.18081](http://arxiv.org/abs/2409.18081)|**[link](https://github.com/georgethegeorgian/carrsspipeline)**|
 |**2024-09-26**|**Efficacy of a hybrid take home and in class summative assessment for the postsecondary physics classroom**|Paul Stonaha et.al.|[2409.18058](http://arxiv.org/abs/2409.18058)|null|
-|**2024-09-26**|**Extracting Affect Aggregates from Longitudinal Social Media Data with Temporal Adapters for Large Language Models**|Georg Ahnert et.al.|[2409.17990](http://arxiv.org/abs/2409.17990)|**[link](https://github.com/dess-mannheim/temporal-adapters)**|
+|**2025-01-09**|**Extracting Affect Aggregates from Longitudinal Social Media Data with Temporal Adapters for Large Language Models**|Georg Ahnert et.al.|[2409.17990](http://arxiv.org/abs/2409.17990)|**[link](https://github.com/dess-mannheim/temporal-adapters)**|
 |**2024-09-26**|**GRB 240529A: A Tale of Two Shocks**|Tian-Rui Sun et.al.|[2409.17983](http://arxiv.org/abs/2409.17983)|null|
 |**2024-09-26**|**ChatGPT and Corporate Policies**|Manish Jha et.al.|[2409.17933](http://arxiv.org/abs/2409.17933)|null|
 |**2024-09-26**|**Software Security Analysis in 2030 and Beyond: A Research Roadmap**|Marcel Böhme et.al.|[2409.17844](http://arxiv.org/abs/2409.17844)|null|
@@ -3824,7 +3876,7 @@
 |**2024-10-06**|**A Comprehensive Survey of Advanced Persistent Threat Attribution: Taxonomy, Methods, Challenges and Open Research Problems**|Nanda Rani et.al.|[2409.11415](http://arxiv.org/abs/2409.11415)|null|
 |**2024-11-22**|**Hertzsprung gap stars in nearby galaxies and the Quest for Luminous Red Novae Progenitors**|Hugo Tranin et.al.|[2409.11347](http://arxiv.org/abs/2409.11347)|**[link](https://github.com/htranin/LRNsearch)**|
 |**2024-09-17**|**An Empirical Study of Sensitive Information in Logs**|Roozbeh Aghili et.al.|[2409.11313](http://arxiv.org/abs/2409.11313)|null|
-|**2024-09-17**|**Features and prospects for Kilonova remnant detection with current and future surveys**|Sandeep Kumar Acharya et.al.|[2409.11291](http://arxiv.org/abs/2409.11291)|null|
+|**2025-01-09**|**Features and prospects for kilonova remnant detection with current and future surveys**|Sandeep Kumar Acharya et.al.|[2409.11291](http://arxiv.org/abs/2409.11291)|null|
 |**2024-09-17**|**Colour-Based Disentangling of Mira Variables and Ultra-Cool Dwarfs**|Aleksandra Avdeeva et.al.|[2409.11266](http://arxiv.org/abs/2409.11266)|null|
 |**2024-09-17**|**A Human-Centered Risk Evaluation of Biometric Systems Using Conjoint Analysis**|Tetsushi Ohki et.al.|[2409.11224](http://arxiv.org/abs/2409.11224)|null|
 |**2024-09-17**|**Evidence for gravitational self-lensing of the central supermassive black hole binary in the Seyfert galaxy NGC 1566**|Wolfram Kollatschny et.al.|[2409.11209](http://arxiv.org/abs/2409.11209)|null|
@@ -4041,7 +4093,7 @@
 |**2024-12-02**|**What Guides Our Choices? Modeling Developers' Trust and Behavioral Intentions Towards GenAI**|Rudrajit Choudhuri et.al.|[2409.04099](http://arxiv.org/abs/2409.04099)|null|
 |**2024-09-06**|**The LBT Satellites of Nearby Galaxies Survey (LBT-SONG): The Diffuse Satellite Population of Local Volume Hosts**|A. Bianca Davis et.al.|[2409.03999](http://arxiv.org/abs/2409.03999)|null|
 |**2024-09-06**|**A New Framework for ISM Emission Line Models: Connecting Multi-Scale Simulations Across Cosmological Volumes**|Shengqi Yang et.al.|[2409.03997](http://arxiv.org/abs/2409.03997)|null|
-|**2024-09-06**|**The Arizona Molecular ISM Survey with the SMT: Variations in the CO(2-1)/CO(1-0) Line Ratio Across the Galaxy Population**|Ryan P. Keenan et.al.|[2409.03963](http://arxiv.org/abs/2409.03963)|null|
+|**2025-01-09**|**The Arizona Molecular ISM Survey with the SMT: Variations in the CO(2-1)/CO(1-0) Line Ratio Across the Galaxy Population**|Ryan P. Keenan et.al.|[2409.03963](http://arxiv.org/abs/2409.03963)|null|
 |**2024-09-05**|**A Survey on Signed Graph Embedding: Methods and Applications**|Shrabani Ghosh et.al.|[2409.03916](http://arxiv.org/abs/2409.03916)|null|
 |**2024-09-09**|**Understanding Fairness in Recommender Systems: A Healthcare Perspective**|Veronica Kecki et.al.|[2409.03893](http://arxiv.org/abs/2409.03893)|null|
 |**2024-09-05**|**Users' Perspectives on Multimodal Menstrual Tracking Using Consumer Health Devices**|Georgianna Lin et.al.|[2409.03853](http://arxiv.org/abs/2409.03853)|null|
@@ -4583,7 +4635,7 @@
 |**2024-08-05**|**A comprehensive review of golden Riemannian manifolds**|Bang-Yen Chen et.al.|[2408.02800](http://arxiv.org/abs/2408.02800)|null|
 |**2024-08-05**|**JADES Ultra-red Flattened Objects: Morphologies and Spatial Gradients in Color and Stellar Populations**|Justus L. Gibson et.al.|[2408.02726](http://arxiv.org/abs/2408.02726)|null|
 |**2024-08-05**|**A Targeted Search for Variable Gravitationally Lensed Quasars**|William Sheu et.al.|[2408.02670](http://arxiv.org/abs/2408.02670)|null|
-|**2024-08-05**|**The Arizona Molecular ISM Survey with the SMT: Survey Overview and Public Data Release**|Ryan P. Keenan et.al.|[2408.02617](http://arxiv.org/abs/2408.02617)|null|
+|**2025-01-09**|**The Arizona Molecular ISM Survey with the SMT: Survey Overview and Public Data Release**|Ryan P. Keenan et.al.|[2408.02617](http://arxiv.org/abs/2408.02617)|null|
 |**2024-08-05**|**Polarized synchrotron data and the structure of the Galactic magnetic field**|C. T. Becker et.al.|[2408.02554](http://arxiv.org/abs/2408.02554)|null|
 |**2024-08-05**|**Introducing a Comprehensive, Continuous, and Collaborative Survey of Intrusion Detection Datasets**|Philipp Bönninghausen et.al.|[2408.02521](http://arxiv.org/abs/2408.02521)|null|
 |**2024-08-05**|**From LLMs to LLM-based Agents for Software Engineering: A Survey of Current, Challenges and Future**|Haolin Jin et.al.|[2408.02479](http://arxiv.org/abs/2408.02479)|null|
@@ -4807,7 +4859,7 @@
 |**2024-11-17**|**Continual Learning with Hebbian Plasticity in Sparse and Predictive Coding Networks: A Survey and Perspective**|Ali Safa et.al.|[2407.17305](http://arxiv.org/abs/2407.17305)|null|
 |**2024-07-24**|**Fintech and MSEs Innovation: an Empirical Analysis**|Siyu Chen et.al.|[2407.17293](http://arxiv.org/abs/2407.17293)|null|
 |**2024-07-24**|**Population-level Dark Energy Constraints from Strong Gravitational Lensing using Simulation-Based Inference**|Sreevani Jarugula et.al.|[2407.17292](http://arxiv.org/abs/2407.17292)|null|
-|**2024-07-24**|**Software Defined Vehicles for Development of Deterministic Services**|Pedro Veloso Teixeira et.al.|[2407.17287](http://arxiv.org/abs/2407.17287)|**[link](https://github.com/torvalds/linux)**|
+|**2025-01-09**|**Deterministic and Reliable Software-Defined Vehicles: key building blocks, challenges, and vision**|Pedro Veloso Teixeira et.al.|[2407.17287](http://arxiv.org/abs/2407.17287)|**[link](https://github.com/torvalds/linux)**|
 |**2024-07-24**|**Walking with SOXS towards the transient sky**|P. Schipani et.al.|[2407.17241](http://arxiv.org/abs/2407.17241)|null|
 |**2024-07-24**|**Formalizing UML State Machines for Automated Verification -- A Survey**|Étienne André et.al.|[2407.17215](http://arxiv.org/abs/2407.17215)|null|
 |**2024-07-24**|**The Gravitational-wave Optical Transient Observer (GOTO)**|Martin J. Dyer et.al.|[2407.17176](http://arxiv.org/abs/2407.17176)|null|
@@ -5113,7 +5165,7 @@
 |**2024-10-28**|**Generative models of astrophysical fields with scattering transforms on the sphere**|Louise Mousset et.al.|[2407.07007](http://arxiv.org/abs/2407.07007)|**[link](https://github.com/astro-informatics/s2scat)**|
 |**2024-08-16**|**Robust Neural Information Retrieval: An Adversarial and Out-of-distribution Perspective**|Yu-An Liu et.al.|[2407.06992](http://arxiv.org/abs/2407.06992)|**[link](https://github.com/davion-liu/awesome-robustness-in-information-retrieval)**|
 |**2024-09-27**|**Transferring spectroscopic stellar labels to 217 million Gaia DR3 XP stars with SHBoost**|A. Khalatyan et.al.|[2407.06963](http://arxiv.org/abs/2407.06963)|null|
-|**2024-07-09**|**Audio-Language Datasets of Scenes and Events: A Survey**|Gijs Wijngaard et.al.|[2407.06947](http://arxiv.org/abs/2407.06947)|**[link](https://github.com/gljs/audio-datasets)**|
+|**2025-01-08**|**Audio-Language Datasets of Scenes and Events: A Survey**|Gijs Wijngaard et.al.|[2407.06947](http://arxiv.org/abs/2407.06947)|**[link](https://github.com/gljs/audio-datasets)**|
 |**2024-07-09**|**A survey on isothermal and isentropic Baer-Nunziato-type models**|Maren Hantke et.al.|[2407.06919](http://arxiv.org/abs/2407.06919)|null|
 |**2024-08-26**|**Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI**|Yang Liu et.al.|[2407.06886](http://arxiv.org/abs/2407.06886)|**[link](https://github.com/hcplab-sysu/embodied_ai_paper_list)**|
 |**2024-07-09**|**Digging into the Interior of Hot Cores with ALMA (DIHCA). IV. Fragmentation in High-mass Star-Forming Clumps**|Kosuke Ishihara et.al.|[2407.06845](http://arxiv.org/abs/2407.06845)|null|
@@ -5360,6 +5412,7 @@
 |**2024-06-26**|**SoK: Web Authentication in the Age of End-to-End Encryption**|Jenny Blessing et.al.|[2406.18226](http://arxiv.org/abs/2406.18226)|null|
 |**2024-06-26**|**MIDIS: MIRI uncovers Virgil, an extended source at $z\simeq 6.6$ with the photometric properties of Little Red Dots**|Edoardo Iani et.al.|[2406.18207](http://arxiv.org/abs/2406.18207)|null|
 |**2024-10-28**|**Galaxy spectroscopy without spectra: Galaxy properties from photometric images with conditional diffusion models**|Lars Doorenbos et.al.|[2406.18175](http://arxiv.org/abs/2406.18175)|**[link](https://github.com/larsdoorenbos/generate-spectra)**|
+|**2025-01-09**|**Searching for short-timescale radio anomalies using nonlinear dimensionality reduction techniques**|X. Yang et.al.|[2406.18148](http://arxiv.org/abs/2406.18148)|null|
 |**2024-06-26**|**UVIT Survey of AGN host Galaxies -- I: Star Formation Scenarios**|Payel Nandi et.al.|[2406.18103](http://arxiv.org/abs/2406.18103)|null|
 |**2024-06-26**|**LLMs for Doctors: Leveraging Medical LLMs to Assist Doctors, Not Replace Them**|Wenya Xie et.al.|[2406.18034](http://arxiv.org/abs/2406.18034)|null|
 |**2024-06-26**|**NEOWISE-R Caught the Luminous SN 2023ixf in Messier 101**|Schuyler D. Van Dyk et.al.|[2406.18005](http://arxiv.org/abs/2406.18005)|null|
@@ -6777,7 +6830,7 @@
 |**2024-07-26**|**Modeling the Lane-Change Reactions to Merging Vehicles for Highway On-Ramp Simulations**|Dustin Holley et.al.|[2404.09851](http://arxiv.org/abs/2404.09851)|null|
 |**2024-06-25**|**Mapping the anisotropic Galactic stellar halo with Blue Horizontal Branch stars**|João A. S. Amarante et.al.|[2404.09825](http://arxiv.org/abs/2404.09825)|null|
 
-<p align=right>(<a href=#updated-on-20250109>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250111>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
