@@ -7,13 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.15
+## Updated on 2025.01.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RES
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-15**|**Densely Connected Parameter-Efficient Tuning for Referring Image Segmentation**|Jiaqi Huang et.al.|[2501.08580](http://arxiv.org/abs/2501.08580)|null|
 |**2025-01-12**|**Multi-task Visual Grounding with Coarse-to-Fine Consistency Constraints**|Ming Dai et.al.|[2501.06710](http://arxiv.org/abs/2501.06710)|**[link](https://github.com/dmmm1997/c3vg)**|
 |**2025-01-09**|**IPDN: Image-enhanced Prompt Decoding Network for 3D Referring Expression Segmentation**|Qi Chen et.al.|[2501.04995](http://arxiv.org/abs/2501.04995)|**[link](https://github.com/80chen86/ipdn)**|
 |**2025-01-02**|**Hierarchical Alignment-enhanced Adaptive Grounding Network for Generalized Referring Expression Comprehension**|Yaxian Wang et.al.|[2501.01416](http://arxiv.org/abs/2501.01416)|null|
@@ -131,6 +132,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-14**|**Omni-RGPT: Unifying Image and Video Region-level Understanding via Token Marks**|Miran Heo et.al.|[2501.08326](http://arxiv.org/abs/2501.08326)|null|
 |**2025-01-12**|**GeoPix: Multi-Modal Large Language Model for Pixel-level Image Understanding in Remote Sensing**|Ruizhe Ou et.al.|[2501.06828](http://arxiv.org/abs/2501.06828)|null|
 |**2025-01-12**|**Multi-task Visual Grounding with Coarse-to-Fine Consistency Constraints**|Ming Dai et.al.|[2501.06710](http://arxiv.org/abs/2501.06710)|**[link](https://github.com/dmmm1997/c3vg)**|
 |**2025-01-11**|**Open Eyes, Then Reason: Fine-grained Visual Mathematical Understanding in MLLMs**|Shan Zhang et.al.|[2501.06430](http://arxiv.org/abs/2501.06430)|**[link](https://github.com/ai4math-shanzhang/sve-math)**|
@@ -262,7 +264,7 @@ layout: default
 |**2024-11-11**|**VRSBench: A Versatile Vision-Language Benchmark Dataset for Remote Sensing Image Understanding**|Xiang Li et.al.|[2406.12384](http://arxiv.org/abs/2406.12384)|**[link](https://github.com/lx709/vrsbench)**|
 |**2024-06-17**|**Reframing linguistic bootstrapping as joint inference using visually-grounded grammar induction models**|Eva Portelance et.al.|[2406.11977](http://arxiv.org/abs/2406.11977)|null|
 |**2024-09-11**|**DocGenome: An Open Large-scale Scientific Document Benchmark for Training and Testing Multi-modal Large Language Models**|Renqiu Xia et.al.|[2406.11633](http://arxiv.org/abs/2406.11633)|**[link](https://github.com/UniModal4Reasoning/DocGenome)**|
-|**2025-01-08**|**ISR-DPO: Aligning Large Multimodal Models for Videos by Iterative Self-Retrospective DPO**|Daechul Ahn et.al.|[2406.11280](http://arxiv.org/abs/2406.11280)|**[link](https://github.com/snumprlab/isr-dpo)**|
+|**2025-01-08**|**ISR-DPO: Aligning Large Multimodal Models for Videos by Iterative Self-Retrospective DPO**|Daechul Ahn et.al.|[2406.11280](http://arxiv.org/abs/2406.11280)|**[link](https://github.com/snumprlab/SRT)**|
 |**2024-06-14**|**ChartMimic: Evaluating LMM's Cross-Modal Reasoning Capability via Chart-to-Code Generation**|Chufan Shi et.al.|[2406.09961](http://arxiv.org/abs/2406.09961)|**[link](https://github.com/chartmimic/chartmimic)**|
 |**2024-10-21**|**Learning Language Structures through Grounding**|Freda Shi et.al.|[2406.09662](http://arxiv.org/abs/2406.09662)|null|
 |**2024-06-13**|**MMScan: A Multi-Modal 3D Scene Dataset with Hierarchical Grounded Language Annotations**|Ruiyuan Lyu et.al.|[2406.09401](http://arxiv.org/abs/2406.09401)|**[link](https://github.com/openrobotlab/embodiedscan)**|
@@ -863,7 +865,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-01-09**|**Multi-Context Temporal Consistent Modeling for Referring Video Object Segmentation**|Sun-Hyuk Choi et.al.|[2501.04939](http://arxiv.org/abs/2501.04939)|**[link](https://github.com/choi58/mtcm)**|
+|**2025-01-15**|**Multi-Context Temporal Consistent Modeling for Referring Video Object Segmentation**|Sun-Hyuk Choi et.al.|[2501.04939](http://arxiv.org/abs/2501.04939)|**[link](https://github.com/choi58/mtcm)**|
 |**2025-01-07**|**Sa2VA: Marrying SAM2 with LLaVA for Dense Grounded Understanding of Images and Videos**|Haobo Yuan et.al.|[2501.04001](http://arxiv.org/abs/2501.04001)|**[link](https://github.com/magic-research/Sa2VA)**|
 |**2024-12-02**|**Referring Video Object Segmentation via Language-aligned Track Selection**|Seongchan Kim et.al.|[2412.01136](http://arxiv.org/abs/2412.01136)|null|
 |**2024-11-26**|**SAMWISE: Infusing wisdom in SAM2 for Text-Driven Video Segmentation**|Claudia Cuttano et.al.|[2411.17646](http://arxiv.org/abs/2411.17646)|**[link](https://github.com/claudiacuttano/samwise)**|
@@ -1057,6 +1059,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-14**|**AVS-Mamba: Exploring Temporal and Multi-modal Mamba for Audio-Visual Segmentation**|Sitong Gong et.al.|[2501.07810](http://arxiv.org/abs/2501.07810)|**[link](https://github.com/sitonggong/avs-mamba)**|
 |**2024-12-17**|**Multimodal Class-aware Semantic Enhancement Network for Audio-Visual Video Parsing**|Pengcheng Zhao et.al.|[2412.11248](http://arxiv.org/abs/2412.11248)|null|
 |**2024-12-11**|**Collaborative Hybrid Propagator for Temporal Misalignment in Audio-Visual Segmentation**|Kexin Li et.al.|[2412.08161](http://arxiv.org/abs/2412.08161)|null|
 |**2024-11-04**|**3D Audio-Visual Segmentation**|Artem Sokolov et.al.|[2411.02236](http://arxiv.org/abs/2411.02236)|null|
@@ -1172,7 +1175,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-01-09**|**Multi-Context Temporal Consistent Modeling for Referring Video Object Segmentation**|Sun-Hyuk Choi et.al.|[2501.04939](http://arxiv.org/abs/2501.04939)|**[link](https://github.com/choi58/mtcm)**|
+|**2025-01-14**|**Learning Motion and Temporal Cues for Unsupervised Video Object Segmentation**|Yunzhi Zhuge et.al.|[2501.07806](http://arxiv.org/abs/2501.07806)|**[link](https://github.com/hy0523/mtnet)**|
+|**2025-01-15**|**Multi-Context Temporal Consistent Modeling for Referring Video Object Segmentation**|Sun-Hyuk Choi et.al.|[2501.04939](http://arxiv.org/abs/2501.04939)|**[link](https://github.com/choi58/mtcm)**|
 |**2025-01-07**|**Sa2VA: Marrying SAM2 with LLaVA for Dense Grounded Understanding of Images and Videos**|Haobo Yuan et.al.|[2501.04001](http://arxiv.org/abs/2501.04001)|**[link](https://github.com/magic-research/Sa2VA)**|
 |**2024-12-19**|**M $^3$ -VOS: Multi-Phase, Multi-Transition, and Multi-Scenery Video Object Segmentation**|Zixuan Chen et.al.|[2412.13803](http://arxiv.org/abs/2412.13803)|null|
 |**2024-12-23**|**Stable Mean Teacher for Semi-supervised Video Action Detection**|Akash Kumar et.al.|[2412.07072](http://arxiv.org/abs/2412.07072)|**[link](https://github.com/AKASH2907/stable-mean-teacher)**|
@@ -1220,7 +1224,7 @@ layout: default
 |**2024-06-19**|**Trusted Video Inpainting Localization via Deep Attentive Noise Learning**|Zijie Lou et.al.|[2406.13576](http://arxiv.org/abs/2406.13576)|**[link](https://github.com/multimediafor/truvil)**|
 |**2024-06-23**|**GroPrompt: Efficient Grounded Prompting and Adaptation for Referring Video Object Segmentation**|Ci-Siang Lin et.al.|[2406.12834](http://arxiv.org/abs/2406.12834)|null|
 |**2024-09-19**|**ViDSOD-100: A New Dataset and a Baseline Model for RGB-D Video Salient Object Detection**|Junhao Lin et.al.|[2406.12536](http://arxiv.org/abs/2406.12536)|**[link](https://github.com/jhl-det/rgbd_video_sod)**|
-|**2024-06-12**|**RMem: Restricted Memory Banks Improve Video Object Segmentation**|Junbao Zhou et.al.|[2406.08476](http://arxiv.org/abs/2406.08476)|null|
+|**2025-01-14**|**RMem: Restricted Memory Banks Improve Video Object Segmentation**|Junbao Zhou et.al.|[2406.08476](http://arxiv.org/abs/2406.08476)|null|
 |**2024-06-12**|**2nd Place Solution for MOSE Track in CVPR 2024 PVUW workshop: Complex Video Object Segmentation**|Zhensong Xu et.al.|[2406.08192](http://arxiv.org/abs/2406.08192)|null|
 |**2024-06-11**|**1st Place Solution for MeViS Track in CVPR 2024 PVUW Workshop: Motion Expression guided Video Segmentation**|Mingqi Gao et.al.|[2406.07043](http://arxiv.org/abs/2406.07043)|**[link](https://github.com/tapall-ai/mevis_track_solution_2024)**|
 |**2024-06-08**|**Training-Free Robust Interactive Video Object Segmentation**|Xiaoli Wei et.al.|[2406.05485](http://arxiv.org/abs/2406.05485)|null|
