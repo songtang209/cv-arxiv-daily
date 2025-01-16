@@ -23,8 +23,6 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 # keywords to search
 keywords:
-    "Survey":
-        filters: ["Survey"]
     "RES": 
         filters: ["Referring Expression Segmentation", "Referring Image Segmentation", "Language-based Image Segmentation"]
     "REC": 
