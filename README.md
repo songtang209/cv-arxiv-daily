@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.18
+## Updated on 2025.01.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -140,7 +140,7 @@
 |**2019-04-06**|**CLEVR-Ref+: Diagnosing Visual Reasoning with Referring Expressions**|Runtao Liu et.al.|[1901.00850](http://arxiv.org/abs/1901.00850)|null|
 |**2017-08-04**|**Recurrent Multimodal Interaction for Referring Image Segmentation**|Chenxi Liu et.al.|[1703.07939](http://arxiv.org/abs/1703.07939)|**[link](https://github.com/chenxi116/TF-phrasecut-public)**|
 
-<p align=right>(<a href=#updated-on-20250118>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250119>back to top</a>)</p>
 
 ## REC
 
@@ -877,7 +877,7 @@
 |**2015-06-19**|**Learning language through pictures**|Grzegorz Chrupała et.al.|[1506.03694](http://arxiv.org/abs/1506.03694)|**[link](https://github.com/gchrupala/imaginet)**|
 |**2011-06-30**|**Grounded Semantic Composition for Visual Scenes**|P. Gorniak et.al.|[1107.0031](http://arxiv.org/abs/1107.0031)|null|
 
-<p align=right>(<a href=#updated-on-20250118>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250119>back to top</a>)</p>
 
 ## RVOS
 
@@ -925,7 +925,7 @@
 |**2022-04-03**|**End-to-End Referring Video Object Segmentation with Multimodal Transformers**|Adam Botach et.al.|[2111.14821](http://arxiv.org/abs/2111.14821)|**[link](https://github.com/mttr2021/MTTR)**|
 |**2024-01-19**|**Rethinking Cross-modal Interaction from a Top-down Perspective for Referring Video Object Segmentation**|Chen Liang et.al.|[2106.01061](http://arxiv.org/abs/2106.01061)|null|
 
-<p align=right>(<a href=#updated-on-20250118>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250119>back to top</a>)</p>
 
 ## AVL
 
@@ -1075,7 +1075,7 @@
 |**2015-02-16**|**Efficient Steered-Response Power Methods for Sound Source Localization Using Microphone Arrays**|Markus V. S. Lima et.al.|[1407.2351](http://arxiv.org/abs/1407.2351)|null|
 |**2014-02-12**|**A Geometric Approach to Sound Source Localization from Time-Delay Estimates**|Xavier Alameda-Pineda et.al.|[1311.1047](http://arxiv.org/abs/1311.1047)|null|
 
-<p align=right>(<a href=#updated-on-20250118>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250119>back to top</a>)</p>
 
 ## AVS
 
@@ -1121,7 +1121,7 @@
 |**2023-02-17**|**Audio-Visual Segmentation**|Jinxing Zhou et.al.|[2207.05042](http://arxiv.org/abs/2207.05042)|**[link](https://github.com/opennlplab/avsbench)**|
 |**2021-04-05**|**Positive Sample Propagation along the Audio-Visual Event Line**|Jinxing Zhou et.al.|[2104.00239](http://arxiv.org/abs/2104.00239)|**[link](https://github.com/jasongief/PSP_CVPR_2021)**|
 
-<p align=right>(<a href=#updated-on-20250118>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250119>back to top</a>)</p>
 
 ## 3D-RES
 
@@ -1132,7 +1132,7 @@
 |**2024-07-31**|**3D-GRES: Generalized 3D Referring Expression Segmentation**|Changli Wu et.al.|[2407.20664](http://arxiv.org/abs/2407.20664)|**[link](https://github.com/sosppxo/MDIN)**|
 |**2023-08-31**|**3D-STMN: Dependency-Driven Superpoint-Text Matching Network for End-to-End 3D Referring Expression Segmentation**|Changli Wu et.al.|[2308.16632](http://arxiv.org/abs/2308.16632)|**[link](https://github.com/sosppxo/3d-stmn)**|
 
-<p align=right>(<a href=#updated-on-20250118>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250119>back to top</a>)</p>
 
 ## 3D-REC
 
@@ -1198,7 +1198,7 @@
 |**2021-03-17**|**Refer-it-in-RGBD: A Bottom-up Approach for 3D Visual Grounding in RGBD Images**|Haolin Liu et.al.|[2103.07894](http://arxiv.org/abs/2103.07894)|null|
 |**2021-07-29**|**InstanceRefer: Cooperative Holistic Understanding for Visual Grounding on Point Clouds through Instance Multi-level Contextual Referring**|Zhihao Yuan et.al.|[2103.01128](http://arxiv.org/abs/2103.01128)|**[link](https://github.com/CurryYuan/InstanceRefer)**|
 
-<p align=right>(<a href=#updated-on-20250118>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250119>back to top</a>)</p>
 
 ## VOS
 
@@ -1641,7 +1641,7 @@
 |**2013-05-29**|**Video Human Segmentation using Fuzzy Object Models and its Application to Body Pose Estimation of Toddlers for Behavior Studies**|Thiago V. Spina et.al.|[1305.6918](http://arxiv.org/abs/1305.6918)|null|
 |**2014-10-27**|**Efficient MRF Energy Propagation for Video Segmentation via Bilateral Filters**|Ozan Sener et.al.|[1301.5356](http://arxiv.org/abs/1301.5356)|null|
 
-<p align=right>(<a href=#updated-on-20250118>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250119>back to top</a>)</p>
 
 ## REG
 
@@ -1687,7 +1687,7 @@
 |**2017-01-12**|**Comprehension-guided referring expressions**|Ruotian Luo et.al.|[1701.03439](http://arxiv.org/abs/1701.03439)|null|
 |**2016-08-10**|**Modeling Context in Referring Expressions**|Licheng Yu et.al.|[1608.00272](http://arxiv.org/abs/1608.00272)|**[link](https://github.com/lichengunc/refer)**|
 
-<p align=right>(<a href=#updated-on-20250118>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250119>back to top</a>)</p>
 
 ## Survey
 
@@ -6928,7 +6928,7 @@
 |**2024-07-26**|**Modeling the Lane-Change Reactions to Merging Vehicles for Highway On-Ramp Simulations**|Dustin Holley et.al.|[2404.09851](http://arxiv.org/abs/2404.09851)|null|
 |**2024-06-25**|**Mapping the anisotropic Galactic stellar halo with Blue Horizontal Branch stars**|João A. S. Amarante et.al.|[2404.09825](http://arxiv.org/abs/2404.09825)|null|
 
-<p align=right>(<a href=#updated-on-20250118>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250119>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
