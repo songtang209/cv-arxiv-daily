@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.20
+## Updated on 2025.01.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RES
@@ -132,6 +132,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-17**|**FLORA: Formal Language Model Enables Robust Training-free Zero-shot Object Referring Analysis**|Zhe Chen et.al.|[2501.09887](http://arxiv.org/abs/2501.09887)|null|
 |**2025-01-16**|**A Simple Aerial Detection Baseline of Multimodal Language Models**|Qingyun Li et.al.|[2501.09720](http://arxiv.org/abs/2501.09720)|**[link](https://github.com/li-qingyun/mllm-mmrotate)**|
 |**2025-01-16**|**AugRefer: Advancing 3D Visual Grounding via Cross-Modal Augmentation and Spatial Relation-based Referring**|Xinyi Wang et.al.|[2501.09428](http://arxiv.org/abs/2501.09428)|null|
 |**2025-01-14**|**Omni-RGPT: Unifying Image and Video Region-level Understanding via Token Marks**|Miran Heo et.al.|[2501.08326](http://arxiv.org/abs/2501.08326)|null|
@@ -890,7 +891,7 @@ layout: default
 |**2023-09-07**|**Temporal Collection and Distribution for Referring Video Object Segmentation**|Jiajin Tang et.al.|[2309.03473](http://arxiv.org/abs/2309.03473)|null|
 |**2023-09-05**|**Learning Cross-Modal Affinity for Referring Video Object Segmentation Targeting Limited Samples**|Guanghui Li et.al.|[2309.02041](http://arxiv.org/abs/2309.02041)|**[link](https://github.com/hengliusky/few_shot_rvos)**|
 |**2023-08-16**|**MeViS: A Large-scale Benchmark for Video Segmentation with Motion Expressions**|Henghui Ding et.al.|[2308.08544](http://arxiv.org/abs/2308.08544)|**[link](https://github.com/henghuiding/MeViS)**|
-|**2023-08-08**|**EPCFormer: Expression Prompt Collaboration Transformer for Universal Referring Video Object Segmentation**|Jiajun Chen et.al.|[2308.04162](http://arxiv.org/abs/2308.04162)|**[link](https://github.com/lab206/epcformer)**|
+|**2025-01-17**|**Expression Prompt Collaboration Transformer for Universal Referring Video Object Segmentation**|Jiajun Chen et.al.|[2308.04162](http://arxiv.org/abs/2308.04162)|**[link](https://github.com/lab206/epcformer)**|
 |**2023-12-15**|**Learning Referring Video Object Segmentation from Weak Annotation**|Wangbo Zhao et.al.|[2308.02162](http://arxiv.org/abs/2308.02162)|null|
 |**2023-07-25**|**Spectrum-guided Multi-granularity Referring Video Object Segmentation**|Bo Miao et.al.|[2307.13537](http://arxiv.org/abs/2307.13537)|**[link](https://github.com/bo-miao/sgmg)**|
 |**2023-07-18**|**OnlineRefer: A Simple Online Baseline for Referring Video Object Segmentation**|Dongming Wu et.al.|[2307.09356](http://arxiv.org/abs/2307.09356)|**[link](https://github.com/wudongming97/onlinerefer)**|
@@ -1301,7 +1302,7 @@ layout: default
 |**2023-08-19**|**Scalable Video Object Segmentation with Simplified Framework**|Qiangqiang Wu et.al.|[2308.09903](http://arxiv.org/abs/2308.09903)|null|
 |**2023-08-16**|**MeViS: A Large-scale Benchmark for Video Segmentation with Motion Expressions**|Henghui Ding et.al.|[2308.08544](http://arxiv.org/abs/2308.08544)|**[link](https://github.com/henghuiding/MeViS)**|
 |**2023-08-13**|**Isomer: Isomerous Transformer for Zero-shot Video Object Segmentation**|Yichen Yuan et.al.|[2308.06693](http://arxiv.org/abs/2308.06693)|**[link](https://github.com/dlut-yyc/isomer)**|
-|**2023-08-08**|**EPCFormer: Expression Prompt Collaboration Transformer for Universal Referring Video Object Segmentation**|Jiajun Chen et.al.|[2308.04162](http://arxiv.org/abs/2308.04162)|**[link](https://github.com/lab206/epcformer)**|
+|**2025-01-17**|**Expression Prompt Collaboration Transformer for Universal Referring Video Object Segmentation**|Jiajun Chen et.al.|[2308.04162](http://arxiv.org/abs/2308.04162)|**[link](https://github.com/lab206/epcformer)**|
 |**2023-12-15**|**Learning Referring Video Object Segmentation from Weak Annotation**|Wangbo Zhao et.al.|[2308.02162](http://arxiv.org/abs/2308.02162)|null|
 |**2023-08-15**|**XMem++: Production-level Video Segmentation From Few Annotated Frames**|Maksym Bekuzarov et.al.|[2307.15958](http://arxiv.org/abs/2307.15958)|**[link](https://github.com/max810/XMem2)**|
 |**2023-07-26**|**Tracking Anything in High Quality**|Jiawen Zhu et.al.|[2307.13974](http://arxiv.org/abs/2307.13974)|**[link](https://github.com/jiawen-zhu/hqtrack)**|
