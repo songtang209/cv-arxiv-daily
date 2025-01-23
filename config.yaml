@@ -31,6 +31,8 @@ keywords:
         filters: ["Referring Video Object Segmentation", "Referring Video-Object Segmentation", "Text-based Video Segmentation"]
     "RMOT": 
         filters: ["Referring Multi-Object Tracking"]
+    "RVOT": 
+        filters: ["Referring Video Object Tracking", "Referring Single Object Tracking", "Vision-Language Tracking"]
     "AVL": 
         filters: ["Audio-Visual Localization", "Audio Visual Localization", "Sound Source Localization"]
     "AVS": 
