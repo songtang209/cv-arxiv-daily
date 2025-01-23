@@ -19,6 +19,7 @@
     <li><a href=#vos>VOS</a></li>
     <li><a href=#reg>REG</a></li>
     <li><a href=#survey>Survey</a></li>
+    <li><a href=#rvot>RVOT</a></li>
   </ol>
 </details>
 
@@ -6931,6 +6932,14 @@
 |**2024-08-23**|**The Quasar Catalogue for S-PLUS DR4 (QuCatS) and the estimation of photometric redshifts**|L. Nakazono et.al.|[2404.09925](http://arxiv.org/abs/2404.09925)|null|
 |**2024-07-26**|**Modeling the Lane-Change Reactions to Merging Vehicles for Highway On-Ramp Simulations**|Dustin Holley et.al.|[2404.09851](http://arxiv.org/abs/2404.09851)|null|
 |**2024-06-25**|**Mapping the anisotropic Galactic stellar halo with Blue Horizontal Branch stars**|João A. S. Amarante et.al.|[2404.09825](http://arxiv.org/abs/2404.09825)|null|
+
+<p align=right>(<a href=#updated-on-20250123>back to top</a>)</p>
+
+## RVOT
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2024-03-29**|**Elysium: Exploring Object-level Perception in Videos via MLLM**|Han Wang et.al.|[2403.16558](http://arxiv.org/abs/2403.16558)|**[link](https://github.com/hon-wong/elysium)**|
 
 <p align=right>(<a href=#updated-on-20250123>back to top</a>)</p>
 

@@ -6902,6 +6902,12 @@ layout: default
 |**2024-07-26**|**Modeling the Lane-Change Reactions to Merging Vehicles for Highway On-Ramp Simulations**|Dustin Holley et.al.|[2404.09851](http://arxiv.org/abs/2404.09851)|null|
 |**2024-06-25**|**Mapping the anisotropic Galactic stellar halo with Blue Horizontal Branch stars**|João A. S. Amarante et.al.|[2404.09825](http://arxiv.org/abs/2404.09825)|null|
 
+## RVOT
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-29**|**Elysium: Exploring Object-level Perception in Videos via MLLM**|Han Wang et.al.|[2403.16558](http://arxiv.org/abs/2403.16558)|**[link](https://github.com/hon-wong/elysium)**|
+
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
