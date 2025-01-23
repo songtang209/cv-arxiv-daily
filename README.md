@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.22
+## Updated on 2025.01.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -26,6 +26,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-19**|**Know "No" Better: A Data-Driven Approach for Enhancing Negation Awareness in CLIP**|Junsung Park et.al.|[2501.10913](http://arxiv.org/abs/2501.10913)|null|
 |**2025-01-15**|**Densely Connected Parameter-Efficient Tuning for Referring Image Segmentation**|Jiaqi Huang et.al.|[2501.08580](http://arxiv.org/abs/2501.08580)|**[link](https://github.com/jiaqihuang01/detris)**|
 |**2025-01-12**|**Multi-task Visual Grounding with Coarse-to-Fine Consistency Constraints**|Ming Dai et.al.|[2501.06710](http://arxiv.org/abs/2501.06710)|**[link](https://github.com/dmmm1997/c3vg)**|
 |**2025-01-09**|**IPDN: Image-enhanced Prompt Decoding Network for 3D Referring Expression Segmentation**|Qi Chen et.al.|[2501.04995](http://arxiv.org/abs/2501.04995)|**[link](https://github.com/80chen86/ipdn)**|
@@ -140,12 +141,14 @@
 |**2019-04-06**|**CLEVR-Ref+: Diagnosing Visual Reasoning with Referring Expressions**|Runtao Liu et.al.|[1901.00850](http://arxiv.org/abs/1901.00850)|null|
 |**2017-08-04**|**Recurrent Multimodal Interaction for Referring Image Segmentation**|Chenxi Liu et.al.|[1703.07939](http://arxiv.org/abs/1703.07939)|**[link](https://github.com/chenxi116/TF-phrasecut-public)**|
 
-<p align=right>(<a href=#updated-on-20250122>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250123>back to top</a>)</p>
 
 ## REC
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-21**|**Fixing Imbalanced Attention to Mitigate In-Context Hallucination of Large Vision-Language Model**|Kazi Hasan Ibn Arif et.al.|[2501.12206](http://arxiv.org/abs/2501.12206)|null|
+|**2025-01-17**|**When language and vision meet road safety: leveraging multimodal large language models for video-based traffic accident analysis**|Ruixuan Zhang et.al.|[2501.10604](http://arxiv.org/abs/2501.10604)|null|
 |**2025-01-17**|**FLORA: Formal Language Model Enables Robust Training-free Zero-shot Object Referring Analysis**|Zhe Chen et.al.|[2501.09887](http://arxiv.org/abs/2501.09887)|null|
 |**2025-01-16**|**A Simple Aerial Detection Baseline of Multimodal Language Models**|Qingyun Li et.al.|[2501.09720](http://arxiv.org/abs/2501.09720)|**[link](https://github.com/li-qingyun/mllm-mmrotate)**|
 |**2025-01-16**|**AugRefer: Advancing 3D Visual Grounding via Cross-Modal Augmentation and Spatial Relation-based Referring**|Xinyi Wang et.al.|[2501.09428](http://arxiv.org/abs/2501.09428)|null|
@@ -160,7 +163,7 @@
 |**2025-01-02**|**ViGiL3D: A Linguistically Diverse Dataset for 3D Visual Grounding**|Austin T. Wang et.al.|[2501.01366](http://arxiv.org/abs/2501.01366)|null|
 |**2024-12-28**|**Towards Visual Grounding: A Survey**|Linhui Xiao et.al.|[2412.20206](http://arxiv.org/abs/2412.20206)|**[link](https://github.com/linhuixiao/awesome-visual-grounding)**|
 |**2024-12-26**|**Referencing Where to Focus: Improving VisualGrounding with Referential Query**|Yabing Wang et.al.|[2412.19155](http://arxiv.org/abs/2412.19155)|null|
-|**2024-12-25**|**Reasoning to Attend: Try to Understand How <SEG> Token Works**|Rui Qian et.al.|[2412.17741](http://arxiv.org/abs/2412.17741)|**[link](https://github.com/rui-qian/read)**|
+|**2025-01-20**|**Reasoning to Attend: Try to Understand How <SEG> Token Works**|Rui Qian et.al.|[2412.17741](http://arxiv.org/abs/2412.17741)|**[link](https://github.com/rui-qian/read)**|
 |**2024-12-23**|**PC Agent: While You Sleep, AI Works -- A Cognitive Journey into Digital World**|Yanheng He et.al.|[2412.17589](http://arxiv.org/abs/2412.17589)|null|
 |**2024-12-22**|**CoF: Coarse to Fine-Grained Image Understanding for Multi-modal Large Language Models**|Yeyuan Wang et.al.|[2412.16869](http://arxiv.org/abs/2412.16869)|**[link](https://github.com/gavin001201/cof)**|
 |**2024-12-22**|**Visual Prompting with Iterative Refinement for Design Critique Generation**|Peitong Duan et.al.|[2412.16829](http://arxiv.org/abs/2412.16829)|null|
@@ -309,7 +312,7 @@
 |**2024-04-30**|**Naturally Supervised 3D Visual Grounding with Language-Regularized Concept Learners**|Chun Feng et.al.|[2404.19696](http://arxiv.org/abs/2404.19696)|null|
 |**2024-04-29**|**Q-GroundCAM: Quantifying Grounding in Vision Language Models via GradCAM**|Navid Rajabi et.al.|[2404.19128](http://arxiv.org/abs/2404.19128)|null|
 |**2024-08-02**|**BlenderAlchemy: Editing 3D Graphics with Vision-Language Models**|Ian Huang et.al.|[2404.17672](http://arxiv.org/abs/2404.17672)|null|
-|**2024-04-25**|**List Items One by One: A New Data Source and Learning Paradigm for Multimodal LLMs**|An Yan et.al.|[2404.16375](http://arxiv.org/abs/2404.16375)|**[link](https://github.com/zzxslp/som-llava)**|
+|**2025-01-20**|**List Items One by One: A New Data Source and Learning Paradigm for Multimodal LLMs**|An Yan et.al.|[2404.16375](http://arxiv.org/abs/2404.16375)|**[link](https://github.com/zzxslp/som-llava)**|
 |**2024-07-15**|**ChEX: Interactive Localization and Region Description in Chest X-rays**|Philip Müller et.al.|[2404.15770](http://arxiv.org/abs/2404.15770)|**[link](https://github.com/philip-mueller/chex)**|
 |**2024-04-21**|**Socratic Planner: Inquiry-Based Zero-Shot Planning for Embodied Instruction Following**|Suyeon Shin et.al.|[2404.15190](http://arxiv.org/abs/2404.15190)|null|
 |**2024-09-05**|**HiVG: Hierarchical Multimodal Fine-grained Modulation for Visual Grounding**|Linhui Xiao et.al.|[2404.13400](http://arxiv.org/abs/2404.13400)|**[link](https://github.com/linhuixiao/hivg)**|
@@ -878,7 +881,7 @@
 |**2015-06-19**|**Learning language through pictures**|Grzegorz Chrupała et.al.|[1506.03694](http://arxiv.org/abs/1506.03694)|**[link](https://github.com/gchrupala/imaginet)**|
 |**2011-06-30**|**Grounded Semantic Composition for Visual Scenes**|P. Gorniak et.al.|[1107.0031](http://arxiv.org/abs/1107.0031)|null|
 
-<p align=right>(<a href=#updated-on-20250122>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250123>back to top</a>)</p>
 
 ## RVOS
 
@@ -926,7 +929,7 @@
 |**2022-04-03**|**End-to-End Referring Video Object Segmentation with Multimodal Transformers**|Adam Botach et.al.|[2111.14821](http://arxiv.org/abs/2111.14821)|**[link](https://github.com/mttr2021/MTTR)**|
 |**2024-01-19**|**Rethinking Cross-modal Interaction from a Top-down Perspective for Referring Video Object Segmentation**|Chen Liang et.al.|[2106.01061](http://arxiv.org/abs/2106.01061)|null|
 
-<p align=right>(<a href=#updated-on-20250122>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250123>back to top</a>)</p>
 
 ## AVL
 
@@ -1076,7 +1079,7 @@
 |**2015-02-16**|**Efficient Steered-Response Power Methods for Sound Source Localization Using Microphone Arrays**|Markus V. S. Lima et.al.|[1407.2351](http://arxiv.org/abs/1407.2351)|null|
 |**2014-02-12**|**A Geometric Approach to Sound Source Localization from Time-Delay Estimates**|Xavier Alameda-Pineda et.al.|[1311.1047](http://arxiv.org/abs/1311.1047)|null|
 
-<p align=right>(<a href=#updated-on-20250122>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250123>back to top</a>)</p>
 
 ## AVS
 
@@ -1122,7 +1125,7 @@
 |**2023-02-17**|**Audio-Visual Segmentation**|Jinxing Zhou et.al.|[2207.05042](http://arxiv.org/abs/2207.05042)|**[link](https://github.com/opennlplab/avsbench)**|
 |**2021-04-05**|**Positive Sample Propagation along the Audio-Visual Event Line**|Jinxing Zhou et.al.|[2104.00239](http://arxiv.org/abs/2104.00239)|**[link](https://github.com/jasongief/PSP_CVPR_2021)**|
 
-<p align=right>(<a href=#updated-on-20250122>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250123>back to top</a>)</p>
 
 ## 3D-RES
 
@@ -1133,7 +1136,7 @@
 |**2024-07-31**|**3D-GRES: Generalized 3D Referring Expression Segmentation**|Changli Wu et.al.|[2407.20664](http://arxiv.org/abs/2407.20664)|**[link](https://github.com/sosppxo/MDIN)**|
 |**2023-08-31**|**3D-STMN: Dependency-Driven Superpoint-Text Matching Network for End-to-End 3D Referring Expression Segmentation**|Changli Wu et.al.|[2308.16632](http://arxiv.org/abs/2308.16632)|**[link](https://github.com/sosppxo/3d-stmn)**|
 
-<p align=right>(<a href=#updated-on-20250122>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250123>back to top</a>)</p>
 
 ## 3D-REC
 
@@ -1199,7 +1202,7 @@
 |**2021-03-17**|**Refer-it-in-RGBD: A Bottom-up Approach for 3D Visual Grounding in RGBD Images**|Haolin Liu et.al.|[2103.07894](http://arxiv.org/abs/2103.07894)|null|
 |**2021-07-29**|**InstanceRefer: Cooperative Holistic Understanding for Visual Grounding on Point Clouds through Instance Multi-level Contextual Referring**|Zhihao Yuan et.al.|[2103.01128](http://arxiv.org/abs/2103.01128)|**[link](https://github.com/CurryYuan/InstanceRefer)**|
 
-<p align=right>(<a href=#updated-on-20250122>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250123>back to top</a>)</p>
 
 ## VOS
 
@@ -1642,7 +1645,7 @@
 |**2013-05-29**|**Video Human Segmentation using Fuzzy Object Models and its Application to Body Pose Estimation of Toddlers for Behavior Studies**|Thiago V. Spina et.al.|[1305.6918](http://arxiv.org/abs/1305.6918)|null|
 |**2014-10-27**|**Efficient MRF Energy Propagation for Video Segmentation via Bilateral Filters**|Ozan Sener et.al.|[1301.5356](http://arxiv.org/abs/1301.5356)|null|
 
-<p align=right>(<a href=#updated-on-20250122>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250123>back to top</a>)</p>
 
 ## REG
 
@@ -1688,7 +1691,7 @@
 |**2017-01-12**|**Comprehension-guided referring expressions**|Ruotian Luo et.al.|[1701.03439](http://arxiv.org/abs/1701.03439)|null|
 |**2016-08-10**|**Modeling Context in Referring Expressions**|Licheng Yu et.al.|[1608.00272](http://arxiv.org/abs/1608.00272)|**[link](https://github.com/lichengunc/refer)**|
 
-<p align=right>(<a href=#updated-on-20250122>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250123>back to top</a>)</p>
 
 ## Survey
 
@@ -6929,7 +6932,7 @@
 |**2024-07-26**|**Modeling the Lane-Change Reactions to Merging Vehicles for Highway On-Ramp Simulations**|Dustin Holley et.al.|[2404.09851](http://arxiv.org/abs/2404.09851)|null|
 |**2024-06-25**|**Mapping the anisotropic Galactic stellar halo with Blue Horizontal Branch stars**|João A. S. Amarante et.al.|[2404.09825](http://arxiv.org/abs/2404.09825)|null|
 
-<p align=right>(<a href=#updated-on-20250122>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250123>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
