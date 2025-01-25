@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.24
+## Updated on 2025.01.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RES
@@ -133,15 +133,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-23**|**GeoPixel: Pixel Grounding Large Multimodal Model in Remote Sensing**|Akashah Shabbir et.al.|[2501.13925](http://arxiv.org/abs/2501.13925)|**[link](https://github.com/mbzuai-oryx/geopixel)**|
 |**2025-01-21**|**Fixing Imbalanced Attention to Mitigate In-Context Hallucination of Large Vision-Language Model**|Kazi Hasan Ibn Arif et.al.|[2501.12206](http://arxiv.org/abs/2501.12206)|null|
 |**2025-01-17**|**When language and vision meet road safety: leveraging multimodal large language models for video-based traffic accident analysis**|Ruixuan Zhang et.al.|[2501.10604](http://arxiv.org/abs/2501.10604)|null|
 |**2025-01-17**|**FLORA: Formal Language Model Enables Robust Training-free Zero-shot Object Referring Analysis**|Zhe Chen et.al.|[2501.09887](http://arxiv.org/abs/2501.09887)|null|
-|**2025-01-16**|**A Simple Aerial Detection Baseline of Multimodal Language Models**|Qingyun Li et.al.|[2501.09720](http://arxiv.org/abs/2501.09720)|**[link](https://github.com/li-qingyun/mllm-mmrotate)**|
+|**2025-01-23**|**A Simple Aerial Detection Baseline of Multimodal Language Models**|Qingyun Li et.al.|[2501.09720](http://arxiv.org/abs/2501.09720)|**[link](https://github.com/li-qingyun/mllm-mmrotate)**|
 |**2025-01-16**|**AugRefer: Advancing 3D Visual Grounding via Cross-Modal Augmentation and Spatial Relation-based Referring**|Xinyi Wang et.al.|[2501.09428](http://arxiv.org/abs/2501.09428)|null|
 |**2025-01-14**|**Omni-RGPT: Unifying Image and Video Region-level Understanding via Token Marks**|Miran Heo et.al.|[2501.08326](http://arxiv.org/abs/2501.08326)|null|
 |**2025-01-12**|**GeoPix: Multi-Modal Large Language Model for Pixel-level Image Understanding in Remote Sensing**|Ruizhe Ou et.al.|[2501.06828](http://arxiv.org/abs/2501.06828)|null|
 |**2025-01-12**|**Multi-task Visual Grounding with Coarse-to-Fine Consistency Constraints**|Ming Dai et.al.|[2501.06710](http://arxiv.org/abs/2501.06710)|**[link](https://github.com/dmmm1997/c3vg)**|
 |**2025-01-11**|**Open Eyes, Then Reason: Fine-grained Visual Mathematical Understanding in MLLMs**|Shan Zhang et.al.|[2501.06430](http://arxiv.org/abs/2501.06430)|**[link](https://github.com/ai4math-shanzhang/sve-math)**|
+|**2025-01-23**|**URSA: Understanding and Verifying Chain-of-thought Reasoning in Multimodal Mathematics**|Ruilin Luo et.al.|[2501.04686](http://arxiv.org/abs/2501.04686)|**[link](https://github.com/URSA-MATH/URSA-MATH)**|
 |**2025-01-07**|**Are VLMs Ready for Autonomous Driving? An Empirical Study from the Reliability, Data, and Metric Perspectives**|Shaoyuan Xie et.al.|[2501.04003](http://arxiv.org/abs/2501.04003)|**[link](https://github.com/opendrivelab/drivelm)**|
 |**2025-01-06**|**EAGLE: Enhanced Visual Grounding Minimizes Hallucinations in Instructional Multimodal Models**|Andrés Villa et.al.|[2501.02699](http://arxiv.org/abs/2501.02699)|null|
 |**2025-01-04**|**Accounting for Focus Ambiguity in Visual Questions**|Chongyan Chen et.al.|[2501.02201](http://arxiv.org/abs/2501.02201)|null|
@@ -871,6 +873,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-23**|**MPG-SAM 2: Adapting SAM 2 with Mask Priors and Global Context for Referring Video Object Segmentation**|Fu Rong et.al.|[2501.13667](http://arxiv.org/abs/2501.13667)|null|
 |**2025-01-15**|**Multi-Context Temporal Consistent Modeling for Referring Video Object Segmentation**|Sun-Hyuk Choi et.al.|[2501.04939](http://arxiv.org/abs/2501.04939)|**[link](https://github.com/choi58/mtcm)**|
 |**2025-01-07**|**Sa2VA: Marrying SAM2 with LLaVA for Dense Grounded Understanding of Images and Videos**|Haobo Yuan et.al.|[2501.04001](http://arxiv.org/abs/2501.04001)|**[link](https://github.com/magic-research/Sa2VA)**|
 |**2024-12-02**|**Referring Video Object Segmentation via Language-aligned Track Selection**|Seongchan Kim et.al.|[2412.01136](http://arxiv.org/abs/2412.01136)|null|
@@ -971,6 +974,7 @@ layout: default
 |**2023-04-15**|**Soft Label Coding for End-to-end Sound Source Localization With Ad-hoc Microphone Arrays**|Linfeng Feng et.al.|[2304.07512](http://arxiv.org/abs/2304.07512)|null|
 |**2023-03-30**|**Sound to Visual Scene Generation by Audio-to-Visual Latent Alignment**|Kim Sung-Bin et.al.|[2303.17490](http://arxiv.org/abs/2303.17490)|null|
 |**2023-03-29**|**Audio-Visual Grouping Network for Sound Localization from Mixtures**|Shentong Mo et.al.|[2303.17056](http://arxiv.org/abs/2303.17056)|**[link](https://github.com/stonemo/avgn)**|
+|**2025-01-23**|**LOCUS: LOcalization with Channel Uncertainty and Sporadic Energy**|Subrata Biswas et.al.|[2302.09409](http://arxiv.org/abs/2302.09409)|null|
 |**2023-01-30**|**Real-Time Acoustic Perception for Automotive Applications**|Jun Yin et.al.|[2301.12808](http://arxiv.org/abs/2301.12808)|null|
 |**2022-12-10**|**Improving trajectory localization accuracy via direction-of-arrival derivative estimation**|Ruchi Pandey et.al.|[2212.03470](http://arxiv.org/abs/2212.03470)|null|
 |**2022-11-21**|**LISA: Localized Image Stylization with Audio via Implicit Neural Representation**|Seung Hyun Lee et.al.|[2211.11381](http://arxiv.org/abs/2211.11381)|null|
@@ -1182,6 +1186,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-23**|**MPG-SAM 2: Adapting SAM 2 with Mask Priors and Global Context for Referring Video Object Segmentation**|Fu Rong et.al.|[2501.13667](http://arxiv.org/abs/2501.13667)|null|
 |**2025-01-14**|**Learning Motion and Temporal Cues for Unsupervised Video Object Segmentation**|Yunzhi Zhuge et.al.|[2501.07806](http://arxiv.org/abs/2501.07806)|**[link](https://github.com/hy0523/mtnet)**|
 |**2025-01-15**|**Multi-Context Temporal Consistent Modeling for Referring Video Object Segmentation**|Sun-Hyuk Choi et.al.|[2501.04939](http://arxiv.org/abs/2501.04939)|**[link](https://github.com/choi58/mtcm)**|
 |**2025-01-07**|**Sa2VA: Marrying SAM2 with LLaVA for Dense Grounded Understanding of Images and Videos**|Haobo Yuan et.al.|[2501.04001](http://arxiv.org/abs/2501.04001)|**[link](https://github.com/magic-research/Sa2VA)**|

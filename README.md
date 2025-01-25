@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.24
+## Updated on 2025.01.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -142,21 +142,23 @@
 |**2019-04-06**|**CLEVR-Ref+: Diagnosing Visual Reasoning with Referring Expressions**|Runtao Liu et.al.|[1901.00850](http://arxiv.org/abs/1901.00850)|null|
 |**2017-08-04**|**Recurrent Multimodal Interaction for Referring Image Segmentation**|Chenxi Liu et.al.|[1703.07939](http://arxiv.org/abs/1703.07939)|**[link](https://github.com/chenxi116/TF-phrasecut-public)**|
 
-<p align=right>(<a href=#updated-on-20250124>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250125>back to top</a>)</p>
 
 ## REC
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-23**|**GeoPixel: Pixel Grounding Large Multimodal Model in Remote Sensing**|Akashah Shabbir et.al.|[2501.13925](http://arxiv.org/abs/2501.13925)|**[link](https://github.com/mbzuai-oryx/geopixel)**|
 |**2025-01-21**|**Fixing Imbalanced Attention to Mitigate In-Context Hallucination of Large Vision-Language Model**|Kazi Hasan Ibn Arif et.al.|[2501.12206](http://arxiv.org/abs/2501.12206)|null|
 |**2025-01-17**|**When language and vision meet road safety: leveraging multimodal large language models for video-based traffic accident analysis**|Ruixuan Zhang et.al.|[2501.10604](http://arxiv.org/abs/2501.10604)|null|
 |**2025-01-17**|**FLORA: Formal Language Model Enables Robust Training-free Zero-shot Object Referring Analysis**|Zhe Chen et.al.|[2501.09887](http://arxiv.org/abs/2501.09887)|null|
-|**2025-01-16**|**A Simple Aerial Detection Baseline of Multimodal Language Models**|Qingyun Li et.al.|[2501.09720](http://arxiv.org/abs/2501.09720)|**[link](https://github.com/li-qingyun/mllm-mmrotate)**|
+|**2025-01-23**|**A Simple Aerial Detection Baseline of Multimodal Language Models**|Qingyun Li et.al.|[2501.09720](http://arxiv.org/abs/2501.09720)|**[link](https://github.com/li-qingyun/mllm-mmrotate)**|
 |**2025-01-16**|**AugRefer: Advancing 3D Visual Grounding via Cross-Modal Augmentation and Spatial Relation-based Referring**|Xinyi Wang et.al.|[2501.09428](http://arxiv.org/abs/2501.09428)|null|
 |**2025-01-14**|**Omni-RGPT: Unifying Image and Video Region-level Understanding via Token Marks**|Miran Heo et.al.|[2501.08326](http://arxiv.org/abs/2501.08326)|null|
 |**2025-01-12**|**GeoPix: Multi-Modal Large Language Model for Pixel-level Image Understanding in Remote Sensing**|Ruizhe Ou et.al.|[2501.06828](http://arxiv.org/abs/2501.06828)|null|
 |**2025-01-12**|**Multi-task Visual Grounding with Coarse-to-Fine Consistency Constraints**|Ming Dai et.al.|[2501.06710](http://arxiv.org/abs/2501.06710)|**[link](https://github.com/dmmm1997/c3vg)**|
 |**2025-01-11**|**Open Eyes, Then Reason: Fine-grained Visual Mathematical Understanding in MLLMs**|Shan Zhang et.al.|[2501.06430](http://arxiv.org/abs/2501.06430)|**[link](https://github.com/ai4math-shanzhang/sve-math)**|
+|**2025-01-23**|**URSA: Understanding and Verifying Chain-of-thought Reasoning in Multimodal Mathematics**|Ruilin Luo et.al.|[2501.04686](http://arxiv.org/abs/2501.04686)|**[link](https://github.com/URSA-MATH/URSA-MATH)**|
 |**2025-01-07**|**Are VLMs Ready for Autonomous Driving? An Empirical Study from the Reliability, Data, and Metric Perspectives**|Shaoyuan Xie et.al.|[2501.04003](http://arxiv.org/abs/2501.04003)|**[link](https://github.com/opendrivelab/drivelm)**|
 |**2025-01-06**|**EAGLE: Enhanced Visual Grounding Minimizes Hallucinations in Instructional Multimodal Models**|Andrés Villa et.al.|[2501.02699](http://arxiv.org/abs/2501.02699)|null|
 |**2025-01-04**|**Accounting for Focus Ambiguity in Visual Questions**|Chongyan Chen et.al.|[2501.02201](http://arxiv.org/abs/2501.02201)|null|
@@ -882,12 +884,13 @@
 |**2015-06-19**|**Learning language through pictures**|Grzegorz Chrupała et.al.|[1506.03694](http://arxiv.org/abs/1506.03694)|**[link](https://github.com/gchrupala/imaginet)**|
 |**2011-06-30**|**Grounded Semantic Composition for Visual Scenes**|P. Gorniak et.al.|[1107.0031](http://arxiv.org/abs/1107.0031)|null|
 
-<p align=right>(<a href=#updated-on-20250124>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250125>back to top</a>)</p>
 
 ## RVOS
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-23**|**MPG-SAM 2: Adapting SAM 2 with Mask Priors and Global Context for Referring Video Object Segmentation**|Fu Rong et.al.|[2501.13667](http://arxiv.org/abs/2501.13667)|null|
 |**2025-01-15**|**Multi-Context Temporal Consistent Modeling for Referring Video Object Segmentation**|Sun-Hyuk Choi et.al.|[2501.04939](http://arxiv.org/abs/2501.04939)|**[link](https://github.com/choi58/mtcm)**|
 |**2025-01-07**|**Sa2VA: Marrying SAM2 with LLaVA for Dense Grounded Understanding of Images and Videos**|Haobo Yuan et.al.|[2501.04001](http://arxiv.org/abs/2501.04001)|**[link](https://github.com/magic-research/Sa2VA)**|
 |**2024-12-02**|**Referring Video Object Segmentation via Language-aligned Track Selection**|Seongchan Kim et.al.|[2412.01136](http://arxiv.org/abs/2412.01136)|null|
@@ -930,7 +933,7 @@
 |**2022-04-03**|**End-to-End Referring Video Object Segmentation with Multimodal Transformers**|Adam Botach et.al.|[2111.14821](http://arxiv.org/abs/2111.14821)|**[link](https://github.com/mttr2021/MTTR)**|
 |**2024-01-19**|**Rethinking Cross-modal Interaction from a Top-down Perspective for Referring Video Object Segmentation**|Chen Liang et.al.|[2106.01061](http://arxiv.org/abs/2106.01061)|null|
 
-<p align=right>(<a href=#updated-on-20250124>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250125>back to top</a>)</p>
 
 ## AVL
 
@@ -990,6 +993,7 @@
 |**2023-04-15**|**Soft Label Coding for End-to-end Sound Source Localization With Ad-hoc Microphone Arrays**|Linfeng Feng et.al.|[2304.07512](http://arxiv.org/abs/2304.07512)|null|
 |**2023-03-30**|**Sound to Visual Scene Generation by Audio-to-Visual Latent Alignment**|Kim Sung-Bin et.al.|[2303.17490](http://arxiv.org/abs/2303.17490)|null|
 |**2023-03-29**|**Audio-Visual Grouping Network for Sound Localization from Mixtures**|Shentong Mo et.al.|[2303.17056](http://arxiv.org/abs/2303.17056)|**[link](https://github.com/stonemo/avgn)**|
+|**2025-01-23**|**LOCUS: LOcalization with Channel Uncertainty and Sporadic Energy**|Subrata Biswas et.al.|[2302.09409](http://arxiv.org/abs/2302.09409)|null|
 |**2023-01-30**|**Real-Time Acoustic Perception for Automotive Applications**|Jun Yin et.al.|[2301.12808](http://arxiv.org/abs/2301.12808)|null|
 |**2022-12-10**|**Improving trajectory localization accuracy via direction-of-arrival derivative estimation**|Ruchi Pandey et.al.|[2212.03470](http://arxiv.org/abs/2212.03470)|null|
 |**2022-11-21**|**LISA: Localized Image Stylization with Audio via Implicit Neural Representation**|Seung Hyun Lee et.al.|[2211.11381](http://arxiv.org/abs/2211.11381)|null|
@@ -1080,7 +1084,7 @@
 |**2015-02-16**|**Efficient Steered-Response Power Methods for Sound Source Localization Using Microphone Arrays**|Markus V. S. Lima et.al.|[1407.2351](http://arxiv.org/abs/1407.2351)|null|
 |**2014-02-12**|**A Geometric Approach to Sound Source Localization from Time-Delay Estimates**|Xavier Alameda-Pineda et.al.|[1311.1047](http://arxiv.org/abs/1311.1047)|null|
 
-<p align=right>(<a href=#updated-on-20250124>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250125>back to top</a>)</p>
 
 ## AVS
 
@@ -1126,7 +1130,7 @@
 |**2023-02-17**|**Audio-Visual Segmentation**|Jinxing Zhou et.al.|[2207.05042](http://arxiv.org/abs/2207.05042)|**[link](https://github.com/opennlplab/avsbench)**|
 |**2021-04-05**|**Positive Sample Propagation along the Audio-Visual Event Line**|Jinxing Zhou et.al.|[2104.00239](http://arxiv.org/abs/2104.00239)|**[link](https://github.com/jasongief/PSP_CVPR_2021)**|
 
-<p align=right>(<a href=#updated-on-20250124>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250125>back to top</a>)</p>
 
 ## 3D-RES
 
@@ -1137,7 +1141,7 @@
 |**2024-07-31**|**3D-GRES: Generalized 3D Referring Expression Segmentation**|Changli Wu et.al.|[2407.20664](http://arxiv.org/abs/2407.20664)|**[link](https://github.com/sosppxo/MDIN)**|
 |**2023-08-31**|**3D-STMN: Dependency-Driven Superpoint-Text Matching Network for End-to-End 3D Referring Expression Segmentation**|Changli Wu et.al.|[2308.16632](http://arxiv.org/abs/2308.16632)|**[link](https://github.com/sosppxo/3d-stmn)**|
 
-<p align=right>(<a href=#updated-on-20250124>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250125>back to top</a>)</p>
 
 ## 3D-REC
 
@@ -1203,12 +1207,13 @@
 |**2021-03-17**|**Refer-it-in-RGBD: A Bottom-up Approach for 3D Visual Grounding in RGBD Images**|Haolin Liu et.al.|[2103.07894](http://arxiv.org/abs/2103.07894)|null|
 |**2021-07-29**|**InstanceRefer: Cooperative Holistic Understanding for Visual Grounding on Point Clouds through Instance Multi-level Contextual Referring**|Zhihao Yuan et.al.|[2103.01128](http://arxiv.org/abs/2103.01128)|**[link](https://github.com/CurryYuan/InstanceRefer)**|
 
-<p align=right>(<a href=#updated-on-20250124>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250125>back to top</a>)</p>
 
 ## VOS
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-23**|**MPG-SAM 2: Adapting SAM 2 with Mask Priors and Global Context for Referring Video Object Segmentation**|Fu Rong et.al.|[2501.13667](http://arxiv.org/abs/2501.13667)|null|
 |**2025-01-14**|**Learning Motion and Temporal Cues for Unsupervised Video Object Segmentation**|Yunzhi Zhuge et.al.|[2501.07806](http://arxiv.org/abs/2501.07806)|**[link](https://github.com/hy0523/mtnet)**|
 |**2025-01-15**|**Multi-Context Temporal Consistent Modeling for Referring Video Object Segmentation**|Sun-Hyuk Choi et.al.|[2501.04939](http://arxiv.org/abs/2501.04939)|**[link](https://github.com/choi58/mtcm)**|
 |**2025-01-07**|**Sa2VA: Marrying SAM2 with LLaVA for Dense Grounded Understanding of Images and Videos**|Haobo Yuan et.al.|[2501.04001](http://arxiv.org/abs/2501.04001)|**[link](https://github.com/magic-research/Sa2VA)**|
@@ -1646,7 +1651,7 @@
 |**2013-05-29**|**Video Human Segmentation using Fuzzy Object Models and its Application to Body Pose Estimation of Toddlers for Behavior Studies**|Thiago V. Spina et.al.|[1305.6918](http://arxiv.org/abs/1305.6918)|null|
 |**2014-10-27**|**Efficient MRF Energy Propagation for Video Segmentation via Bilateral Filters**|Ozan Sener et.al.|[1301.5356](http://arxiv.org/abs/1301.5356)|null|
 
-<p align=right>(<a href=#updated-on-20250124>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250125>back to top</a>)</p>
 
 ## REG
 
@@ -1692,7 +1697,7 @@
 |**2017-01-12**|**Comprehension-guided referring expressions**|Ruotian Luo et.al.|[1701.03439](http://arxiv.org/abs/1701.03439)|null|
 |**2016-08-10**|**Modeling Context in Referring Expressions**|Licheng Yu et.al.|[1608.00272](http://arxiv.org/abs/1608.00272)|**[link](https://github.com/lichengunc/refer)**|
 
-<p align=right>(<a href=#updated-on-20250124>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250125>back to top</a>)</p>
 
 ## Survey
 
@@ -6933,7 +6938,7 @@
 |**2024-07-26**|**Modeling the Lane-Change Reactions to Merging Vehicles for Highway On-Ramp Simulations**|Dustin Holley et.al.|[2404.09851](http://arxiv.org/abs/2404.09851)|null|
 |**2024-06-25**|**Mapping the anisotropic Galactic stellar halo with Blue Horizontal Branch stars**|João A. S. Amarante et.al.|[2404.09825](http://arxiv.org/abs/2404.09825)|null|
 
-<p align=right>(<a href=#updated-on-20250124>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250125>back to top</a>)</p>
 
 ## RVOT
 
@@ -6941,7 +6946,7 @@
 |---|---|---|---|---|
 |**2024-03-29**|**Elysium: Exploring Object-level Perception in Videos via MLLM**|Han Wang et.al.|[2403.16558](http://arxiv.org/abs/2403.16558)|**[link](https://github.com/hon-wong/elysium)**|
 
-<p align=right>(<a href=#updated-on-20250124>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250125>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
