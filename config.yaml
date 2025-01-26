@@ -25,24 +25,17 @@ md_wechat_path: './docs/wechat.md'
 keywords:
     "RES": 
         filters: ["Referring Expression Segmentation", "Referring Image Segmentation", "Language-based Image Segmentation"]
-    "REC": 
-        filters: ["Referring Expression Comprehension", "Visual Grounding"]
     "RVOS": 
         filters: ["Referring Video Object Segmentation", "Referring Video-Object Segmentation", "Text-based Video Segmentation"]
     "RMOT": 
         filters: ["Referring Multi-Object Tracking"]
     "RVOT": 
         filters: ["Referring Video Object Tracking", "Referring Single Object Tracking", "Vision-Language Tracking"]
-    "AVL": 
-        filters: ["Audio-Visual Localization", "Audio Visual Localization", "Sound Source Localization"]
     "AVS": 
         filters: ["Audio-Visual Segmentation", "Audio Visual Segmentation"]
     "3D-RES":
           filters: ["3D Referring Expression Segmentation"]  
-    "3D-REC":
-          filters: ["3D Referring Expression Comprehension",  "3D Visual Grounding"]  
-    "VOS":
-          filters: ["Video Object Segmentation"]  
-    "REG":
-          filters: ["Referring Expression Generation"]  
+
+  
+
 
