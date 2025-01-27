@@ -1676,7 +1676,7 @@ layout: default
 |**2025-01-13**|**Model-independent forecasts for the cosmological anisotropic stress**|Ziad Sakr et.al.|[2501.07477](http://arxiv.org/abs/2501.07477)|null|
 |**2025-01-13**|**A Survey of Embodied AI in Healthcare: Techniques, Applications, and Opportunities**|Yihao Liu et.al.|[2501.07468](http://arxiv.org/abs/2501.07468)|null|
 |**2025-01-13**|**A Survey on Dynamic Neural Networks: from Computer Vision to Multi-modal Sensor Fusion**|Fabio Montello et.al.|[2501.07451](http://arxiv.org/abs/2501.07451)|null|
-|**2025-01-13**|**Functional Linear Cox Regression Model with Frailty**|Deniz Inan et.al.|[2501.07450](http://arxiv.org/abs/2501.07450)|null|
+|**2025-01-13**|**Functional Linear Cox Regression Model with Frailty**|Deniz Inan et.al.|[2501.07450](http://arxiv.org/abs/2501.07450)|**[link](https://github.com/denizlukusluinan/fcoxfr)**|
 |**2025-01-13**|**A flux-limited sample of dusty star-forming galaxies from the Atacama Cosmology Telescope: physical properties and the case for multiplicity**|Kirsten R. Hall et.al.|[2501.07420](http://arxiv.org/abs/2501.07420)|null|
 |**2025-01-13**|**The GRACE project: Hard X-ray giant radio galaxies and their duty cycle**|G. Bruni et.al.|[2501.07416](http://arxiv.org/abs/2501.07416)|null|
 |**2025-01-13**|**Is planetary inward migration responsible for GJ 504's fast rotation and bright X-ray luminosity? New constraints from eROSITA**|C. Pezzotti et.al.|[2501.07402](http://arxiv.org/abs/2501.07402)|null|
@@ -1694,7 +1694,7 @@ layout: default
 |**2025-01-13**|**The Quest for Visual Understanding: A Journey Through the Evolution of Visual Question Answering**|Anupam Pandey et.al.|[2501.07109](http://arxiv.org/abs/2501.07109)|null|
 |**2025-01-13**|**A Deep Search for a Strong Diffuse Interstellar Band in the Circumgalactic Medium**|Chih-Yuan Chang et.al.|[2501.07082](http://arxiv.org/abs/2501.07082)|null|
 |**2025-01-13**|**Data Enrichment Work and AI Labor in Latin America and the Caribbean**|Gianna Williams et.al.|[2501.06981](http://arxiv.org/abs/2501.06981)|null|
-|**2025-01-12**|**AAS2RTO: Automated Alert Streams to Real-Time Observations: Preparing for rapid follow-up of transient objects in the era of LSST**|Aidan Sedgewick et.al.|[2501.06968](http://arxiv.org/abs/2501.06968)|null|
+|**2025-01-12**|**AAS2RTO: Automated Alert Streams to Real-Time Observations: Preparing for rapid follow-up of transient objects in the era of LSST**|Aidan Sedgewick et.al.|[2501.06968](http://arxiv.org/abs/2501.06968)|**[link](https://github.com/aidansedgewick/dk154-targets-py38)**|
 |**2025-01-12**|**Harnessing Large Language Models for Disaster Management: A Survey**|Zhenyu Lei et.al.|[2501.06932](http://arxiv.org/abs/2501.06932)|null|
 |**2025-01-12**|**Deep Learning and Foundation Models for Weather Prediction: A Survey**|Jimeng Shi et.al.|[2501.06907](http://arxiv.org/abs/2501.06907)|null|
 |**2025-01-12**|**Correcting Annotator Bias in Training Data: Population-Aligned Instance Replication (PAIR)**|Stephanie Eckman et.al.|[2501.06826](http://arxiv.org/abs/2501.06826)|**[link](https://github.com/soda-lmu/PAIR)**|
@@ -1709,7 +1709,7 @@ layout: default
 |**2025-01-11**|**Advancements in UAV-based Integrated Sensing and Communication: A Comprehensive Survey**|Manzoor Ahmed et.al.|[2501.06526](http://arxiv.org/abs/2501.06526)|null|
 |**2025-01-11**|**Not real or too soft? On the challenges of publishing interdisciplinary software engineering research**|Sonja M. Hyrynsalmi et.al.|[2501.06523](http://arxiv.org/abs/2501.06523)|null|
 |**2025-01-11**|**Online Algorithm for Aggregating Experts' Predictions with Unbounded Quadratic Loss**|Alexander Korotin et.al.|[2501.06505](http://arxiv.org/abs/2501.06505)|null|
-|**2025-01-11**|**Study Self-lensing/Eclipsing Signals in Edge-on Double White-Dwarf Systems**|Sedighe Sajadian et.al.|[2501.06498](http://arxiv.org/abs/2501.06498)|null|
+|**2025-01-11**|**Study Self-lensing/Eclipsing Signals in Edge-on Double White-Dwarf Systems**|Sedighe Sajadian et.al.|[2501.06498](http://arxiv.org/abs/2501.06498)|**[link](https://github.com/ssajadian54/double_whitedwarf_li)**|
 |**2025-01-11**|**TopoFormer: Integrating Transformers and ConvLSTMs for Coastal Topography Prediction**|Santosh Munian et.al.|[2501.06494](http://arxiv.org/abs/2501.06494)|null|
 |**2025-01-11**|**Automated Detection and Analysis of Minor Deformations in Flat Walls Due to Railway Vibrations Using LiDAR and Machine Learning**|Surjo Dey et.al.|[2501.06457](http://arxiv.org/abs/2501.06457)|null|
 |**2025-01-10**|**From Stability to Instability: Characterizing the Eccentricities of Multi-planet Systems in the California Kepler Survey as a Means of Studying Stability**|Matthew J. Doty et.al.|[2501.06358](http://arxiv.org/abs/2501.06358)|null|
@@ -1738,7 +1738,7 @@ layout: default
 |**2025-01-10**|**Expressing One's Identity Online: Left-Right and cross EU-country variation in self-representation in social media**|Carlo Romano Marcello Alessandro Santagiustina et.al.|[2501.05927](http://arxiv.org/abs/2501.05927)|null|
 |**2025-01-10**|**LLMs Reproduce Stereotypes of Sexual and Gender Minorities**|Ruby Ostrow et.al.|[2501.05926](http://arxiv.org/abs/2501.05926)|null|
 |**2025-01-10**|**On the approaching geodesics property**|Leandro Arosio et.al.|[2501.05876](http://arxiv.org/abs/2501.05876)|null|
-|**2025-01-10**|**Dark Energy Survey Year 6 Results: Point-Spread Function Modeling**|T. Schutt et.al.|[2501.05781](http://arxiv.org/abs/2501.05781)|null|
+|**2025-01-10**|**Dark Energy Survey Year 6 Results: Point-Spread Function Modeling**|T. Schutt et.al.|[2501.05781](http://arxiv.org/abs/2501.05781)|**[link](https://github.com/rmjarvis/Piff)**|
 |**2025-01-10**|**Semantic Mapping in Indoor Embodied AI -- A Comprehensive Survey and Future Directions**|Sonia Raychaudhuri et.al.|[2501.05750](http://arxiv.org/abs/2501.05750)|null|
 |**2025-01-13**|**Dark Energy Survey Year 6 Results: Photometric Data Set for Cosmology**|K. Bechtol et.al.|[2501.05739](http://arxiv.org/abs/2501.05739)|null|
 |**2025-01-10**|**How to Enable Effective Cooperation Between Humans and NLP Models: A Survey of Principles, Formalizations, and Beyond**|Chen Huang et.al.|[2501.05714](http://arxiv.org/abs/2501.05714)|null|
@@ -1757,7 +1757,7 @@ layout: default
 |**2025-01-09**|**Discovery of a likely Type II SN at $z$ =3.6 with JWST**|D. A. Coulter et.al.|[2501.05513](http://arxiv.org/abs/2501.05513)|null|
 |**2025-01-09**|**JWST NIRCam simulations and observations of AGN ionization cones in cosmic noon galaxies**|Sophie Lebowitz et.al.|[2501.05512](http://arxiv.org/abs/2501.05512)|null|
 |**2025-01-09**|**A Survey of Interactive Verifiable Computing: Utilizing Low-degree Polynomials**|Angold Wang et.al.|[2501.05500](http://arxiv.org/abs/2501.05500)|null|
-|**2025-01-07**|**Implicit Guidance and Explicit Representation of Semantic Information in Points Cloud: A Survey**|Jingyuan Tang et.al.|[2501.05473](http://arxiv.org/abs/2501.05473)|null|
+|**2025-01-07**|**Implicit Guidance and Explicit Representation of Semantic Information in Points Cloud: A Survey**|Jingyuan Tang et.al.|[2501.05473](http://arxiv.org/abs/2501.05473)|**[link](https://github.com/jasmine-tjy/semantic-based-point-cloud-tasks)**|
 |**2025-01-03**|**Small Language Models (SLMs) Can Still Pack a Punch: A survey**|Shreyas Subramanian et.al.|[2501.05465](http://arxiv.org/abs/2501.05465)|null|
 |**2025-01-09**|**A survey of textual cyber abuse detection using cutting-edge language models and large language models**|Jose A. Diaz-Garcia et.al.|[2501.05443](http://arxiv.org/abs/2501.05443)|null|
 |**2025-01-09**|**A Disintegrating Rocky Planet with Prominent Comet-like Tails Around a Bright Star**|Marc Hon et.al.|[2501.05431](http://arxiv.org/abs/2501.05431)|null|
@@ -1795,7 +1795,7 @@ layout: default
 |**2025-01-08**|**Agent Laboratory: Using LLM Agents as Research Assistants**|Samuel Schmidgall et.al.|[2501.04227](http://arxiv.org/abs/2501.04227)|null|
 |**2025-01-08**|**eRO-ExTra: eROSITA extragalactic non-AGN X-ray transients and variables in eRASS1 and eRASS2**|Iuliia Grotova et.al.|[2501.04208](http://arxiv.org/abs/2501.04208)|null|
 |**2025-01-07**|**Graph classes through the lens of logic**|Michał Pilipczuk et.al.|[2501.04166](http://arxiv.org/abs/2501.04166)|null|
-|**2025-01-07**|**\texttt{Pz Cats}: Photometric redshift catalogs based on DES Y3 BAO sample**|Paula S. Ferreira et.al.|[2501.04118](http://arxiv.org/abs/2501.04118)|null|
+|**2025-01-07**|**\texttt{Pz Cats}: Photometric redshift catalogs based on DES Y3 BAO sample**|Paula S. Ferreira et.al.|[2501.04118](http://arxiv.org/abs/2501.04118)|**[link](https://github.com/psilvaf/bao_pz)**|
 |**2025-01-07**|**The LOFAR Two-metre Sky Survey: Deep Fields Data Release 2. I. The ELAIS-N1 field**|T. W. Shimwell et.al.|[2501.04093](http://arxiv.org/abs/2501.04093)|null|
 |**2025-01-07**|**Streams, Shells, and Substructures in the Accretion-Built Stellar Halo of NGC 300**|Catherine E. Fielder et.al.|[2501.04089](http://arxiv.org/abs/2501.04089)|null|
 |**2025-01-07**|**The Cosmic Evolution Early Release Science Survey (CEERS)**|Steven L. Finkelstein et.al.|[2501.04085](http://arxiv.org/abs/2501.04085)|null|
@@ -3602,7 +3602,7 @@ layout: default
 |**2024-10-04**|**A Quasar-Anchored Protocluster at z=6.6 in the ASPIRE Survey: I. Properties of [OIII] Emitters in a 10 Mpc Overdensity Structure**|Jaclyn B. Champagne et.al.|[2410.03826](http://arxiv.org/abs/2410.03826)|null|
 |**2024-10-04**|**Baryonic Ecosystem in Galaxies (BEINGMgII) -- II. Unveiling the Nature of Galaxies Harboring Cool Gas Reservoirs**|S. Das et.al.|[2410.03824](http://arxiv.org/abs/2410.03824)|null|
 |**2024-10-03**|**Emission-Line Ratios and Ionization Conditions of CEERS Star-Forming Galaxies with JWST/NIRSpec**|Ansh R. Gupta et.al.|[2410.03784](http://arxiv.org/abs/2410.03784)|null|
-|**2024-10-01**|**Recent Advances in Speech Language Models: A Survey**|Wenqian Cui et.al.|[2410.03751](http://arxiv.org/abs/2410.03751)|null|
+|**2024-10-01**|**Recent Advances in Speech Language Models: A Survey**|Wenqian Cui et.al.|[2410.03751](http://arxiv.org/abs/2410.03751)|**[link](https://github.com/dreamtheater123/awesome-speechlm-survey)**|
 |**2024-09-27**|**Visualization of missing data: a state-of-the-art survey**|Sarah Alsufyani et.al.|[2410.03712](http://arxiv.org/abs/2410.03712)|null|
 |**2024-09-24**|**A survey of Zarankiewicz problem in geometry**|Shakhar Smorodinsky et.al.|[2410.03702](http://arxiv.org/abs/2410.03702)|null|
 |**2024-09-22**|**Conversational Swarms of Humans and AI Agents enable Hybrid Collaborative Decision-making**|Louis Rosenberg et.al.|[2410.03690](http://arxiv.org/abs/2410.03690)|null|
@@ -6385,7 +6385,7 @@ layout: default
 |**2024-07-03**|**Evaluation of Retrieval-Augmented Generation: A Survey**|Hao Yu et.al.|[2405.07437](http://arxiv.org/abs/2405.07437)|**[link](https://github.com/yhpeter/awesome-rag-evaluation)**|
 |**2024-07-25**|**Machine Unlearning: A Comprehensive Survey**|Weiqi Wang et.al.|[2405.07406](http://arxiv.org/abs/2405.07406)|null|
 |**2024-05-12**|**Interstellar Polarization Survey. IV. Characterizing the magnetic field strength and turbulent dispersion using optical starlight polarization in the diffuse interstellar medium**|Y. Angarita et.al.|[2405.07347](http://arxiv.org/abs/2405.07347)|null|
-|**2024-05-12**|**Limited Ability of LLMs to Simulate Human Psychological Behaviours: a Psychometric Analysis**|Nikolay B Petrov et.al.|[2405.07248](http://arxiv.org/abs/2405.07248)|null|
+|**2024-05-12**|**Limited Ability of LLMs to Simulate Human Psychological Behaviours: a Psychometric Analysis**|Nikolay B Petrov et.al.|[2405.07248](http://arxiv.org/abs/2405.07248)|**[link](https://github.com/nikbpetrov/llms-simulate-humans)**|
 |**2024-05-12**|**Testing Cotton gravity as dark matter substitute with weak lensing**|Geyu Mo et.al.|[2405.07215](http://arxiv.org/abs/2405.07215)|null|
 |**2024-09-29**|**Constrain the linear scalar perturbation theory of Cotton gravity**|Pengbo Xia et.al.|[2405.07209](http://arxiv.org/abs/2405.07209)|null|
 |**2024-05-11**|**Fairness in Reinforcement Learning: A Survey**|Anka Reuel et.al.|[2405.06909](http://arxiv.org/abs/2405.06909)|null|
