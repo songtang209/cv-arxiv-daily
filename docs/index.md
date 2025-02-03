@@ -1870,7 +1870,7 @@ layout: default
 |**2025-01-03**|**Finding Large Sets Without Arithmetic Progressions of Length Three: An Empirical View and Survey II**|William Gasarch et.al.|[2501.01634](http://arxiv.org/abs/2501.01634)|null|
 |**2025-01-03**|**Fire and Ice in the Whirlpool: Spatially Resolved Scaling Relations between X-ray Emitting Hot Gas and Cold Molecular Gas in M51**|Chunyi Zhang et.al.|[2501.01613](http://arxiv.org/abs/2501.01613)|null|
 |**2025-01-03**|**Millihertz Oscillations Near the Innermost Orbit of a Supermassive Black Hole**|Megan Masterson et.al.|[2501.01581](http://arxiv.org/abs/2501.01581)|**[link](https://github.com/memasterson/1es1927_mhzqpo)**|
-|**2025-01-02**|**Photometry of outer Solar System objects from the Dark Energy Survey II: a joint analysis of trans-Neptunian absolute magnitudes, colors, lightcurves and dynamics**|Pedro H. Bernardinelli et.al.|[2501.01551](http://arxiv.org/abs/2501.01551)|null|
+|**2025-01-02**|**Photometry of outer Solar System objects from the Dark Energy Survey II: a joint analysis of trans-Neptunian absolute magnitudes, colors, lightcurves and dynamics**|Pedro H. Bernardinelli et.al.|[2501.01551](http://arxiv.org/abs/2501.01551)|**[link](https://github.com/bernardinelli/gmm_anyk)**|
 |**2025-01-02**|**A Link Between White Dwarf Pulsars and Polars: Multiwavelength Observations of the 9.36-Minute Period Variable Gaia22ayj**|Antonio C. Rodriguez et.al.|[2501.01490](http://arxiv.org/abs/2501.01490)|null|
 |**2025-01-02**|**A Survey of Deep Learning Methods in Protein Bioinformatics and its Impact on Protein Design**|Weihang Dai et.al.|[2501.01477](http://arxiv.org/abs/2501.01477)|null|
 |**2024-12-30**|**The Effects of Anthropogenic Air and Light Pollution on Astrophysics and Society**|Maya Nunez et.al.|[2501.01452](http://arxiv.org/abs/2501.01452)|null|
@@ -3797,7 +3797,7 @@ layout: default
 |**2024-12-29**|**The Multiple Extended Tidal Tails of NGC 288**|Carl J. Grillmair et.al.|[2409.17361](http://arxiv.org/abs/2409.17361)|null|
 |**2024-09-25**|**Identification of Basins of Attraction in the Local Universe**|Aurelien Valade et.al.|[2409.17261](http://arxiv.org/abs/2409.17261)|null|
 |**2024-09-25**|**Evaluation of Galaxy as a User-friendly Bioinformatics Tool for Enhancing Clinical Diagnostics in Genetics Laboratories**|Hadi Almohab et.al.|[2409.17253](http://arxiv.org/abs/2409.17253)|null|
-|**2024-09-30**|**An Hα view of galaxy build-up in the first 2 Gyr: luminosity functions at z~4-6.5 from NIRCam/grism spectroscopy**|Alba Covelo-Paz et.al.|[2409.17241](http://arxiv.org/abs/2409.17241)|null|
+|**2024-09-30**|**An Hα view of galaxy build-up in the first 2 Gyr: luminosity functions at z~4-6.5 from NIRCam/grism spectroscopy**|Alba Covelo-Paz et.al.|[2409.17241](http://arxiv.org/abs/2409.17241)|**[link](https://github.com/astroalba/fresco)**|
 |**2024-09-25**|**When Sensitivity Bias Varies Across Subgroups: The Impact of Non-uniform Polarity in List Experiments**|Sophia Hatz et.al.|[2409.17195](http://arxiv.org/abs/2409.17195)|null|
 |**2024-09-25**|**An Analytically Tractable Marked Power Spectrum**|Haruki Ebina et.al.|[2409.17133](http://arxiv.org/abs/2409.17133)|null|
 |**2024-09-25**|**The effect of image quality on galaxy merger identification with deep learning**|Robert W. Bickley et.al.|[2409.17081](http://arxiv.org/abs/2409.17081)|null|
@@ -5019,7 +5019,7 @@ layout: default
 |**2024-11-04**|**A kiloparsec-scale ordered magnetic field in a galaxy at z=5.6**|Jianhang Chen et.al.|[2407.14596](http://arxiv.org/abs/2407.14596)|null|
 |**2024-07-23**|**Big Galaxies and Big Black Holes: The Massive Ends of the Local Stellar and Black Hole Mass Functions and the Implications for Nanohertz Gravitational Waves**|Emily R. Liepold et.al.|[2407.14595](http://arxiv.org/abs/2407.14595)|null|
 |**2024-09-24**|**Binarity at LOw Metallicity (BLOeM): a spectroscopic VLT monitoring survey of massive stars in the SMC**|T. Shenar et.al.|[2407.14593](http://arxiv.org/abs/2407.14593)|null|
-|**2024-07-19**|**Forecasts and Statistical Insights for Line Intensity Mapping Cross-Correlations: A Case Study with 21cm x [CII]**|Hannah Fronenberg et.al.|[2407.14588](http://arxiv.org/abs/2407.14588)|null|
+|**2024-07-19**|**Forecasts and Statistical Insights for Line Intensity Mapping Cross-Correlations: A Case Study with 21cm x [CII]**|Hannah Fronenberg et.al.|[2407.14588](http://arxiv.org/abs/2407.14588)|**[link](https://github.com/mcgill-cosmic-dawn-group/limstat)**|
 |**2024-10-28**|**Echo Location: Distances to Galactic Supernovae From ASAS-SN Light Echoes and 3D Dust Maps**|Kyle D. Neumann et.al.|[2407.14584](http://arxiv.org/abs/2407.14584)|null|
 |**2024-12-22**|**Integrating Artificial Intelligence into Operating Systems: A Comprehensive Survey on Techniques, Applications, and Future Directions**|Yifan Zhang et.al.|[2407.14567](http://arxiv.org/abs/2407.14567)|null|
 |**2025-01-03**|**NNsight and NDIF: Democratizing Access to Open-Weight Foundation Model Internals**|Jaden Fiotto-Kaufman et.al.|[2407.14561](http://arxiv.org/abs/2407.14561)|null|
