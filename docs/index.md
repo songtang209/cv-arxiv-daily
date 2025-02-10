@@ -173,7 +173,7 @@ layout: default
 |**2024-12-15**|**M $^{3}$ D: A Multimodal, Multilingual and Multitask Dataset for Grounded Document-level Information Extraction**|Jiang Liu et.al.|[2412.04026](http://arxiv.org/abs/2412.04026)|**[link](https://github.com/solkx/m3d)**|
 |**2024-12-01**|**Paint Outside the Box: Synthesizing and Selecting Training Data for Visual Grounding**|Zilin Du et.al.|[2412.00684](http://arxiv.org/abs/2412.00684)|null|
 |**2024-11-27**|**3D Scene Graph Guided Vision-Language Pre-training**|Hao Liu et.al.|[2411.18666](http://arxiv.org/abs/2411.18666)|null|
-|**2024-11-25**|**Interpreting Object-level Foundation Models via Visual Precision Search**|Ruoyu Chen et.al.|[2411.16198](http://arxiv.org/abs/2411.16198)|null|
+|**2024-11-25**|**Interpreting Object-level Foundation Models via Visual Precision Search**|Ruoyu Chen et.al.|[2411.16198](http://arxiv.org/abs/2411.16198)|**[link](https://github.com/ruoyuchen10/vps)**|
 |**2024-11-27**|**BIP3D: Bridging 2D Images and 3D Perception for Embodied Intelligence**|Xuewu Lin et.al.|[2411.14869](http://arxiv.org/abs/2411.14869)|**[link](https://github.com/HorizonRobotics/BIP3D)**|
 |**2024-11-22**|**Harlequin: Color-driven Generation of Synthetic Data for Referring Expression Comprehension**|Luca Parolari et.al.|[2411.14807](http://arxiv.org/abs/2411.14807)|null|
 |**2024-11-21**|**Solving Zero-Shot 3D Visual Grounding as Constraint Satisfaction Problems**|Qihao Yuan et.al.|[2411.14594](http://arxiv.org/abs/2411.14594)|**[link](https://github.com/sunsleaf/csvg)**|
@@ -3062,7 +3062,7 @@ layout: default
 |**2024-10-31**|**Differing Manifestations of Spatial Curvature in Cosmological FRW Models**|Meir Shimon et.al.|[2411.00080](http://arxiv.org/abs/2411.00080)|null|
 |**2024-12-23**|**A Theoretical Review on Solving Algebra Problems**|Xinguo Yu et.al.|[2411.00031](http://arxiv.org/abs/2411.00031)|null|
 |**2024-10-29**|**Personalization of Large Language Models: A Survey**|Zhehao Zhang et.al.|[2411.00027](http://arxiv.org/abs/2411.00027)|null|
-|**2024-10-16**|**Mastering the Craft of Data Synthesis for CodeLLMs**|Meng Chen et.al.|[2411.00005](http://arxiv.org/abs/2411.00005)|null|
+|**2024-10-16**|**Mastering the Craft of Data Synthesis for CodeLLMs**|Meng Chen et.al.|[2411.00005](http://arxiv.org/abs/2411.00005)|**[link](https://github.com/chenmengdx/awesome-data-synthesis-for-code-llm)**|
 |**2024-12-02**|**Generative modelling for mass-mapping with fast uncertainty quantification**|Jessica J. Whitney et.al.|[2410.24197](http://arxiv.org/abs/2410.24197)|**[link](https://github.com/astro-informatics/rcGAN)**|
 |**2024-11-04**|**StarDICE III: Characterization of the photometric instrument with a Collimated Beam Projector**|Thierry Souverin et.al.|[2410.24173](http://arxiv.org/abs/2410.24173)|null|
 |**2024-12-20**|**Spectral features and variable circular polarisation in the radio emission from the pre-cataclysmic variable QS Vir**|M. E. Ridder et.al.|[2410.24157](http://arxiv.org/abs/2410.24157)|**[link](https://github.com/meridder/qs-vir)**|
@@ -3499,7 +3499,7 @@ layout: default
 |**2024-10-10**|**High-redshift LBG selection from broadband and wide photometric surveys using a Random Forest algorithm**|C. Payerne et.al.|[2410.08062](http://arxiv.org/abs/2410.08062)|null|
 |**2024-10-10**|**Star formation rate density as a function of galaxy mass at z < 0.2 with MUSE and GAMA surveys**|G. G. Murrell et.al.|[2410.08036](http://arxiv.org/abs/2410.08036)|null|
 |**2024-10-10**|**Smoothed pseudo-population bootstrap methods with applications to finite population quantiles**|Vanessa McNealis et.al.|[2410.07996](http://arxiv.org/abs/2410.07996)|null|
-|**2024-10-10**|**COMPL-AI Framework: A Technical Interpretation and LLM Benchmarking Suite for the EU Artificial Intelligence Act**|Philipp Guldimann et.al.|[2410.07959](http://arxiv.org/abs/2410.07959)|null|
+|**2024-10-10**|**COMPL-AI Framework: A Technical Interpretation and LLM Benchmarking Suite for the EU Artificial Intelligence Act**|Philipp Guldimann et.al.|[2410.07959](http://arxiv.org/abs/2410.07959)|**[link](https://github.com/compl-ai/compl-ai)**|
 |**2024-11-20**|**Constraints on compact objects from the Dark Energy Survey five-year supernova sample**|Paul Shah et.al.|[2410.07956](http://arxiv.org/abs/2410.07956)|null|
 |**2024-10-10**|**A Comprehensive Survey on Joint Resource Allocation Strategies in Federated Edge Learning**|Jingbo Zhang et.al.|[2410.07881](http://arxiv.org/abs/2410.07881)|null|
 |**2024-10-10**|**Exploring Foundation Models in Remote Sensing Image Change Detection: A Comprehensive Survey**|Zihan Yu et.al.|[2410.07824](http://arxiv.org/abs/2410.07824)|null|
@@ -4058,7 +4058,7 @@ layout: default
 |**2024-09-12**|**A Mixed-Methods Study of Open-Source Software Maintainers On Vulnerability Management and Platform Security Features**|Jessy Ayala et.al.|[2409.07669](http://arxiv.org/abs/2409.07669)|null|
 |**2024-09-11**|**Generalization Error Bound for Quantum Machine Learning in NISQ Era -- A Survey**|Bikram Khanal et.al.|[2409.07626](http://arxiv.org/abs/2409.07626)|null|
 |**2024-11-14**|**The Impact of Shear on Disk Galaxy Star Formation Rates**|Xena L. Fortune-Bashee et.al.|[2409.07622](http://arxiv.org/abs/2409.07622)|null|
-|**2024-09-21**|**A Comprehensive Survey on Inverse Constrained Reinforcement Learning: Definitions, Progress and Challenges**|Guiliang Liu et.al.|[2409.07569](http://arxiv.org/abs/2409.07569)|null|
+|**2024-09-21**|**A Comprehensive Survey on Inverse Constrained Reinforcement Learning: Definitions, Progress and Challenges**|Guiliang Liu et.al.|[2409.07569](http://arxiv.org/abs/2409.07569)|**[link](https://github.com/jasonxu1225/awesome-constraint-inference-in-rl)**|
 |**2024-09-11**|**Euclid preparation. Deep learning true galaxy morphologies for weak lensing shear bias calibration**|Euclid Collaboration et.al.|[2409.07528](http://arxiv.org/abs/2409.07528)|null|
 |**2024-09-11**|**A survey of extremely metal-poor gas at cosmic noon: evidence of elevated [O/Fe]**|Louise Welsh et.al.|[2409.07525](http://arxiv.org/abs/2409.07525)|null|
 |**2024-09-11**|**Grand Unification at the Cosmological Collider with Chemical Potential**|Arushi Bodas et.al.|[2409.07524](http://arxiv.org/abs/2409.07524)|null|
@@ -6320,7 +6320,7 @@ layout: default
 |**2024-07-12**|**Filling in the Blanks: A Method to Infer the Substructure Membership and Dynamics of 5D Stars**|Thomas M. Callingham et.al.|[2405.10168](http://arxiv.org/abs/2405.10168)|null|
 |**2024-05-22**|**Stellar Chromospheric Activity Database of Solar-like Stars Based on the LAMOST Low-Resolution Spectroscopic Survey: II. the bolometric and photospheric calibration**|Weitao Zhang et.al.|[2405.10047](http://arxiv.org/abs/2405.10047)|null|
 |**2024-05-16**|**A Sample of Compact Object Candidates in Single-lined Spectroscopic Binaries from LAMOST Medium Resolution Survey**|Hao-Bin Liu et.al.|[2405.09825](http://arxiv.org/abs/2405.09825)|null|
-|**2024-05-15**|**Inferring the Ionizing Photon Contributions of High-Redshift Galaxies to Reionization with JWST NIRCam Photometry**|Nicholas Choustikov et.al.|[2405.09720](http://arxiv.org/abs/2405.09720)|null|
+|**2024-05-15**|**Inferring the Ionizing Photon Contributions of High-Redshift Galaxies to Reionization with JWST NIRCam Photometry**|Nicholas Choustikov et.al.|[2405.09720](http://arxiv.org/abs/2405.09720)|**[link](https://github.com/chousti/photonion)**|
 |**2024-05-15**|**A SN Ia Near a Globular Cluster in the Early-Type Galaxy NGC 5353**|Joel N. Bregman et.al.|[2405.09701](http://arxiv.org/abs/2405.09701)|null|
 |**2024-05-15**|**Feedback in emerging extragalactic star clusters, FEAST: The relation between 3.3 $μ$ m PAH emission and Star Formation Rate traced by ionized gas in NGC 628**|Benjamin Gregg et.al.|[2405.09667](http://arxiv.org/abs/2405.09667)|null|
 |**2024-08-31**|**Investigation of the Radial Profile of Galactic Magnetic Fields using Rotation Measure of Background Quasars**|Shivam Burman et.al.|[2405.09623](http://arxiv.org/abs/2405.09623)|null|
