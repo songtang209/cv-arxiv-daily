@@ -7,14 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.13
+## Updated on 2025.02.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RES
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-02-06**|**PixFoundation: Are We Heading in the Right Direction with Pixel-level Vision Foundation Models?**|Mennatullah Siam et.al.|[2502.04192](http://arxiv.org/abs/2502.04192)|null|
+|**2025-02-06**|**PixFoundation: Are We Heading in the Right Direction with Pixel-level Vision Foundation Models?**|Mennatullah Siam et.al.|[2502.04192](http://arxiv.org/abs/2502.04192)|**[link](https://github.com/msiam/pixfoundation)**|
 |**2025-01-19**|**Know "No" Better: A Data-Driven Approach for Enhancing Negation Awareness in CLIP**|Junsung Park et.al.|[2501.10913](http://arxiv.org/abs/2501.10913)|null|
 |**2025-01-15**|**Densely Connected Parameter-Efficient Tuning for Referring Image Segmentation**|Jiaqi Huang et.al.|[2501.08580](http://arxiv.org/abs/2501.08580)|**[link](https://github.com/jiaqihuang01/detris)**|
 |**2025-01-12**|**Multi-task Visual Grounding with Coarse-to-Fine Consistency Constraints**|Ming Dai et.al.|[2501.06710](http://arxiv.org/abs/2501.06710)|**[link](https://github.com/dmmm1997/c3vg)**|
@@ -1086,7 +1086,7 @@ layout: default
 |**2024-09-29**|**CPM: Class-conditional Prompting Machine for Audio-visual Segmentation**|Yuanhong Chen et.al.|[2407.05358](http://arxiv.org/abs/2407.05358)|null|
 |**2024-07-03**|**SAVE: Segment Audio-Visual Easy way using Segment Anything Model**|Khanh-Binh Nguyen et.al.|[2407.02004](http://arxiv.org/abs/2407.02004)|null|
 |**2024-06-10**|**Extending Segment Anything Model into Auditory and Temporal Dimensions for Audio-Visual Segmentation**|Juhyeong Seon et.al.|[2406.06163](http://arxiv.org/abs/2406.06163)|**[link](https://github.com/Sunjuhyeong/SAM_STBAVA)**|
-|**2025-02-10**|**Progressive Confident Masking Attention Network for Audio-Visual Segmentation**|Yuxuan Wang et.al.|[2406.02345](http://arxiv.org/abs/2406.02345)|null|
+|**2025-02-10**|**Progressive Confident Masking Attention Network for Audio-Visual Segmentation**|Yuxuan Wang et.al.|[2406.02345](http://arxiv.org/abs/2406.02345)|**[link](https://github.com/prettyplate/pcmanet)**|
 |**2024-03-21**|**Unsupervised Audio-Visual Segmentation with Modality Alignment**|Swapnil Bhosale et.al.|[2403.14203](http://arxiv.org/abs/2403.14203)|null|
 |**2024-03-17**|**Audio-Visual Segmentation via Unlabeled Frame Exploitation**|Jinxiang Liu et.al.|[2403.11074](http://arxiv.org/abs/2403.11074)|null|
 |**2024-02-06**|**Bootstrapping Audio-Visual Segmentation by Strengthening Audio Cues**|Tianxiang Chen et.al.|[2402.02327](http://arxiv.org/abs/2402.02327)|null|
