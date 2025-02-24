@@ -2440,7 +2440,7 @@ layout: default
 |**2024-12-14**|**Robust detection of hot intragroup medium in optically selected, poor galaxy groups by eROSITA**|Dawei Li et.al.|[2412.01261](http://arxiv.org/abs/2412.01261)|null|
 |**2025-01-09**|**Investigations of MWISP Filaments. I. Filament Identification and Analysis Algorithms, and Source Catalogue**|Yu Jiang et.al.|[2412.01238](http://arxiv.org/abs/2412.01238)|**[link](https://github.com/JiangYuTS/DPConCFil)**|
 |**2024-12-02**|**The Simons Observatory: Design, Integration, and Current Status of Small Aperture Telescopes**|Aashrita Mangu et.al.|[2412.01200](http://arxiv.org/abs/2412.01200)|null|
-|**2024-12-02**|**Representation Learning for Time-Domain High-Energy Astrophysics: Discovery of Extragalactic Fast X-ray Transient XRT 200515**|Steven Dillmann et.al.|[2412.01150](http://arxiv.org/abs/2412.01150)|null|
+|**2024-12-02**|**Representation Learning for Time-Domain High-Energy Astrophysics: Discovery of Extragalactic Fast X-ray Transient XRT 200515**|Steven Dillmann et.al.|[2412.01150](http://arxiv.org/abs/2412.01150)|**[link](https://github.com/StevenDillmann/ml-xraytransients-mnras)**|
 |**2024-12-02**|**Transversal Structures in Graph Systems: A Survey**|Wanting Sun et.al.|[2412.01121](http://arxiv.org/abs/2412.01121)|null|
 |**2024-12-02**|**Practitioners' Expectations on Log Anomaly Detection**|Xiaoxue Ma et.al.|[2412.01066](http://arxiv.org/abs/2412.01066)|null|
 |**2024-12-01**|**LOFAR Deep Fields: Probing the sub-mJy regime of polarized extragalactic sources in ELAIS-N1. II. Analysis**|S. Piras et.al.|[2412.00988](http://arxiv.org/abs/2412.00988)|null|
@@ -3802,7 +3802,7 @@ layout: default
 |**2024-09-25**|**Evaluation of Galaxy as a User-friendly Bioinformatics Tool for Enhancing Clinical Diagnostics in Genetics Laboratories**|Hadi Almohab et.al.|[2409.17253](http://arxiv.org/abs/2409.17253)|null|
 |**2024-09-30**|**An Hα view of galaxy build-up in the first 2 Gyr: luminosity functions at z~4-6.5 from NIRCam/grism spectroscopy**|Alba Covelo-Paz et.al.|[2409.17241](http://arxiv.org/abs/2409.17241)|**[link](https://github.com/astroalba/fresco)**|
 |**2024-09-25**|**When Sensitivity Bias Varies Across Subgroups: The Impact of Non-uniform Polarity in List Experiments**|Sophia Hatz et.al.|[2409.17195](http://arxiv.org/abs/2409.17195)|null|
-|**2024-09-25**|**An Analytically Tractable Marked Power Spectrum**|Haruki Ebina et.al.|[2409.17133](http://arxiv.org/abs/2409.17133)|null|
+|**2024-09-25**|**An Analytically Tractable Marked Power Spectrum**|Haruki Ebina et.al.|[2409.17133](http://arxiv.org/abs/2409.17133)|**[link](https://github.com/HarukiEbina/markedPS)**|
 |**2024-09-25**|**The effect of image quality on galaxy merger identification with deep learning**|Robert W. Bickley et.al.|[2409.17081](http://arxiv.org/abs/2409.17081)|null|
 |**2024-09-25**|**Dynamical Dark Energy Beyond Planck? Constraints from multiple CMB probes, DESI BAO and Type-Ia Supernovae**|William Giarè et.al.|[2409.17074](http://arxiv.org/abs/2409.17074)|null|
 |**2024-09-25**|**Towards User-Focused Research in Training Data Attribution for Human-Centered Explainable AI**|Elisa Nguyen et.al.|[2409.16978](http://arxiv.org/abs/2409.16978)|null|
