@@ -4707,7 +4707,7 @@ layout: default
 |**2024-10-03**|**An Artificial Neural Network based approach for Harmonic Component Prediction in a Distribution Line**|Dixant Bikal Sapkota et.al.|[2408.03161](http://arxiv.org/abs/2408.03161)|null|
 |**2024-08-06**|**Fake News Detection via Wisdom of Synthetic & Representative Crowds**|François t'Serstevens et.al.|[2408.03154](http://arxiv.org/abs/2408.03154)|null|
 |**2024-08-06**|**Towards an Analysis of Discourse and Interactional Pragmatic Reasoning Capabilities of Large Language Models**|Amelie Robrecht et.al.|[2408.03074](http://arxiv.org/abs/2408.03074)|null|
-|**2024-11-15**|**Multi-dimensional optimisation of the scanning strategy for the LiteBIRD space mission**|Y. Takase et.al.|[2408.03040](http://arxiv.org/abs/2408.03040)|null|
+|**2024-11-15**|**Multi-dimensional optimisation of the scanning strategy for the LiteBIRD space mission**|Y. Takase et.al.|[2408.03040](http://arxiv.org/abs/2408.03040)|**[link](https://github.com/yusuke-takase/falcons.jl)**|
 |**2024-08-06**|**A new code for low-resolution spectral identification of white dwarf binary candidates**|Genghao Liu et.al.|[2408.03038](http://arxiv.org/abs/2408.03038)|null|
 |**2024-08-06**|**Modeling and measuring the anisotropic halo 3-point correlation function: a coordinated study**|Antonio Farina et.al.|[2408.03036](http://arxiv.org/abs/2408.03036)|null|
 |**2024-09-10**|**X-Ray Flashes on Helium Novae**|Mariko Kato et.al.|[2408.02947](http://arxiv.org/abs/2408.02947)|null|
@@ -5646,7 +5646,7 @@ layout: default
 |**2024-06-18**|**W2E (Workout to Earn): A Low Cost DApp based on ERC-20 and ERC-721 standards**|Do Hai Son et.al.|[2406.12244](http://arxiv.org/abs/2406.12244)|**[link](https://github.com/DoHaiSon/W2E_smart_contract)**|
 |**2024-06-17**|**Integrating 2D Magnets for Quantum Devices: from Materials and Characterization to Future Technology**|Han Zhong et.al.|[2406.12136](http://arxiv.org/abs/2406.12136)|null|
 |**2024-10-19**|**The Glow of Axion Quark Nugget Dark Matter: (I) Large Scale Structures**|Fereshteh Majidi et.al.|[2406.12122](http://arxiv.org/abs/2406.12122)|null|
-|**2024-10-22**|**COMMUNITY-CROSS-INSTRUCT: Unsupervised Instruction Generation for Aligning Large Language Models to Online Communities**|Zihao He et.al.|[2406.12074](http://arxiv.org/abs/2406.12074)|null|
+|**2024-10-22**|**COMMUNITY-CROSS-INSTRUCT: Unsupervised Instruction Generation for Aligning Large Language Models to Online Communities**|Zihao He et.al.|[2406.12074](http://arxiv.org/abs/2406.12074)|**[link](https://github.com/zihaohe123/community-cross-instruct)**|
 |**2024-06-17**|**Ultra-low frequency LOFAR spectral indices of cluster radio halos**|T. Pasini et.al.|[2406.12005](http://arxiv.org/abs/2406.12005)|null|
 |**2024-06-17**|**JADES: Physical properties of Ly $α$ and non-Ly$α$ emitters at z ~ 4.8-9.6**|Nimisha Kumari et.al.|[2406.11997](http://arxiv.org/abs/2406.11997)|null|
 |**2024-06-19**|**The Nearly Universal Disk Galaxy Rotation Curve**|Raj Patel et.al.|[2406.11987](http://arxiv.org/abs/2406.11987)|null|
