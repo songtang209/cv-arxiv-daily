@@ -215,7 +215,7 @@ layout: default
 |**2025-01-02**|**MaPPER: Multimodal Prior-guided Parameter Efficient Tuning for Referring Expression Comprehension**|Ting Liu et.al.|[2409.13609](http://arxiv.org/abs/2409.13609)|**[link](https://github.com/liuting20/mapper)**|
 |**2024-10-15**|**LLM-wrapper: Black-Box Semantic-Aware Adaptation of Vision-Language Models for Referring Expression Comprehension**|Amaia Cardiel et.al.|[2409.11919](http://arxiv.org/abs/2409.11919)|null|
 |**2024-12-14**|**Improving the Efficiency of Visually Augmented Language Models**|Paula Ontalvilla et.al.|[2409.11148](http://arxiv.org/abs/2409.11148)|**[link](https://github.com/paulaonta/blind-valm)**|
-|**2024-09-16**|**HiFi-CS: Towards Open Vocabulary Visual Grounding For Robotic Grasping Using Vision-Language Models**|Vineet Bhat et.al.|[2409.10419](http://arxiv.org/abs/2409.10419)|null|
+|**2024-09-16**|**HiFi-CS: Towards Open Vocabulary Visual Grounding For Robotic Grasping Using Vision-Language Models**|Vineet Bhat et.al.|[2409.10419](http://arxiv.org/abs/2409.10419)|**[link](https://github.com/vineet2104/hifics)**|
 |**2024-09-12**|**Bayesian Self-Training for Semi-Supervised 3D Segmentation**|Ozan Unal et.al.|[2409.08102](http://arxiv.org/abs/2409.08102)|null|
 |**2024-09-09**|**Improved Visually Prompted Keyword Localisation in Real Low-Resource Settings**|Leanne Nortje et.al.|[2409.06013](http://arxiv.org/abs/2409.06013)|**[link](https://github.com/LeanneNortje/low-resource_VPKL)**|
 |**2024-09-09**|**Referring Expression Generation in Visually Grounded Dialogue with Discourse-aware Comprehension Guiding**|Bram Willemsen et.al.|[2409.05721](http://arxiv.org/abs/2409.05721)|**[link](https://github.com/willemsenbram/reg-with-guiding)**|
@@ -2188,7 +2188,7 @@ layout: default
 |**2024-12-13**|**Hesitation and Tolerance in Recommender Systems**|Kuan Zou et.al.|[2412.09950](http://arxiv.org/abs/2412.09950)|null|
 |**2024-12-13**|**The Three Hundred Project: The relationship between the shock and splashback radii of simulated galaxy clusters**|M. Zhang et.al.|[2412.09864](http://arxiv.org/abs/2412.09864)|null|
 |**2024-12-13**|**Prospects for Systematic Planetary Nebulae Detection with the Census of the Local Universe Narrowband Survey**|Rong Du et.al.|[2412.09836](http://arxiv.org/abs/2412.09836)|null|
-|**2024-12-13**|**Which cycling environment appears safer? Learning cycling safety perceptions from pairwise image comparisons**|Miguel Costa et.al.|[2412.09835](http://arxiv.org/abs/2412.09835)|null|
+|**2024-12-13**|**Which cycling environment appears safer? Learning cycling safety perceptions from pairwise image comparisons**|Miguel Costa et.al.|[2412.09835](http://arxiv.org/abs/2412.09835)|**[link](https://github.com/mncosta/cycling_safety_subjective_learning_pairwise)**|
 |**2024-12-13**|**Radio Galaxies in SIMBA: A MIGHTEE Comparison**|Nicole L. Thomas et.al.|[2412.09824](http://arxiv.org/abs/2412.09824)|null|
 |**2024-12-12**|**ALMA/SCUBA-2 COSMOS Survey: Properties of X-ray- and SED-selected AGNs in Bright Submillimeter Galaxies**|Ryosuke Uematsu et.al.|[2412.09737](http://arxiv.org/abs/2412.09737)|null|
 |**2024-12-12**|**The Multiband Imaging Survey for High-Alpha PlanetS (MISHAPS) I: Preliminary Constraints on the Occurrence Rate of Hot Jupiters in 47 Tucanae**|Alison L. Crisp et.al.|[2412.09705](http://arxiv.org/abs/2412.09705)|null|
@@ -3660,7 +3660,7 @@ layout: default
 |**2024-10-02**|**The PANORAMIC Survey: Pure Parallel Wide Area Legacy Imaging with JWST/NIRCam**|Christina C. Williams et.al.|[2410.01875](http://arxiv.org/abs/2410.01875)|null|
 |**2024-10-02**|**All the Little Things in Abell 2744: $>$1000 Gravitationally Lensed Dwarf Galaxies at $z=0-9$ from JWST NIRCam Grism Spectroscopy**|Rohan P. Naidu et.al.|[2410.01874](http://arxiv.org/abs/2410.01874)|null|
 |**2024-09-24**|**Code-Survey: An LLM-Driven Methodology for Analyzing Large-Scale Codebases**|Yusheng Zheng et.al.|[2410.01837](http://arxiv.org/abs/2410.01837)|null|
-|**2024-09-16**|**AI Conversational Interviewing: Transforming Surveys with LLMs as Adaptive Interviewers**|Alexander Wuttke et.al.|[2410.01824](http://arxiv.org/abs/2410.01824)|null|
+|**2024-09-16**|**AI Conversational Interviewing: Transforming Surveys with LLMs as Adaptive Interviewers**|Alexander Wuttke et.al.|[2410.01824](http://arxiv.org/abs/2410.01824)|**[link](https://github.com/AIinterviewing/ai-conversational-interviewing-LaTeCH-CLfL2025)**|
 |**2024-09-14**|**Automatic Scene Generation: State-of-the-Art Techniques, Models, Datasets, Challenges, and Future Prospects**|Awal Ahmed Fime et.al.|[2410.01816](http://arxiv.org/abs/2410.01816)|null|
 |**2024-09-13**|**Enhancing transparency in AI-powered customer engagement**|Tara DeZao et.al.|[2410.01809](http://arxiv.org/abs/2410.01809)|null|
 |**2024-10-02**|**A Catalog of Pulsar X-ray Filaments**|Jack T. Dinsmore et.al.|[2410.01807](http://arxiv.org/abs/2410.01807)|null|
@@ -6182,7 +6182,7 @@ layout: default
 |**2024-05-23**|**A Comprehensive Overview of Large Language Models (LLMs) for Cyber Defences: Opportunities and Directions**|Mohammed Hassanin et.al.|[2405.14487](http://arxiv.org/abs/2405.14487)|null|
 |**2024-05-23**|**Surveying Image Segmentation Approaches in Astronomy**|Duo Xu et.al.|[2405.14238](http://arxiv.org/abs/2405.14238)|null|
 |**2024-05-23**|**Survey on Visual Signal Coding and Processing with Generative Models: Technologies, Standards and Optimization**|Zhibo Chen et.al.|[2405.14221](http://arxiv.org/abs/2405.14221)|null|
-|**2024-11-28**|**A Survey on Vision-Language-Action Models for Embodied AI**|Yueen Ma et.al.|[2405.14093](http://arxiv.org/abs/2405.14093)|null|
+|**2024-11-28**|**A Survey on Vision-Language-Action Models for Embodied AI**|Yueen Ma et.al.|[2405.14093](http://arxiv.org/abs/2405.14093)|**[link](https://github.com/yueen-ma/awesome-vla)**|
 |**2024-12-19**|**Euclid preparation. LVIII. Detecting globular clusters in the Euclid survey**|Euclid Collaboration et.al.|[2405.14015](http://arxiv.org/abs/2405.14015)|null|
 |**2024-05-22**|**Lineshape Optimization in Inhomogeneous $Λ$ -type Quantum Memory**|Kai Shinbrough et.al.|[2405.14013](http://arxiv.org/abs/2405.14013)|null|
 |**2024-05-22**|**Animal Behavior Analysis Methods Using Deep Learning: A Survey**|Edoardo Fazzari et.al.|[2405.14002](http://arxiv.org/abs/2405.14002)|null|
