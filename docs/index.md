@@ -214,7 +214,7 @@ layout: default
 |**2024-09-05**|**Visual Prompting in Multimodal Large Language Models: A Survey**|Junda Wu et.al.|[2409.15310](http://arxiv.org/abs/2409.15310)|null|
 |**2025-01-11**|**FineCops-Ref: A new Dataset and Task for Fine-Grained Compositional Referring Expression Comprehension**|Junzhuo Liu et.al.|[2409.14750](http://arxiv.org/abs/2409.14750)|**[link](https://github.com/liujunzhuo/FineCops-Ref)**|
 |**2025-01-02**|**MaPPER: Multimodal Prior-guided Parameter Efficient Tuning for Referring Expression Comprehension**|Ting Liu et.al.|[2409.13609](http://arxiv.org/abs/2409.13609)|**[link](https://github.com/liuting20/mapper)**|
-|**2024-10-15**|**LLM-wrapper: Black-Box Semantic-Aware Adaptation of Vision-Language Models for Referring Expression Comprehension**|Amaia Cardiel et.al.|[2409.11919](http://arxiv.org/abs/2409.11919)|null|
+|**2024-10-15**|**LLM-wrapper: Black-Box Semantic-Aware Adaptation of Vision-Language Models for Referring Expression Comprehension**|Amaia Cardiel et.al.|[2409.11919](http://arxiv.org/abs/2409.11919)|**[link](https://github.com/valeoai/LLM_wrapper)**|
 |**2024-12-14**|**Improving the Efficiency of Visually Augmented Language Models**|Paula Ontalvilla et.al.|[2409.11148](http://arxiv.org/abs/2409.11148)|**[link](https://github.com/paulaonta/blind-valm)**|
 |**2024-09-16**|**HiFi-CS: Towards Open Vocabulary Visual Grounding For Robotic Grasping Using Vision-Language Models**|Vineet Bhat et.al.|[2409.10419](http://arxiv.org/abs/2409.10419)|**[link](https://github.com/vineet2104/hifics)**|
 |**2024-09-12**|**Bayesian Self-Training for Semi-Supervised 3D Segmentation**|Ozan Unal et.al.|[2409.08102](http://arxiv.org/abs/2409.08102)|null|
@@ -418,7 +418,7 @@ layout: default
 |**2023-09-18**|**Object2Scene: Putting Objects in Context for Open-Vocabulary 3D Detection**|Chenming Zhu et.al.|[2309.09456](http://arxiv.org/abs/2309.09456)|null|
 |**2024-04-05**|**PROGrasp: Pragmatic Human-Robot Communication for Object Grasping**|Gi-Cheon Kang et.al.|[2309.07759](http://arxiv.org/abs/2309.07759)|**[link](https://github.com/gicheonkang/prograsp)**|
 |**2023-09-14**|**VDialogUE: A Unified Evaluation Benchmark for Visually-grounded Dialogue**|Yunshui Li et.al.|[2309.07387](http://arxiv.org/abs/2309.07387)|null|
-|**2023-09-11**|**Multi3DRefer: Grounding Text Description to Multiple 3D Objects**|Yiming Zhang et.al.|[2309.05251](http://arxiv.org/abs/2309.05251)|null|
+|**2023-09-11**|**Multi3DRefer: Grounding Text Description to Multiple 3D Objects**|Yiming Zhang et.al.|[2309.05251](http://arxiv.org/abs/2309.05251)|**[link](https://github.com/3dlg-hcvc/M3DRef-CLIP)**|
 |**2023-09-10**|**Collecting Visually-Grounded Dialogue with A Game Of Sorts**|Bram Willemsen et.al.|[2309.05162](http://arxiv.org/abs/2309.05162)|**[link](https://github.com/willemsenbram/a-game-of-sorts)**|
 |**2023-09-08**|**Leveraging Pretrained Image-text Models for Improving Audio-Visual Learning**|Saurabhchand Bhati et.al.|[2309.04628](http://arxiv.org/abs/2309.04628)|null|
 |**2024-07-16**|**Four Ways to Improve Verbo-visual Fusion for Dense 3D Visual Grounding**|Ozan Unal et.al.|[2309.04561](http://arxiv.org/abs/2309.04561)|null|
@@ -1169,7 +1169,7 @@ layout: default
 |**2023-10-28**|**CityRefer: Geography-aware 3D Visual Grounding Dataset on City-scale Point Cloud Data**|Taiki Miyanishi et.al.|[2310.18773](http://arxiv.org/abs/2310.18773)|**[link](https://github.com/atr-dbi/cityrefer)**|
 |**2024-10-05**|**CoT3DRef: Chain-of-Thoughts Data-Efficient 3D Visual Grounding**|Eslam Abdelrahman et.al.|[2310.06214](http://arxiv.org/abs/2310.06214)|**[link](https://github.com/eslambakr/CoT3D_VG)**|
 |**2023-09-21**|**LLM-Grounder: Open-Vocabulary 3D Visual Grounding with Large Language Model as an Agent**|Jianing Yang et.al.|[2309.12311](http://arxiv.org/abs/2309.12311)|**[link](https://github.com/sled-group/chat-with-nerf)**|
-|**2023-09-11**|**Multi3DRefer: Grounding Text Description to Multiple 3D Objects**|Yiming Zhang et.al.|[2309.05251](http://arxiv.org/abs/2309.05251)|null|
+|**2023-09-11**|**Multi3DRefer: Grounding Text Description to Multiple 3D Objects**|Yiming Zhang et.al.|[2309.05251](http://arxiv.org/abs/2309.05251)|**[link](https://github.com/3dlg-hcvc/M3DRef-CLIP)**|
 |**2024-07-16**|**Four Ways to Improve Verbo-visual Fusion for Dense 3D Visual Grounding**|Ozan Unal et.al.|[2309.04561](http://arxiv.org/abs/2309.04561)|null|
 |**2023-11-20**|**A Unified Framework for 3D Point Cloud Visual Grounding**|Haojia Lin et.al.|[2308.11887](http://arxiv.org/abs/2308.11887)|**[link](https://github.com/leon1207/3dreftr)**|
 |**2023-07-25**|**3DRP-Net: 3D Relative Position-aware Network for 3D Visual Grounding**|Zehan Wang et.al.|[2307.13363](http://arxiv.org/abs/2307.13363)|null|
@@ -4782,7 +4782,7 @@ layout: default
 |**2024-09-30**|**HAIGEN: Towards Human-AI Collaboration for Facilitating Creativity and Style Generation in Fashion Design**|Jianan Jiang et.al.|[2408.00855](http://arxiv.org/abs/2408.00855)|null|
 |**2024-08-01**|**The BoRG- $JWST$ Survey: Abundance and Mass-to-light Ratio of Luminous $z=7-9$ Galaxies from Independent Sight Lines with NIRSpec**|Sofía Rojas-Ruiz et.al.|[2408.00843](http://arxiv.org/abs/2408.00843)|null|
 |**2024-12-11**|**Probing galaxy evolution from $z=0$ to $z\simeq10$ through galaxy scaling relations in three L-Galaxies flavours**|Akash Vani et.al.|[2408.00824](http://arxiv.org/abs/2408.00824)|null|
-|**2024-07-31**|**LightViz: Autonomous Light-field Surveying and Mapping for Distributed Light Pollution Monitoring**|Sheng-En Huang et.al.|[2408.00808](http://arxiv.org/abs/2408.00808)|null|
+|**2024-07-31**|**LightViz: Autonomous Light-field Surveying and Mapping for Distributed Light Pollution Monitoring**|Sheng-En Huang et.al.|[2408.00808](http://arxiv.org/abs/2408.00808)|**[link](https://github.com/uf-robopi/lightviz)**|
 |**2024-07-23**|**A Comprehensive Survey on Root Cause Analysis in (Micro) Services: Methodologies, Challenges, and Trends**|Tingting Wang et.al.|[2408.00803](http://arxiv.org/abs/2408.00803)|null|
 |**2024-08-01**|**OTCliM: generating a near-surface climatology of optical turbulence strength ( $C_n^2$ ) using gradient boosting**|Maximilian Pierzyna et.al.|[2408.00520](http://arxiv.org/abs/2408.00520)|null|
 |**2024-08-01**|**Low-Power Vibration-Based Predictive Maintenance for Industry 4.0 using Neural Networks: A Survey**|Alexandru Vasilache et.al.|[2408.00516](http://arxiv.org/abs/2408.00516)|null|
