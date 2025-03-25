@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.24
+## Updated on 2025.03.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RES
@@ -46,7 +46,7 @@ layout: default
 |**2024-07-17**|**Pseudo-RIS: Distinctive Pseudo-supervision Generation for Referring Image Segmentation**|Seonghoon Yu et.al.|[2407.07412](http://arxiv.org/abs/2407.07412)|**[link](https://github.com/seonghoon-yu/pseudo-ris)**|
 |**2024-07-02**|**SafaRi:Adaptive Sequence Transformer for Weakly Supervised Referring Expression Segmentation**|Sayan Nag et.al.|[2407.02389](http://arxiv.org/abs/2407.02389)|null|
 |**2025-03-10**|**EVF-SAM: Early Vision-Language Fusion for Text-Prompted Segment Anything Model**|Yuxuan Zhang et.al.|[2406.20076](http://arxiv.org/abs/2406.20076)|**[link](https://github.com/hustvl/evf-sam)**|
-|**2024-06-09**|**F-LMM: Grounding Frozen Large Multimodal Models**|Size Wu et.al.|[2406.05821](http://arxiv.org/abs/2406.05821)|**[link](https://github.com/wusize/f-lmm)**|
+|**2025-03-23**|**F-LMM: Grounding Frozen Large Multimodal Models**|Size Wu et.al.|[2406.05821](http://arxiv.org/abs/2406.05821)|**[link](https://github.com/wusize/f-lmm)**|
 |**2024-06-03**|**SAM as the Guide: Mastering Pseudo-Label Refinement in Semi-Supervised Referring Expression Segmentation**|Danni Yang et.al.|[2406.01451](http://arxiv.org/abs/2406.01451)|**[link](https://github.com/nini0919/semires)**|
 |**2024-07-27**|**GOI: Find 3D Gaussians of Interest with an Optimizable Open-vocabulary Semantic-space Hyperplane**|Yansong Qu et.al.|[2405.17596](http://arxiv.org/abs/2405.17596)|null|
 |**2024-11-25**|**CoHD: A Counting-Aware Hierarchical Decoding Framework for Generalized Referring Expression Segmentation**|Zhuoyan Luo et.al.|[2405.15658](http://arxiv.org/abs/2405.15658)|**[link](https://github.com/robertluo1/cohd)**|
@@ -74,7 +74,7 @@ layout: default
 |**2023-11-29**|**Synchronizing Vision and Language: Bidirectional Token-Masking AutoEncoder for Referring Image Segmentation**|Minhyeok Lee et.al.|[2311.17952](http://arxiv.org/abs/2311.17952)|null|
 |**2024-05-21**|**RISAM: Referring Image Segmentation via Mutual-Aware Attention Features**|Mengxi Zhang et.al.|[2311.15727](http://arxiv.org/abs/2311.15727)|null|
 |**2023-11-22**|**Visual In-Context Prompting**|Feng Li et.al.|[2311.13601](http://arxiv.org/abs/2311.13601)|**[link](https://github.com/ux-decoder/dinov)**|
-|**2024-04-26**|**Enhancing Visual Grounding and Generalization: A Multi-Task Cycle Training Approach for Vision-Language Models**|Xiaoyu Yang et.al.|[2311.12327](http://arxiv.org/abs/2311.12327)|**[link](https://github.com/anonymgiant/vilam)**|
+|**2024-04-26**|**Enhancing Visual Grounding and Generalization: A Multi-Task Cycle Training Approach for Vision-Language Models**|Xiaoyu Yang et.al.|[2311.12327](http://arxiv.org/abs/2311.12327)|null|
 |**2023-12-18**|**NExT-Chat: An LMM for Chat, Detection and Segmentation**|Ao Zhang et.al.|[2311.04498](http://arxiv.org/abs/2311.04498)|**[link](https://github.com/next-chatv/next-chat)**|
 |**2024-06-02**|**GLaMM: Pixel Grounding Large Multimodal Model**|Hanoona Rasheed et.al.|[2311.03356](http://arxiv.org/abs/2311.03356)|**[link](https://github.com/mbzuai-oryx/groundingLMM)**|
 |**2023-11-27**|**Towards Omni-supervised Referring Expression Segmentation**|Minglang Huang et.al.|[2311.00397](http://arxiv.org/abs/2311.00397)|**[link](https://github.com/nineblu/omni-res)**|
