@@ -1206,7 +1206,7 @@ layout: default
 |**2024-12-23**|**Stable Mean Teacher for Semi-supervised Video Action Detection**|Akash Kumar et.al.|[2412.07072](http://arxiv.org/abs/2412.07072)|**[link](https://github.com/AKASH2907/stable-mean-teacher)**|
 |**2024-12-09**|**Video Decomposition Prior: A Methodology to Decompose Videos into Layers**|Gaurav Shrivastava et.al.|[2412.04930](http://arxiv.org/abs/2412.04930)|null|
 |**2024-12-03**|**Multi-Granularity Video Object Segmentation**|Sangbeom Lim et.al.|[2412.01471](http://arxiv.org/abs/2412.01471)|null|
-|**2024-12-02**|**Referring Video Object Segmentation via Language-aligned Track Selection**|Seongchan Kim et.al.|[2412.01136](http://arxiv.org/abs/2412.01136)|null|
+|**2024-12-02**|**Referring Video Object Segmentation via Language-aligned Track Selection**|Seongchan Kim et.al.|[2412.01136](http://arxiv.org/abs/2412.01136)|**[link](https://github.com/cvlab-kaist/SOLA)**|
 |**2024-11-28**|**Track Anything Behind Everything: Zero-Shot Amodal Video Object Segmentation**|Finlay G. C. Hudson et.al.|[2411.19210](http://arxiv.org/abs/2411.19210)|null|
 |**2024-11-28**|**Efficient Track Anything**|Yunyang Xiong et.al.|[2411.18933](http://arxiv.org/abs/2411.18933)|null|
 |**2024-11-26**|**SAMWISE: Infusing wisdom in SAM2 for Text-Driven Video Segmentation**|Claudia Cuttano et.al.|[2411.17646](http://arxiv.org/abs/2411.17646)|**[link](https://github.com/claudiacuttano/samwise)**|
@@ -1707,7 +1707,7 @@ layout: default
 |**2025-01-13**|**Data Enrichment Work and AI Labor in Latin America and the Caribbean**|Gianna Williams et.al.|[2501.06981](http://arxiv.org/abs/2501.06981)|null|
 |**2025-01-12**|**AAS2RTO: Automated Alert Streams to Real-Time Observations: Preparing for rapid follow-up of transient objects in the era of LSST**|Aidan Sedgewick et.al.|[2501.06968](http://arxiv.org/abs/2501.06968)|**[link](https://github.com/aidansedgewick/dk154-targets-py38)**|
 |**2025-01-12**|**Harnessing Large Language Models for Disaster Management: A Survey**|Zhenyu Lei et.al.|[2501.06932](http://arxiv.org/abs/2501.06932)|null|
-|**2025-01-12**|**Deep Learning and Foundation Models for Weather Prediction: A Survey**|Jimeng Shi et.al.|[2501.06907](http://arxiv.org/abs/2501.06907)|null|
+|**2025-01-12**|**Deep Learning and Foundation Models for Weather Prediction: A Survey**|Jimeng Shi et.al.|[2501.06907](http://arxiv.org/abs/2501.06907)|**[link](https://github.com/jimengshi/dl-foundation-models-weather)**|
 |**2025-01-12**|**Correcting Annotator Bias in Training Data: Population-Aligned Instance Replication (PAIR)**|Stephanie Eckman et.al.|[2501.06826](http://arxiv.org/abs/2501.06826)|**[link](https://github.com/soda-lmu/PAIR)**|
 |**2025-01-12**|**A Study on Educational Data Analysis and Personalized Feedback Report Generation Based on Tags and ChatGPT**|Yizhou Zhou et.al.|[2501.06819](http://arxiv.org/abs/2501.06819)|null|
 |**2025-01-12**|**Integrated Sensing and Edge AI: Realizing Intelligent Perception in 6G**|Zhiyan Liu et.al.|[2501.06726](http://arxiv.org/abs/2501.06726)|null|
@@ -2342,7 +2342,7 @@ layout: default
 |**2024-12-05**|**The 100 pc White Dwarf Sample in the SDSS Footprint II. A New Look at the Spectral Evolution of White Dwarfs**|Mukremin Kilic et.al.|[2412.04611](http://arxiv.org/abs/2412.04611)|null|
 |**2025-01-08**|**ARC Prize 2024: Technical Report**|Francois Chollet et.al.|[2412.04604](http://arxiv.org/abs/2412.04604)|**[link](https://github.com/michaelhodel/re-arc)**|
 |**2024-12-05**|**A compact group lens modeled with GIGA-Lens: Enhanced inference for complex systems**|F. Urcelay et.al.|[2412.04567](http://arxiv.org/abs/2412.04567)|null|
-|**2024-12-05**|**X-raying CAMELS: Constraining Baryonic Feedback in the Circum-Galactic Medium with the CAMELS simulations and eRASS X-ray Observations**|Erwin T. Lau et.al.|[2412.04559](http://arxiv.org/abs/2412.04559)|null|
+|**2024-12-05**|**X-raying CAMELS: Constraining Baryonic Feedback in the Circum-Galactic Medium with the CAMELS simulations and eRASS X-ray Observations**|Erwin T. Lau et.al.|[2412.04559](http://arxiv.org/abs/2412.04559)|**[link](https://github.com/ethlau/cgm_toolkit)**|
 |**2024-12-05**|**Efficient Ionizers with Low H $\boldsymbolβ$ +[OIII] Equivalent Widths: JADES Spectroscopy of a Peculiar High-z Population**|Isaac H. Laseter et.al.|[2412.04542](http://arxiv.org/abs/2412.04542)|null|
 |**2024-12-05**|**EMPRESS. X. Spatially resolved mass-metallicity relation in extremely metal-poor galaxies: evidence of episodic star-formation fueled by a metal-poor gas infall**|Kimihiko Nakajima et.al.|[2412.04541](http://arxiv.org/abs/2412.04541)|null|
 |**2024-12-11**|**Video Quality Assessment: A Comprehensive Survey**|Qi Zheng et.al.|[2412.04508](http://arxiv.org/abs/2412.04508)|**[link](https://github.com/taco-group/video-quality-assessment-a-comprehensive-survey)**|
@@ -2413,7 +2413,7 @@ layout: default
 |**2024-12-03**|**Temporal-spatial distribution of YSOs nearby Taurus region**|Jiaming Liu et.al.|[2412.02456](http://arxiv.org/abs/2412.02456)|null|
 |**2024-12-01**|**A Comprehensive Survey on Dynamic Software Updating Techniques in IoTs**|Madhav Neupane et.al.|[2412.02450](http://arxiv.org/abs/2412.02450)|null|
 |**2024-12-03**|**Nature versus nurture in galaxy formation: the effect of environment on star formation with causal machine learning**|Sunil Mucesh et.al.|[2412.02439](http://arxiv.org/abs/2412.02439)|null|
-|**2024-12-03**|**Hierarchical feature extraction on functional brain networks for autism spectrum disorder identification with resting-state fMRI data**|Yiqian Luo et.al.|[2412.02424](http://arxiv.org/abs/2412.02424)|null|
+|**2024-12-03**|**Hierarchical feature extraction on functional brain networks for autism spectrum disorder identification with resting-state fMRI data**|Yiqian Luo et.al.|[2412.02424](http://arxiv.org/abs/2412.02424)|**[link](https://github.com/lyqbyte/asd-hnet)**|
 |**2024-12-13**|**The classification of real and bogus transients using active learning and semi-supervised learning**|Yating Liu et.al.|[2412.02409](http://arxiv.org/abs/2412.02409)|**[link](https://github.com/cherry0116/RB-C1000)**|
 |**2024-12-03**|**Estimating Photometric Redshifts for Galaxies from the DESI Legacy Imaging Surveys with Bayesian Neural Networks Trained by DESI EDR**|Xingchen Zhou et.al.|[2412.02390](http://arxiv.org/abs/2412.02390)|null|
 |**2024-12-03**|**Dynamic Prompt Middleware: Contextual Prompt Refinement Controls for Comprehension Tasks**|Ian Drosos et.al.|[2412.02357](http://arxiv.org/abs/2412.02357)|null|
@@ -3272,7 +3272,7 @@ layout: default
 |**2024-10-22**|**Radial Profiles of $Σ_{\ast}$, $Σ_{\rm SFR}$ , Gas Metallicity and Their Correlations Across the Galactic Mass-Size Plane**|Lin Lin et.al.|[2410.16651](http://arxiv.org/abs/2410.16651)|null|
 |**2024-10-26**|**Foundation Models for Remote Sensing and Earth Observation: A Survey**|Aoran Xiao et.al.|[2410.16602](http://arxiv.org/abs/2410.16602)|**[link](https://github.com/xiaoaoran/awesome-rsfms)**|
 |**2024-10-21**|**Undecidability in Physics: a Review**|Álvaro Perales-Eceiza et.al.|[2410.16532](http://arxiv.org/abs/2410.16532)|null|
-|**2024-10-21**|**Natural Language Processing for Human Resources: A Survey**|Naoki Otani et.al.|[2410.16498](http://arxiv.org/abs/2410.16498)|null|
+|**2024-10-21**|**Natural Language Processing for Human Resources: A Survey**|Naoki Otani et.al.|[2410.16498](http://arxiv.org/abs/2410.16498)|**[link](https://github.com/megagonlabs/nlp4hr-survey)**|
 |**2024-10-21**|**Giant branch systems: surveys and populations**|Samuel K. Grunblatt et.al.|[2410.16482](http://arxiv.org/abs/2410.16482)|null|
 |**2024-10-21**|**A multiwavelength overview of the giant spiral UGC 2885**|Matheus C. Carvalho et.al.|[2410.16467](http://arxiv.org/abs/2410.16467)|null|
 |**2024-10-23**|**Susu Box or Piggy Bank: Assessing Cultural Commonsense Knowledge between Ghana and the U.S**|Christabel Acquaye et.al.|[2410.16451](http://arxiv.org/abs/2410.16451)|null|
@@ -3569,7 +3569,7 @@ layout: default
 |**2024-10-08**|**A Survey on Annotations in Information Visualization: Empirical Insights, Applications, and Challenges**|Md Dilshadur Rahman et.al.|[2410.05579](http://arxiv.org/abs/2410.05579)|null|
 |**2024-10-08**|**Underwater Object Detection in the Era of Artificial Intelligence: Current, Challenge, and Future**|Long Chen et.al.|[2410.05577](http://arxiv.org/abs/2410.05577)|**[link](https://github.com/longchencv/uodreview)**|
 |**2024-10-07**|**Testing Credibility of Public and Private Surveys through the Lens of Regression**|Debabrota Basu et.al.|[2410.05458](http://arxiv.org/abs/2410.05458)|null|
-|**2024-10-07**|**Simulating image coaddition with the Nancy Grace Roman Space Telescope: III. Software improvements and new linear algebra strategies**|Kaili Cao et.al.|[2410.05442](http://arxiv.org/abs/2410.05442)|null|
+|**2024-10-07**|**Simulating image coaddition with the Nancy Grace Roman Space Telescope: III. Software improvements and new linear algebra strategies**|Kaili Cao et.al.|[2410.05442](http://arxiv.org/abs/2410.05442)|**[link](https://github.com/kailicao/pyimcom)**|
 |**2024-10-07**|**Whole-disk sampling of molecular clouds in M83**|Akihiko Hirota et.al.|[2410.05424](http://arxiv.org/abs/2410.05424)|null|
 |**2024-10-07**|**Stellar halos tracing the assembly of Ultra-Faint Dwarf galaxies**|Lapo Querci et.al.|[2410.05396](http://arxiv.org/abs/2410.05396)|null|
 |**2024-10-07**|**A MUSE Source-Blind Survey for Emission from the Circumgalactic Medium**|Huanian Zhang et.al.|[2410.05392](http://arxiv.org/abs/2410.05392)|null|
@@ -5062,7 +5062,7 @@ layout: default
 |**2024-07-17**|**Quantifying vitamin D intake among Aboriginal and Torres Strait Islander peoples in Australia**|Belinda Neo et.al.|[2407.13797](http://arxiv.org/abs/2407.13797)|null|
 |**2024-07-18**|**Understanding Reinforcement Learning-Based Fine-Tuning of Diffusion Models: A Tutorial and Review**|Masatoshi Uehara et.al.|[2407.13734](http://arxiv.org/abs/2407.13734)|**[link](https://github.com/masa-ue/RLfinetuning_Diffusion_Bioseq)**|
 |**2024-09-15**|**Measurement of the fractional radiation length of a pixel module for the CMS Phase-2 upgrade via the multiple scattering of positrons**|The Tracker Group of the CMS Collaboration et.al.|[2407.13721](http://arxiv.org/abs/2407.13721)|null|
-|**2024-07-18**|**A Comprehensive Review of Recommender Systems: Transitioning from Theory to Practice**|Shaina Raza et.al.|[2407.13699](http://arxiv.org/abs/2407.13699)|null|
+|**2024-07-18**|**A Comprehensive Review of Recommender Systems: Transitioning from Theory to Practice**|Shaina Raza et.al.|[2407.13699](http://arxiv.org/abs/2407.13699)|**[link](https://github.com/vectorinstitute/recommender-systems-survey)**|
 |**2024-08-20**|**PetFace: A Large-Scale Dataset and Benchmark for Animal Identification**|Risa Shinoda et.al.|[2407.13555](http://arxiv.org/abs/2407.13555)|null|
 |**2024-07-18**|**Slope-semistability and moduli of coherent sheaves: a survey**|Mihai Pavel et.al.|[2407.13485](http://arxiv.org/abs/2407.13485)|null|
 |**2024-07-18**|**Unveiling the nonlinear dynamics of a rolling axion during inflation**|Angelo Caravano et.al.|[2407.13405](http://arxiv.org/abs/2407.13405)|null|
