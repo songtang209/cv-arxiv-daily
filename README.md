@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.01
+## Updated on 2025.04.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -26,7 +26,7 @@
 |**2025-03-02**|**IteRPrimE: Zero-shot Referring Image Segmentation with Iterative Grad-CAM Refinement and Primary Word Emphasis**|Yuji Wang et.al.|[2503.00936](http://arxiv.org/abs/2503.00936)|**[link](https://github.com/VoyageWang/IteRPrimE)**|
 |**2025-02-28**|**AeroReformer: Aerial Referring Transformer for UAV-based Referring Image Segmentation**|Rui Li et.al.|[2502.16680](http://arxiv.org/abs/2502.16680)|**[link](https://github.com/lironui/aeroreformer)**|
 |**2025-02-23**|**PixFoundation: Are We Heading in the Right Direction with Pixel-level Vision Foundation Models?**|Mennatullah Siam et.al.|[2502.04192](http://arxiv.org/abs/2502.04192)|**[link](https://github.com/msiam/pixfoundation)**|
-|**2025-01-19**|**Know "No" Better: A Data-Driven Approach for Enhancing Negation Awareness in CLIP**|Junsung Park et.al.|[2501.10913](http://arxiv.org/abs/2501.10913)|null|
+|**2025-03-31**|**Know "No'' Better: A Data-Driven Approach for Enhancing Negation Awareness in CLIP**|Junsung Park et.al.|[2501.10913](http://arxiv.org/abs/2501.10913)|null|
 |**2025-01-15**|**Densely Connected Parameter-Efficient Tuning for Referring Image Segmentation**|Jiaqi Huang et.al.|[2501.08580](http://arxiv.org/abs/2501.08580)|**[link](https://github.com/jiaqihuang01/detris)**|
 |**2025-01-12**|**Multi-task Visual Grounding with Coarse-to-Fine Consistency Constraints**|Ming Dai et.al.|[2501.06710](http://arxiv.org/abs/2501.06710)|**[link](https://github.com/dmmm1997/c3vg)**|
 |**2025-01-09**|**IPDN: Image-enhanced Prompt Decoding Network for 3D Referring Expression Segmentation**|Qi Chen et.al.|[2501.04995](http://arxiv.org/abs/2501.04995)|**[link](https://github.com/80chen86/ipdn)**|
@@ -142,12 +142,13 @@
 |**2019-04-06**|**CLEVR-Ref+: Diagnosing Visual Reasoning with Referring Expressions**|Runtao Liu et.al.|[1901.00850](http://arxiv.org/abs/1901.00850)|null|
 |**2017-08-04**|**Recurrent Multimodal Interaction for Referring Image Segmentation**|Chenxi Liu et.al.|[1703.07939](http://arxiv.org/abs/1703.07939)|**[link](https://github.com/chenxi116/TF-phrasecut-public)**|
 
-<p align=right>(<a href=#updated-on-20250401>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250402>back to top</a>)</p>
 
 ## RVOS
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-30**|**ReferDINO-Plus: 2nd Solution for 4th PVUW MeViS Challenge at CVPR 2025**|Tianming Liang et.al.|[2503.23509](http://arxiv.org/abs/2503.23509)|**[link](https://github.com/isee-laboratory/referdino-plus)**|
 |**2025-03-05**|**Find First, Track Next: Decoupling Identification and Propagation in Referring Video Object Segmentation**|Suhwan Cho et.al.|[2503.03492](http://arxiv.org/abs/2503.03492)|**[link](https://github.com/suhwan-cho/FindTrack)**|
 |**2025-01-24**|**ReferDINO: Referring Video Object Segmentation with Visual Grounding Foundations**|Tianming Liang et.al.|[2501.14607](http://arxiv.org/abs/2501.14607)|null|
 |**2025-03-10**|**MPG-SAM 2: Adapting SAM 2 with Mask Priors and Global Context for Referring Video Object Segmentation**|Fu Rong et.al.|[2501.13667](http://arxiv.org/abs/2501.13667)|null|
@@ -193,7 +194,7 @@
 |**2022-04-03**|**End-to-End Referring Video Object Segmentation with Multimodal Transformers**|Adam Botach et.al.|[2111.14821](http://arxiv.org/abs/2111.14821)|**[link](https://github.com/mttr2021/MTTR)**|
 |**2024-01-19**|**Rethinking Cross-modal Interaction from a Top-down Perspective for Referring Video Object Segmentation**|Chen Liang et.al.|[2106.01061](http://arxiv.org/abs/2106.01061)|null|
 
-<p align=right>(<a href=#updated-on-20250401>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250402>back to top</a>)</p>
 
 ## RVOT
 
@@ -201,7 +202,7 @@
 |---|---|---|---|---|
 |**2024-03-29**|**Elysium: Exploring Object-level Perception in Videos via MLLM**|Han Wang et.al.|[2403.16558](http://arxiv.org/abs/2403.16558)|**[link](https://github.com/hon-wong/elysium)**|
 
-<p align=right>(<a href=#updated-on-20250401>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250402>back to top</a>)</p>
 
 ## AVS
 
@@ -251,7 +252,7 @@
 |**2023-02-17**|**Audio-Visual Segmentation**|Jinxing Zhou et.al.|[2207.05042](http://arxiv.org/abs/2207.05042)|**[link](https://github.com/opennlplab/avsbench)**|
 |**2021-04-05**|**Positive Sample Propagation along the Audio-Visual Event Line**|Jinxing Zhou et.al.|[2104.00239](http://arxiv.org/abs/2104.00239)|**[link](https://github.com/jasongief/PSP_CVPR_2021)**|
 
-<p align=right>(<a href=#updated-on-20250401>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250402>back to top</a>)</p>
 
 ## 3D-RES
 
@@ -262,7 +263,7 @@
 |**2024-07-31**|**3D-GRES: Generalized 3D Referring Expression Segmentation**|Changli Wu et.al.|[2407.20664](http://arxiv.org/abs/2407.20664)|**[link](https://github.com/sosppxo/MDIN)**|
 |**2023-08-31**|**3D-STMN: Dependency-Driven Superpoint-Text Matching Network for End-to-End 3D Referring Expression Segmentation**|Changli Wu et.al.|[2308.16632](http://arxiv.org/abs/2308.16632)|**[link](https://github.com/sosppxo/3d-stmn)**|
 
-<p align=right>(<a href=#updated-on-20250401>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250402>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
