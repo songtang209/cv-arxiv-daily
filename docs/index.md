@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.04
+## Updated on 2025.04.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RES
@@ -881,7 +881,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-04-01**|**4th PVUW MeViS 3rd Place Report: Sa2VA**|Haobo Yuan et.al.|[2504.00476](http://arxiv.org/abs/2504.00476)|null|
+|**2025-04-01**|**4th PVUW MeViS 3rd Place Report: Sa2VA**|Haobo Yuan et.al.|[2504.00476](http://arxiv.org/abs/2504.00476)|**[link](https://github.com/magic-research/Sa2VA)**|
 |**2025-03-30**|**ReferDINO-Plus: 2nd Solution for 4th PVUW MeViS Challenge at CVPR 2025**|Tianming Liang et.al.|[2503.23509](http://arxiv.org/abs/2503.23509)|**[link](https://github.com/isee-laboratory/referdino-plus)**|
 |**2025-03-05**|**Find First, Track Next: Decoupling Identification and Propagation in Referring Video Object Segmentation**|Suhwan Cho et.al.|[2503.03492](http://arxiv.org/abs/2503.03492)|**[link](https://github.com/suhwan-cho/FindTrack)**|
 |**2025-01-24**|**ReferDINO: Referring Video Object Segmentation with Visual Grounding Foundations**|Tianming Liang et.al.|[2501.14607](http://arxiv.org/abs/2501.14607)|null|
