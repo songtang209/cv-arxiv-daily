@@ -2672,7 +2672,7 @@ layout: default
 |**2024-11-20**|**Elephant in the Room: Dissecting and Reflecting on the Evolution of Online Social Network Research**|Luca Pajola et.al.|[2411.13681](http://arxiv.org/abs/2411.13681)|null|
 |**2024-11-20**|**Long-term predictive models for mosquito borne diseases: a narrative review**|Marcio Maciel Bastos et.al.|[2411.13680](http://arxiv.org/abs/2411.13680)|null|
 |**2024-11-20**|**Detecting electromagnetic counterparts to LIGO/Virgo/KAGRA gravitational wave events with DECam: Neutron Star Mergers**|Keerthi Kunnumkai et.al.|[2411.13673](http://arxiv.org/abs/2411.13673)|null|
-|**2024-11-20**|**CHANCES, The Chilean Cluster Galaxy Evolution Survey: selection and initial characterization of clusters and superclusters**|Cristóbal Sifón et.al.|[2411.13655](http://arxiv.org/abs/2411.13655)|null|
+|**2024-11-20**|**CHANCES, The Chilean Cluster Galaxy Evolution Survey: selection and initial characterization of clusters and superclusters**|Cristóbal Sifón et.al.|[2411.13655](http://arxiv.org/abs/2411.13655)|**[link](https://github.com/4MOST-CHANCES/cluster-catalogues)**|
 |**2024-11-20**|**Accurate Shear Estimation with Fourth-Order Moments**|Andy Park et.al.|[2411.13648](http://arxiv.org/abs/2411.13648)|**[link](https://github.com/mr-superonion/anacal)**|
 |**2024-11-23**|**A Glimpse of the New Redshift Frontier Through Abell S1063**|Vasily Kokorev et.al.|[2411.13640](http://arxiv.org/abs/2411.13640)|null|
 |**2024-11-20**|**WEAVE First Light Observations: Origin and Dynamics of the Shock Front in Stephan's Quintet**|M. I. Arnaudova et.al.|[2411.13635](http://arxiv.org/abs/2411.13635)|null|
@@ -5037,7 +5037,7 @@ layout: default
 |**2024-07-19**|**Forecasts and Statistical Insights for Line Intensity Mapping Cross-Correlations: A Case Study with 21cm x [CII]**|Hannah Fronenberg et.al.|[2407.14588](http://arxiv.org/abs/2407.14588)|**[link](https://github.com/mcgill-cosmic-dawn-group/limstat)**|
 |**2024-10-28**|**Echo Location: Distances to Galactic Supernovae From ASAS-SN Light Echoes and 3D Dust Maps**|Kyle D. Neumann et.al.|[2407.14584](http://arxiv.org/abs/2407.14584)|null|
 |**2024-12-22**|**Integrating Artificial Intelligence into Operating Systems: A Comprehensive Survey on Techniques, Applications, and Future Directions**|Yifan Zhang et.al.|[2407.14567](http://arxiv.org/abs/2407.14567)|null|
-|**2025-01-03**|**NNsight and NDIF: Democratizing Access to Open-Weight Foundation Model Internals**|Jaden Fiotto-Kaufman et.al.|[2407.14561](http://arxiv.org/abs/2407.14561)|null|
+|**2025-01-03**|**NNsight and NDIF: Democratizing Access to Open-Weight Foundation Model Internals**|Jaden Fiotto-Kaufman et.al.|[2407.14561](http://arxiv.org/abs/2407.14561)|**[link](https://github.com/ndif-team/nnsight)**|
 |**2024-06-18**|**Counting subgroups of the groups ${\Bbb Z}_{n_1} \times \cdots \times {\Bbb Z}_{n_k}$ : a survey**|László Tóth et.al.|[2407.14511](http://arxiv.org/abs/2407.14511)|null|
 |**2024-10-09**|**Stellar substructures in the Galactic disc and halo: Properties, origins, and evolution**|Deepak et.al.|[2407.14508](http://arxiv.org/abs/2407.14508)|**[link](https://github.com/jobovy/galpy)**|
 |**2024-09-18**|**Internal Consistency and Self-Feedback in Large Language Models: A Survey**|Xun Liang et.al.|[2407.14507](http://arxiv.org/abs/2407.14507)|**[link](https://github.com/iaar-shanghai/icsfsurvey)**|
