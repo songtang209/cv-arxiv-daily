@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.13
+## Updated on 2025.04.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RES
@@ -48,7 +48,7 @@ layout: default
 |**2024-07-17**|**Pseudo-RIS: Distinctive Pseudo-supervision Generation for Referring Image Segmentation**|Seonghoon Yu et.al.|[2407.07412](http://arxiv.org/abs/2407.07412)|**[link](https://github.com/seonghoon-yu/pseudo-ris)**|
 |**2024-07-02**|**SafaRi:Adaptive Sequence Transformer for Weakly Supervised Referring Expression Segmentation**|Sayan Nag et.al.|[2407.02389](http://arxiv.org/abs/2407.02389)|null|
 |**2025-03-10**|**EVF-SAM: Early Vision-Language Fusion for Text-Prompted Segment Anything Model**|Yuxuan Zhang et.al.|[2406.20076](http://arxiv.org/abs/2406.20076)|**[link](https://github.com/hustvl/evf-sam)**|
-|**2025-03-23**|**F-LMM: Grounding Frozen Large Multimodal Models**|Size Wu et.al.|[2406.05821](http://arxiv.org/abs/2406.05821)|**[link](https://github.com/wusize/f-lmm)**|
+|**2025-04-11**|**F-LMM: Grounding Frozen Large Multimodal Models**|Size Wu et.al.|[2406.05821](http://arxiv.org/abs/2406.05821)|**[link](https://github.com/wusize/f-lmm)**|
 |**2024-06-03**|**SAM as the Guide: Mastering Pseudo-Label Refinement in Semi-Supervised Referring Expression Segmentation**|Danni Yang et.al.|[2406.01451](http://arxiv.org/abs/2406.01451)|**[link](https://github.com/nini0919/semires)**|
 |**2024-07-27**|**GOI: Find 3D Gaussians of Interest with an Optimizable Open-vocabulary Semantic-space Hyperplane**|Yansong Qu et.al.|[2405.17596](http://arxiv.org/abs/2405.17596)|null|
 |**2024-11-25**|**CoHD: A Counting-Aware Hierarchical Decoding Framework for Generalized Referring Expression Segmentation**|Zhuoyan Luo et.al.|[2405.15658](http://arxiv.org/abs/2405.15658)|**[link](https://github.com/robertluo1/cohd)**|
