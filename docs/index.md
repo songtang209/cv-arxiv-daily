@@ -937,7 +937,7 @@ layout: default
 |**2024-12-26**|**Graph-Enhanced Dual-Stream Feature Fusion with Pre-Trained Model for Acoustic Traffic Monitoring**|Shitong Fan et.al.|[2412.19078](http://arxiv.org/abs/2412.19078)|null|
 |**2024-12-29**|**SoundLoc3D: Invisible 3D Sound Source Localization and Classification Using a Multimodal RGB-D Acoustic Camera**|Yuhang He et.al.|[2412.16861](http://arxiv.org/abs/2412.16861)|null|
 |**2024-12-13**|**SonicBoom: Contact Localization Using Array of Microphones**|Moonyoung Lee et.al.|[2412.09878](http://arxiv.org/abs/2412.09878)|null|
-|**2024-12-09**|**Sound2Vision: Generating Diverse Visuals from Audio through Cross-Modal Latent Alignment**|Kim Sung-Bin et.al.|[2412.06209](http://arxiv.org/abs/2412.06209)|null|
+|**2024-12-09**|**Sound2Vision: Generating Diverse Visuals from Audio through Cross-Modal Latent Alignment**|Kim Sung-Bin et.al.|[2412.06209](http://arxiv.org/abs/2412.06209)|**[link](https://github.com/postech-ami/Sound2Scene)**|
 |**2025-01-08**|**Mask-Weighted Spatial Likelihood Coding for Speaker-Independent Joint Localization and Mask Estimation**|Jakob Kienegger et.al.|[2410.19595](http://arxiv.org/abs/2410.19595)|null|
 |**2025-01-10**|**A Critical Assessment of Visual Sound Source Localization Models Including Negative Audio**|Xavier Juanola et.al.|[2410.01020](http://arxiv.org/abs/2410.01020)|**[link](https://github.com/xavijuanola/vssl_eval)**|
 |**2024-09-30**|**Adaptive high-precision sound source localization at low frequencies based on convolutional neural network**|Wenbo Ma et.al.|[2409.20031](http://arxiv.org/abs/2409.20031)|null|
@@ -2207,7 +2207,7 @@ layout: default
 |**2024-12-12**|**Two-dimensional orbital-obstructed insulators with higher-order band topology**|Olga Arroyo-Gascon et.al.|[2412.09561](http://arxiv.org/abs/2412.09561)|null|
 |**2024-12-12**|**The Extended Crosswise Model Adjusted for Random Answering**|Khadiga H. A. Sayed et.al.|[2412.09506](http://arxiv.org/abs/2412.09506)|null|
 |**2024-12-12**|**Noncommutative Choquet theory: A Survey**|Kenneth R. Davidson et.al.|[2412.09455](http://arxiv.org/abs/2412.09455)|null|
-|**2024-12-12**|**AI Predicts AGI: Leveraging AGI Forecasting and Peer Review to Explore LLMs' Complex Reasoning Capabilities**|Fabrizio Davide et.al.|[2412.09385](http://arxiv.org/abs/2412.09385)|null|
+|**2024-12-12**|**AI Predicts AGI: Leveraging AGI Forecasting and Peer Review to Explore LLMs' Complex Reasoning Capabilities**|Fabrizio Davide et.al.|[2412.09385](http://arxiv.org/abs/2412.09385)|**[link](https://github.com/LeonardoErcolani/AGILab-Peer-Review)**|
 |**2024-12-13**|**A BCool survey of stellar magnetic cycles**|S. Bellotti et.al.|[2412.09365](http://arxiv.org/abs/2412.09365)|null|
 |**2024-12-12**|**Is cosmological data suggesting a nonminimal coupling between matter and gravity?**|Miguel Barroso Varela et.al.|[2412.09348](http://arxiv.org/abs/2412.09348)|null|
 |**2024-12-12**|**Recent Progress on Austere Submanifolds**|Jianquan Ge et.al.|[2412.09339](http://arxiv.org/abs/2412.09339)|null|
