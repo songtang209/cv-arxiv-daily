@@ -3410,7 +3410,7 @@ layout: default
 |**2024-10-15**|**Ultra Long Period Cepheids as standard candles from Gaia to Rubin-LSST**|I. Musella et.al.|[2410.12017](http://arxiv.org/abs/2410.12017)|null|
 |**2024-10-15**|**The versatility of the Drinfeld double of a finite group**|Giovanna Carnovale et.al.|[2410.11978](http://arxiv.org/abs/2410.11978)|null|
 |**2024-10-15**|**Explainable AI Methods for Multi-Omics Analysis: A Survey**|Ahmad Hussein et.al.|[2410.11910](http://arxiv.org/abs/2410.11910)|null|
-|**2025-01-07**|**Thermal Comfort in Sight: Thermal Affordance and its Visual Assessment for Sustainable Streetscape Design**|Sijie Yang et.al.|[2410.11887](http://arxiv.org/abs/2410.11887)|null|
+|**2025-01-07**|**Thermal Comfort in Sight: Thermal Affordance and its Visual Assessment for Sustainable Streetscape Design**|Sijie Yang et.al.|[2410.11887](http://arxiv.org/abs/2410.11887)|**[link](https://github.com/sijie-yang/thermal-affordance)**|
 |**2024-10-07**|**Automatic Screening for Children with Speech Disorder using Automatic Speech Recognition: Opportunities and Challenges**|Dancheng Liu et.al.|[2410.11865](http://arxiv.org/abs/2410.11865)|null|
 |**2024-10-07**|**Towards using Reinforcement Learning for Scaling and Data Replication in Cloud Systems**|Riad Mokadem et.al.|[2410.11862](http://arxiv.org/abs/2410.11862)|null|
 |**2024-10-06**|**SouLLMate: An Adaptive LLM-Driven System for Advanced Mental Health Support and Assessment, Based on a Systematic Application Survey**|Qiming Guo et.al.|[2410.11859](http://arxiv.org/abs/2410.11859)|null|
@@ -4446,7 +4446,7 @@ layout: default
 |**2024-08-23**|**Asymptotics for Optimal Empirical Quantization of Measures**|Filippo Quattrocchi et.al.|[2408.12924](http://arxiv.org/abs/2408.12924)|null|
 |**2024-08-23**|**Unleashing the Potential of SAM2 for Biomedical Images and Videos: A Survey**|Yichi Zhang et.al.|[2408.12889](http://arxiv.org/abs/2408.12889)|**[link](https://github.com/yichizhang98/sam4mis)**|
 |**2024-08-23**|**Has Multimodal Learning Delivered Universal Intelligence in Healthcare? A Comprehensive Survey**|Qika Lin et.al.|[2408.12880](http://arxiv.org/abs/2408.12880)|**[link](https://github.com/deepreasoning/aihealth)**|
-|**2024-08-23**|**FRB Line-of-sight Ionization Measurement From Lightcone AAOmega Mapping Survey: the First Data Release**|Yuxin Huang et.al.|[2408.12864](http://arxiv.org/abs/2408.12864)|null|
+|**2024-08-23**|**FRB Line-of-sight Ionization Measurement From Lightcone AAOmega Mapping Survey: the First Data Release**|Yuxin Huang et.al.|[2408.12864](http://arxiv.org/abs/2408.12864)|**[link](https://zenodo.org/record/14961018)**|
 |**2024-08-23**|**The FAST Core Array**|Peng Jiang et.al.|[2408.12826](http://arxiv.org/abs/2408.12826)|null|
 |**2024-08-23**|**An automated method for finding the most distant quasars**|Lena Lenz et.al.|[2408.12770](http://arxiv.org/abs/2408.12770)|null|
 |**2024-08-22**|**Variable Stars in M31 Stellar Clusters from the Panchromatic Hubble Andromeda Treasury**|Richard Smith et.al.|[2408.12765](http://arxiv.org/abs/2408.12765)|null|
