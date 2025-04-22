@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.21
+## Updated on 2025.04.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RES
@@ -883,6 +883,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-18**|**Few-Shot Referring Video Single- and Multi-Object Segmentation via Cross-Modal Affinity with Instance Sequence Matching**|Heng Liu et.al.|[2504.13710](http://arxiv.org/abs/2504.13710)|null|
 |**2025-04-10**|**GLUS: Global-Local Reasoning Unified into A Single Large Language Model for Video Segmentation**|Lang Lin et.al.|[2504.07962](http://arxiv.org/abs/2504.07962)|null|
 |**2025-04-07**|**The 1st Solution for 4th PVUW MeViS Challenge: Unleashing the Potential of Large Multimodal Models for Referring Video Segmentation**|Hao Fang et.al.|[2504.05178](http://arxiv.org/abs/2504.05178)|null|
 |**2025-04-01**|**4th PVUW MeViS 3rd Place Report: Sa2VA**|Haobo Yuan et.al.|[2504.00476](http://arxiv.org/abs/2504.00476)|**[link](https://github.com/magic-research/Sa2VA)**|
