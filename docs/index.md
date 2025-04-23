@@ -7,19 +7,20 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.22
+## Updated on 2025.04.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RES
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-20**|**LGD: Leveraging Generative Descriptions for Zero-Shot Referring Image Segmentation**|Jiachen Li et.al.|[2504.14467](http://arxiv.org/abs/2504.14467)|null|
 |**2025-04-17**|**3DResT: A Strong Baseline for Semi-Supervised 3D Referring Expression Segmentation**|Wenxin Chen et.al.|[2504.12599](http://arxiv.org/abs/2504.12599)|null|
 |**2025-04-15**|**Aligning Generative Denoising with Discriminative Objectives Unleashes Diffusion for Visual Perception**|Ziqi Pang et.al.|[2504.11457](http://arxiv.org/abs/2504.11457)|**[link](https://github.com/ziqipang/addp)**|
 |**2025-04-02**|**Towards Unified Referring Expression Segmentation Across Omni-Level Visual Target Granularities**|Jing Liu et.al.|[2504.01954](http://arxiv.org/abs/2504.01954)|null|
 |**2025-04-01**|**Hybrid Global-Local Representation with Augmented Spatial Guidance for Zero-Shot Referring Image Segmentation**|Ting Liu et.al.|[2504.00356](http://arxiv.org/abs/2504.00356)|**[link](https://github.com/fhgyuanshen/hybridgl)**|
 |**2025-03-17**|**Scale Efficient Training for Large Datasets**|Qing Zhou et.al.|[2503.13385](http://arxiv.org/abs/2503.13385)|null|
-|**2025-03-13**|**GroundingSuite: Measuring Complex Multi-Granular Pixel Grounding**|Rui Hu et.al.|[2503.10596](http://arxiv.org/abs/2503.10596)|**[link](https://github.com/hustvl/groundingsuite)**|
+|**2025-04-21**|**GroundingSuite: Measuring Complex Multi-Granular Pixel Grounding**|Rui Hu et.al.|[2503.10596](http://arxiv.org/abs/2503.10596)|**[link](https://github.com/hustvl/groundingsuite)**|
 |**2025-03-02**|**IteRPrimE: Zero-shot Referring Image Segmentation with Iterative Grad-CAM Refinement and Primary Word Emphasis**|Yuji Wang et.al.|[2503.00936](http://arxiv.org/abs/2503.00936)|**[link](https://github.com/VoyageWang/IteRPrimE)**|
 |**2025-02-28**|**AeroReformer: Aerial Referring Transformer for UAV-based Referring Image Segmentation**|Rui Li et.al.|[2502.16680](http://arxiv.org/abs/2502.16680)|**[link](https://github.com/lironui/aeroreformer)**|
 |**2025-02-23**|**PixFoundation: Are We Heading in the Right Direction with Pixel-level Vision Foundation Models?**|Mennatullah Siam et.al.|[2502.04192](http://arxiv.org/abs/2502.04192)|**[link](https://github.com/msiam/pixfoundation)**|
