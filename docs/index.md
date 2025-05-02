@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.01
+## Updated on 2025.05.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RES
@@ -15,7 +15,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-22**|**Progressive Language-guided Visual Learning for Multi-Task Visual Grounding**|Jingchao Wang et.al.|[2504.16145](http://arxiv.org/abs/2504.16145)|null|
-|**2025-04-20**|**LGD: Leveraging Generative Descriptions for Zero-Shot Referring Image Segmentation**|Jiachen Li et.al.|[2504.14467](http://arxiv.org/abs/2504.14467)|null|
+|**2025-05-01**|**LGD: Leveraging Generative Descriptions for Zero-Shot Referring Image Segmentation**|Jiachen Li et.al.|[2504.14467](http://arxiv.org/abs/2504.14467)|null|
 |**2025-04-17**|**3DResT: A Strong Baseline for Semi-Supervised 3D Referring Expression Segmentation**|Wenxin Chen et.al.|[2504.12599](http://arxiv.org/abs/2504.12599)|null|
 |**2025-04-15**|**Aligning Generative Denoising with Discriminative Objectives Unleashes Diffusion for Visual Perception**|Ziqi Pang et.al.|[2504.11457](http://arxiv.org/abs/2504.11457)|**[link](https://github.com/ziqipang/addp)**|
 |**2025-04-02**|**Towards Unified Referring Expression Segmentation Across Omni-Level Visual Target Granularities**|Jing Liu et.al.|[2504.01954](http://arxiv.org/abs/2504.01954)|null|
