@@ -5450,7 +5450,7 @@ layout: default
 |**2024-06-29**|**Please do not go: understanding turnover of software engineers from different perspectives**|Michelle Larissa Luciano Carvalho et.al.|[2407.00273](http://arxiv.org/abs/2407.00273)|null|
 |**2024-07-09**|**Spectro-photometric follow up of the outbursting AM CVn system ASASSN-21br**|S. Painter et.al.|[2407.00221](http://arxiv.org/abs/2407.00221)|null|
 |**2024-06-28**|**Multi-Satellite MIMO Systems for Direct User-Satellite Communications: A Survey**|Zohre Mashayekh Bakhsh et.al.|[2407.00196](http://arxiv.org/abs/2407.00196)|null|
-|**2024-06-28**|**Multipoles of the galaxy bispectrum on a light cone: wide-separation and relativistic corrections**|Chris Addis et.al.|[2407.00168](http://arxiv.org/abs/2407.00168)|null|
+|**2024-06-28**|**Multipoles of the galaxy bispectrum on a light cone: wide-separation and relativistic corrections**|Chris Addis et.al.|[2407.00168](http://arxiv.org/abs/2407.00168)|**[link](https://github.com/craddis1/CosmoWAP)**|
 |**2024-07-02**|**The AURORA Survey: A New Era of Emission-line Diagrams with JWST/NIRSpec**|Alice E. Shapley et.al.|[2407.00157](http://arxiv.org/abs/2407.00157)|null|
 |**2024-09-19**|**Co-evolving networks for opinion and social dynamics in agent-based models**|Nataša Djurdjevac Conrad et.al.|[2407.00145](http://arxiv.org/abs/2407.00145)|null|
 |**2024-06-28**|**A Survey on Failure Analysis and Fault Injection in AI Systems**|Guangba Yu et.al.|[2407.00125](http://arxiv.org/abs/2407.00125)|null|
