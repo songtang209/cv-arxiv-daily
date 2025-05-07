@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.06
+## Updated on 2025.05.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RES
@@ -1089,6 +1089,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-30**|**OpenAVS: Training-Free Open-Vocabulary Audio Visual Segmentation with Foundational Models**|Shengkai Chen et.al.|[2505.01448](http://arxiv.org/abs/2505.01448)|null|
 |**2025-03-17**|**Robust Audio-Visual Segmentation via Audio-Guided Visual Convergent Alignment**|Chen Liu et.al.|[2503.12847](http://arxiv.org/abs/2503.12847)|null|
 |**2025-03-17**|**Dynamic Derivation and Elimination: Audio Visual Segmentation with Enhanced Audio Semantics**|Chen Liu et.al.|[2503.12840](http://arxiv.org/abs/2503.12840)|null|
 |**2025-02-22**|**Audio Visual Segmentation Through Text Embeddings**|Kyungbok Lee et.al.|[2502.16359](http://arxiv.org/abs/2502.16359)|null|
