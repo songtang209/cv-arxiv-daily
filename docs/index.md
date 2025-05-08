@@ -7,13 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.07
+## Updated on 2025.05.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RES
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-03**|**RESAnything: Attribute Prompting for Arbitrary Referring Segmentation**|Ruiqi Wang et.al.|[2505.02867](http://arxiv.org/abs/2505.02867)|null|
 |**2025-04-22**|**Progressive Language-guided Visual Learning for Multi-Task Visual Grounding**|Jingchao Wang et.al.|[2504.16145](http://arxiv.org/abs/2504.16145)|null|
 |**2025-05-01**|**LGD: Leveraging Generative Descriptions for Zero-Shot Referring Image Segmentation**|Jiachen Li et.al.|[2504.14467](http://arxiv.org/abs/2504.14467)|null|
 |**2025-04-17**|**3DResT: A Strong Baseline for Semi-Supervised 3D Referring Expression Segmentation**|Wenxin Chen et.al.|[2504.12599](http://arxiv.org/abs/2504.12599)|null|
