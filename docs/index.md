@@ -1713,7 +1713,7 @@ layout: default
 |**2025-01-13**|**Affirmative Hackathon for Software Developers with Disabilities: An Industry Initiative**|Thayssa Rocha et.al.|[2501.07344](http://arxiv.org/abs/2501.07344)|null|
 |**2025-01-13**|**Am I Infected? Lessons from Operating a Large-Scale IoT Security Diagnostic Service**|Takayuki Sasaki et.al.|[2501.07326](http://arxiv.org/abs/2501.07326)|null|
 |**2025-01-13**|**Lifelong Learning of Large Language Model based Agents: A Roadmap**|Junhao Zheng et.al.|[2501.07278](http://arxiv.org/abs/2501.07278)|**[link](https://github.com/qianlima-lab/awesome-lifelong-llm-agent)**|
-|**2025-01-13**|**An Extended Survey and a Comparison Framework for Dataflow Models of Computation and Communication**|Guillaume Roumage et.al.|[2501.07273](http://arxiv.org/abs/2501.07273)|null|
+|**2025-01-13**|**An Extended Survey and a Comparison Framework for Dataflow Models of Computation and Communication**|Guillaume Roumage et.al.|[2501.07273](http://arxiv.org/abs/2501.07273)|**[link](https://github.com/groumage/dfmoccs-survey)**|
 |**2025-01-13**|**Rotation periods of asteroids from light curves of TESS data**|D. E. Vavilov et.al.|[2501.07189](http://arxiv.org/abs/2501.07189)|null|
 |**2025-01-13**|**The diverse physical origins of stars in the dynamically hot bulge: CALIFA vs. IllustrisTNG**|Le Zhang et.al.|[2501.07151](http://arxiv.org/abs/2501.07151)|null|
 |**2025-01-13**|**The large scale structure of complete $4$ -manifolds with nonnegative Ricci curvature and Euclidean volume growth**|Daniele Semola et.al.|[2501.07125](http://arxiv.org/abs/2501.07125)|null|
@@ -3148,7 +3148,7 @@ layout: default
 |**2024-10-04**|**From 5G to 6G: A Survey on Security, Privacy, and Standardization Pathways**|Mengmeng Yang et.al.|[2410.21986](http://arxiv.org/abs/2410.21986)|null|
 |**2024-10-29**|**A Survey on RGB, 3D, and Multimodal Approaches for Unsupervised Industrial Anomaly Detection**|Yuxuan Lin et.al.|[2410.21982](http://arxiv.org/abs/2410.21982)|**[link](https://github.com/sunny5250/awesome-multi-setting-uiad)**|
 |**2024-10-30**|**Impact of cosmology dependence of baryonic feedback in weak lensing**|Pranjal R. S. et.al.|[2410.21980](http://arxiv.org/abs/2410.21980)|null|
-|**2024-10-29**|**Capivara: A Spectral-based Segmentation Method for IFU Data Cubes**|Rafael S. de Souza et.al.|[2410.21962](http://arxiv.org/abs/2410.21962)|null|
+|**2024-10-29**|**Capivara: A Spectral-based Segmentation Method for IFU Data Cubes**|Rafael S. de Souza et.al.|[2410.21962](http://arxiv.org/abs/2410.21962)|**[link](https://github.com/rafaelsdesouza/capivara)**|
 |**2024-10-29**|**The evolution of two-point correlation function of galaxies with a twin-peak initial power spectrum**|Yang Zhang et.al.|[2410.21709](http://arxiv.org/abs/2410.21709)|null|
 |**2024-10-28**|**CaloChallenge 2022: A Community Challenge for Fast Calorimeter Simulation**|Claudius Krause et.al.|[2410.21611](http://arxiv.org/abs/2410.21611)|null|
 |**2024-12-18**|**Chatbot Companionship: A Mixed-Methods Study of Companion Chatbot Usage Patterns and Their Relationship to Loneliness in Active Users**|Auren R. Liu et.al.|[2410.21596](http://arxiv.org/abs/2410.21596)|null|
@@ -3500,7 +3500,7 @@ layout: default
 |**2024-10-11**|**A Block-Based Testing Framework for Scratch**|Patric Feldmeier et.al.|[2410.08835](http://arxiv.org/abs/2410.08835)|null|
 |**2024-10-11**|**Exploring the properties of the obscured hyperluminous quasar COS-87259 at z=6.853**|Charalambia Varnava et.al.|[2410.08834](http://arxiv.org/abs/2410.08834)|null|
 |**2024-10-11**|**Distribution-free uncertainty quantification for inverse problems: application to weak lensing mass mapping**|Hubert Leterme et.al.|[2410.08831](http://arxiv.org/abs/2410.08831)|**[link](https://github.com/hubert-leterme/weaklensing_uq)**|
-|**2024-10-11**|**On the State of NLP Approaches to Modeling Depression in Social Media: A Post-COVID-19 Outlook**|Ana-Maria Bucur et.al.|[2410.08793](http://arxiv.org/abs/2410.08793)|null|
+|**2024-10-11**|**On the State of NLP Approaches to Modeling Depression in Social Media: A Post-COVID-19 Outlook**|Ana-Maria Bucur et.al.|[2410.08793](http://arxiv.org/abs/2410.08793)|**[link](https://github.com/bucuram/depression-datasets-nlp)**|
 |**2024-10-11**|**JWST/NIRSpec spectroscopy of intermediate-mass quiescent galaxies at $z \sim 3-4$**|Riku A. Sato et.al.|[2410.08745](http://arxiv.org/abs/2410.08745)|**[link](https://github.com/ACCarnall/bagpipes)**|
 |**2024-10-11**|**The cosmic distance duality relation in light of the time-delayed strong gravitational lensing**|Li Tang et.al.|[2410.08595](http://arxiv.org/abs/2410.08595)|null|
 |**2024-12-19**|**Design of Secure, Privacy-focused, and Accessible E-Payment Applications for Older Adults**|Sanchari Das et.al.|[2410.08555](http://arxiv.org/abs/2410.08555)|null|
@@ -5334,7 +5334,7 @@ layout: default
 |**2024-07-05**|**Game Elements to Engage Students Learning the Open Source Software Contribution Process**|Italo Santos et.al.|[2407.04674](http://arxiv.org/abs/2407.04674)|null|
 |**2024-07-05**|**COBRA: Optimal Factorization of Cosmological Observables**|Thomas Bakx et.al.|[2407.04660](http://arxiv.org/abs/2407.04660)|null|
 |**2024-07-05**|**Simulation-based Calibration of Uncertainty Intervals under Approximate Bayesian Estimation**|Terrance D. Savitsky et.al.|[2407.04659](http://arxiv.org/abs/2407.04659)|null|
-|**2024-07-05**|**Cosmological constraints from the cross-correlation of DESI Luminous Red Galaxies with CMB lensing from Planck PR4 and ACT DR6**|Noah Sailer et.al.|[2407.04607](http://arxiv.org/abs/2407.04607)|null|
+|**2024-07-05**|**Cosmological constraints from the cross-correlation of DESI Luminous Red Galaxies with CMB lensing from Planck PR4 and ACT DR6**|Noah Sailer et.al.|[2407.04607](http://arxiv.org/abs/2407.04607)|**[link](https://github.com/NoahSailer/MaPar)**|
 |**2024-09-28**|**Converse Techniques for Identification via Channels**|Larissa Brüche et.al.|[2407.04582](http://arxiv.org/abs/2407.04582)|null|
 |**2024-08-26**|**Graph Reinforcement Learning for Power Grids: A Comprehensive Survey**|Mohamed Hassouna et.al.|[2407.04522](http://arxiv.org/abs/2407.04522)|null|
 |**2024-07-05**|**A spectroscopic and kinematic survey of fast hot subdwarfs**|S. Geier et.al.|[2407.04479](http://arxiv.org/abs/2407.04479)|null|
