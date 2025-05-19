@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.18
+## Updated on 2025.05.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RES
@@ -3979,7 +3979,7 @@ layout: default
 |**2024-11-06**|**Maritime Cybersecurity: A Comprehensive Review**|Meixuan Li et.al.|[2409.11417](http://arxiv.org/abs/2409.11417)|null|
 |**2024-10-06**|**A Comprehensive Survey of Advanced Persistent Threat Attribution: Taxonomy, Methods, Challenges and Open Research Problems**|Nanda Rani et.al.|[2409.11415](http://arxiv.org/abs/2409.11415)|null|
 |**2024-11-22**|**Hertzsprung gap stars in nearby galaxies and the Quest for Luminous Red Novae Progenitors**|Hugo Tranin et.al.|[2409.11347](http://arxiv.org/abs/2409.11347)|**[link](https://github.com/htranin/LRNsearch)**|
-|**2024-09-17**|**An Empirical Study of Sensitive Information in Logs**|Roozbeh Aghili et.al.|[2409.11313](http://arxiv.org/abs/2409.11313)|null|
+|**2024-09-17**|**An Empirical Study of Sensitive Information in Logs**|Roozbeh Aghili et.al.|[2409.11313](http://arxiv.org/abs/2409.11313)|**[link](https://github.com/ConferencePurposes/log_privacy)**|
 |**2025-01-09**|**Features and prospects for kilonova remnant detection with current and future surveys**|Sandeep Kumar Acharya et.al.|[2409.11291](http://arxiv.org/abs/2409.11291)|null|
 |**2024-09-17**|**Colour-Based Disentangling of Mira Variables and Ultra-Cool Dwarfs**|Aleksandra Avdeeva et.al.|[2409.11266](http://arxiv.org/abs/2409.11266)|null|
 |**2024-09-17**|**A Human-Centered Risk Evaluation of Biometric Systems Using Conjoint Analysis**|Tetsushi Ohki et.al.|[2409.11224](http://arxiv.org/abs/2409.11224)|null|
