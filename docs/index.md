@@ -165,7 +165,7 @@ layout: default
 |**2024-12-28**|**Towards Visual Grounding: A Survey**|Linhui Xiao et.al.|[2412.20206](http://arxiv.org/abs/2412.20206)|**[link](https://github.com/linhuixiao/oneref)**|
 |**2024-12-26**|**Referencing Where to Focus: Improving VisualGrounding with Referential Query**|Yabing Wang et.al.|[2412.19155](http://arxiv.org/abs/2412.19155)|null|
 |**2025-01-20**|**Reasoning to Attend: Try to Understand How <SEG> Token Works**|Rui Qian et.al.|[2412.17741](http://arxiv.org/abs/2412.17741)|**[link](https://github.com/rui-qian/read)**|
-|**2024-12-23**|**PC Agent: While You Sleep, AI Works -- A Cognitive Journey into Digital World**|Yanheng He et.al.|[2412.17589](http://arxiv.org/abs/2412.17589)|null|
+|**2024-12-23**|**PC Agent: While You Sleep, AI Works -- A Cognitive Journey into Digital World**|Yanheng He et.al.|[2412.17589](http://arxiv.org/abs/2412.17589)|**[link](https://github.com/GAIR-NLP/PC-Agent)**|
 |**2024-12-22**|**CoF: Coarse to Fine-Grained Image Understanding for Multi-modal Large Language Models**|Yeyuan Wang et.al.|[2412.16869](http://arxiv.org/abs/2412.16869)|**[link](https://github.com/gavin001201/cof)**|
 |**2024-12-22**|**Visual Prompting with Iterative Refinement for Design Critique Generation**|Peitong Duan et.al.|[2412.16829](http://arxiv.org/abs/2412.16829)|null|
 |**2024-12-20**|**Aria-UI: Visual Grounding for GUI Instructions**|Yuhao Yang et.al.|[2412.16256](http://arxiv.org/abs/2412.16256)|null|
