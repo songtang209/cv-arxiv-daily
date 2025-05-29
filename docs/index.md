@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.28
+## Updated on 2025.05.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RES
@@ -18,7 +18,7 @@ layout: default
 |**2025-05-27**|**RemoteSAM: Towards Segment Anything for Earth Observation**|Liang Yao et.al.|[2505.18022](http://arxiv.org/abs/2505.18022)|**[link](https://github.com/1e12Leon/RemoteSAM)**|
 |**2025-05-23**|**SynRES: Towards Referring Expression Segmentation in the Wild via Synthetic Data**|Dong-Hee Kim et.al.|[2505.17695](http://arxiv.org/abs/2505.17695)|null|
 |**2025-05-03**|**RESAnything: Attribute Prompting for Arbitrary Referring Segmentation**|Ruiqi Wang et.al.|[2505.02867](http://arxiv.org/abs/2505.02867)|null|
-|**2025-04-22**|**Progressive Language-guided Visual Learning for Multi-Task Visual Grounding**|Jingchao Wang et.al.|[2504.16145](http://arxiv.org/abs/2504.16145)|null|
+|**2025-05-28**|**Progressive Language-guided Visual Learning for Multi-Task Visual Grounding**|Jingchao Wang et.al.|[2504.16145](http://arxiv.org/abs/2504.16145)|null|
 |**2025-05-01**|**LGD: Leveraging Generative Descriptions for Zero-Shot Referring Image Segmentation**|Jiachen Li et.al.|[2504.14467](http://arxiv.org/abs/2504.14467)|null|
 |**2025-04-17**|**3DResT: A Strong Baseline for Semi-Supervised 3D Referring Expression Segmentation**|Wenxin Chen et.al.|[2504.12599](http://arxiv.org/abs/2504.12599)|null|
 |**2025-04-15**|**Aligning Generative Denoising with Discriminative Objectives Unleashes Diffusion for Visual Perception**|Ziqi Pang et.al.|[2504.11457](http://arxiv.org/abs/2504.11457)|**[link](https://github.com/ziqipang/addp)**|
@@ -1094,6 +1094,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-26**|**Omni-R1: Reinforcement Learning for Omnimodal Reasoning via Two-System Collaboration**|Hao Zhong et.al.|[2505.20256](http://arxiv.org/abs/2505.20256)|**[link](https://github.com/aim-uofa/omni-r1)**|
 |**2025-04-30**|**OpenAVS: Training-Free Open-Vocabulary Audio Visual Segmentation with Foundational Models**|Shengkai Chen et.al.|[2505.01448](http://arxiv.org/abs/2505.01448)|null|
 |**2025-03-17**|**Robust Audio-Visual Segmentation via Audio-Guided Visual Convergent Alignment**|Chen Liu et.al.|[2503.12847](http://arxiv.org/abs/2503.12847)|null|
 |**2025-03-17**|**Dynamic Derivation and Elimination: Audio Visual Segmentation with Enhanced Audio Semantics**|Chen Liu et.al.|[2503.12840](http://arxiv.org/abs/2503.12840)|null|
