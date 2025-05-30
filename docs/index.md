@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.29
+## Updated on 2025.05.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RES
@@ -894,7 +894,7 @@ layout: default
 |**2025-04-10**|**GLUS: Global-Local Reasoning Unified into A Single Large Language Model for Video Segmentation**|Lang Lin et.al.|[2504.07962](http://arxiv.org/abs/2504.07962)|null|
 |**2025-04-07**|**The 1st Solution for 4th PVUW MeViS Challenge: Unleashing the Potential of Large Multimodal Models for Referring Video Segmentation**|Hao Fang et.al.|[2504.05178](http://arxiv.org/abs/2504.05178)|null|
 |**2025-04-01**|**4th PVUW MeViS 3rd Place Report: Sa2VA**|Haobo Yuan et.al.|[2504.00476](http://arxiv.org/abs/2504.00476)|**[link](https://github.com/magic-research/Sa2VA)**|
-|**2025-03-30**|**ReferDINO-Plus: 2nd Solution for 4th PVUW MeViS Challenge at CVPR 2025**|Tianming Liang et.al.|[2503.23509](http://arxiv.org/abs/2503.23509)|**[link](https://github.com/isee-laboratory/referdino-plus)**|
+|**2025-05-29**|**ReferDINO-Plus: 2nd Solution for 4th PVUW MeViS Challenge at CVPR 2025**|Tianming Liang et.al.|[2503.23509](http://arxiv.org/abs/2503.23509)|**[link](https://github.com/isee-laboratory/referdino-plus)**|
 |**2025-03-05**|**Find First, Track Next: Decoupling Identification and Propagation in Referring Video Object Segmentation**|Suhwan Cho et.al.|[2503.03492](http://arxiv.org/abs/2503.03492)|**[link](https://github.com/suhwan-cho/FindTrack)**|
 |**2025-04-12**|**Text-Promptable Propagation for Referring Medical Image Sequence Segmentation**|Runtian Yuan et.al.|[2502.11093](http://arxiv.org/abs/2502.11093)|null|
 |**2025-01-24**|**ReferDINO: Referring Video Object Segmentation with Visual Grounding Foundations**|Tianming Liang et.al.|[2501.14607](http://arxiv.org/abs/2501.14607)|null|
@@ -1098,7 +1098,7 @@ layout: default
 |**2025-04-30**|**OpenAVS: Training-Free Open-Vocabulary Audio Visual Segmentation with Foundational Models**|Shengkai Chen et.al.|[2505.01448](http://arxiv.org/abs/2505.01448)|null|
 |**2025-03-17**|**Robust Audio-Visual Segmentation via Audio-Guided Visual Convergent Alignment**|Chen Liu et.al.|[2503.12847](http://arxiv.org/abs/2503.12847)|null|
 |**2025-03-17**|**Dynamic Derivation and Elimination: Audio Visual Segmentation with Enhanced Audio Semantics**|Chen Liu et.al.|[2503.12840](http://arxiv.org/abs/2503.12840)|null|
-|**2025-02-22**|**Audio Visual Segmentation Through Text Embeddings**|Kyungbok Lee et.al.|[2502.16359](http://arxiv.org/abs/2502.16359)|null|
+|**2025-05-29**|**Audio Visual Segmentation Through Text Embeddings**|Kyungbok Lee et.al.|[2502.16359](http://arxiv.org/abs/2502.16359)|null|
 |**2025-02-20**|**Do Audio-Visual Segmentation Models Truly Segment Sounding Objects?**|Jia Li et.al.|[2502.00358](http://arxiv.org/abs/2502.00358)|null|
 |**2025-01-14**|**AVS-Mamba: Exploring Temporal and Multi-modal Mamba for Audio-Visual Segmentation**|Sitong Gong et.al.|[2501.07810](http://arxiv.org/abs/2501.07810)|**[link](https://github.com/sitonggong/avs-mamba)**|
 |**2024-12-17**|**Multimodal Class-aware Semantic Enhancement Network for Audio-Visual Video Parsing**|Pengcheng Zhao et.al.|[2412.11248](http://arxiv.org/abs/2412.11248)|null|
