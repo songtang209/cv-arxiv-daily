@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.30
+## Updated on 2025.05.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RES
@@ -94,7 +94,7 @@ layout: default
 |**2023-09-17**|**CLIPUNetr: Assisting Human-robot Interface for Uncalibrated Visual Servoing Control with CLIP-driven Referring Expression Segmentation**|Chen Jiang et.al.|[2309.09183](http://arxiv.org/abs/2309.09183)|null|
 |**2024-10-01**|**From Text to Mask: Localizing Entities Using the Attention of Text-to-Image Diffusion Models**|Changming Xiao et.al.|[2309.04109](http://arxiv.org/abs/2309.04109)|**[link](https://github.com/Big-Brother-Pikachu/Text2Mask)**|
 |**2023-09-02**|**Contrastive Grouping with Transformer for Referring Image Segmentation**|Jiajin Tang et.al.|[2309.01017](http://arxiv.org/abs/2309.01017)|**[link](https://github.com/toneyaya/cgformer)**|
-|**2023-09-01**|**Ref-Diff: Zero-shot Referring Image Segmentation with Generative Models**|Minheng Ni et.al.|[2308.16777](http://arxiv.org/abs/2308.16777)|null|
+|**2023-09-01**|**Ref-Diff: Zero-shot Referring Image Segmentation with Generative Models**|Minheng Ni et.al.|[2308.16777](http://arxiv.org/abs/2308.16777)|**[link](https://github.com/kodenii/ref-diff)**|
 |**2023-08-31**|**3D-STMN: Dependency-Driven Superpoint-Text Matching Network for End-to-End 3D Referring Expression Segmentation**|Changli Wu et.al.|[2308.16632](http://arxiv.org/abs/2308.16632)|**[link](https://github.com/sosppxo/3d-stmn)**|
 |**2023-10-24**|**Shatter and Gather: Learning Referring Image Segmentation with Text Supervision**|Dongwon Kim et.al.|[2308.15512](http://arxiv.org/abs/2308.15512)|**[link](https://github.com/kdwonn/SaG)**|
 |**2023-08-28**|**Referring Image Segmentation Using Text Supervision**|Fang Liu et.al.|[2308.14575](http://arxiv.org/abs/2308.14575)|**[link](https://github.com/fawnliu/tris)**|
