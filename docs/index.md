@@ -3965,7 +3965,7 @@ layout: default
 |**2024-09-18**|**Putting Data at the Centre of Offline Multi-Agent Reinforcement Learning**|Claude Formanek et.al.|[2409.12001](http://arxiv.org/abs/2409.12001)|null|
 |**2024-09-18**|**Research Citations Building Trust in Wikipedia**|Michael Taylor et.al.|[2409.11948](http://arxiv.org/abs/2409.11948)|null|
 |**2024-09-18**|**Cyclic Segal Spaces**|Julia E. Bergner et.al.|[2409.11945](http://arxiv.org/abs/2409.11945)|null|
-|**2024-09-21**|**Recent Advances in OOD Detection: Problems and Approaches**|Shuo Lu et.al.|[2409.11884](http://arxiv.org/abs/2409.11884)|null|
+|**2024-09-21**|**Recent Advances in OOD Detection: Problems and Approaches**|Shuo Lu et.al.|[2409.11884](http://arxiv.org/abs/2409.11884)|**[link](https://github.com/shuolucs/awesome-out-of-distribution-detection)**|
 |**2024-09-18**|**From Group Psychology to Software Engineering Research to Automotive R&D: Measuring Team Development at Volvo Cars**|Lucas Gren et.al.|[2409.11778](http://arxiv.org/abs/2409.11778)|null|
 |**2024-09-18**|**Benchmarking the spectroscopic masses of 249 evolved stars using asteroseismology with TESS**|Sai Prathyusha Malla et.al.|[2409.11736](http://arxiv.org/abs/2409.11736)|null|
 |**2024-09-19**|**WALLABY Pilot Survey: HI source-finding with a machine learning framework**|Li Wang et.al.|[2409.11668](http://arxiv.org/abs/2409.11668)|null|
@@ -6794,7 +6794,7 @@ layout: default
 |**2024-10-21**|**A Survey of Decomposition-Based Evolutionary Multi-Objective Optimization: Part I-Past and Future**|Ke Li et.al.|[2404.14571](http://arxiv.org/abs/2404.14571)|null|
 |**2024-04-22**|**Instrument Signature Removal and Calibration Products for the Rubin Legacy Survey of Space and Time**|Andrés A. Plazas Malagón et.al.|[2404.14516](http://arxiv.org/abs/2404.14516)|**[link](https://github.com/lsst/ip_isr)**|
 |**2024-04-22**|**The extent and power of "maintainance mode" feedback in MaNGA AGN**|Lara Gatto et.al.|[2404.14502](http://arxiv.org/abs/2404.14502)|null|
-|**2024-04-22**|**The SAGA Survey. V. Modeling Satellite Systems around Milky Way-mass Galaxies with Updated UniverseMachine**|Yunchong Wang et.al.|[2404.14500](http://arxiv.org/abs/2404.14500)|null|
+|**2024-04-22**|**The SAGA Survey. V. Modeling Satellite Systems around Milky Way-mass Galaxies with Updated UniverseMachine**|Yunchong Wang et.al.|[2404.14500](http://arxiv.org/abs/2404.14500)|**[link](https://bitbucket.org/rw-stanford/universemachine-saga)**|
 |**2024-07-25**|**The SAGA Survey. IV. The Star Formation Properties of 101 Satellite Systems around Milky Way-mass Galaxies**|Marla Geha et.al.|[2404.14499](http://arxiv.org/abs/2404.14499)|null|
 |**2024-11-18**|**The SAGA Survey. III. A Census of 101 Satellite Systems around Milky Way-mass Galaxies**|Yao-Yuan Mao et.al.|[2404.14498](http://arxiv.org/abs/2404.14498)|**[link](https://github.com/yymao/adstex)**|
 |**2024-04-22**|**Stochastic prior for non-parametric star-formation histories**|Jenny T. Wan et.al.|[2404.14494](http://arxiv.org/abs/2404.14494)|null|
