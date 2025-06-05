@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.04
+## Updated on 2025.06.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RES
@@ -889,6 +889,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-04**|**InterRVOS: Interaction-aware Referring Video Object Segmentation**|Woojeong Jin et.al.|[2506.02356](http://arxiv.org/abs/2506.02356)|null|
 |**2025-05-19**|**Long-RVOS: A Comprehensive Benchmark for Long-term Referring Video Object Segmentation**|Tianming Liang et.al.|[2505.12702](http://arxiv.org/abs/2505.12702)|null|
 |**2025-04-18**|**Few-Shot Referring Video Single- and Multi-Object Segmentation via Cross-Modal Affinity with Instance Sequence Matching**|Heng Liu et.al.|[2504.13710](http://arxiv.org/abs/2504.13710)|**[link](https://github.com/hengliusky/few_shot_rvos)**|
 |**2025-04-10**|**GLUS: Global-Local Reasoning Unified into A Single Large Language Model for Video Segmentation**|Lang Lin et.al.|[2504.07962](http://arxiv.org/abs/2504.07962)|null|
@@ -1094,6 +1095,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-02**|**SAM2-LOVE: Segment Anything Model 2 in Language-aided Audio-Visual Scenes**|Yuji Wang et.al.|[2506.01558](http://arxiv.org/abs/2506.01558)|null|
 |**2025-05-26**|**Omni-R1: Reinforcement Learning for Omnimodal Reasoning via Two-System Collaboration**|Hao Zhong et.al.|[2505.20256](http://arxiv.org/abs/2505.20256)|**[link](https://github.com/aim-uofa/omni-r1)**|
 |**2025-04-30**|**OpenAVS: Training-Free Open-Vocabulary Audio Visual Segmentation with Foundational Models**|Shengkai Chen et.al.|[2505.01448](http://arxiv.org/abs/2505.01448)|null|
 |**2025-03-17**|**Robust Audio-Visual Segmentation via Audio-Guided Visual Convergent Alignment**|Chen Liu et.al.|[2503.12847](http://arxiv.org/abs/2503.12847)|null|
