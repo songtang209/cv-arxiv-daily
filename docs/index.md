@@ -7,13 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.06
+## Updated on 2025.06.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RES
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-05**|**Refer to Anything with Vision-Language Prompts**|Shengcao Cao et.al.|[2506.05342](http://arxiv.org/abs/2506.05342)|null|
 |**2025-05-25**|**Deformable Attentive Visual Enhancement for Referring Segmentation Using Vision-Language Model**|Alaa Dalaq et.al.|[2505.19242](http://arxiv.org/abs/2505.19242)|null|
 |**2025-06-02**|**RemoteSAM: Towards Segment Anything for Earth Observation**|Liang Yao et.al.|[2505.18022](http://arxiv.org/abs/2505.18022)|**[link](https://github.com/1e12Leon/RemoteSAM)**|
 |**2025-05-23**|**SynRES: Towards Referring Expression Segmentation in the Wild via Synthetic Data**|Dong-Hee Kim et.al.|[2505.17695](http://arxiv.org/abs/2505.17695)|null|
@@ -889,6 +890,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-05**|**VideoMolmo: Spatio-Temporal Grounding Meets Pointing**|Ghazi Shazan Ahmad et.al.|[2506.05336](http://arxiv.org/abs/2506.05336)|null|
 |**2025-06-04**|**InterRVOS: Interaction-aware Referring Video Object Segmentation**|Woojeong Jin et.al.|[2506.02356](http://arxiv.org/abs/2506.02356)|null|
 |**2025-05-19**|**Long-RVOS: A Comprehensive Benchmark for Long-term Referring Video Object Segmentation**|Tianming Liang et.al.|[2505.12702](http://arxiv.org/abs/2505.12702)|null|
 |**2025-04-18**|**Few-Shot Referring Video Single- and Multi-Object Segmentation via Cross-Modal Affinity with Instance Sequence Matching**|Heng Liu et.al.|[2504.13710](http://arxiv.org/abs/2504.13710)|**[link](https://github.com/hengliusky/few_shot_rvos)**|
