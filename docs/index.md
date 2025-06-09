@@ -337,7 +337,7 @@ layout: default
 |**2024-04-05**|**WaterVG: Waterway Visual Grounding based on Text-Guided Vision and mmWave Radar**|Runwei Guan et.al.|[2403.12686](http://arxiv.org/abs/2403.12686)|null|
 |**2024-07-23**|**DetToolChain: A New Prompting Paradigm to Unleash Detection Ability of MLLM**|Yixuan Wu et.al.|[2403.12488](http://arxiv.org/abs/2403.12488)|**[link](https://github.com/yixuan730/DetToolChain)**|
 |**2024-10-27**|**Veagle: Advancements in Multimodal Representation Learning**|Rajat Chawla et.al.|[2403.08773](http://arxiv.org/abs/2403.08773)|**[link](https://github.com/superagi/veagle)**|
-|**2024-03-13**|**SeCG: Semantic-Enhanced 3D Visual Grounding via Cross-modal Graph Attention**|Feng Xiao et.al.|[2403.08182](http://arxiv.org/abs/2403.08182)|null|
+|**2024-03-13**|**SeCG: Semantic-Enhanced 3D Visual Grounding via Cross-modal Graph Attention**|Feng Xiao et.al.|[2403.08182](http://arxiv.org/abs/2403.08182)|**[link](https://github.com/onmyoji-xiao/3dvg_secg)**|
 |**2024-12-01**|**MiKASA: Multi-Key-Anchor & Scene-Aware Transformer for 3D Visual Grounding**|Chun-Peng Chang et.al.|[2403.03077](http://arxiv.org/abs/2403.03077)|**[link](https://github.com/dfki-av/mikasa-3dvg)**|
 |**2024-03-05**|**Detecting Concrete Visual Tokens for Multimodal Machine Translation**|Braeden Bowen et.al.|[2403.03075](http://arxiv.org/abs/2403.03075)|null|
 |**2024-03-04**|**RegionGPT: Towards Region Understanding Vision Language Model**|Qiushan Guo et.al.|[2403.02330](http://arxiv.org/abs/2403.02330)|null|
@@ -1184,7 +1184,7 @@ layout: default
 |**2024-04-30**|**Naturally Supervised 3D Visual Grounding with Language-Regularized Concept Learners**|Chun Feng et.al.|[2404.19696](http://arxiv.org/abs/2404.19696)|null|
 |**2024-12-18**|**Rethinking 3D Dense Caption and Visual Grounding in A Unified Framework through Prompt-based Localization**|Yongdong Luo et.al.|[2404.11064](http://arxiv.org/abs/2404.11064)|**[link](https://github.com/leon1207/3dgctr)**|
 |**2024-12-04**|**Data-Efficient 3D Visual Grounding via Order-Aware Referring**|Tung-Yu Wu et.al.|[2403.16539](http://arxiv.org/abs/2403.16539)|null|
-|**2024-03-13**|**SeCG: Semantic-Enhanced 3D Visual Grounding via Cross-modal Graph Attention**|Feng Xiao et.al.|[2403.08182](http://arxiv.org/abs/2403.08182)|null|
+|**2024-03-13**|**SeCG: Semantic-Enhanced 3D Visual Grounding via Cross-modal Graph Attention**|Feng Xiao et.al.|[2403.08182](http://arxiv.org/abs/2403.08182)|**[link](https://github.com/onmyoji-xiao/3dvg_secg)**|
 |**2024-12-01**|**MiKASA: Multi-Key-Anchor & Scene-Aware Transformer for 3D Visual Grounding**|Chun-Peng Chang et.al.|[2403.03077](http://arxiv.org/abs/2403.03077)|**[link](https://github.com/dfki-av/mikasa-3dvg)**|
 |**2024-09-24**|**SceneVerse: Scaling 3D Vision-Language Learning for Grounded Scene Understanding**|Baoxiong Jia et.al.|[2401.09340](http://arxiv.org/abs/2401.09340)|null|
 |**2024-08-30**|**Weakly-Supervised 3D Visual Grounding based on Visual Linguistic Alignment**|Xiaoxu Xu et.al.|[2312.09625](http://arxiv.org/abs/2312.09625)|null|
