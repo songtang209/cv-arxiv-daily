@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.10
+## Updated on 2025.06.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RES
@@ -925,7 +925,7 @@ layout: default
 |**2023-09-07**|**Temporal Collection and Distribution for Referring Video Object Segmentation**|Jiajin Tang et.al.|[2309.03473](http://arxiv.org/abs/2309.03473)|null|
 |**2023-09-05**|**Learning Cross-Modal Affinity for Referring Video Object Segmentation Targeting Limited Samples**|Guanghui Li et.al.|[2309.02041](http://arxiv.org/abs/2309.02041)|**[link](https://github.com/hengliusky/few_shot_rvos)**|
 |**2023-08-16**|**MeViS: A Large-scale Benchmark for Video Segmentation with Motion Expressions**|Henghui Ding et.al.|[2308.08544](http://arxiv.org/abs/2308.08544)|**[link](https://github.com/henghuiding/MeViS)**|
-|**2025-01-17**|**Expression Prompt Collaboration Transformer for Universal Referring Video Object Segmentation**|Jiajun Chen et.al.|[2308.04162](http://arxiv.org/abs/2308.04162)|**[link](https://github.com/lab206/epcformer)**|
+|**2025-01-17**|**Expression Prompt Collaboration Transformer for Universal Referring Video Object Segmentation**|Jiajun Chen et.al.|[2308.04162](http://arxiv.org/abs/2308.04162)|null|
 |**2023-12-15**|**Learning Referring Video Object Segmentation from Weak Annotation**|Wangbo Zhao et.al.|[2308.02162](http://arxiv.org/abs/2308.02162)|null|
 |**2023-07-25**|**Spectrum-guided Multi-granularity Referring Video Object Segmentation**|Bo Miao et.al.|[2307.13537](http://arxiv.org/abs/2307.13537)|**[link](https://github.com/bo-miao/sgmg)**|
 |**2023-07-18**|**OnlineRefer: A Simple Online Baseline for Referring Video Object Segmentation**|Dongming Wu et.al.|[2307.09356](http://arxiv.org/abs/2307.09356)|**[link](https://github.com/wudongming97/onlinerefer)**|
