@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.16
+## Updated on 2025.06.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RES
@@ -1098,6 +1098,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-13**|**TAViS: Text-bridged Audio-Visual Segmentation with Foundation Models**|Ziyang Luo et.al.|[2506.11436](http://arxiv.org/abs/2506.11436)|null|
 |**2025-06-02**|**SAM2-LOVE: Segment Anything Model 2 in Language-aided Audio-Visual Scenes**|Yuji Wang et.al.|[2506.01558](http://arxiv.org/abs/2506.01558)|null|
 |**2025-05-26**|**Omni-R1: Reinforcement Learning for Omnimodal Reasoning via Two-System Collaboration**|Hao Zhong et.al.|[2505.20256](http://arxiv.org/abs/2505.20256)|**[link](https://github.com/aim-uofa/omni-r1)**|
 |**2025-04-30**|**OpenAVS: Training-Free Open-Vocabulary Audio Visual Segmentation with Foundational Models**|Shengkai Chen et.al.|[2505.01448](http://arxiv.org/abs/2505.01448)|null|
