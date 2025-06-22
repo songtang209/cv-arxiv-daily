@@ -6951,6 +6951,32 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-03-29**|**Elysium: Exploring Object-level Perception in Videos via MLLM**|Han Wang et.al.|[2403.16558](http://arxiv.org/abs/2403.16558)|**[link](https://github.com/hon-wong/elysium)**|
 
+## Poster Generation
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-12**|**PosterCraft: Rethinking High-Quality Aesthetic Poster Generation in a Unified Framework**|SiXiang Chen et.al.|[2506.10741](http://arxiv.org/abs/2506.10741)|null|
+|**2025-06-03**|**Generalized Category Discovery via Reciprocal Learning and Class-Wise Distribution Regularization**|Duo Liu et.al.|[2506.02334](http://arxiv.org/abs/2506.02334)|null|
+|**2025-05-27**|**Paper2Poster: Towards Multimodal Poster Automation from Scientific Papers**|Wei Pang et.al.|[2505.21497](http://arxiv.org/abs/2505.21497)|**[link](https://github.com/paper2poster/paper2poster)**|
+|**2025-05-21**|**P2P: Automated Paper-to-Poster Generation and Fine-Grained Benchmark**|Tao Sun et.al.|[2505.17104](http://arxiv.org/abs/2505.17104)|**[link](https://github.com/multimodal-art-projection/P2P)**|
+|**2025-04-09**|**PosterMaker: Towards High-Quality Product Poster Generation with Accurate Text Rendering**|Yifan Gao et.al.|[2504.06632](http://arxiv.org/abs/2504.06632)|null|
+|**2025-03-19**|**POSTA: A Go-to Framework for Customized Artistic Poster Generation**|Haoyu Chen et.al.|[2503.14908](http://arxiv.org/abs/2503.14908)|null|
+|**2024-10-22**|**MPDS: A Movie Posters Dataset for Image Generation with Diffusion Model**|Meng Xu et.al.|[2410.16840](http://arxiv.org/abs/2410.16840)|null|
+|**2025-02-02**|**Personalized Image Generation with Large Multimodal Models**|Yiyan Xu et.al.|[2410.14170](http://arxiv.org/abs/2410.14170)|**[link](https://github.com/yiyanxu/pigeon)**|
+|**2024-07-29**|**SciPostLayout: A Dataset for Layout Analysis and Layout Generation of Scientific Posters**|Shohei Tanaka et.al.|[2407.19787](http://arxiv.org/abs/2407.19787)|null|
+|**2025-02-12**|**GlyphDraw2: Automatic Generation of Complex Glyph Posters with Diffusion Models and Large Language Models**|Jian Ma et.al.|[2407.02252](http://arxiv.org/abs/2407.02252)|**[link](https://github.com/oppo-mente-lab/glyphdraw2)**|
+|**2024-11-26**|**LTOS: Layout-controllable Text-Object Synthesis via Adaptive Cross-attention Fusions**|Xiaoran Zhao et.al.|[2404.13579](http://arxiv.org/abs/2404.13579)|null|
+|**2024-02-10**|**Evaluation Metrics for Automated Typographic Poster Generation**|Sérgio M. Rebelo et.al.|[2402.06945](http://arxiv.org/abs/2402.06945)|**[link](https://github.com/sergiomrebelo/evo-poster)**|
+|**2024-09-03**|**Planning and Rendering: Towards Product Poster Generation with Diffusion Models**|Zhaochen Li et.al.|[2312.08822](http://arxiv.org/abs/2312.08822)|null|
+|**2023-11-03**|**OpenLEAF: Open-Domain Interleaved Image-Text Generation and Evaluation**|Jie An et.al.|[2310.07749](http://arxiv.org/abs/2310.07749)|null|
+|**2023-08-23**|**AutoPoster: A Highly Automatic and Content-aware Design System for Advertising Poster Generation**|Jinpeng Lin et.al.|[2308.01095](http://arxiv.org/abs/2308.01095)|null|
+|**2023-05-26**|**Coarse-to-Fine: a Hierarchical Diffusion Model for Molecule Generation in 3D**|Bo Qiang et.al.|[2305.13266](http://arxiv.org/abs/2305.13266)|**[link](https://github.com/qiangbo1222/hierdiff)**|
+|**2023-03-25**|**Unsupervised Domain Adaption with Pixel-level Discriminator for Image-aware Layout Generation**|Chenchen Xu et.al.|[2303.14377](http://arxiv.org/abs/2303.14377)|null|
+|**2023-01-06**|**Text2Poster: Laying out Stylized Texts on Retrieved Images**|Chuhao Jin et.al.|[2301.02363](http://arxiv.org/abs/2301.02363)|**[link](https://github.com/chuhaojin/text2poster-icassp-22)**|
+|**2021-12-29**|**Overcoming Mode Collapse with Adaptive Multi Adversarial Training**|Karttikeya Mangalam et.al.|[2112.14406](http://arxiv.org/abs/2112.14406)|**[link](https://github.com/gargrohin/amat)**|
+|**2021-12-16**|**Neural Content Extraction for Poster Generation of Scientific Papers**|Sheng Xu et.al.|[2112.08550](http://arxiv.org/abs/2112.08550)|null|
+|**2021-04-22**|**Behavior-Driven Synthesis of Human Dynamics**|Andreas Blattmann et.al.|[2103.04677](http://arxiv.org/abs/2103.04677)|null|
+
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
