@@ -35,6 +35,8 @@ keywords:
         filters: ["Audio-Visual Segmentation", "Audio Visual Segmentation"]
     "3D-RES":
           filters: ["3D Referring Expression Segmentation"]  
+    "Poster Generation":
+        filters: ["poster generation"]
 
   
 
