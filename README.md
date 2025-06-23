@@ -16,6 +16,7 @@
     <li><a href=#3d-res>3D-RES</a></li>
     <li><a href=#poster-generation>Poster Generation</a></li>
     <li><a href=#graphic-design-generation>Graphic Design Generation</a></li>
+    <li><a href=#layout-generation>Layout Generation</a></li>
   </ol>
 </details>
 
@@ -330,6 +331,189 @@
 |**2024-10-11**|**Can GPTs Evaluate Graphic Design Based on Design Principles?**|Daichi Haraguchi et.al.|[2410.08885](http://arxiv.org/abs/2410.08885)|null|
 |**2024-06-12**|**OpenCOLE: Towards Reproducible Automatic Graphic Design Generation**|Naoto Inoue et.al.|[2406.08232](http://arxiv.org/abs/2406.08232)|**[link](https://github.com/cyberagentailab/opencole)**|
 |**2024-03-18**|**COLE: A Hierarchical Generation Framework for Multi-Layered and Editable Graphic Design**|Peidong Jia et.al.|[2311.16974](http://arxiv.org/abs/2311.16974)|null|
+
+<p align=right>(<a href=#updated-on-20250623>back to top</a>)</p>
+
+## Layout Generation
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-06-16**|**EmbodiedGen: Towards a Generative 3D World Engine for Embodied Intelligence**|Xinjie Wang et.al.|[2506.10600](http://arxiv.org/abs/2506.10600)|null|
+|**2025-06-09**|**LLM-driven Indoor Scene Layout Generation via Scaled Human-aligned Data Synthesis and Multi-Stage Preference Optimization**|Yixuan Yang et.al.|[2506.07570](http://arxiv.org/abs/2506.07570)|null|
+|**2025-06-08**|**SceneLCM: End-to-End Layout-Guided Interactive Indoor Scene Generation with Latent Consistency Model**|Yangkai Lin et.al.|[2506.07091](http://arxiv.org/abs/2506.07091)|null|
+|**2025-06-06**|**Table-r1: Self-supervised and Reinforcement Learning for Program-based Table Reasoning in Small Language Models**|Rihui Jin et.al.|[2506.06137](http://arxiv.org/abs/2506.06137)|null|
+|**2025-06-05**|**Direct Numerical Layout Generation for 3D Indoor Scene Synthesis via Spatial Reasoning**|Xingjian Ran et.al.|[2506.05341](http://arxiv.org/abs/2506.05341)|null|
+|**2025-06-03**|**LayoutRAG: Retrieval-Augmented Model for Content-agnostic Conditional Layout Generation**|Yuxuan Wu et.al.|[2506.02697](http://arxiv.org/abs/2506.02697)|null|
+|**2025-05-27**|**Scan-and-Print: Patch-level Data Summarization and Augmentation for Content-aware Layout Generation in Poster Design**|HsiaoYuan Hsu et.al.|[2505.20649](http://arxiv.org/abs/2505.20649)|null|
+|**2025-05-26**|**Aggregated Structural Representation with Large Language Models for Human-Centric Layout Generation**|Jiongchao Jin et.al.|[2505.19554](http://arxiv.org/abs/2505.19554)|null|
+|**2025-05-25**|**TextDiffuser-RL: Efficient and Robust Text Layout Optimization for High-Fidelity Text-to-Image Synthesis**|Kazi Mahathir Rahman et.al.|[2505.19291](http://arxiv.org/abs/2505.19291)|null|
+|**2025-05-27**|**PosterO: Structuring Layout Trees to Enable Language Models in Generalized Content-Aware Layout Generation**|HsiaoYuan Hsu et.al.|[2505.07843](http://arxiv.org/abs/2505.07843)|null|
+|**2025-05-07**|**Lay-Your-Scene: Natural Scene Layout Generation with Diffusion Transformers**|Divyansh Srivastava et.al.|[2505.04718](http://arxiv.org/abs/2505.04718)|null|
+|**2025-05-07**|**BuildingBlock: A Hybrid Approach for Structured Building Generation**|Junming Huang et.al.|[2505.04051](http://arxiv.org/abs/2505.04051)|null|
+|**2025-05-02**|**Generating Animated Layouts as Structured Text Representations**|Yeonsang Shin et.al.|[2505.00975](http://arxiv.org/abs/2505.00975)|null|
+|**2025-02-05**|**Digital Kitchen Remodeling: Editing and Relighting Intricate Indoor Scenes from a Single Panorama**|Guanzhou Ji et.al.|[2504.16086](http://arxiv.org/abs/2504.16086)|null|
+|**2025-04-15**|**LayoutCoT: Unleashing the Deep Reasoning Potential of Large Language Models for Layout Generation**|Hengyu Shi et.al.|[2504.10829](http://arxiv.org/abs/2504.10829)|null|
+|**2025-04-14**|**Relation-Rich Visual Document Generator for Visual Information Extraction**|Zi-Han Jiang et.al.|[2504.10659](http://arxiv.org/abs/2504.10659)|**[link](https://github.com/ai-application-and-integration-lab/ridge)**|
+|**2025-04-14**|**Decoupled Diffusion Sparks Adaptive Scene Generation**|Yunsong Zhou et.al.|[2504.10485](http://arxiv.org/abs/2504.10485)|null|
+|**2025-04-21**|**Hierarchical and Step-Layer-Wise Tuning of Attention Specialty for Multi-Instance Synthesis in Diffusion Transformers**|Chunyang Zhang et.al.|[2504.10148](http://arxiv.org/abs/2504.10148)|null|
+|**2025-04-13**|**Computer-Aided Layout Generation for Building Design: A Review**|Jiachen Liu et.al.|[2504.09694](http://arxiv.org/abs/2504.09694)|null|
+|**2025-04-07**|**Imperative vs. Declarative Programming Paradigms for Open-Universe Scene Generation**|Maxim Gumin et.al.|[2504.05482](http://arxiv.org/abs/2504.05482)|null|
+|**2025-03-27**|**Efficient Multi-Instance Generation with Janus-Pro-Dirven Prompt Parsing**|Fan Qi et.al.|[2503.21069](http://arxiv.org/abs/2503.21069)|null|
+|**2025-03-26**|**RelTriple: Learning Plausible Indoor Layouts by Integrating Relationship Triples into the Diffusion Process**|Kaifan Sun et.al.|[2503.20289](http://arxiv.org/abs/2503.20289)|null|
+|**2025-03-25**|**BADGR: Bundle Adjustment Diffusion Conditioned by GRadients for Wide-Baseline Floor Plan Reconstruction**|Yuguang Li et.al.|[2503.19340](http://arxiv.org/abs/2503.19340)|null|
+|**2025-03-24**|**MetaSpatial: Reinforcing 3D Spatial Reasoning in VLMs for the Metaverse**|Zhenyu Pan et.al.|[2503.18470](http://arxiv.org/abs/2503.18470)|**[link](https://github.com/pzyseere/metaspatial)**|
+|**2025-03-21**|**HSM: Hierarchical Scene Motifs for Multi-Scale Indoor Scene Generation**|Hou In Derek Pun et.al.|[2503.16848](http://arxiv.org/abs/2503.16848)|null|
+|**2025-03-01**|**AesthetiQ: Enhancing Graphic Layout Design via Aesthetic-Aware Preference Alignment of Multi-modal Large Language Models**|Sohan Patnaik et.al.|[2503.00591](http://arxiv.org/abs/2503.00591)|null|
+|**2025-05-22**|**FoREST: Frame of Reference Evaluation in Spatial Reasoning Tasks**|Tanawan Premsri et.al.|[2502.17775](http://arxiv.org/abs/2502.17775)|**[link](https://github.com/HLR/FoREST)**|
+|**2025-02-21**|**Textual-to-Visual Iterative Self-Verification for Slide Generation**|Yunqing Xu et.al.|[2502.15412](http://arxiv.org/abs/2502.15412)|null|
+|**2025-02-19**|**Smaller But Better: Unifying Layout Generation with Smaller Large Language Models**|Peirong Zhang et.al.|[2502.14005](http://arxiv.org/abs/2502.14005)|**[link](https://github.com/niceringnode/lggpt)**|
+|**2025-02-12**|**RouteFlow: Trajectory-Aware Animated Transitions**|Duan Li et.al.|[2502.08076](http://arxiv.org/abs/2502.08076)|**[link](https://github.com/Trajectory-Anim/Trajectory-Aware-Animated-Transitions)**|
+|**2025-02-06**|**Illuminating Spaces: Deep Reinforcement Learning and Laser-Wall Partitioning for Architectural Layout Generation**|Reza Kakooee et.al.|[2502.04407](http://arxiv.org/abs/2502.04407)|null|
+|**2025-02-12**|**PAID: A Framework of Product-Centric Advertising Image Design**|Hongyu Chen et.al.|[2501.14316](http://arxiv.org/abs/2501.14316)|null|
+|**2025-01-16**|**Text Semantics to Flexible Design: A Residential Layout Generation Method Based on Stable Diffusion Model**|Zijin Qiu et.al.|[2501.09279](http://arxiv.org/abs/2501.09279)|null|
+|**2025-03-14**|**Compositional Generative Model of Unbounded 4D Cities**|Haozhe Xie et.al.|[2501.08983](http://arxiv.org/abs/2501.08983)|**[link](https://github.com/hzxie/CityDreamer4D)**|
+|**2025-01-09**|**Spatial Information Integration in Small Language Models for Document Layout Generation and Classification**|Pablo Melendez et.al.|[2501.05497](http://arxiv.org/abs/2501.05497)|null|
+|**2025-01-07**|**SceneBooth: Diffusion-based Framework for Subject-preserved Text-to-Image Generation**|Shang Chai et.al.|[2501.03490](http://arxiv.org/abs/2501.03490)|null|
+|**2024-12-20**|**Do we still need canaries in the coal mine? Measuring shadow stack effectiveness in countering stack smashing**|Hugo Depuydt et.al.|[2412.16343](http://arxiv.org/abs/2412.16343)|null|
+|**2025-03-12**|**SLayR: Scene Layout Generation with Rectified Flow**|Cameron Braunstein et.al.|[2412.05003](http://arxiv.org/abs/2412.05003)|null|
+|**2025-03-11**|**VASCAR: Content-Aware Layout Generation via Visual-Aware Self-Correction**|Jiahao Zhang et.al.|[2412.04237](http://arxiv.org/abs/2412.04237)|null|
+|**2025-03-14**|**CreatiLayout: Siamese Multimodal Diffusion Transformer for Creative Layout-to-Image Generation**|Hui Zhang et.al.|[2412.03859](http://arxiv.org/abs/2412.03859)|null|
+|**2024-11-27**|**Enhancing Document AI Data Generation Through Graph-Based Synthetic Layouts**|Amit Agarwal et.al.|[2412.03590](http://arxiv.org/abs/2412.03590)|null|
+|**2024-11-30**|**DogLayout: Denoising Diffusion GAN for Discrete and Continuous Layout Generation**|Zhaoxing Gan et.al.|[2412.00381](http://arxiv.org/abs/2412.00381)|**[link](https://github.com/deadsmither5/DogLayout)**|
+|**2025-01-05**|**SynDCIM: A Performance-Aware Digital Computing-in-Memory Compiler with Multi-Spec-Oriented Subcircuit Synthesis**|Kunming Shao et.al.|[2411.16806](http://arxiv.org/abs/2411.16806)|null|
+|**2024-12-02**|**AnySynth: Harnessing the Power of Image Synthetic Data Generation for Generalized Vision-Language Tasks**|You Li et.al.|[2411.16749](http://arxiv.org/abs/2411.16749)|null|
+|**2024-11-18**|**GLDesigner: Leveraging Multi-Modal LLMs as Designer for Enhanced Aesthetic Text Glyph Layouts**|Junwen He et.al.|[2411.11435](http://arxiv.org/abs/2411.11435)|null|
+|**2024-11-14**|**Scalable Readability Evaluation for Graph Layouts: 2D Geometric Distributed Algorithms**|Sanggeon Yun et.al.|[2411.09809](http://arxiv.org/abs/2411.09809)|null|
+|**2024-10-18**|**HiCo: Hierarchical Controllable Diffusion Model for Layout-to-image Generation**|Bo Cheng et.al.|[2410.14324](http://arxiv.org/abs/2410.14324)|**[link](https://github.com/360cvgroup/hico_t2i)**|
+|**2025-02-24**|**Decoupling Layout from Glyph in Online Chinese Handwriting Generation**|Min-Si Ren et.al.|[2410.02309](http://arxiv.org/abs/2410.02309)|null|
+|**2024-09-25**|**Layout-Corrector: Alleviating Layout Sticking Phenomenon in Discrete Diffusion Model**|Shoma Iwai et.al.|[2409.16689](http://arxiv.org/abs/2409.16689)|null|
+|**2024-09-04**|**Spatial Diffusion for Cell Layout Generation**|Chen Li et.al.|[2409.03106](http://arxiv.org/abs/2409.03106)|**[link](https://github.com/superlc1995/diffusion-cell)**|
+|**2024-07-26**|**Interactive and Automatic Generation of Primitive Custom Circuit Layout Using LLMs**|Geunyoung You et.al.|[2408.07279](http://arxiv.org/abs/2408.07279)|null|
+|**2024-09-06**|**UniPortrait: A Unified Framework for Identity-Preserving Single- and Multi-Human Image Personalization**|Junjie He et.al.|[2408.05939](http://arxiv.org/abs/2408.05939)|**[link](https://github.com/junjiehe96/UniPortrait)**|
+|**2024-07-31**|**Chat2Layout: Interactive 3D Furniture Layout with a Multimodal LLM**|Can Wang et.al.|[2407.21333](http://arxiv.org/abs/2407.21333)|null|
+|**2024-07-29**|**SciPostLayout: A Dataset for Layout Analysis and Layout Generation of Scientific Posters**|Shohei Tanaka et.al.|[2407.19787](http://arxiv.org/abs/2407.19787)|null|
+|**2024-11-22**|**LayoutDiT: Exploring Content-Graphic Balance in Layout Generation with Diffusion Transformer**|Yu Li et.al.|[2407.15233](http://arxiv.org/abs/2407.15233)|null|
+|**2024-07-17**|**LTSim: Layout Transportation-based Similarity Measure for Evaluating Layout Generation**|Mayu Otani et.al.|[2407.12356](http://arxiv.org/abs/2407.12356)|null|
+|**2024-10-22**|**UrbanWorld: An Urban World Model for 3D City Generation**|Yu Shang et.al.|[2407.11965](http://arxiv.org/abs/2407.11965)|**[link](https://github.com/urban-world/urbanworld)**|
+|**2024-07-16**|**COHO: Context-Sensitive City-Scale Hierarchical Urban Layout Generation**|Liu He et.al.|[2407.11294](http://arxiv.org/abs/2407.11294)|**[link](https://github.com/arking1995/coho)**|
+|**2024-07-13**|**Layout-and-Retouch: A Dual-stage Framework for Improving Diversity in Personalized Image Generation**|Kangyeol Kim et.al.|[2407.09779](http://arxiv.org/abs/2407.09779)|null|
+|**2024-07-12**|**A Novel Framework for Automated Warehouse Layout Generation**|Atefeh Shahroudnejad et.al.|[2407.08633](http://arxiv.org/abs/2407.08633)|null|
+|**2024-07-10**|**RoBus: A Multimodal Dataset for Controllable Road Networks and Building Layouts Generation**|Tao Li et.al.|[2407.07835](http://arxiv.org/abs/2407.07835)|**[link](https://github.com/tourlics/robus_dataset)**|
+|**2024-05-27**|**Revision Matters: Generative Design Guided by Revision Edits**|Tao Li et.al.|[2406.18559](http://arxiv.org/abs/2406.18559)|null|
+|**2024-06-12**|**DocSynthv2: A Practical Autoregressive Modeling for Document Generation**|Sanket Biswas et.al.|[2406.08354](http://arxiv.org/abs/2406.08354)|null|
+|**2024-06-07**|**CityCraft: A Real Crafter for 3D City Generation**|Jie Deng et.al.|[2406.04983](http://arxiv.org/abs/2406.04983)|null|
+|**2024-06-06**|**LLplace: The 3D Indoor Scene Layout Generation and Editing via Large Language Model**|Yixuan Yang et.al.|[2406.03866](http://arxiv.org/abs/2406.03866)|null|
+|**2024-11-26**|**PosterLLaVa: Constructing a Unified Multi-modal Layout Generator with LLM**|Tao Yang et.al.|[2406.02884](http://arxiv.org/abs/2406.02884)|**[link](https://github.com/posterllava/posterllava)**|
+|**2025-05-30**|**AutoStudio: Crafting Consistent Subjects in Multi-turn Interactive Image Generation**|Junhao Cheng et.al.|[2406.01388](http://arxiv.org/abs/2406.01388)|**[link](https://github.com/donahowe/AutoStudio)**|
+|**2024-09-15**|**Layout Agnostic Scene Text Image Synthesis with Diffusion Models**|Qilong Zhangli et.al.|[2406.01062](http://arxiv.org/abs/2406.01062)|null|
+|**2024-05-29**|**Automated Optimal Layout Generator for Animal Shelters: A framework based on Genetic Algorithm, TOPSIS and Graph Theory**|Arghavan Jalayer et.al.|[2405.14172](http://arxiv.org/abs/2405.14172)|null|
+|**2024-05-18**|**CoLay: Controllable Layout Generation through Multi-conditional Latent Diffusion**|Chin-Yi Cheng et.al.|[2405.13045](http://arxiv.org/abs/2405.13045)|null|
+|**2024-05-16**|**Leveraging Human Revisions for Improving Text-to-Layout Models**|Amber Xie et.al.|[2405.13026](http://arxiv.org/abs/2405.13026)|null|
+|**2024-05-21**|**Physics-based Scene Layout Generation from Human Motion**|Jianan Li et.al.|[2405.12460](http://arxiv.org/abs/2405.12460)|null|
+|**2024-05-13**|**Layout Generation Agents with Large Language Models**|Yuichi Sasazawa et.al.|[2405.08037](http://arxiv.org/abs/2405.08037)|**[link](https://github.com/ckdjrkffz/layout-agent)**|
+|**2024-04-22**|**Graphic Design with Large Multimodal Model**|Yutao Cheng et.al.|[2404.14368](http://arxiv.org/abs/2404.14368)|**[link](https://github.com/graphic-design-ai/graphist)**|
+|**2024-07-28**|**PosterLlama: Bridging Design Ability of Langauge Model to Contents-Aware Layout Generation**|Jaejung Seol et.al.|[2404.00995](http://arxiv.org/abs/2404.00995)|**[link](https://github.com/jaepoong/PosterLlama)**|
+|**2024-03-30**|**SVGCraft: Beyond Single Object Text-to-SVG Synthesis with Comprehensive Canvas Layout**|Ayan Banerjee et.al.|[2404.00412](http://arxiv.org/abs/2404.00412)|**[link](https://github.com/ayanban011/svgcraft)**|
+|**2024-03-30**|**Constrained Layout Generation with Factor Graphs**|Mohammed Haroon Dupty et.al.|[2404.00385](http://arxiv.org/abs/2404.00385)|null|
+|**2024-07-13**|**LayoutFlow: Flow Matching for Layout Generation**|Julian Jorge Andrade Guerreiro et.al.|[2403.18187](http://arxiv.org/abs/2403.18187)|null|
+|**2024-10-28**|**Refining Text-to-Image Generation: Towards Accurate Training-Free Glyph-Enhanced Image Generation**|Sanyam Lakhanpal et.al.|[2403.16422](http://arxiv.org/abs/2403.16422)|null|
+|**2024-03-15**|**ChatPattern: Layout Pattern Customization via Natural Language**|Zixiao Wang et.al.|[2403.15434](http://arxiv.org/abs/2403.15434)|null|
+|**2024-08-26**|**Planner3D: LLM-enhanced graph prior meets 3D indoor scene explicit regularization**|Yao Wei et.al.|[2403.12848](http://arxiv.org/abs/2403.12848)|null|
+|**2024-07-20**|**OMG: Occlusion-friendly Personalized Multi-concept Generation in Diffusion Models**|Zhe Kong et.al.|[2403.10983](http://arxiv.org/abs/2403.10983)|**[link](https://github.com/kongzhecn/omg)**|
+|**2024-02-05**|**Open-Universe Indoor Scene Generation using LLM Program Synthesis and Uncurated Object Databases**|Rio Aguina-Kang et.al.|[2403.09675](http://arxiv.org/abs/2403.09675)|null|
+|**2024-05-15**|**Towards Aligned Layout Generation via Diffusion Model with Aesthetic Constraints**|Jian Chen et.al.|[2402.04754](http://arxiv.org/abs/2402.04754)|**[link](https://github.com/puar-playground/lace)**|
+|**2024-02-07**|**Text2Street: Controllable Text-to-image Generation for Street Views**|Jinming Su et.al.|[2402.04504](http://arxiv.org/abs/2402.04504)|null|
+|**2024-01-29**|**Spot the Error: Non-autoregressive Graphic Layout Generation with Wireframe Locator**|Jieru Lin et.al.|[2401.16375](http://arxiv.org/abs/2401.16375)|**[link](https://github.com/ffffatgoose/spoterror)**|
+|**2024-01-15**|**Graph Transformer GANs with Graph Masked Modeling for Architectural Layout Generation**|Hao Tang et.al.|[2401.07721](http://arxiv.org/abs/2401.07721)|null|
+|**2024-05-06**|**FurniScene: A Large-scale 3D Room Dataset with Intricate Furnishing Scenes**|Genghao Zhang et.al.|[2401.03470](http://arxiv.org/abs/2401.03470)|null|
+|**2024-09-03**|**Planning and Rendering: Towards Product Poster Generation with Diffusion Models**|Zhaochen Li et.al.|[2312.08822](http://arxiv.org/abs/2312.08822)|null|
+|**2025-04-11**|**CityGen: Infinite and Controllable City Layout Generation**|Jie Deng et.al.|[2312.01508](http://arxiv.org/abs/2312.01508)|null|
+|**2023-11-30**|**Detailed Human-Centric Text Description-Driven Large Scene Synthesis**|Gwanghyun Kim et.al.|[2311.18654](http://arxiv.org/abs/2311.18654)|null|
+|**2023-11-28**|**Reason out Your Layout: Evoking the Layout Master from Large Language Models for Text-to-Image Synthesis**|Xiaohui Chen et.al.|[2311.17126](http://arxiv.org/abs/2311.17126)|null|
+|**2024-04-15**|**Retrieval-Augmented Layout Transformer for Content-Aware Layout Generation**|Daichi Horita et.al.|[2311.13602](http://arxiv.org/abs/2311.13602)|**[link](https://github.com/cyberagentailab/ralf)**|
+|**2023-11-11**|**LayoutPrompter: Awaken the Design Ability of Large Language Models**|Jiawei Lin et.al.|[2311.06495](http://arxiv.org/abs/2311.06495)|**[link](https://github.com/microsoft/layoutgeneration)**|
+|**2023-10-25**|**Dolfin: Diffusion Layout Transformers without Autoencoder**|Yilin Wang et.al.|[2310.16305](http://arxiv.org/abs/2310.16305)|null|
+|**2023-10-24**|**UI Layout Generation with LLMs Guided by UI Grammar**|Yuwen Lu et.al.|[2310.15455](http://arxiv.org/abs/2310.15455)|null|
+|**2023-10-21**|**Post-Layout Simulation Driven Analog Circuit Sizing**|Xiaohan Gao et.al.|[2310.14049](http://arxiv.org/abs/2310.14049)|null|
+|**2025-05-23**|**Ctrl-Room: Controllable Text-to-3D Room Meshes Generation with Layout Constraints**|Chuan Fang et.al.|[2310.03602](http://arxiv.org/abs/2310.03602)|null|
+|**2023-09-19**|**LayoutNUWA: Revealing the Hidden Layout Expertise of Large Language Models**|Zecheng Tang et.al.|[2309.09506](http://arxiv.org/abs/2309.09506)|**[link](https://github.com/projectnuwa/layoutnuwa)**|
+|**2023-08-24**|**A Parse-Then-Place Approach for Generating Graphic Layouts from Textual Descriptions**|Jiawei Lin et.al.|[2308.12700](http://arxiv.org/abs/2308.12700)|null|
+|**2023-08-23**|**AutoPoster: A Highly Automatic and Content-aware Design System for Advertising Poster Generation**|Jinpeng Lin et.al.|[2308.01095](http://arxiv.org/abs/2308.01095)|null|
+|**2023-07-19**|**Generating Redstone Style Cities in Minecraft**|Shuo Huang et.al.|[2307.09777](http://arxiv.org/abs/2307.09777)|null|
+|**2023-07-19**|**GlobalMapper: Arbitrary-Shaped Urban Layout Generation**|Liu He et.al.|[2307.09693](http://arxiv.org/abs/2307.09693)|null|
+|**2023-07-18**|**Conditional 360-degree Image Synthesis for Immersive Indoor Scene Decoration**|Ka Chun Shum et.al.|[2307.09621](http://arxiv.org/abs/2307.09621)|null|
+|**2024-01-11**|**Relation-Aware Diffusion Model for Controllable Poster Layout Generation**|Fengheng Li et.al.|[2306.09086](http://arxiv.org/abs/2306.09086)|**[link](https://github.com/liuan0803/radm)**|
+|**2023-05-31**|**VMap: An Interactive Rectangular Space-filling Visualization for Map-like Vertex-centric Graph Exploration**|Jiayi Xu et.al.|[2306.00120](http://arxiv.org/abs/2306.00120)|null|
+|**2023-05-30**|**TaleCrafter: Interactive Story Visualization with Multiple Characters**|Yuan Gong et.al.|[2305.18247](http://arxiv.org/abs/2305.18247)|**[link](https://github.com/videocrafter/talecrafter)**|
+|**2023-10-27**|**Visual Programming for Text-to-Image Generation and Evaluation**|Jaemin Cho et.al.|[2305.15328](http://arxiv.org/abs/2305.15328)|null|
+|**2023-05-22**|**Design a Delicious Lunchbox in Style**|Yutong Zhou et.al.|[2305.14522](http://arxiv.org/abs/2305.14522)|null|
+|**2023-05-04**|**LayoutDM: Transformer-based Diffusion Model for Layout Generation**|Shang Chai et.al.|[2305.02567](http://arxiv.org/abs/2305.02567)|null|
+|**2023-04-18**|**GUILGET: GUI Layout GEneration with Transformer**|Andrey Sobolevsky et.al.|[2304.09012](http://arxiv.org/abs/2304.09012)|**[link](https://github.com/dysoxor/guilget)**|
+|**2023-03-25**|**Unsupervised Domain Adaption with Pixel-level Discriminator for Image-aware Layout Generation**|Chenchen Xu et.al.|[2303.14377](http://arxiv.org/abs/2303.14377)|null|
+|**2023-08-15**|**LayoutDiffusion: Improving Graphic Layout Generation by Discrete Diffusion Probabilistic Models**|Junyi Zhang et.al.|[2303.11589](http://arxiv.org/abs/2303.11589)|**[link](https://github.com/microsoft/layoutgeneration)**|
+|**2023-03-19**|**Diffusion-based Document Layout Generation**|Liu He et.al.|[2303.10787](http://arxiv.org/abs/2303.10787)|null|
+|**2023-03-14**|**LayoutDM: Discrete Diffusion Model for Controllable Layout Generation**|Naoto Inoue et.al.|[2303.08137](http://arxiv.org/abs/2303.08137)|**[link](https://github.com/CyberAgentAILab/layout-dm)**|
+|**2023-03-09**|**Unifying Layout Generation with a Decoupled Diffusion Model**|Mude Hui et.al.|[2303.05049](http://arxiv.org/abs/2303.05049)|null|
+|**2023-03-07**|**DLT: Conditioned layout generation with Joint Discrete-Continuous Diffusion Layout Transformer**|Elad Levi et.al.|[2303.03755](http://arxiv.org/abs/2303.03755)|**[link](https://github.com/wix-incubator/DLT)**|
+|**2023-06-21**|**PLay: Parametrically Conditioned Layout Generation using Latent Diffusion**|Chin-Yi Cheng et.al.|[2301.11529](http://arxiv.org/abs/2301.11529)|null|
+|**2023-01-16**|**Diverse Multimedia Layout Generation with Multi Choice Learning**|David D. Nguyen et.al.|[2301.06629](http://arxiv.org/abs/2301.06629)|null|
+|**2024-09-30**|**LayoutDETR: Detection Transformer Is a Good Multimodal Layout Designer**|Ning Yu et.al.|[2212.09877](http://arxiv.org/abs/2212.09877)|**[link](https://github.com/salesforce/layoutdetr)**|
+|**2023-08-03**|**HS-Diffusion: Semantic-Mixing Diffusion for Head Swapping**|Qinghe Wang et.al.|[2212.06458](http://arxiv.org/abs/2212.06458)|**[link](https://github.com/qinghew/hs-diffusion)**|
+|**2022-09-02**|**Geometry Aligned Variational Transformer for Image-conditioned Layout Generation**|Yunning Cao et.al.|[2209.00852](http://arxiv.org/abs/2209.00852)|null|
+|**2023-03-24**|**LayoutFormer++: Conditional Graphic Layout Generation via Constraint Serialization and Decoding Space Restriction**|Zhaoyun Jiang et.al.|[2208.08037](http://arxiv.org/abs/2208.08037)|null|
+|**2022-08-12**|**Layout-Bridging Text-to-Image Synthesis**|Jiadong Liang et.al.|[2208.06162](http://arxiv.org/abs/2208.06162)|null|
+|**2022-07-24**|**A Custom IC Layout Generation Engine Based on Dynamic Templates and Grids**|Taeho Shin et.al.|[2207.11728](http://arxiv.org/abs/2207.11728)|null|
+|**2023-08-27**|**ReCo: A Dataset for Residential Community Layout Planning**|Xi Chen et.al.|[2206.04678](http://arxiv.org/abs/2206.04678)|**[link](https://github.com/fdudsde/reco-dataset)**|
+|**2022-07-13**|**Composition-aware Graphic Layout GAN for Visual-textual Presentation Designs**|Min Zhou et.al.|[2205.00303](http://arxiv.org/abs/2205.00303)|null|
+|**2022-07-22**|**Structured Graph Variational Autoencoders for Indoor Furniture layout Generation**|Aditya Chattopadhyay et.al.|[2204.04867](http://arxiv.org/abs/2204.04867)|null|
+|**2022-04-06**|**Aesthetic Text Logo Synthesis via Content-aware Layout Inferring**|Yizhi Wang et.al.|[2204.02701](http://arxiv.org/abs/2204.02701)|**[link](https://github.com/yizhiwang96/textlogolayout)**|
+|**2022-03-31**|**Coverage hole detection in WSN with force-directed algorithm and transfer learning**|Yue-Hui Lai et.al.|[2204.01592](http://arxiv.org/abs/2204.01592)|null|
+|**2022-03-28**|**Interactive Image Synthesis with Panoptic Layout Generation**|Bo Wang et.al.|[2203.02104](http://arxiv.org/abs/2203.02104)|**[link](https://github.com/wb-finalking/PLGAN)**|
+|**2024-07-23**|**Cross-Domain Document Layout Analysis Using Document Style Guide**|Xingjiao Wu et.al.|[2201.09407](http://arxiv.org/abs/2201.09407)|null|
+|**2021-12-10**|**Towards Full-to-Empty Room Generation with Structure-Aware Feature Encoding and Soft Semantic Region-Adaptive Normalization**|Vasileios Gkitsas et.al.|[2112.05396](http://arxiv.org/abs/2112.05396)|null|
+|**2022-07-24**|**BLT: Bidirectional Layout Transformer for Controllable Layout Generation**|Xiang Kong et.al.|[2112.05112](http://arxiv.org/abs/2112.05112)|null|
+|**2021-12-02**|**Multicriteria Scalable Graph Drawing via Stochastic Gradient Descent, $(SGD)^2$**|Reyan Ahmed et.al.|[2112.01571](http://arxiv.org/abs/2112.01571)|**[link](https://github.com/tiga1231/graph-drawing)**|
+|**2022-01-06**|**The Layout Generation Algorithm of Graphic Design Based on Transformer-CVAE**|Mengxi Guo et.al.|[2110.06794](http://arxiv.org/abs/2110.06794)|null|
+|**2021-08-02**|**Constrained Graphic Layout Generation via Latent Optimization**|Kotaro Kikuchi et.al.|[2108.00871](http://arxiv.org/abs/2108.00871)|**[link](https://github.com/ktrk115/const_layout)**|
+|**2021-08-02**|**Automatic Polygon Layout for Primal-Dual Visualization of Hypergraphs**|Botong Qu et.al.|[2108.00671](http://arxiv.org/abs/2108.00671)|null|
+|**2021-07-09**|**NVCell: Standard Cell Layout in Advanced Technology Nodes with Reinforcement Learning**|Haoxing Ren et.al.|[2107.07044](http://arxiv.org/abs/2107.07044)|null|
+|**2021-07-09**|**Graph-based Deep Generative Modelling for Document Layout Generation**|Sanket Biswas et.al.|[2107.04357](http://arxiv.org/abs/2107.04357)|null|
+|**2021-06-11**|**Toward Accurate and Realistic Outfits Visualization with Attention to Details**|Kedan Li et.al.|[2106.06593](http://arxiv.org/abs/2106.06593)|null|
+|**2021-06-03**|**Semantic Palette: Guiding Scene Generation with Class Proportions**|Guillaume Le Moing et.al.|[2106.01629](http://arxiv.org/abs/2106.01629)|**[link](https://github.com/valeoai/SemanticPalette)**|
+|**2021-04-27**|**Building-GAN: Graph-Conditioned Architectural Volumetric Design Generation**|Kai-Hung Chang et.al.|[2104.13316](http://arxiv.org/abs/2104.13316)|null|
+|**2021-04-06**|**Variational Transformer Networks for Layout Generation**|Diego Martin Arroyo et.al.|[2104.02416](http://arxiv.org/abs/2104.02416)|null|
+|**2021-03-15**|**GRIHA: Synthesizing 2-Dimensional Building Layouts from Images Captured using a Smart Phone**|Shreya Goyal et.al.|[2103.08297](http://arxiv.org/abs/2103.08297)|null|
+|**2021-01-08**|**Geometry-Based Layout Generation with Hyper-Relations AMONG Objects**|Shao-Kui Zhang et.al.|[2101.02903](http://arxiv.org/abs/2101.02903)|**[link](https://github.com/Shao-Kui/3DScenePlatform)**|
+|**2020-12-15**|**End-to-end Generative Floor-plan and Layout with Attributes and Relation Graph**|Xinhan Di et.al.|[2012.08514](http://arxiv.org/abs/2012.08514)|**[link](https://github.com/CODE-SUBMIT/dataset3)**|
+|**2020-11-26**|**Generative Layout Modeling using Constraint Graphs**|Wamiq Para et.al.|[2011.13417](http://arxiv.org/abs/2011.13417)|**[link](https://github.com/wamiq-reyaz/generative-layout-modelling)**|
+|**2020-10-10**|**Beyond Language: Learning Commonsense from Images for Reasoning**|Wanqing Cui et.al.|[2010.05001](http://arxiv.org/abs/2010.05001)|**[link](https://github.com/VickiCui/Loire)**|
+|**2020-09-11**|**Attribute-conditioned Layout GAN for Automatic Graphic Design**|Jianan Li et.al.|[2009.05284](http://arxiv.org/abs/2009.05284)|null|
+|**2020-08-28**|**Person-in-Context Synthesiswith Compositional Structural Space**|Weidong Yin et.al.|[2008.12679](http://arxiv.org/abs/2008.12679)|null|
+|**2020-08-24**|**ALIGN: A System for Automating Analog Layout**|Tonmoy Dhar et.al.|[2008.10682](http://arxiv.org/abs/2008.10682)|null|
+|**2020-08-15**|**Automatic Storage Structure Selection for hybrid Workload**|Hongzhi Wang et.al.|[2008.06640](http://arxiv.org/abs/2008.06640)|null|
+|**2020-07-23**|**End-to-End Optimization of Scene Layout**|Andrew Luo et.al.|[2007.11744](http://arxiv.org/abs/2007.11744)|**[link](https://github.com/aluo-x/3D_SLN)**|
+|**2020-07-14**|**2D Qubit Placement of Quantum Circuits using LONGPATH**|Mrityunjay Ghosh et.al.|[2007.06804](http://arxiv.org/abs/2007.06804)|null|
+|**2021-09-30**|**LayoutTransformer: Layout Generation and Completion with Self-attention**|Kamal Gupta et.al.|[2006.14615](http://arxiv.org/abs/2006.14615)|null|
+|**2020-07-07**|**Adversarial Model for Rotated Indoor Scenes Planning**|Xinhan Di et.al.|[2006.13527](http://arxiv.org/abs/2006.13527)|null|
+|**2020-05-30**|**OPAL-Net: A Generative Model for Part-based Object Layout Generation**|Rishabh Baghel et.al.|[2006.00190](http://arxiv.org/abs/2006.00190)|null|
+|**2020-03-16**|**House-GAN: Relational Generative Adversarial Networks for Graph-constrained House Layout Generation**|Nelson Nauata et.al.|[2003.06988](http://arxiv.org/abs/2003.06988)|null|
+|**2020-03-12**|**Towards Photo-Realistic Virtual Try-On by Adaptively Generating $\leftrightarrow$ Preserving Image Content**|Han Yang et.al.|[2003.05863](http://arxiv.org/abs/2003.05863)|null|
+|**2020-07-16**|**Neural Design Network: Graphic Layout Generation with Constraints**|Hsin-Ying Lee et.al.|[1912.09421](http://arxiv.org/abs/1912.09421)|null|
+|**2019-12-12**|**Automatic Layout Generation with Applications in Machine Learning Engine Evaluation**|Haoyu Yang et.al.|[1912.05796](http://arxiv.org/abs/1912.05796)|**[link](https://github.com/phdyang007/layout-generator)**|
+|**2019-09-19**|**Triplet-Aware Scene Graph Embeddings**|Brigit Schroeder et.al.|[1909.09256](http://arxiv.org/abs/1909.09256)|null|
+|**2019-09-11**|**The NC-proximal average for multiple functions**|Warren Hare et.al.|[1909.06222](http://arxiv.org/abs/1909.06222)|null|
+|**2019-11-13**|**Relationship-Aware Spatial Perception Fusion for Realistic Scene Layout Generation**|Hongdong Zheng et.al.|[1909.00640](http://arxiv.org/abs/1909.00640)|null|
+|**2020-04-16**|**READ: Recursive Autoencoders for Document Layout Generation**|Akshay Gadi Patil et.al.|[1909.00302](http://arxiv.org/abs/1909.00302)|null|
+|**2019-09-28**|**Continuous Graph Flow**|Zhiwei Deng et.al.|[1908.02436](http://arxiv.org/abs/1908.02436)|null|
+|**2021-06-01**|**LayoutVAE: Stochastic Scene Layout Generation From a Label Set**|Akash Abdu Jyothi et.al.|[1907.10719](http://arxiv.org/abs/1907.10719)|null|
+|**2019-01-21**|**LayoutGAN: Generating Graphic Layouts with Wireframe Discriminators**|Jianan Li et.al.|[1901.06767](http://arxiv.org/abs/1901.06767)|null|
+|**2018-07-26**|**Inferring Semantic Layout for Hierarchical Text-to-Image Synthesis**|Seunghoon Hong et.al.|[1801.05091](http://arxiv.org/abs/1801.05091)|null|
+|**2017-05-14**|**Novel CMOS RFIC Layout Generation with Concurrent Device Placement and Fixed-Length Microstrip Routing**|Tsun-Ming Tseng et.al.|[1705.04991](http://arxiv.org/abs/1705.04991)|null|
+|**2016-07-01**|**PyCells for an Open Semiconductor Industry**|Sepideh Alassi et.al.|[1607.00859](http://arxiv.org/abs/1607.00859)|null|
+|**2014-10-28**|**Two Novel Defenses against Motion-Based Keystroke Inference Attacks**|Yihang Song et.al.|[1410.7746](http://arxiv.org/abs/1410.7746)|null|
+|**2013-07-26**|**Optimal Hierarchical Layouts for Cache-Oblivious Search Trees**|Peter Lindstrom et.al.|[1307.5899](http://arxiv.org/abs/1307.5899)|null|
+|**2013-06-09**|**A Quantum Physical Design Flow Using ILP and Graph Drawing**|Maryam Yazdani et.al.|[1306.2037](http://arxiv.org/abs/1306.2037)|null|
+|**2007-10-25**|**Multi-Placement Structures for Fast and Optimized Placement in Analog Circuit Synthesis**|Raoul F. Badaoui et.al.|[0710.4717](http://arxiv.org/abs/0710.4717)|null|
 
 <p align=right>(<a href=#updated-on-20250623>back to top</a>)</p>
 
