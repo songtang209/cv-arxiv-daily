@@ -37,6 +37,9 @@ keywords:
           filters: ["3D Referring Expression Segmentation"]  
     "Poster Generation":
         filters: ["poster generation"]
+    "Graphic Design Generation":
+        filters: ["Graphic Design Generation"]
+       
 
   
 
