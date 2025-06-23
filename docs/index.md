@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-19**|**MBA: Multimodal Bidirectional Attack for Referring Expression Segmentation Models**|Xingbai Chen et.al.|[2506.16157](http://arxiv.org/abs/2506.16157)|null|
 |**2025-06-11**|**ELBO-T2IAlign: A Generic ELBO-Based Method for Calibrating Pixel-level Text-Image Alignment in Diffusion Models**|Qin Zhou et.al.|[2506.09740](http://arxiv.org/abs/2506.09740)|null|
 |**2025-06-05**|**Refer to Anything with Vision-Language Prompts**|Shengcao Cao et.al.|[2506.05342](http://arxiv.org/abs/2506.05342)|null|
 |**2025-05-25**|**Deformable Attentive Visual Enhancement for Referring Segmentation Using Vision-Language Model**|Alaa Dalaq et.al.|[2505.19242](http://arxiv.org/abs/2505.19242)|null|
@@ -6976,6 +6977,16 @@ layout: default
 |**2021-12-29**|**Overcoming Mode Collapse with Adaptive Multi Adversarial Training**|Karttikeya Mangalam et.al.|[2112.14406](http://arxiv.org/abs/2112.14406)|**[link](https://github.com/gargrohin/amat)**|
 |**2021-12-16**|**Neural Content Extraction for Poster Generation of Scientific Papers**|Sheng Xu et.al.|[2112.08550](http://arxiv.org/abs/2112.08550)|null|
 |**2021-04-22**|**Behavior-Driven Synthesis of Human Dynamics**|Andreas Blattmann et.al.|[2103.04677](http://arxiv.org/abs/2103.04677)|null|
+
+## Graphic Design Generation
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-12**|**CreatiPoster: Towards Editable and Controllable Multi-Layer Graphic Design Generation**|Zhao Zhang et.al.|[2506.10890](http://arxiv.org/abs/2506.10890)|**[link](https://github.com/graphic-design-ai/creatiposter)**|
+|**2025-05-28**|**CreatiDesign: A Unified Multi-Conditional Diffusion Transformer for Creative Graphic Design**|Hui Zhang et.al.|[2505.19114](http://arxiv.org/abs/2505.19114)|null|
+|**2024-10-11**|**Can GPTs Evaluate Graphic Design Based on Design Principles?**|Daichi Haraguchi et.al.|[2410.08885](http://arxiv.org/abs/2410.08885)|null|
+|**2024-06-12**|**OpenCOLE: Towards Reproducible Automatic Graphic Design Generation**|Naoto Inoue et.al.|[2406.08232](http://arxiv.org/abs/2406.08232)|**[link](https://github.com/cyberagentailab/opencole)**|
+|**2024-03-18**|**COLE: A Hierarchical Generation Framework for Multi-Layered and Editable Graphic Design**|Peidong Jia et.al.|[2311.16974](http://arxiv.org/abs/2311.16974)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
