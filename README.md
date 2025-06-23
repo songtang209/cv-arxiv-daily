@@ -484,36 +484,7 @@
 |**2021-04-06**|**Variational Transformer Networks for Layout Generation**|Diego Martin Arroyo et.al.|[2104.02416](http://arxiv.org/abs/2104.02416)|null|
 |**2021-03-15**|**GRIHA: Synthesizing 2-Dimensional Building Layouts from Images Captured using a Smart Phone**|Shreya Goyal et.al.|[2103.08297](http://arxiv.org/abs/2103.08297)|null|
 |**2021-01-08**|**Geometry-Based Layout Generation with Hyper-Relations AMONG Objects**|Shao-Kui Zhang et.al.|[2101.02903](http://arxiv.org/abs/2101.02903)|**[link](https://github.com/Shao-Kui/3DScenePlatform)**|
-|**2020-12-15**|**End-to-end Generative Floor-plan and Layout with Attributes and Relation Graph**|Xinhan Di et.al.|[2012.08514](http://arxiv.org/abs/2012.08514)|**[link](https://github.com/CODE-SUBMIT/dataset3)**|
-|**2020-11-26**|**Generative Layout Modeling using Constraint Graphs**|Wamiq Para et.al.|[2011.13417](http://arxiv.org/abs/2011.13417)|**[link](https://github.com/wamiq-reyaz/generative-layout-modelling)**|
-|**2020-10-10**|**Beyond Language: Learning Commonsense from Images for Reasoning**|Wanqing Cui et.al.|[2010.05001](http://arxiv.org/abs/2010.05001)|**[link](https://github.com/VickiCui/Loire)**|
-|**2020-09-11**|**Attribute-conditioned Layout GAN for Automatic Graphic Design**|Jianan Li et.al.|[2009.05284](http://arxiv.org/abs/2009.05284)|null|
-|**2020-08-28**|**Person-in-Context Synthesiswith Compositional Structural Space**|Weidong Yin et.al.|[2008.12679](http://arxiv.org/abs/2008.12679)|null|
-|**2020-08-24**|**ALIGN: A System for Automating Analog Layout**|Tonmoy Dhar et.al.|[2008.10682](http://arxiv.org/abs/2008.10682)|null|
-|**2020-08-15**|**Automatic Storage Structure Selection for hybrid Workload**|Hongzhi Wang et.al.|[2008.06640](http://arxiv.org/abs/2008.06640)|null|
-|**2020-07-23**|**End-to-End Optimization of Scene Layout**|Andrew Luo et.al.|[2007.11744](http://arxiv.org/abs/2007.11744)|**[link](https://github.com/aluo-x/3D_SLN)**|
-|**2020-07-14**|**2D Qubit Placement of Quantum Circuits using LONGPATH**|Mrityunjay Ghosh et.al.|[2007.06804](http://arxiv.org/abs/2007.06804)|null|
-|**2021-09-30**|**LayoutTransformer: Layout Generation and Completion with Self-attention**|Kamal Gupta et.al.|[2006.14615](http://arxiv.org/abs/2006.14615)|null|
-|**2020-07-07**|**Adversarial Model for Rotated Indoor Scenes Planning**|Xinhan Di et.al.|[2006.13527](http://arxiv.org/abs/2006.13527)|null|
-|**2020-05-30**|**OPAL-Net: A Generative Model for Part-based Object Layout Generation**|Rishabh Baghel et.al.|[2006.00190](http://arxiv.org/abs/2006.00190)|null|
-|**2020-03-16**|**House-GAN: Relational Generative Adversarial Networks for Graph-constrained House Layout Generation**|Nelson Nauata et.al.|[2003.06988](http://arxiv.org/abs/2003.06988)|null|
-|**2020-03-12**|**Towards Photo-Realistic Virtual Try-On by Adaptively Generating $\leftrightarrow$ Preserving Image Content**|Han Yang et.al.|[2003.05863](http://arxiv.org/abs/2003.05863)|null|
-|**2020-07-16**|**Neural Design Network: Graphic Layout Generation with Constraints**|Hsin-Ying Lee et.al.|[1912.09421](http://arxiv.org/abs/1912.09421)|null|
-|**2019-12-12**|**Automatic Layout Generation with Applications in Machine Learning Engine Evaluation**|Haoyu Yang et.al.|[1912.05796](http://arxiv.org/abs/1912.05796)|**[link](https://github.com/phdyang007/layout-generator)**|
-|**2019-09-19**|**Triplet-Aware Scene Graph Embeddings**|Brigit Schroeder et.al.|[1909.09256](http://arxiv.org/abs/1909.09256)|null|
-|**2019-09-11**|**The NC-proximal average for multiple functions**|Warren Hare et.al.|[1909.06222](http://arxiv.org/abs/1909.06222)|null|
-|**2019-11-13**|**Relationship-Aware Spatial Perception Fusion for Realistic Scene Layout Generation**|Hongdong Zheng et.al.|[1909.00640](http://arxiv.org/abs/1909.00640)|null|
-|**2020-04-16**|**READ: Recursive Autoencoders for Document Layout Generation**|Akshay Gadi Patil et.al.|[1909.00302](http://arxiv.org/abs/1909.00302)|null|
-|**2019-09-28**|**Continuous Graph Flow**|Zhiwei Deng et.al.|[1908.02436](http://arxiv.org/abs/1908.02436)|null|
-|**2021-06-01**|**LayoutVAE: Stochastic Scene Layout Generation From a Label Set**|Akash Abdu Jyothi et.al.|[1907.10719](http://arxiv.org/abs/1907.10719)|null|
-|**2019-01-21**|**LayoutGAN: Generating Graphic Layouts with Wireframe Discriminators**|Jianan Li et.al.|[1901.06767](http://arxiv.org/abs/1901.06767)|null|
-|**2018-07-26**|**Inferring Semantic Layout for Hierarchical Text-to-Image Synthesis**|Seunghoon Hong et.al.|[1801.05091](http://arxiv.org/abs/1801.05091)|null|
-|**2017-05-14**|**Novel CMOS RFIC Layout Generation with Concurrent Device Placement and Fixed-Length Microstrip Routing**|Tsun-Ming Tseng et.al.|[1705.04991](http://arxiv.org/abs/1705.04991)|null|
-|**2016-07-01**|**PyCells for an Open Semiconductor Industry**|Sepideh Alassi et.al.|[1607.00859](http://arxiv.org/abs/1607.00859)|null|
-|**2014-10-28**|**Two Novel Defenses against Motion-Based Keystroke Inference Attacks**|Yihang Song et.al.|[1410.7746](http://arxiv.org/abs/1410.7746)|null|
-|**2013-07-26**|**Optimal Hierarchical Layouts for Cache-Oblivious Search Trees**|Peter Lindstrom et.al.|[1307.5899](http://arxiv.org/abs/1307.5899)|null|
-|**2013-06-09**|**A Quantum Physical Design Flow Using ILP and Graph Drawing**|Maryam Yazdani et.al.|[1306.2037](http://arxiv.org/abs/1306.2037)|null|
-|**2007-10-25**|**Multi-Placement Structures for Fast and Optimized Placement in Analog Circuit Synthesis**|Raoul F. Badaoui et.al.|[0710.4717](http://arxiv.org/abs/0710.4717)|null|
+
 
 <p align=right>(<a href=#updated-on-20250623>back to top</a>)</p>
 
