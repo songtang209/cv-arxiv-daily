@@ -1290,7 +1290,7 @@ layout: default
 |**2024-05-11**|**Global Motion Understanding in Large-Scale Video Object Segmentation**|Volodymyr Fedynyak et.al.|[2405.07031](http://arxiv.org/abs/2405.07031)|null|
 |**2024-05-07**|**Space-time Reinforcement Network for Video Object Segmentation**|Yadang Chen et.al.|[2405.04042](http://arxiv.org/abs/2405.04042)|null|
 |**2024-05-01**|**LVOS: A Benchmark for Large-scale Long-term Video Object Segmentation**|Lingyi Hong et.al.|[2404.19326](http://arxiv.org/abs/2404.19326)|null|
-|**2024-04-22**|**360VOTS: Visual Object Tracking and Segmentation in Omnidirectional Videos**|Yinzhe Xu et.al.|[2404.13953](http://arxiv.org/abs/2404.13953)|null|
+|**2024-04-22**|**360VOTS: Visual Object Tracking and Segmentation in Omnidirectional Videos**|Yinzhe Xu et.al.|[2404.13953](http://arxiv.org/abs/2404.13953)|**[link](https://github.com/huajianup/360vot)**|
 |**2024-04-21**|**Dynamic in Static: Hybrid Visual Correspondence for Self-Supervised Video Object Segmentation**|Gensheng Pei et.al.|[2404.13505](http://arxiv.org/abs/2404.13505)|**[link](https://github.com/nust-machine-intelligence-laboratory/hvc)**|
 |**2024-04-09**|**Spatial-Temporal Multi-level Association for Video Object Segmentation**|Deshui Miao et.al.|[2404.06265](http://arxiv.org/abs/2404.06265)|null|
 |**2024-04-02**|**Event-assisted Low-Light Video Object Segmentation**|Hebei Li et.al.|[2404.01945](http://arxiv.org/abs/2404.01945)|**[link](https://github.com/hebeifast/eventlowlightvos)**|
@@ -2692,7 +2692,7 @@ layout: default
 |**2024-11-21**|**A Survey on Adversarial Robustness of LiDAR-based Machine Learning Perception in Autonomous Vehicles**|Junae Kim et.al.|[2411.13778](http://arxiv.org/abs/2411.13778)|null|
 |**2024-11-20**|**Federated Continual Learning for Edge-AI: A Comprehensive Survey**|Zi Wang et.al.|[2411.13740](http://arxiv.org/abs/2411.13740)|null|
 |**2024-12-19**|**The Decline and Fall of ROME. V. A Preliminary Search for Star-Disrupted Planet Interactions and Coronal Activity at 5 GHz Among White Dwarfs within 25 pc**|Matthew Route et.al.|[2411.13718](http://arxiv.org/abs/2411.13718)|null|
-|**2024-11-20**|**Elephant in the Room: Dissecting and Reflecting on the Evolution of Online Social Network Research**|Luca Pajola et.al.|[2411.13681](http://arxiv.org/abs/2411.13681)|null|
+|**2024-11-20**|**Elephant in the Room: Dissecting and Reflecting on the Evolution of Online Social Network Research**|Luca Pajola et.al.|[2411.13681](http://arxiv.org/abs/2411.13681)|**[link](https://github.com/pajola/Minerva-OSN)**|
 |**2024-11-20**|**Long-term predictive models for mosquito borne diseases: a narrative review**|Marcio Maciel Bastos et.al.|[2411.13680](http://arxiv.org/abs/2411.13680)|null|
 |**2024-11-20**|**Detecting electromagnetic counterparts to LIGO/Virgo/KAGRA gravitational wave events with DECam: Neutron Star Mergers**|Keerthi Kunnumkai et.al.|[2411.13673](http://arxiv.org/abs/2411.13673)|null|
 |**2024-11-20**|**CHANCES, The Chilean Cluster Galaxy Evolution Survey: selection and initial characterization of clusters and superclusters**|Cristóbal Sifón et.al.|[2411.13655](http://arxiv.org/abs/2411.13655)|**[link](https://github.com/4MOST-CHANCES/cluster-catalogues)**|
@@ -3625,7 +3625,7 @@ layout: default
 |**2024-10-07**|**Forgetting Curve: A Reliable Method for Evaluating Memorization Capability for Long-context Models**|Xinyu Liu et.al.|[2410.04727](http://arxiv.org/abs/2410.04727)|**[link](https://github.com/1azybug/forgettingcurve)**|
 |**2024-10-07**|**Doppler bias: impact of peculiar velocities on color selection and the large scale structure of galaxy surveys**|Batia Friedman-Shaw et.al.|[2410.04705](http://arxiv.org/abs/2410.04705)|null|
 |**2024-10-07**|**Democratizing Strategic Planning in Master-Planned Communities**|Christopher K. Allsup et.al.|[2410.04676](http://arxiv.org/abs/2410.04676)|null|
-|**2024-10-14**|**Large Language Model Inference Acceleration: A Comprehensive Hardware Perspective**|Jinhao Li et.al.|[2410.04466](http://arxiv.org/abs/2410.04466)|null|
+|**2024-10-14**|**Large Language Model Inference Acceleration: A Comprehensive Hardware Perspective**|Jinhao Li et.al.|[2410.04466](http://arxiv.org/abs/2410.04466)|**[link](https://github.com/kimho666/llm_hardware_survey)**|
 |**2024-10-06**|**Video Summarization Techniques: A Comprehensive Review**|Toqa Alaa et.al.|[2410.04449](http://arxiv.org/abs/2410.04449)|null|
 |**2024-10-06**|**Approximate Maximum Likelihood Inference for Acoustic Spatial Capture-Recapture with Unknown Identities, Using Monte Carlo Expectation Maximization**|Yuheng Wang et.al.|[2410.04390](http://arxiv.org/abs/2410.04390)|null|
 |**2024-10-06**|**Enhancing Android Malware Detection: The Influence of ChatGPT on Decision-centric Task**|Yao Li et.al.|[2410.04352](http://arxiv.org/abs/2410.04352)|null|
