@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.23
+## Updated on 2025.06.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -158,7 +158,7 @@
 |**2019-04-06**|**CLEVR-Ref+: Diagnosing Visual Reasoning with Referring Expressions**|Runtao Liu et.al.|[1901.00850](http://arxiv.org/abs/1901.00850)|null|
 |**2017-08-04**|**Recurrent Multimodal Interaction for Referring Image Segmentation**|Chenxi Liu et.al.|[1703.07939](http://arxiv.org/abs/1703.07939)|**[link](https://github.com/chenxi116/TF-phrasecut-public)**|
 
-<p align=right>(<a href=#updated-on-20250623>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250624>back to top</a>)</p>
 
 ## RVOS
 
@@ -218,7 +218,7 @@
 |**2022-04-03**|**End-to-End Referring Video Object Segmentation with Multimodal Transformers**|Adam Botach et.al.|[2111.14821](http://arxiv.org/abs/2111.14821)|**[link](https://github.com/mttr2021/MTTR)**|
 |**2024-01-19**|**Rethinking Cross-modal Interaction from a Top-down Perspective for Referring Video Object Segmentation**|Chen Liang et.al.|[2106.01061](http://arxiv.org/abs/2106.01061)|null|
 
-<p align=right>(<a href=#updated-on-20250623>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250624>back to top</a>)</p>
 
 ## RVOT
 
@@ -226,7 +226,7 @@
 |---|---|---|---|---|
 |**2024-03-29**|**Elysium: Exploring Object-level Perception in Videos via MLLM**|Han Wang et.al.|[2403.16558](http://arxiv.org/abs/2403.16558)|**[link](https://github.com/hon-wong/elysium)**|
 
-<p align=right>(<a href=#updated-on-20250623>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250624>back to top</a>)</p>
 
 ## AVS
 
@@ -280,7 +280,7 @@
 |**2023-02-17**|**Audio-Visual Segmentation**|Jinxing Zhou et.al.|[2207.05042](http://arxiv.org/abs/2207.05042)|**[link](https://github.com/opennlplab/avsbench)**|
 |**2021-04-05**|**Positive Sample Propagation along the Audio-Visual Event Line**|Jinxing Zhou et.al.|[2104.00239](http://arxiv.org/abs/2104.00239)|**[link](https://github.com/jasongief/PSP_CVPR_2021)**|
 
-<p align=right>(<a href=#updated-on-20250623>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250624>back to top</a>)</p>
 
 ## 3D-RES
 
@@ -292,7 +292,7 @@
 |**2024-07-31**|**3D-GRES: Generalized 3D Referring Expression Segmentation**|Changli Wu et.al.|[2407.20664](http://arxiv.org/abs/2407.20664)|**[link](https://github.com/sosppxo/MDIN)**|
 |**2023-08-31**|**3D-STMN: Dependency-Driven Superpoint-Text Matching Network for End-to-End 3D Referring Expression Segmentation**|Changli Wu et.al.|[2308.16632](http://arxiv.org/abs/2308.16632)|**[link](https://github.com/sosppxo/3d-stmn)**|
 
-<p align=right>(<a href=#updated-on-20250623>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250624>back to top</a>)</p>
 
 ## Poster Generation
 
@@ -320,7 +320,7 @@
 |**2021-12-16**|**Neural Content Extraction for Poster Generation of Scientific Papers**|Sheng Xu et.al.|[2112.08550](http://arxiv.org/abs/2112.08550)|null|
 |**2021-04-22**|**Behavior-Driven Synthesis of Human Dynamics**|Andreas Blattmann et.al.|[2103.04677](http://arxiv.org/abs/2103.04677)|null|
 
-<p align=right>(<a href=#updated-on-20250623>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250624>back to top</a>)</p>
 
 ## Graphic Design Generation
 
@@ -332,7 +332,7 @@
 |**2024-06-12**|**OpenCOLE: Towards Reproducible Automatic Graphic Design Generation**|Naoto Inoue et.al.|[2406.08232](http://arxiv.org/abs/2406.08232)|**[link](https://github.com/cyberagentailab/opencole)**|
 |**2024-03-18**|**COLE: A Hierarchical Generation Framework for Multi-Layered and Editable Graphic Design**|Peidong Jia et.al.|[2311.16974](http://arxiv.org/abs/2311.16974)|null|
 
-<p align=right>(<a href=#updated-on-20250623>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250624>back to top</a>)</p>
 
 ## Layout Generation
 
@@ -484,9 +484,38 @@
 |**2021-04-06**|**Variational Transformer Networks for Layout Generation**|Diego Martin Arroyo et.al.|[2104.02416](http://arxiv.org/abs/2104.02416)|null|
 |**2021-03-15**|**GRIHA: Synthesizing 2-Dimensional Building Layouts from Images Captured using a Smart Phone**|Shreya Goyal et.al.|[2103.08297](http://arxiv.org/abs/2103.08297)|null|
 |**2021-01-08**|**Geometry-Based Layout Generation with Hyper-Relations AMONG Objects**|Shao-Kui Zhang et.al.|[2101.02903](http://arxiv.org/abs/2101.02903)|**[link](https://github.com/Shao-Kui/3DScenePlatform)**|
+|**2020-12-15**|**End-to-end Generative Floor-plan and Layout with Attributes and Relation Graph**|Xinhan Di et.al.|[2012.08514](http://arxiv.org/abs/2012.08514)|**[link](https://github.com/CODE-SUBMIT/dataset3)**|
+|**2020-11-26**|**Generative Layout Modeling using Constraint Graphs**|Wamiq Para et.al.|[2011.13417](http://arxiv.org/abs/2011.13417)|**[link](https://github.com/wamiq-reyaz/generative-layout-modelling)**|
+|**2020-10-10**|**Beyond Language: Learning Commonsense from Images for Reasoning**|Wanqing Cui et.al.|[2010.05001](http://arxiv.org/abs/2010.05001)|**[link](https://github.com/VickiCui/Loire)**|
+|**2020-09-11**|**Attribute-conditioned Layout GAN for Automatic Graphic Design**|Jianan Li et.al.|[2009.05284](http://arxiv.org/abs/2009.05284)|null|
+|**2020-08-28**|**Person-in-Context Synthesiswith Compositional Structural Space**|Weidong Yin et.al.|[2008.12679](http://arxiv.org/abs/2008.12679)|null|
+|**2020-08-24**|**ALIGN: A System for Automating Analog Layout**|Tonmoy Dhar et.al.|[2008.10682](http://arxiv.org/abs/2008.10682)|null|
+|**2020-08-15**|**Automatic Storage Structure Selection for hybrid Workload**|Hongzhi Wang et.al.|[2008.06640](http://arxiv.org/abs/2008.06640)|null|
+|**2020-07-23**|**End-to-End Optimization of Scene Layout**|Andrew Luo et.al.|[2007.11744](http://arxiv.org/abs/2007.11744)|**[link](https://github.com/aluo-x/3D_SLN)**|
+|**2020-07-14**|**2D Qubit Placement of Quantum Circuits using LONGPATH**|Mrityunjay Ghosh et.al.|[2007.06804](http://arxiv.org/abs/2007.06804)|null|
+|**2021-09-30**|**LayoutTransformer: Layout Generation and Completion with Self-attention**|Kamal Gupta et.al.|[2006.14615](http://arxiv.org/abs/2006.14615)|null|
+|**2020-07-07**|**Adversarial Model for Rotated Indoor Scenes Planning**|Xinhan Di et.al.|[2006.13527](http://arxiv.org/abs/2006.13527)|null|
+|**2020-05-30**|**OPAL-Net: A Generative Model for Part-based Object Layout Generation**|Rishabh Baghel et.al.|[2006.00190](http://arxiv.org/abs/2006.00190)|null|
+|**2020-03-16**|**House-GAN: Relational Generative Adversarial Networks for Graph-constrained House Layout Generation**|Nelson Nauata et.al.|[2003.06988](http://arxiv.org/abs/2003.06988)|null|
+|**2020-03-12**|**Towards Photo-Realistic Virtual Try-On by Adaptively Generating $\leftrightarrow$ Preserving Image Content**|Han Yang et.al.|[2003.05863](http://arxiv.org/abs/2003.05863)|null|
+|**2020-07-16**|**Neural Design Network: Graphic Layout Generation with Constraints**|Hsin-Ying Lee et.al.|[1912.09421](http://arxiv.org/abs/1912.09421)|null|
+|**2019-12-12**|**Automatic Layout Generation with Applications in Machine Learning Engine Evaluation**|Haoyu Yang et.al.|[1912.05796](http://arxiv.org/abs/1912.05796)|**[link](https://github.com/phdyang007/layout-generator)**|
+|**2019-09-19**|**Triplet-Aware Scene Graph Embeddings**|Brigit Schroeder et.al.|[1909.09256](http://arxiv.org/abs/1909.09256)|null|
+|**2019-09-11**|**The NC-proximal average for multiple functions**|Warren Hare et.al.|[1909.06222](http://arxiv.org/abs/1909.06222)|null|
+|**2019-11-13**|**Relationship-Aware Spatial Perception Fusion for Realistic Scene Layout Generation**|Hongdong Zheng et.al.|[1909.00640](http://arxiv.org/abs/1909.00640)|null|
+|**2020-04-16**|**READ: Recursive Autoencoders for Document Layout Generation**|Akshay Gadi Patil et.al.|[1909.00302](http://arxiv.org/abs/1909.00302)|null|
+|**2019-09-28**|**Continuous Graph Flow**|Zhiwei Deng et.al.|[1908.02436](http://arxiv.org/abs/1908.02436)|null|
+|**2021-06-01**|**LayoutVAE: Stochastic Scene Layout Generation From a Label Set**|Akash Abdu Jyothi et.al.|[1907.10719](http://arxiv.org/abs/1907.10719)|null|
+|**2019-01-21**|**LayoutGAN: Generating Graphic Layouts with Wireframe Discriminators**|Jianan Li et.al.|[1901.06767](http://arxiv.org/abs/1901.06767)|null|
+|**2018-07-26**|**Inferring Semantic Layout for Hierarchical Text-to-Image Synthesis**|Seunghoon Hong et.al.|[1801.05091](http://arxiv.org/abs/1801.05091)|null|
+|**2017-05-14**|**Novel CMOS RFIC Layout Generation with Concurrent Device Placement and Fixed-Length Microstrip Routing**|Tsun-Ming Tseng et.al.|[1705.04991](http://arxiv.org/abs/1705.04991)|null|
+|**2016-07-01**|**PyCells for an Open Semiconductor Industry**|Sepideh Alassi et.al.|[1607.00859](http://arxiv.org/abs/1607.00859)|null|
+|**2014-10-28**|**Two Novel Defenses against Motion-Based Keystroke Inference Attacks**|Yihang Song et.al.|[1410.7746](http://arxiv.org/abs/1410.7746)|null|
+|**2013-07-26**|**Optimal Hierarchical Layouts for Cache-Oblivious Search Trees**|Peter Lindstrom et.al.|[1307.5899](http://arxiv.org/abs/1307.5899)|null|
+|**2013-06-09**|**A Quantum Physical Design Flow Using ILP and Graph Drawing**|Maryam Yazdani et.al.|[1306.2037](http://arxiv.org/abs/1306.2037)|null|
+|**2007-10-25**|**Multi-Placement Structures for Fast and Optimized Placement in Analog Circuit Synthesis**|Raoul F. Badaoui et.al.|[0710.4717](http://arxiv.org/abs/0710.4717)|null|
 
-
-<p align=right>(<a href=#updated-on-20250623>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250624>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
