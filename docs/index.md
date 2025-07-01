@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.30
+## Updated on 2025.07.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RES
@@ -902,7 +902,7 @@ layout: default
 |**2025-05-29**|**ReferDINO-Plus: 2nd Solution for 4th PVUW MeViS Challenge at CVPR 2025**|Tianming Liang et.al.|[2503.23509](http://arxiv.org/abs/2503.23509)|**[link](https://github.com/isee-laboratory/referdino-plus)**|
 |**2025-03-05**|**Find First, Track Next: Decoupling Identification and Propagation in Referring Video Object Segmentation**|Suhwan Cho et.al.|[2503.03492](http://arxiv.org/abs/2503.03492)|**[link](https://github.com/suhwan-cho/FindTrack)**|
 |**2025-04-12**|**Text-Promptable Propagation for Referring Medical Image Sequence Segmentation**|Runtian Yuan et.al.|[2502.11093](http://arxiv.org/abs/2502.11093)|null|
-|**2025-01-24**|**ReferDINO: Referring Video Object Segmentation with Visual Grounding Foundations**|Tianming Liang et.al.|[2501.14607](http://arxiv.org/abs/2501.14607)|null|
+|**2025-06-30**|**ReferDINO: Referring Video Object Segmentation with Visual Grounding Foundations**|Tianming Liang et.al.|[2501.14607](http://arxiv.org/abs/2501.14607)|null|
 |**2025-03-10**|**MPG-SAM 2: Adapting SAM 2 with Mask Priors and Global Context for Referring Video Object Segmentation**|Fu Rong et.al.|[2501.13667](http://arxiv.org/abs/2501.13667)|null|
 |**2025-01-15**|**Multi-Context Temporal Consistent Modeling for Referring Video Object Segmentation**|Sun-Hyuk Choi et.al.|[2501.04939](http://arxiv.org/abs/2501.04939)|**[link](https://github.com/choi58/mtcm)**|
 |**2025-02-13**|**Sa2VA: Marrying SAM2 with LLaVA for Dense Grounded Understanding of Images and Videos**|Haobo Yuan et.al.|[2501.04001](http://arxiv.org/abs/2501.04001)|**[link](https://github.com/magic-research/Sa2VA)**|
@@ -6992,6 +6992,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-27**|**CAL-RAG: Retrieval-Augmented Multi-Agent Generation for Content-Aware Layout Design**|Najmeh Forouzandehmehr et.al.|[2506.21934](http://arxiv.org/abs/2506.21934)|null|
 |**2025-06-16**|**EmbodiedGen: Towards a Generative 3D World Engine for Embodied Intelligence**|Xinjie Wang et.al.|[2506.10600](http://arxiv.org/abs/2506.10600)|null|
 |**2025-06-09**|**LLM-driven Indoor Scene Layout Generation via Scaled Human-aligned Data Synthesis and Multi-Stage Preference Optimization**|Yixuan Yang et.al.|[2506.07570](http://arxiv.org/abs/2506.07570)|null|
 |**2025-06-08**|**SceneLCM: End-to-End Layout-Guided Interactive Indoor Scene Generation with Latent Consistency Model**|Yangkai Lin et.al.|[2506.07091](http://arxiv.org/abs/2506.07091)|null|
@@ -7025,7 +7026,7 @@ layout: default
 |**2025-02-06**|**Illuminating Spaces: Deep Reinforcement Learning and Laser-Wall Partitioning for Architectural Layout Generation**|Reza Kakooee et.al.|[2502.04407](http://arxiv.org/abs/2502.04407)|null|
 |**2025-02-12**|**PAID: A Framework of Product-Centric Advertising Image Design**|Hongyu Chen et.al.|[2501.14316](http://arxiv.org/abs/2501.14316)|null|
 |**2025-01-16**|**Text Semantics to Flexible Design: A Residential Layout Generation Method Based on Stable Diffusion Model**|Zijin Qiu et.al.|[2501.09279](http://arxiv.org/abs/2501.09279)|null|
-|**2025-03-14**|**Compositional Generative Model of Unbounded 4D Cities**|Haozhe Xie et.al.|[2501.08983](http://arxiv.org/abs/2501.08983)|**[link](https://github.com/hzxie/CityDreamer4D)**|
+|**2025-06-28**|**Compositional Generative Model of Unbounded 4D Cities**|Haozhe Xie et.al.|[2501.08983](http://arxiv.org/abs/2501.08983)|**[link](https://github.com/hzxie/CityDreamer4D)**|
 |**2025-01-09**|**Spatial Information Integration in Small Language Models for Document Layout Generation and Classification**|Pablo Melendez et.al.|[2501.05497](http://arxiv.org/abs/2501.05497)|null|
 |**2025-01-07**|**SceneBooth: Diffusion-based Framework for Subject-preserved Text-to-Image Generation**|Shang Chai et.al.|[2501.03490](http://arxiv.org/abs/2501.03490)|null|
 |**2024-12-20**|**Do we still need canaries in the coal mine? Measuring shadow stack effectiveness in countering stack smashing**|Hugo Depuydt et.al.|[2412.16343](http://arxiv.org/abs/2412.16343)|null|
