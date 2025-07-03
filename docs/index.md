@@ -7,13 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.01
+## Updated on 2025.07.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RES
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-28**|**Mask-aware Text-to-Image Retrieval: Referring Expression Segmentation Meets Cross-modal Retrieval**|Li-Cheng Shen et.al.|[2506.22864](http://arxiv.org/abs/2506.22864)|null|
 |**2025-06-19**|**MBA: Multimodal Bidirectional Attack for Referring Expression Segmentation Models**|Xingbai Chen et.al.|[2506.16157](http://arxiv.org/abs/2506.16157)|null|
 |**2025-06-11**|**ELBO-T2IAlign: A Generic ELBO-Based Method for Calibrating Pixel-level Text-Image Alignment in Diffusion Models**|Qin Zhou et.al.|[2506.09740](http://arxiv.org/abs/2506.09740)|null|
 |**2025-06-05**|**Refer to Anything with Vision-Language Prompts**|Shengcao Cao et.al.|[2506.05342](http://arxiv.org/abs/2506.05342)|null|
@@ -1099,6 +1100,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-30**|**Revisiting Audio-Visual Segmentation with Vision-Centric Transformer**|Shaofei Huang et.al.|[2506.23623](http://arxiv.org/abs/2506.23623)|null|
+|**2025-06-29**|**Mettle: Meta-Token Learning for Memory-Efficient Audio-Visual Adaptation**|Jinxing Zhou et.al.|[2506.23271](http://arxiv.org/abs/2506.23271)|null|
 |**2025-06-13**|**TAViS: Text-bridged Audio-Visual Segmentation with Foundation Models**|Ziyang Luo et.al.|[2506.11436](http://arxiv.org/abs/2506.11436)|null|
 |**2025-06-02**|**SAM2-LOVE: Segment Anything Model 2 in Language-aided Audio-Visual Scenes**|Yuji Wang et.al.|[2506.01558](http://arxiv.org/abs/2506.01558)|null|
 |**2025-05-26**|**Omni-R1: Reinforcement Learning for Omnimodal Reasoning via Two-System Collaboration**|Hao Zhong et.al.|[2505.20256](http://arxiv.org/abs/2505.20256)|**[link](https://github.com/aim-uofa/omni-r1)**|
@@ -1135,7 +1138,7 @@ layout: default
 |**2023-12-19**|**Improving Audio-Visual Segmentation with Bidirectional Generation**|Dawei Hao et.al.|[2308.08288](http://arxiv.org/abs/2308.08288)|**[link](https://github.com/opennlplab/avs-bidirectional)**|
 |**2023-08-10**|**Progressive Spatio-temporal Perception for Audio-Visual Question Answering**|Guangyao Li et.al.|[2308.05421](http://arxiv.org/abs/2308.05421)|**[link](https://github.com/gewu-lab/pstp-net)**|
 |**2023-08-01**|**Audio-Visual Segmentation by Exploring Cross-Modal Mutual Semantics**|Chen Liu et.al.|[2307.16620](http://arxiv.org/abs/2307.16620)|null|
-|**2023-07-31**|**Contrastive Conditional Latent Diffusion for Audio-visual Segmentation**|Yuxin Mao et.al.|[2307.16579](http://arxiv.org/abs/2307.16579)|null|
+|**2025-07-01**|**Contrastive Conditional Latent Diffusion for Audio-visual Segmentation**|Yuxin Mao et.al.|[2307.16579](http://arxiv.org/abs/2307.16579)|null|
 |**2023-07-25**|**Audio-aware Query-enhanced Transformer for Audio-Visual Segmentation**|Jinxiang Liu et.al.|[2307.13236](http://arxiv.org/abs/2307.13236)|null|
 |**2023-12-18**|**AVSegFormer: Audio-Visual Segmentation with Transformer**|Shengyi Gao et.al.|[2307.01146](http://arxiv.org/abs/2307.01146)|**[link](https://github.com/vvvb-github/avsegformer)**|
 |**2023-10-07**|**Annotation-free Audio-Visual Segmentation**|Jinxiang Liu et.al.|[2305.11019](http://arxiv.org/abs/2305.11019)|null|
