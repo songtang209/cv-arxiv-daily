@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.07
+## Updated on 2025.07.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RES
@@ -894,7 +894,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-06-05**|**VideoMolmo: Spatio-Temporal Grounding Meets Pointing**|Ghazi Shazan Ahmad et.al.|[2506.05336](http://arxiv.org/abs/2506.05336)|**[link](https://github.com/mbzuai-oryx/videomolmo)**|
+|**2025-07-05**|**VideoMolmo: Spatio-Temporal Grounding Meets Pointing**|Ghazi Shazan Ahmad et.al.|[2506.05336](http://arxiv.org/abs/2506.05336)|**[link](https://github.com/mbzuai-oryx/videomolmo)**|
 |**2025-06-04**|**InterRVOS: Interaction-aware Referring Video Object Segmentation**|Woojeong Jin et.al.|[2506.02356](http://arxiv.org/abs/2506.02356)|null|
 |**2025-05-19**|**Long-RVOS: A Comprehensive Benchmark for Long-term Referring Video Object Segmentation**|Tianming Liang et.al.|[2505.12702](http://arxiv.org/abs/2505.12702)|null|
 |**2025-04-18**|**Few-Shot Referring Video Single- and Multi-Object Segmentation via Cross-Modal Affinity with Instance Sequence Matching**|Heng Liu et.al.|[2504.13710](http://arxiv.org/abs/2504.13710)|**[link](https://github.com/hengliusky/few_shot_rvos)**|
@@ -905,7 +905,7 @@ layout: default
 |**2025-03-05**|**Find First, Track Next: Decoupling Identification and Propagation in Referring Video Object Segmentation**|Suhwan Cho et.al.|[2503.03492](http://arxiv.org/abs/2503.03492)|**[link](https://github.com/suhwan-cho/FindTrack)**|
 |**2025-04-12**|**Text-Promptable Propagation for Referring Medical Image Sequence Segmentation**|Runtian Yuan et.al.|[2502.11093](http://arxiv.org/abs/2502.11093)|null|
 |**2025-06-30**|**ReferDINO: Referring Video Object Segmentation with Visual Grounding Foundations**|Tianming Liang et.al.|[2501.14607](http://arxiv.org/abs/2501.14607)|null|
-|**2025-03-10**|**MPG-SAM 2: Adapting SAM 2 with Mask Priors and Global Context for Referring Video Object Segmentation**|Fu Rong et.al.|[2501.13667](http://arxiv.org/abs/2501.13667)|null|
+|**2025-07-04**|**MPG-SAM 2: Adapting SAM 2 with Mask Priors and Global Context for Referring Video Object Segmentation**|Fu Rong et.al.|[2501.13667](http://arxiv.org/abs/2501.13667)|null|
 |**2025-01-15**|**Multi-Context Temporal Consistent Modeling for Referring Video Object Segmentation**|Sun-Hyuk Choi et.al.|[2501.04939](http://arxiv.org/abs/2501.04939)|**[link](https://github.com/choi58/mtcm)**|
 |**2025-02-13**|**Sa2VA: Marrying SAM2 with LLaVA for Dense Grounded Understanding of Images and Videos**|Haobo Yuan et.al.|[2501.04001](http://arxiv.org/abs/2501.04001)|**[link](https://github.com/magic-research/Sa2VA)**|
 |**2025-03-26**|**Referring Video Object Segmentation via Language-aligned Track Selection**|Seongchan Kim et.al.|[2412.01136](http://arxiv.org/abs/2412.01136)|**[link](https://github.com/cvlab-kaist/SOLA)**|
@@ -6960,6 +6960,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-06**|**DreamPoster: A Unified Framework for Image-Conditioned Generative Poster Design**|Xiwei Hu et.al.|[2507.04218](http://arxiv.org/abs/2507.04218)|null|
 |**2025-06-12**|**PosterCraft: Rethinking High-Quality Aesthetic Poster Generation in a Unified Framework**|SiXiang Chen et.al.|[2506.10741](http://arxiv.org/abs/2506.10741)|null|
 |**2025-06-03**|**Generalized Category Discovery via Reciprocal Learning and Class-Wise Distribution Regularization**|Duo Liu et.al.|[2506.02334](http://arxiv.org/abs/2506.02334)|null|
 |**2025-05-27**|**Paper2Poster: Towards Multimodal Poster Automation from Scientific Papers**|Wei Pang et.al.|[2505.21497](http://arxiv.org/abs/2505.21497)|**[link](https://github.com/paper2poster/paper2poster)**|
