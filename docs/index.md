@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.09
+## Updated on 2025.07.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RES
@@ -6987,6 +6987,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-08**|**Rethinking Layered Graphic Design Generation with a Top-Down Approach**|Jingye Chen et.al.|[2507.05601](http://arxiv.org/abs/2507.05601)|null|
 |**2025-06-12**|**CreatiPoster: Towards Editable and Controllable Multi-Layer Graphic Design Generation**|Zhao Zhang et.al.|[2506.10890](http://arxiv.org/abs/2506.10890)|**[link](https://github.com/graphic-design-ai/creatiposter)**|
 |**2025-05-28**|**CreatiDesign: A Unified Multi-Conditional Diffusion Transformer for Creative Graphic Design**|Hui Zhang et.al.|[2505.19114](http://arxiv.org/abs/2505.19114)|null|
 |**2024-10-11**|**Can GPTs Evaluate Graphic Design Based on Design Principles?**|Daichi Haraguchi et.al.|[2410.08885](http://arxiv.org/abs/2410.08885)|null|
@@ -6997,6 +6998,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-08**|**ReLayout: Integrating Relation Reasoning for Content-aware Layout Generation with Multi-modal Large Language Models**|Jiaxu Tian et.al.|[2507.05568](http://arxiv.org/abs/2507.05568)|null|
 |**2025-06-27**|**CAL-RAG: Retrieval-Augmented Multi-Agent Generation for Content-Aware Layout Design**|Najmeh Forouzandehmehr et.al.|[2506.21934](http://arxiv.org/abs/2506.21934)|null|
 |**2025-06-16**|**EmbodiedGen: Towards a Generative 3D World Engine for Embodied Intelligence**|Xinjie Wang et.al.|[2506.10600](http://arxiv.org/abs/2506.10600)|null|
 |**2025-06-09**|**LLM-driven Indoor Scene Layout Generation via Scaled Human-aligned Data Synthesis and Multi-Stage Preference Optimization**|Yixuan Yang et.al.|[2506.07570](http://arxiv.org/abs/2506.07570)|null|
